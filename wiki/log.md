@@ -1,0 +1,153 @@
+# Wiki Log
+
+Append-only record of all operations.
+
+---
+
+## 2026-04-25 — Initial ingestion (3 sources)
+
+**Sources ingested**:
+1. `raw/The education of Sal Khan and the limits of his chatbot.md`
+2. `raw/Agentivism.pdf`
+3. `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/sal-khan-khanmigo-limits.md` — Summary of Chalkbeat article on Khanmigo's limits
+- `wiki/agentivism.md` — Summary of Yan & Gašević's Agentivism learning theory
+- `wiki/applied-co-intelligence-report.md` — Summary of CTE Futures Applied Co-Intelligence report
+
+*Concept pages*:
+- `wiki/khanmigo.md` — Khan Academy's AI tutoring chatbot
+- `wiki/ai-tutoring.md` — AI tutoring: promise, reality, and conditions for effectiveness
+- `wiki/ai-in-k12-education.md` — Broad overview of AI in K-12 schools
+- `wiki/applied-co-intelligence-model.md` — The ACI pedagogical framework
+- `wiki/ai-mastery-continuum.md` — The four-level AI Mastery Continuum
+- `wiki/co-intelligence.md` — Ethan Mollick's co-intelligence concept
+- `wiki/cte-and-ai.md` — CTE's risks and opportunities in the AI era
+- `wiki/labor-market-polarization.md` — Technology-driven hollowing out of middle-skill work
+- `wiki/transferable-skills.md` — Human competencies that AI cannot replicate
+
+*Infrastructure*:
+- `wiki/index.md` — Table of contents
+- `wiki/log.md` — This file
+
+**Total pages created**: 14
+
+---
+
+## 2026-04-26 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/AI's 'Delusional Spirals' (and What to Do About Them).md`
+2. `raw/Using LLMs To Improve Workplace Social Skills.md`
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/ai-delusional-spirals.md` — Stanford study on AI sycophancy and dangerous escalation spirals
+- `wiki/llms-workplace-social-skills.md` — Stanford RCT on AI practice partners for social skill development
+
+*Concept pages*:
+- `wiki/ai-sycophancy.md` — AI's trained tendency to validate; harm in vulnerable and learning contexts
+- `wiki/ai-and-mental-health.md` — AI as training tool vs. harm amplifier in mental health contexts
+
+**Pages updated**:
+- `wiki/ai-tutoring.md` — Added sections on social skills training (positive case) and delusional spirals (risk)
+- `wiki/agentivism.md` — Added empirical support note to P2 from CARE RCT
+- `wiki/transferable-skills.md` — Added section on AI-assisted development of social transferable skills
+- `wiki/index.md` — Added new source summaries, AI Risks and Safety section, new theme entry
+
+**Total pages created**: 4 | **Total pages updated**: 4
+
+---
+
+## 2026-04-27 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/Can Small Language Models Help K–12 Schools.md`
+2. `raw/SmallLLMs.pdf`
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/small-language-models-k12.md` — EdTech Magazine article on SLMs as a K–12 alternative to LLMs
+- `wiki/small-models-big-support.md` — Academic paper on locally-deployed educator AI support framework
+
+*Concept pages*:
+- `wiki/small-language-models.md` — SLMs: definition, educational case, performance evidence, architectural strategies
+- `wiki/ai-privacy-and-institutional-adoption.md` — Cost, privacy, infrastructure, and policy barriers to equitable AI adoption
+
+**Pages updated**:
+- `wiki/ai-in-k12-education.md` — Added SLMs section as a more viable path for schools
+- `wiki/index.md` — Added new source summaries, Infrastructure and Adoption section, new theme entry
+
+**Total pages created**: 4 | **Total pages updated**: 2
+
+---
+
+## 2026-04-27 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/The Evidence Base on AI in K-12 Report.pdf`
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/evidence-base-ai-k12.md` — Stanford SCALE 2026 systematic review: 818 papers, 20 causal, zero high-quality U.S. K–12 student studies; general-purpose AI harms learning; tutoring-specific design matters; educator AI most consistently positive; expertise reversal equity finding
+
+**Pages updated**:
+- `wiki/ai-tutoring.md` — Added "The Crutch Effect" section with Bastani/Fischer/Kosmyna/Lehmann causal findings; added "AI for Educator Development" section with Tutor CoPilot, Roy et al., Demszky's design distinction; updated sources and Evidence Base citation
+- `wiki/agentivism.md` — Added empirical support notes to P3 (Kosmyna essay recall, Kreijkes notetaking) and P4 (Bastani Turkey study, Fischer 17% drop); added evidence-base-ai-k12 to sources and related pages
+- `wiki/khanmigo.md` — Added "Causal Validation of Khanmigo's Design Philosophy" section: Bastani et al. validates hint-based approach; adoption not design was the failure; updated sources and related pages
+- `wiki/cte-and-ai.md` — Added Lehmann et al. widening-gap finding to Equity Concerns section; updated sources and related pages
+- `wiki/ai-in-k12-education.md` — Updated State of Play with specific report numbers (818/20/0); expanded Evidence Gap section with quantified gaps and longitudinal tension; updated sources and related pages
+- `wiki/index.md` — Added evidence-base-ai-k12 to Source Summaries; added two new Key Themes on AI design and educator AI
+
+**Total pages created**: 1 | **Total pages updated**: 6
+
+---
+
+## 2026-04-27 — Lint audit
+
+**Findings** (7 items):
+1. **Broken link** (fixed): `ai-sycophancy.md` — `[[ai-social-skills-training]]` doesn't exist; corrected to `[[llms-workplace-social-skills|social skills training]]`
+2. **Missing link** (fixed): `sal-khan-khanmigo-limits.md` — Evidence Base section referenced the Stanford overview paper without linking to `[[evidence-base-ai-k12]]`; added link and specific numbers
+3. **Missing links** (fixed): `transferable-skills.md` Related pages — missing `[[llms-workplace-social-skills]]` and `[[ai-sycophancy]]` despite body text discussing both
+4. **Missing link** (fixed): `ai-in-k12-education.md` — "cited in the Sal Khan article" lacked explicit `[[sal-khan-khanmigo-limits]]` link
+5. **Missing link** (fixed): `applied-co-intelligence-report.md` Related pages — missing `[[evidence-base-ai-k12]]`
+6. **No orphans**: All 21 pages have at least 2 inbound links
+7. **Concept gap** (flagged, not yet created): AI pedagogical guardrails — content distributed across `evidence-base-ai-k12` and `ai-tutoring`; candidate for a dedicated concept page if a focused source arrives
+
+**Pages updated**: `ai-sycophancy.md`, `sal-khan-khanmigo-limits.md`, `transferable-skills.md`, `ai-in-k12-education.md`, `applied-co-intelligence-report.md`
+
+---
+
+## 2026-04-28 — Ingestion (3 sources; 1 source skipped)
+
+**Sources attempted**:
+1. `raw/Your Brain on ChatGPT.pdf` — ingested
+2. `raw/Labor market impacts of AI A new measure and early evidence.md` — ingested
+3. `raw/The economics of AI in spring 2026.md` — ingested
+4. `raw/Dept of Labor AI Literacy Framework.md` — **skipped**: file contains only an embedded image URL with no extractable text content; cannot ingest without visual access to the image
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/your-brain-on-chatgpt.md` — MIT Media Lab EEG study (Kosmyna et al., 2025, 54 participants): LLM users show up to 55% reduced directed neural connectivity vs. Brain-only writers; 83% can't quote their own essays in Session 1 (0% correct); AI judge inflates scores vs. human teachers; Session 4 (n=18): LLM-to-Brain participants score below Session 1 Brain-only baseline — cognitive debt confirmed neurologically; Brain-to-LLM participants use AI more strategically and maintain higher connectivity
+- `wiki/anthropic-labor-market-index.md` — Massenkoff & McCrory (Anthropic, March 2026): introduces "observed exposure" metric combining theoretical LLM capability (Eloundou β) with actual Claude usage data; most exposed occupations: Computer Programmers (75%), Customer Service Reps, Data Entry Keyers (67%), Financial Analysts; equity inversion — most exposed workers are older, more educated, higher-paid; no unemployment impact detected; 14% drop in job finding rate for workers aged 22–25 in exposed occupations
+- `wiki/ai-economics-scan-2026.md` — Bryan Alexander horizon scan (April 2026): AI bubble question (IT investment at dot-com-era peak; OpenAI not profitable until 2030); business model divergence (Anthropic subscription vs. OpenAI ads/defense); three labor scenarios still open; Project Iceberg estimates 11.7% of skills susceptible; LinkedIn: 640K AI-related jobs created 2023–2025; Harvard: pronounced junior employment decline, senior employment stable; tech sector layoffs attributed to AI (Microsoft 7%, Meta 10%, Block 40%)
+
+*Concept pages*:
+- `wiki/cognitive-debt.md` — New concept page: definition (Kosmyna et al.), empirical basis (behavioral + EEG), mechanism (6-step failure of internalization), cognitive debt vs. productive AI use (LLM-first vs. Brain-first pathways), relationship to Agentivism (table mapping mechanisms), relationship to crutch effect, implications for education (4 points on AI sequencing), limitations
+
+**Pages updated**:
+- `wiki/agentivism.md` — Added empirical support for P6: Session 4 cognitive debt finding (LLM-to-Brain participants below baseline); added `your-brain-on-chatgpt.pdf` to Sources; added `[[cognitive-debt]]` and `[[your-brain-on-chatgpt]]` to Related pages; updated Last updated
+- `wiki/evidence-base-ai-k12.md` — Deepened Kosmyna et al. citation with EEG mechanism (55% reduced connectivity) and longitudinal cognitive debt finding from full study; added `[[your-brain-on-chatgpt]]` and `[[cognitive-debt]]` links; added both to Related pages; updated Sources and Last updated
+- `wiki/ai-tutoring.md` — Deepened crutch effect section with EEG mechanism: theta/alpha wave suppression bypasses episodic memory consolidation; cognitive debt finding (LLM-to-Brain below baseline); added `[[your-brain-on-chatgpt]]` and `[[cognitive-debt]]` inline and to Related pages; updated Sources and Last updated
+- `wiki/labor-market-polarization.md` — Added "Observed Exposure" section: theory-practice gap (33% vs. 94% theoretical for Computer & Math); equity inversion demographics; no unemployment impact but 14% young worker hiring slowdown; added `[[anthropic-labor-market-index]]` and `[[ai-economics-scan-2026]]` to Related pages; updated Sources and Last updated
+- `wiki/cte-and-ai.md` — Added equity inversion finding (exposed workers are more educated and higher-paid) to Equity Concerns; added junior employment decline signal; added `[[anthropic-labor-market-index]]` and `[[ai-economics-scan-2026]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added 3 new source summaries; added `[[cognitive-debt]]` to Concept Pages (AI and Learning Theory); updated labor-market-polarization description; added 2 new Key Themes (equity inversion, cognitive debt)
+
+**Total pages created**: 4 | **Total pages updated**: 6
