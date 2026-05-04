@@ -19,6 +19,9 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[your-brain-on-chatgpt]]          | MIT Media Lab EEG study: LLM use reduces neural connectivity by up to 55% and produces cognitive debt across sessions  |
 | [[anthropic-labor-market-index]]   | Anthropic 2026: observed exposure metric shows no unemployment impact yet, but 14% hiring slowdown for young workers   |
 | [[ai-economics-scan-2026]]         | Bryan Alexander horizon scan: AI bubble question, business models, labor signals, and Project Iceberg 11.7% estimate   |
+| [[what-will-be-scarce]]            | Alex Imas (UChicago): structural change economics + mimetic desire predict a post-commodity relational economy          |
+| [[ai-job-apocalypse-klein]]        | Ezra Klein (NYT): why mass AI unemployment probably won't happen — and the two concerns the optimists underweight       |
+| [[columbia-cs-ai-disruption]]      | Columbia Spectator: CS enrollment falling, grades restructured, equity in AI access, social isolation emerging          |
 |                                    |                                                                                                                       |
 
 ---
@@ -41,7 +44,8 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 |------|-------------|
 | [[cte-and-ai]] | CTE's dual exposure: risk from polarization and over-technical focus; opportunity from hands-on work and AI infrastructure jobs |
 | [[labor-market-polarization]] | How technology hollows out middle-skill work — and how AI is extending that pressure upward into white-collar roles |
-| [[transferable-skills]] | The human competencies — critical thinking, empathy, communication — that AI cannot replicate |
+| [[transferable-skills]] | The human competencies — critical thinking, empathy, communication — that AI cannot replicate and that command a growing share of economic output |
+| [[relational-economy]] | Post-commodity economy thesis: structural change and mimetic desire predict employment growth in human-essential sectors |
 
 ### Infrastructure and Adoption
 
@@ -80,3 +84,5 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 - **Smaller can be better**: Domain-specific, locally-deployed SLMs may outperform general LLMs for institutional education use cases on cost, privacy, safety, and customization (see [[small-language-models]], [[ai-privacy-and-institutional-adoption]])
 - **The equity inversion**: AI's first wave of labor market disruption is landing on educated, high-paid white-collar workers — not low-skill workers — while young workers face a hiring slowdown rather than mass unemployment (see [[anthropic-labor-market-index]], [[labor-market-polarization]], [[ai-economics-scan-2026]])
 - **AI builds cognitive debt, not capability**: Repeated habitual AI reliance before building independent skills produces measurable neurological harm visible in EEG — the opposite of learning (see [[cognitive-debt]], [[your-brain-on-chatgpt]], [[agentivism]])
+- **The relational economy is the CTE economy**: Structural change economics predicts that AI commodifying cognitive work will shift employment into care, hospitality, education, and artisanal production — the sectors CTE prepares (see [[relational-economy]], [[what-will-be-scarce]], [[cte-and-ai]])
+- **Relational skills are becoming scarce at the moment they matter most**: Young people are spending less time with each other; AI may accelerate social withdrawal at the same moment human connection becomes economically central (see [[ai-job-apocalypse-klein]], [[cognitive-debt]], [[transferable-skills]])

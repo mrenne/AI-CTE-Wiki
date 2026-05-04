@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
 
-**Last updated**: 2026-04-25
+**Last updated**: 2026-05-04
 
 ---
 
@@ -56,6 +56,16 @@ The key caveat: this requires deliberate counter-design against [[ai-sycophancy]
 
 This is practically significant for CTE Healthcare & Human Services programs: AI-assisted social skills practice could scale access to training that currently requires expensive human role-play and supervision.
 
+## Economic Valuation: The Relational Economy Argument
+
+Until recently, the case for transferable skills rested on two foundations: the claim that AI can't replicate them, and the claim that employers say they matter. The [[relational-economy]] thesis (Imas, 2026; [[what-will-be-scarce]]) provides a third, more structural foundation: **structural change economics predicts that relational skills will command a growing share of total economic output**.
+
+The argument: as AI makes cognitive commodity production cheap, rising real incomes shift spending toward goods and services with high income elasticity. Mimetic desire (Girard) gives relational goods — where human judgment, attention, warmth, and presence are part of the value — the highest income elasticity of all. The sectors that absorb employment as commoditization advances are precisely the sectors built on the capabilities transferable skills develop: empathy (healthcare, counseling, teaching), communication (hospitality, sales, community building), collaboration (construction, project-based trades), and ethical reasoning (all professional contexts where AI outputs require human verification).
+
+This moves the transferable skills case from "important for resilience" to "economically central to the growing sector." The Starbucks reversal — more baristas, ceramic cups, handwritten notes, because "small details and hospitality drive satisfaction" — is a concrete illustration at scale. (source: What will be scarce_.md)
+
+Ezra Klein adds a warning: these skills are deteriorating among young people precisely as they become more economically valuable — time with friends fell from ~12 hours/week in 2003 to ~5 hours/week in 2024 ([[ai-job-apocalypse-klein]]). Programs that deliberately develop relational capacity — through in-person collaboration, service learning, mentorship — are building the skill that will be most scarce.
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -69,3 +79,6 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[cte-and-ai]]
 - [[llms-workplace-social-skills]]
 - [[ai-sycophancy]]
+- [[relational-economy]]
+- [[what-will-be-scarce]]
+- [[ai-job-apocalypse-klein]]

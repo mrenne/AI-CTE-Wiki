@@ -2,9 +2,9 @@
 
 **Summary**: An overview of how generative AI is — and isn't — reshaping K-12 schools, with a focus on tutoring, academic integrity, teacher roles, and the early evidence base.
 
-**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`
+**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`
 
-**Last updated**: 2026-04-27
+**Last updated**: 2026-05-04
 
 ---
 
@@ -57,6 +57,20 @@ The [[small-language-models-k12]] article notes that only 6% of K-12 educators s
 
 This is significant for addressing [[ai-privacy-and-institutional-adoption]] barriers: cost, privacy, and infrastructure constraints that currently make AI inaccessible to many under-resourced districts.
 
+## Higher Education as a Leading Indicator
+
+The [[columbia-cs-ai-disruption]] investigation (Columbia Spectator, May 2026) provides on-the-ground evidence of what AI disruption looks like inside a competitive CS program — and signals dynamics likely to cascade into K-12:
+
+**Enrollment**: Total CS majors at Columbia fell 4.5% in 2024-25 even as some schools grew. Faculty report students still taking CS classes but majoring in other fields, treating technical skills as a cross-disciplinary baseline rather than a major. CS had the 5th highest unemployment rate among majors (7%) per the NY Fed in 2024. (source: Columbia CS article)
+
+**Assessment restructuring**: Homework once accounted for 60-70% of CS grades; that balance has flipped, with exams and quizzes now the majority. Faculty are exploring computerized testing facilities to authenticate work. Students push back: exam-heavy grading doesn't reflect how CS is actually practiced. (source: Columbia CS article)
+
+**Actual AI use**: Student surveys show 60-70% of AI users use it to have concepts explained, clarify instructions, generate test cases, or create practice problems — tutoring-like use, not wholesale homework submission. This complicates the dominant narrative. (source: Columbia CS article)
+
+**A new equity dimension**: Students who arrive with K-12 AI literacy (prompt engineering, context engineering) are better positioned than those whose schools had no AI instruction. "To be born where you were is influencing your ability to get access to these spaces." Faculty also worry about paid vs. free AI tier access ($100+/month for premium tools). This turns K-12 AI policy gaps directly into college-entry inequities. (source: Columbia CS article)
+
+**Social isolation**: Students increasingly ask AI the questions they would previously have directed to peers or TAs. Office hours attendance has dropped to near-zero for some students. A historically collaborative discipline is becoming more individually practiced — with unknown long-term consequences for the collaborative competencies employers value. (source: Columbia CS article)
+
 ## Implications for CTE
 
 The [[applied-co-intelligence-report]] argues that AI's potential for positive impact is greater in CTE than in general K-12 education, precisely because CTE is oriented toward tangible skill development with clear industry benchmarks. The [[applied-co-intelligence-model]] offers a more structured approach than simple AI integration: a developmental continuum that progresses learners from passive literacy to expert-level mastery within an occupational context.
@@ -69,3 +83,5 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[cte-and-ai]]
 - [[agentivism]]
 - [[evidence-base-ai-k12]]
+- [[columbia-cs-ai-disruption]]
+- [[relational-economy]]

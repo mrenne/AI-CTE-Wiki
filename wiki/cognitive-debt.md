@@ -2,9 +2,9 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/Your Brain on ChatGPT.pdf`
+**Sources**: `raw/Your Brain on ChatGPT.pdf`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
 
-**Last updated**: 2026-04-28
+**Last updated**: 2026-05-04
 
 ---
 
@@ -99,6 +99,21 @@ The cognitive debt concept has direct implications for how AI should be sequence
 
 4. **The AI Mastery Continuum's sequencing** — Literacy → Fluency → Agency → Mastery — implies a progression that could mitigate cognitive debt if learners are required to demonstrate competence before advancing. Requiring reconstructive internalization (see [[agentivism]]) at each level prevents the passive consumption that drives debt accumulation.
 
+## Relational Debt: An Extension
+
+Ezra Klein ([[ai-job-apocalypse-klein]]) raises a parallel concern that extends cognitive debt into the social domain: **relational skills may be deteriorating at the same moment they become most economically valuable**.
+
+Data on young people's social engagement (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+- Time with friends: ~12 hours/week in 2003 → ~5 hours/week in 2024
+- High school seniors who have been on a date: 80% in 2000 → 46% in 2024
+- Gen Z reporting no sex in the past year: ~25%
+
+The cognitive debt concern — that AI use before building independent capability leaves learners below baseline — may have a relational analogue: AI offering frictionless digital simulacra of connection may reduce tolerance for the friction and vulnerability of genuine human relationship, degrading the capacity for deep human contact.
+
+The [[columbia-cs-ai-disruption]] article documents a live instance: CS students at Columbia report increasing social isolation as they direct to AI the questions they would previously have asked peers or TAs. Office hours attendance has dropped to near-zero for some students. Computer science has traditionally been a collaborative discipline (code reviews, pull requests, pair programming); AI makes individual work easier, potentially degrading collaborative capacity in the process.
+
+The [[relational-economy]] thesis makes this concern economically precise: the sector that absorbs employment as AI commodifies cognitive work is the relational sector, where the human element is the product. Cognitive debt impairs independent cognitive capability; relational debt may impair the capacity for the human presence that the relational economy requires.
+
 ## Limitations of the Concept
 
 The Kosmyna study that grounds this concept is a preprint with a small sample (54 participants), conducted in a single city, using ChatGPT for a single task type (essay writing). Cognitive debt as a formal concept requires:
@@ -118,3 +133,6 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[ai-in-k12-education]]
 - [[transferable-skills]]
 - [[ai-mastery-continuum]]
+- [[relational-economy]]
+- [[ai-job-apocalypse-klein]]
+- [[columbia-cs-ai-disruption]]

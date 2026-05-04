@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
 
-**Last updated**: 2026-04-28
+**Last updated**: 2026-05-04
 
 ---
 
@@ -38,6 +38,15 @@ The [[evidence-base-ai-k12]] report adds a direct causal finding: Lehmann et al.
 
 ### White-Collar Vulnerability
 Generative AI disproportionately affects cognitive, office-based work. Indeed Hiring Lab analyses suggest AI could perform ~70% of management tasks at "good or excellent" level. CTE learners trained in technical, tactile, and human-centered professions may face fewer short-term disruptions than knowledge workers.
+
+### The Relational Economy Reframe
+The [[relational-economy]] thesis (Imas, 2026; [[what-will-be-scarce]]) offers an affirmative, not just defensive, case for CTE pathways. When AI commodifies cognitive production, rising real incomes shift demand toward goods and services where human involvement *is* the value — the relational sector: care, hospitality, artisanal production, education, personal services, coaching, and community. These are largely CTE pipelines.
+
+The structural change argument (Comin et al., *Econometrica* 2021) finds that income effects account for over 75% of historical patterns of employment reallocation — people don't just buy the cheaper commodity; they shift toward what they most want as they get richer. Mimetic preferences (people valuing goods partly because others want them and can't have them) give relational goods especially high income elasticity.
+
+This reframes CTE's position in the economy: not as training for jobs "safe" from automation because they're hard to mechanize, but as preparation for the sector that grows precisely because human presence and judgment are part of the product. A nurse, a skilled tradesperson building AI data center infrastructure, a chef whose personal story is part of the dining experience, a teacher who knows her students — these are not automation survivors. They are workers in the sector that expands as cognitive commodities get cheap.
+
+The Starbucks case illustrates this at scale: after years of reducing barista headcount and automating coffee production, CEO Brian Niccol reversed course, hiring more baristas per store. "Small details and hospitality drive satisfaction" — the human experience was the product. (source: What will be scarce_.md)
 
 ### Institutional Agility
 Unlike 4-year institutions with rigid curricular governance, CTE programs are built to adapt quickly: industry advisory boards, employer-aligned pathways, and direct occupational focus allow faster curriculum updates in response to workforce changes.
@@ -78,3 +87,5 @@ The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-mo
 - [[evidence-base-ai-k12]]
 - [[anthropic-labor-market-index]]
 - [[ai-economics-scan-2026]]
+- [[relational-economy]]
+- [[what-will-be-scarce]]

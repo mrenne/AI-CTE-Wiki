@@ -151,3 +151,32 @@ Append-only record of all operations.
 - `wiki/index.md` — Added 3 new source summaries; added `[[cognitive-debt]]` to Concept Pages (AI and Learning Theory); updated labor-market-polarization description; added 2 new Key Themes (equity inversion, cognitive debt)
 
 **Total pages created**: 4 | **Total pages updated**: 6
+
+---
+
+## 2026-05-04 — Ingestion (3 sources)
+
+**Sources ingested**:
+1. `raw/What will be scarce_.md` — Alex Imas (UChicago Booth), Substack, April 13, 2026
+2. `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md` — Ezra Klein, NYT Opinion, May 3, 2026
+3. `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md` — Columbia Spectator, May 3, 2026
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/what-will-be-scarce.md` — Imas essay: structural change economics (income effects 75% of reallocation); relational sector thesis (care, hospitality, artisanal production, education as high-income-elasticity sectors); mimetic desire as behavioral foundation (Girard; WTP doubles with exclusion; AI involvement halves exclusivity premium); Baumol's cost disease as feature; Starbucks case study; caveats on developing world and labor share
+- `wiki/ai-job-apocalypse-klein.md` — Klein NYT synthesis: 70% of Americans expect AI job losses vs. 4.3% unemployment in March 2026; relational economy summary (Imas); Jevons Paradox (accountants quadrupled after VisiCalc); Klein's personal observation (better AI → more human collaboration); two underweighted concerns: partial displacement is politically harder to address than mass unemployment; relational skills deteriorating (12 hrs/week with friends 2003 → 5 hrs/week 2024; dating rates falling)
+- `wiki/columbia-cs-ai-disruption.md` — Columbia Spectator investigation: total CS majors fell 4.5% in 2024-25; CS has 5th highest unemployment rate (7%) per NY Fed; "code monkey jobs" at risk; actual AI use is 60-70% tutoring-like (concepts, clarification, practice); assessment restructured (homework → exams now majority); Columbia SEAS curriculum redesign around "read, verify, and reason about code"; new AI minor for non-CS majors; social isolation from AI replacing peer-to-peer questions; K-12 AI literacy as new pre-college equity gap
+
+*Concept pages*:
+- `wiki/relational-economy.md` — New concept page synthesizing Imas and Klein: structural change framework (farm → factory → services → relational sector); mimetic desire behavioral foundation (Girard; experimental evidence WTP doubles with exclusion, AI halves exclusivity premium); Baumol's cost disease as feature not bug; Jevons Paradox; formal prediction (automated sectors shrink as GDP share; relational sectors grow); counterargument on relational skills atrophy (Klein's social data); implications for CTE (CTE pathways are largely relational sector pathways); caveats (developing world; labor aggregate share may still fall)
+
+**Pages updated**:
+- `wiki/labor-market-polarization.md` — Added "Relational Economy Counter-Thesis" section: structural change mechanism, Jevons Paradox, how relational economy reframes polarization endpoint; added Imas and Klein to Sources; added `[[relational-economy]]`, `[[what-will-be-scarce]]`, `[[ai-job-apocalypse-klein]]` to Related pages; updated Last updated
+- `wiki/cte-and-ai.md` — Added "Relational Economy Reframe" to Opportunity Landscape: affirmative (not just defensive) case that CTE pathways are the relational sector; Starbucks case study; income elasticity argument; added Imas and Klein to Sources; added `[[relational-economy]]`, `[[what-will-be-scarce]]` to Related pages; updated Last updated
+- `wiki/transferable-skills.md` — Added "Economic Valuation: The Relational Economy Argument" section: structural change grounds transferable skills in labor market theory not just employer surveys; Klein's warning on relational skills atrophy; added Imas and Klein to Sources; added three new Related pages; updated Last updated
+- `wiki/cognitive-debt.md` — Added "Relational Debt: An Extension" section: Klein's social isolation data (12 hrs/week → 5 hrs/week with friends); Columbia CS office hours collapse; relational analogue to cognitive debt; relational economy connection; added Klein to Sources; added `[[relational-economy]]`, `[[ai-job-apocalypse-klein]]`, `[[columbia-cs-ai-disruption]]` to Related pages; updated Last updated
+- `wiki/ai-in-k12-education.md` — Added "Higher Education as a Leading Indicator" section: Columbia CS enrollment data (4.5% decline, 7% unemployment rate); assessment restructuring; actual AI use patterns (60-70% tutoring-like); K-12 AI literacy as new equity gap; social isolation; added Columbia source; added `[[columbia-cs-ai-disruption]]`, `[[relational-economy]]` to Related pages; updated Last updated
+- `wiki/index.md` — Added 3 new source summaries; added `[[relational-economy]]` to CTE and Workforce Concept Pages; updated transferable-skills description; added 3 new Key Themes (relational economy is CTE economy; relational skills becoming scarce)
+
+**Total pages created**: 4 | **Total pages updated**: 6

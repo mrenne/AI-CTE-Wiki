@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
 
-**Last updated**: 2026-04-28
+**Last updated**: 2026-05-04
 
 ---
 
@@ -73,6 +73,16 @@ This is the **equity inversion**: AI's first wave of labor market impact is land
 
 The mechanism: experienced workers with accumulated expertise and institutional position are not being displaced, but entry-level positions — where young workers and recent graduates would enter — are being created more slowly. AI is substituting for the marginal new hire rather than displacing existing employees.
 
+## The Relational Economy Counter-Thesis
+
+[[Relational-economy|The relational economy thesis]] (Imas, 2026; [[what-will-be-scarce]]) challenges the polarization framework's assumption that AI pressure simply moves up the skill ladder. The structural change argument holds that when AI makes cognitive commodity production cheap, rising incomes shift demand toward a **relational sector** — goods and services where human involvement is inseparable from the value (care, hospitality, artisanal production, education, therapy).
+
+Historical evidence (Comin, Lashkari & Mestieri, *Econometrica* 2021): income effects account for over 75% of observed patterns of structural change across countries. When technology makes a sector cheap, the sector shrinks as a share of GDP and employment, while spending and employment shift toward higher-income-elasticity sectors. Applied to AI: commodity cognitive work shrinks; relational work grows.
+
+The **Jevons Paradox** provides a parallel mechanism (Klein, [[ai-job-apocalypse-klein]]): accountants quadrupled after VisiCalc was supposed to eliminate them, because spreadsheets released latent demand for financial intelligence that previously couldn't be met at affordable cost. AI may do the same in domains where demand was previously suppressed by the cost of human expertise.
+
+The relational economy thesis does not refute polarization — it predicts a different endpoint. Polarization has hollowed out the middle. The relational economy thesis predicts the next phase hollows out commodity cognitive work (currently concentrated among educated white-collar workers) while the sectors that grow are precisely those CTE prepares: healthcare, hospitality, early childhood education, skilled trades, personal services.
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -87,3 +97,6 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[applied-co-intelligence-model]]
 - [[anthropic-labor-market-index]]
 - [[ai-economics-scan-2026]]
+- [[relational-economy]]
+- [[what-will-be-scarce]]
+- [[ai-job-apocalypse-klein]]
