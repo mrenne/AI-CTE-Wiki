@@ -180,3 +180,23 @@ Append-only record of all operations.
 - `wiki/index.md` — Added 3 new source summaries; added `[[relational-economy]]` to CTE and Workforce Concept Pages; updated transferable-skills description; added 3 new Key Themes (relational economy is CTE economy; relational skills becoming scarce)
 
 **Total pages created**: 4 | **Total pages updated**: 6
+
+---
+
+## 2026-05-12 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md` — Liu, Mbowe, Tahri & Aziku, *Computers in Human Behavior Reports*, 2026
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/ai-agents-k12-meta-analysis.md` — Liu et al. (2026) meta-analysis: 34 studies, 73 effect sizes, 3,042 participants; overall g = 0.404 (moderate, significant); by cognitive category: skills-based g=0.391, knowledge g=0.344, higher-order g=0.540 (non-significant); by grade level (key moderator, p=0.005): upper-primary g=0.877, lower-secondary g=0.195, high school g=0.037 (non-significant); by discipline: language/literacy g=0.830, arts g=0.755, math/tech g=0.230, natural science g=−0.065 (non-significant); AI type not a significant moderator; high heterogeneity (I²=91.2%); 67.65% of studies from Asia; reconciliation with evidence-base-ai-k12: designed interventions vs. general-purpose chatbots
+
+**Pages updated**:
+- `wiki/evidence-base-ai-k12.md` — Added "A Broader Meta-Analytic View" section reconciling Liu et al. with Stanford findings: designed vs. general-purpose AI distinction; grade-level and subject breakdowns; added to Sources and Related pages; updated Last updated
+- `wiki/ai-tutoring.md` — Added "What Designed AI Interventions Can Achieve" section: high school near-zero finding, language/literacy strength, natural science negative, AI type non-significant; added to Sources and Related pages; updated Last updated
+- `wiki/cte-and-ai.md` — Added "Evidence on AI Effectiveness at the CTE Level" section: high school g=0.037 directly challenges assumptions about AI in CTE programs; added to Sources and Related pages; updated Last updated
+- `wiki/index.md` — Added source summary entry; added new Key Theme on high school AI tutoring evidence
+
+**Total pages created**: 1 | **Total pages updated**: 4

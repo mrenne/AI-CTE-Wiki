@@ -22,6 +22,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[what-will-be-scarce]]            | Alex Imas (UChicago): structural change economics + mimetic desire predict a post-commodity relational economy          |
 | [[ai-job-apocalypse-klein]]        | Ezra Klein (NYT): why mass AI unemployment probably won't happen — and the two concerns the optimists underweight       |
 | [[columbia-cs-ai-disruption]]      | Columbia Spectator: CS enrollment falling, grades restructured, equity in AI access, social isolation emerging          |
+| [[ai-agents-k12-meta-analysis]]    | Liu et al. 2026 meta-analysis: g=0.404 overall; near-zero effects at high school; language/literacy strongest subject  |
 |                                    |                                                                                                                       |
 
 ---
@@ -86,3 +87,4 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 - **AI builds cognitive debt, not capability**: Repeated habitual AI reliance before building independent skills produces measurable neurological harm visible in EEG — the opposite of learning (see [[cognitive-debt]], [[your-brain-on-chatgpt]], [[agentivism]])
 - **The relational economy is the CTE economy**: Structural change economics predicts that AI commodifying cognitive work will shift employment into care, hospitality, education, and artisanal production — the sectors CTE prepares (see [[relational-economy]], [[what-will-be-scarce]], [[cte-and-ai]])
 - **Relational skills are becoming scarce at the moment they matter most**: Young people are spending less time with each other; AI may accelerate social withdrawal at the same moment human connection becomes economically central (see [[ai-job-apocalypse-klein]], [[cognitive-debt]], [[transferable-skills]])
+- **AI tutoring barely works for high school students**: Meta-analytic evidence (34 studies) shows near-zero cognitive benefit of AI interventions for students in grades 10–12 — the core CTE population — while upper-primary students benefit substantially (see [[ai-agents-k12-meta-analysis]], [[cte-and-ai]])

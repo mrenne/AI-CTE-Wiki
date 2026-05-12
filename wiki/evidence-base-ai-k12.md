@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 systematic review by Stanford SCALE of 818 papers on AI in K–12 education — only 20 meet the bar for strong causal evidence, and zero are high-quality causal studies of student learning in U.S. K–12 settings.
 
-**Sources**: `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`
+**Sources**: `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
 
-**Last updated**: 2026-04-28
+**Last updated**: 2026-05-12
 
 ---
 
@@ -106,6 +106,23 @@ The report is candid about its limits:
 
 The report closes with its central question: not just *whether* AI tools work on average, but *when, how, and for whom* they matter most.
 
+## A Broader Meta-Analytic View: Designed AI Interventions
+
+The Stanford SCALE report focuses on high-quality causal evidence in U.S. K–12 contexts and finds predominantly sobering results for student-facing AI. A complementary picture comes from the [[ai-agents-k12-meta-analysis]] (Liu et al., 2026), which synthesizes 34 experimental studies and 73 effect sizes across broader international contexts.
+
+Liu et al. find a **moderate positive overall effect** (g = 0.404, p < 0.001) for AI agents vs. conventional instruction on student cognitive outcomes. The two bodies of evidence are compatible rather than contradictory, because they measure different things:
+
+- The Stanford report focuses on **general-purpose chatbots** (ChatGPT-style) used without scaffolding → harms learning
+- Liu et al. include **intentionally designed AI educational interventions** (ITS, adaptive systems, structured conversational agents) → moderate benefits on average
+
+Design remains the decisive variable. What Liu et al. add that Stanford does not address:
+
+- **Grade level matters sharply**: upper-primary students (grades 4–6) show the largest effects (g = 0.877); **high school students show near-zero, non-significant effects** (g = 0.037). This has direct implications for CTE (which primarily serves high school students).
+- **Subject matters**: language/literacy benefits strongly (g = 0.830); natural science shows a non-significant negative effect (g = −0.065) — AI agents don't support open-ended scientific inquiry
+- **49% of individual effect sizes are negligible or negative** despite the positive average — context matters far more than any pooled number suggests
+
+(source: Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md)
+
 ## Relationship to This Wiki
 
 This report is the most comprehensive causal evidence base for claims made across multiple pages:
@@ -128,3 +145,4 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[ai-delusional-spirals]]
 - [[your-brain-on-chatgpt]]
 - [[cognitive-debt]]
+- [[ai-agents-k12-meta-analysis]]

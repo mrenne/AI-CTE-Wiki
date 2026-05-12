@@ -2,9 +2,9 @@
 
 **Summary**: The use of AI systems to provide personalized, interactive instruction to students — an approach that has shown limited real-world adoption despite technical promise, and which raises fundamental questions about whether AI-assisted interaction constitutes genuine learning.
 
-**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`
+**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
 
-**Last updated**: 2026-04-28
+**Last updated**: 2026-05-12
 
 ---
 
@@ -54,6 +54,31 @@ The [[evidence-base-ai-k12]] report provides the first systematic causal evidenc
 **The Socratic chatbot paradox**: Two studies examined Socratic AI chatbots (which ask probing questions rather than providing answers). Students rated them as *less helpful* than direct-answer chatbots while showing better outcomes for critical and reflective thinking. Students' stated preferences reliably diverge from their learning interests — they prefer the experience that teaches them less.
 
 **Dr. Bastani's key question**: "Students keep bypassing heuristic guardrails — can we build a 'science of guardrails' to understand what works in education?" (source: The Evidence Base on AI in K-12 Report.pdf)
+
+## What Designed AI Interventions Can Achieve: The Meta-Analytic View
+
+The [[ai-agents-k12-meta-analysis]] (Liu et al., 2026) provides the broadest quantitative synthesis of AI educational interventions in K-12 — 34 studies, 73 effect sizes, 3,042 participants — and offers a more optimistic picture than the causal evidence on general-purpose chatbots, with an important caveat: it measures intentionally designed interventions, not ChatGPT-style tools.
+
+**Overall**: g = 0.404 (moderate positive effect, p < 0.001). Designed AI educational interventions outperform conventional instruction on cognitive outcomes on average.
+
+**But grade level is the decisive moderator** (p = 0.005):
+- **Upper-primary (grades 4–6): g = 0.877** — the most AI-responsive developmental window; students are transitioning to abstract reasoning and benefit most from adaptive scaffolding and feedback
+- **Lower-secondary (grades 7–9): g = 0.195** — small but significant
+- **Upper-secondary/High school (grades 10–12): g = 0.037** — **near-zero and non-significant**
+
+High school students, including the core CTE population, show essentially no cognitive benefit from AI educational interventions in this dataset. The procedural scaffolding that makes AI effective for younger students may not match what older students need. Self-regulated learning approaches — where students direct their own learning rather than receiving AI-guided steps — may be more appropriate at this level. (source: Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md)
+
+**Subject also matters significantly** (p = 0.006):
+- Language and literacy: g = 0.830 — the strongest domain; AI interactive dialogue and corrective feedback are well-matched to vocabulary, fluency, and writing skill development
+- Arts and creativity: g = 0.755 — significant
+- Mathematics and technology: g = 0.230 — modest but significant
+- **Natural science: g = −0.065 — negative and non-significant**
+
+AI agents do not support authentic scientific inquiry. Natural science learning requires hypothesis testing, open-ended exploration, and experimentation — modes that AI's procedural scaffolding may actively constrain rather than enable.
+
+**AI type is NOT a significant moderator** (p = 0.793): all four types (ITS, robots, conversational AI, GenAI) show positive significant effects with similar magnitudes. What matters is design and context, not the specific AI architecture.
+
+The reconciliation with the causal evidence on harms: designed AI interventions in structured settings produce moderate cognitive benefits; general-purpose AI used without scaffolding harms independent learning. Both are true. Design remains the decisive variable.
 
 ## AI for Educator Development
 
@@ -108,3 +133,4 @@ The difference between beneficial and harmful AI interaction in these contexts a
 - [[evidence-base-ai-k12]]
 - [[your-brain-on-chatgpt]]
 - [[cognitive-debt]]
+- [[ai-agents-k12-meta-analysis]]

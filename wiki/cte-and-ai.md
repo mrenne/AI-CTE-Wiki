@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-05-12
 
 ---
 
@@ -65,6 +65,14 @@ Using the AI Occupational Exposure Index (AIOE):
 - **Lower current exposure**: Agriculture, Construction, Supply Chain & Transportation, Hospitality (though changing rapidly)
 - Exposure generally increases with the education level required for entry into a cluster's occupations
 
+## Evidence on AI Effectiveness at the CTE Level
+
+A critical finding from the [[ai-agents-k12-meta-analysis]] (Liu et al., 2026) concerns grade level: in a meta-analysis of 34 experimental studies, **high school students (grades 10–12) show near-zero, non-significant cognitive benefits** from AI educational interventions (g = 0.037, p > 0.05), while upper-primary students (grades 4–6) show large effects (g = 0.877). (source: Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md)
+
+CTE primarily serves students in grades 9–14 — exactly the age range where existing AI educational interventions show the weakest cognitive impact. This does not mean AI has no role in CTE; it means the designs that work for younger learners (adaptive scaffolding, step-by-step guidance, procedural feedback) may be insufficient or inappropriate at the CTE level. Self-regulated approaches — where students direct their own AI use rather than receiving AI-guided instruction — may be more effective for high school and post-secondary students.
+
+Subject-level findings also matter for CTE: language/literacy (g = 0.830) and skills-based learning (g = 0.391) show the strongest effects; natural science (g = −0.065) shows no benefit. CTE programs with strong science content (healthcare, agriculture, environmental tech) should be particularly cautious about claims that AI interventions improve cognitive outcomes.
+
 ## The Applied Co-Intelligence Response
 
 The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-model]] as the framework for preparing CTE learners: integrating AI Mastery (via the [[ai-mastery-continuum]]) with Technical and Transferable Skills within occupational contexts. Key implementation challenges include the alignment crisis between educators and industry, the human capital gap among faculty, structural policy patchworks, and a near-total absence of longitudinal evidence.
@@ -89,3 +97,4 @@ The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-mo
 - [[ai-economics-scan-2026]]
 - [[relational-economy]]
 - [[what-will-be-scarce]]
+- [[ai-agents-k12-meta-analysis]]
