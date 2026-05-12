@@ -200,3 +200,27 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary entry; added new Key Theme on high school AI tutoring evidence
 
 **Total pages created**: 1 | **Total pages updated**: 4
+
+---
+
+## 2026-05-12 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/Apocalypse No.md` — Scott Galloway (profgmedia.com), May 8, 2026
+2. `raw/The Illusion of Understanding.pdf` — Abdelghani, Murayama, Kidd, Sauzéon, Oudeyer; Hector Research Institute / UC Berkeley / Inria Bordeaux; arXiv:2505.01106v2, March 3, 2026
+
+**Pages created**:
+
+*Source summaries and concept pages*:
+- `wiki/apocalypse-no-galloway.md` — Galloway arguing AI job apocalypse is marketing strategy; US tech employment 8.7M→9.6M (2020–2023), flat since; layoff anatomy (Oracle trading people for chips, Meta returning to 2021 headcount, Microsoft still 47% larger than pre-pandemic, xAI grew to 5K employees); three scenarios (bubble, Jevons/creative destruction, permanent underclass); Shiller narrative economics (fear stories can become self-fulfilling); Gini >0.8 as the real inequality risk; companion piece to Klein's [[ai-job-apocalypse-klein]]
+- `wiki/illusion-of-understanding.md` — Abdelghani et al. (2026): N=63 French middle-schoolers (age 14–15), six science tasks with ChatGPT; prompt discrimination at chance level (d'=0.19, p=0.08); answer evaluation at chance level (d'=0.07, p=0.65); 71.4% of low-quality answers rated "useful"; only 14 students asked any follow-up; task success M=0.51 (chance); positive AI attitudes negatively predict quality (β=−0.39); metacognition protective (r=0.30); domain knowledge not protective; two recommendations: pedagogical friction, LLM pedagogical alignment; related to but distinct from [[cognitive-debt]]
+
+**Pages updated**:
+- `wiki/ai-job-apocalypse-klein.md` — Added "Companion Piece: Galloway's Labor Data" section; added `[[apocalypse-no-galloway]]` to Related pages; updated Last updated
+- `wiki/agentivism.md` — Added Abdelghani et al. empirical evidence to P2 (epistemic monitoring absent; chance-level discrimination; only 14/63 follow-up questions; "illusion of understanding" coinage); updated Sources and Related pages; updated Last updated
+- `wiki/evidence-base-ai-k12.md` — Added Illusion of Understanding to Key Finding 2 section (Socratic chatbot paradox context); updated Sources and Related pages; updated Last updated
+- `wiki/cognitive-debt.md` — Added "The Illusion of Understanding: A Metacognitive Cousin" section: within-session vs. longitudinal accumulation distinction; positive AI attitudes as risk factor for debt accumulation; updated Sources and Related pages; updated Last updated
+- `wiki/ai-in-k12-education.md` — Added Abdelghani et al. finding to Evidence Gap section; updated Sources and Related pages; updated Last updated
+- `wiki/index.md` — Added 2 new source summaries; added `[[illusion-of-understanding]]` to AI Risks and Safety concept pages; added new Key Theme on illusion of understanding; added `[[apocalypse-no-galloway]]` to source summaries; updated Last updated
+
+**Total pages created**: 2 | **Total pages updated**: 6

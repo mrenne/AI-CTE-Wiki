@@ -2,7 +2,7 @@
 
 **Summary**: A 2026 systematic review by Stanford SCALE of 818 papers on AI in K–12 education — only 20 meet the bar for strong causal evidence, and zero are high-quality causal studies of student learning in U.S. K–12 settings.
 
-**Sources**: `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
+**Sources**: `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/The Illusion of Understanding.pdf`
 
 **Last updated**: 2026-05-12
 
@@ -52,6 +52,8 @@ The Bastani et al. Turkey study directly compared tutoring-specific AI (hints, g
 This validates a core design principle: AI that withholds direct answers and guides students toward reasoning — as [[khanmigo]] was designed to do — is more educationally sound than AI that provides complete solutions. The problem with Khanmigo was adoption, not design philosophy.
 
 **Socratic chatbots: students prefer what harms them.** Two studies examined Socratic AI chatbots (which ask guiding questions rather than providing answers). Students rated them as *less helpful* than direct-answer chatbots, despite evidence of better critical thinking outcomes. One study found students preferred Socratic chatbots to general-purpose chatbots for reflective thinking (Degen et al., 2025). The pattern: students' stated preferences diverge from their learning interests.
+
+**The illusion of understanding** (Abdelghani et al., 2026): In a study of 63 French middle-schoolers (ages 14–15) completing science tasks with ChatGPT, students demonstrated prompt quality discrimination and answer quality evaluation both at chance level — d' = 0.19 (p = 0.08) and d' = 0.07 (p = 0.65), respectively (source: The Illusion of Understanding.pdf). Students rated 71.4% of expert-assessed *low-quality* answers as "useful." Only 14 of 63 students asked any follow-up question. Average task success rate was M = 0.51, effectively at chance. The study coins the mechanism the "[[illusion-of-understanding]]": AI fluency is indistinguishable from expertise to this population, suppressing the mismatch signals that would otherwise trigger self-correction. Crucially: **positive AI attitudes negatively predicted interaction quality** (β = −0.39, p = 0.015), while metacognitive regulation was the key protective factor (r = 0.30, p = 0.022). This has direct implications for the Socratic chatbot paradox: the design that *feels most helpful* most reliably produces the illusion of understanding.
 
 **Reading comprehension**: High-school students found AI use more enjoyable than traditional methods but showed better retention when AI was *complemented* by traditional strategies like note-taking, not used alone (Kreijkes et al., 2026).
 
@@ -146,3 +148,4 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[your-brain-on-chatgpt]]
 - [[cognitive-debt]]
 - [[ai-agents-k12-meta-analysis]]
+- [[illusion-of-understanding]]

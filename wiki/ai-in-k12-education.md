@@ -2,7 +2,7 @@
 
 **Summary**: An overview of how generative AI is — and isn't — reshaping K-12 schools, with a focus on tutoring, academic integrity, teacher roles, and the early evidence base.
 
-**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`
+**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`, `raw/The Illusion of Understanding.pdf`, `raw/Apocalypse No.md`
 
 **Last updated**: 2026-05-04
 
@@ -29,6 +29,8 @@ The [[evidence-base-ai-k12]] report and the [[applied-co-intelligence-report]] b
 - Studies compare "AI access" vs. "no AI access" — leaving open how *design choices* shape outcomes
 - No research exists on developing student or teacher AI literacy
 - Equity effects are largely unstudied; one study found AI widened achievement gaps for low-prior-knowledge students (Lehmann et al., 2025)
+
+**A new causal finding that fills part of this gap**: Abdelghani et al. (2026) studied 63 French middle-schoolers (ages 14–15) completing science tasks with ChatGPT. Students could not discriminate good from bad prompts or evaluate answer quality — both at chance level. 71.4% of expert-assessed low-quality answers were rated as "useful." Only 14 of 63 asked any follow-up question. Average task success: M = 0.51, at chance. The study coins the mechanism the "[[illusion-of-understanding]]" — AI fluency is perceptually indistinguishable from accuracy, preventing the metacognitive signals that would normally trigger self-correction. (source: The Illusion of Understanding.pdf)
 
 The National Science Foundation, Spencer Foundation, and US Department of Education have begun investing in this research agenda, but the field remains data-poor (source: Applied-Co-Intelligence PDF). The rapid evolution of AI systems also creates a structural tension: long-term studies risk measuring yesterday's tools (source: The Evidence Base on AI in K-12 Report.pdf).
 
@@ -85,3 +87,5 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[evidence-base-ai-k12]]
 - [[columbia-cs-ai-disruption]]
 - [[relational-economy]]
+- [[illusion-of-understanding]]
+- [[apocalypse-no-galloway]]

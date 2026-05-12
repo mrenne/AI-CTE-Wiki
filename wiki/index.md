@@ -23,6 +23,8 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[ai-job-apocalypse-klein]]        | Ezra Klein (NYT): why mass AI unemployment probably won't happen — and the two concerns the optimists underweight       |
 | [[columbia-cs-ai-disruption]]      | Columbia Spectator: CS enrollment falling, grades restructured, equity in AI access, social isolation emerging          |
 | [[ai-agents-k12-meta-analysis]]    | Liu et al. 2026 meta-analysis: g=0.404 overall; near-zero effects at high school; language/literacy strongest subject  |
+| [[apocalypse-no-galloway]]         | Scott Galloway (May 2026): AI apocalypse is marketing; US tech employment flat at 9.6M; three scenarios; Gini risk     |
+| [[illusion-of-understanding]]      | Abdelghani et al. 2026: middle-schoolers can't evaluate prompt or answer quality; positive AI attitudes are a liability |
 |                                    |                                                                                                                       |
 
 ---
@@ -62,6 +64,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[ai-sycophancy]]         | AI's trained tendency to validate and please — harmful in high-stakes or vulnerable contexts        |
 | [[ai-delusional-spirals]] | How sycophancy escalates into dangerous spirals; real-world consequences and policy recommendations |
 | [[ai-and-mental-health]]  | The double-edged role of AI in mental health: training tool vs. harm amplifier                      |
+| [[illusion-of-understanding]] | Students cannot discriminate good from bad AI prompts or answers — both at chance level; metacognition is the key protective factor |
 
 ### Frameworks and Models
 
@@ -88,3 +91,5 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 - **The relational economy is the CTE economy**: Structural change economics predicts that AI commodifying cognitive work will shift employment into care, hospitality, education, and artisanal production — the sectors CTE prepares (see [[relational-economy]], [[what-will-be-scarce]], [[cte-and-ai]])
 - **Relational skills are becoming scarce at the moment they matter most**: Young people are spending less time with each other; AI may accelerate social withdrawal at the same moment human connection becomes economically central (see [[ai-job-apocalypse-klein]], [[cognitive-debt]], [[transferable-skills]])
 - **AI tutoring barely works for high school students**: Meta-analytic evidence (34 studies) shows near-zero cognitive benefit of AI interventions for students in grades 10–12 — the core CTE population — while upper-primary students benefit substantially (see [[ai-agents-k12-meta-analysis]], [[cte-and-ai]])
+- **The AI apocalypse narrative is itself a risk**: Galloway and Klein converge on the view that mass AI unemployment is unlikely (US tech employment flat, Jevons Paradox); but Shiller's narrative economics warns that widely believed fear stories can become self-fulfilling regardless of the underlying technology (see [[apocalypse-no-galloway]], [[ai-job-apocalypse-klein]])
+- **Students cannot evaluate AI quality — and enthusiasm makes it worse**: Middle-schoolers using ChatGPT show chance-level ability to discriminate good from bad prompts or answers; positive AI attitudes negatively predict interaction quality; metacognition is the only protective factor identified (see [[illusion-of-understanding]], [[agentivism]], [[evidence-base-ai-k12]])

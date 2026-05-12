@@ -2,7 +2,7 @@
 
 **Summary**: A 2026 learning theory by Yan and Gašević that defines learning in the AI era as durable human capability growth through selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced AI support.
 
-**Sources**: `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`
+**Sources**: `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/The Illusion of Understanding.pdf`
 
 **Last updated**: 2026-04-28
 
@@ -71,7 +71,7 @@ The paper identifies four structural changes:
 
 **P1**: Learning should be stronger when AI support preserves learner responsibility for problem framing and justification than when AI delivers direct answers.
 
-**P2**: Designs requiring verification, source comparison, or justification of AI uptake should improve delayed transfer even when reducing convenience. *Empirical support*: The CARE RCT ([[llms-workplace-social-skills]]) found that practice-with-AI-mentor-feedback produced measurable skill gains (empathy, client-centeredness) while practice-only produced confidence gains only — directly validating P2 in a social skills context.
+**P2**: Designs requiring verification, source comparison, or justification of AI uptake should improve delayed transfer even when reducing convenience. *Empirical support*: The CARE RCT ([[llms-workplace-social-skills]]) found that practice-with-AI-mentor-feedback produced measurable skill gains (empathy, client-centeredness) while practice-only produced confidence gains only — directly validating P2 in a social skills context. Additional evidence from the contrary direction: Abdelghani et al. (2026) found that middle-school students asked to complete science tasks with ChatGPT showed prompt discrimination and answer evaluation both at chance level (d'=0.19 and d'=0.07 respectively) — demonstrating that P2 (epistemic monitoring) is essentially absent in typical unscaffolded AI use by adolescents. Only 14 of 63 students asked any follow-up question; even after unsatisfactory answers, follow-up occurred only 31.8% of the time. The study coins this systematic failure the "[[illusion-of-understanding]]." (source: The Illusion of Understanding.pdf)
 
 **P3**: Learners who substantially re-explain, revise, or transform AI-generated material should show stronger retained understanding than those who lightly edit outputs. *Empirical support*: Kosmyna et al. (2025) found that 83% of students who wrote essays with AI assistance could not quote from their own essays afterward — minimal reconstruction produced minimal retention. Kreijkes et al. (2026) found that AI-assisted reading improved when combined with note-taking (active reconstruction), not as a substitute for it ([[evidence-base-ai-k12]]).
 
@@ -101,3 +101,4 @@ The [[khanmigo]] failure documented in [[sal-khan-khanmigo-limits]] is a real-wo
 - [[evidence-base-ai-k12]]
 - [[cognitive-debt]]
 - [[your-brain-on-chatgpt]]
+- [[illusion-of-understanding]]

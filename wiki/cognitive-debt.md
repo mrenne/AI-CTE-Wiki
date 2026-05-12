@@ -2,7 +2,7 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/Your Brain on ChatGPT.pdf`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
+**Sources**: `raw/Your Brain on ChatGPT.pdf`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/The Illusion of Understanding.pdf`
 
 **Last updated**: 2026-05-04
 
@@ -114,6 +114,16 @@ The [[columbia-cs-ai-disruption]] article documents a live instance: CS students
 
 The [[relational-economy]] thesis makes this concern economically precise: the sector that absorbs employment as AI commodifies cognitive work is the relational sector, where the human element is the product. Cognitive debt impairs independent cognitive capability; relational debt may impair the capacity for the human presence that the relational economy requires.
 
+## The Illusion of Understanding: A Metacognitive Cousin
+
+Abdelghani et al. (2026) document a related but distinct phenomenon in the [[illusion-of-understanding]] study: middle-schoolers completing science tasks with ChatGPT could not discriminate good prompts from bad (d' at chance), could not evaluate AI answer quality (d' at chance), and rarely asked follow-up questions (only 14 of 63 students). Average task success was M = 0.51 — chance level.
+
+The illusion of understanding describes what happens *within a single interaction*: AI fluency masks answer quality so completely that students experience confident task completion without actual comprehension. Cognitive debt describes what happens *across repeated interactions over time*: the cumulative atrophy of independent cognitive capacity. Both operate together, and both are invisible to the student experiencing them.
+
+Key distinction: cognitive debt requires extended AI use to manifest (Kosmyna et al.'s study ran 4 months across multiple sessions). The illusion of understanding can form in a single session — a student new to AI can emerge from a 20-minute task interaction having "completed" a task they do not understand.
+
+The individual differences data from Abdelghani et al. adds important nuance: positive AI attitudes negatively predict quality (β = −0.39), while metacognition is protective (r = 0.30). Applied to cognitive debt, this suggests that students most at risk of accumulating cognitive debt are precisely those most enthusiastic about AI — they are least likely to apply the critical distance that could interrupt the debt-accumulation cycle. (source: The Illusion of Understanding.pdf)
+
 ## Limitations of the Concept
 
 The Kosmyna study that grounds this concept is a preprint with a small sample (54 participants), conducted in a single city, using ChatGPT for a single task type (essay writing). Cognitive debt as a formal concept requires:
@@ -136,3 +146,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[relational-economy]]
 - [[ai-job-apocalypse-klein]]
 - [[columbia-cs-ai-disruption]]
+- [[illusion-of-understanding]]

@@ -104,6 +104,12 @@ Both of Klein's concerns have direct educational implications:
 
 2. **The relational skills concern** means that developing human connection capacity — through in-person collaboration, service learning, mentorship, group work — is not just a social-emotional nice-to-have. It is preparation for the skill that will be economically scarce. See [[transferable-skills]] and [[cte-and-ai]].
 
+## Companion Piece: Galloway's Labor Data
+
+The [[apocalypse-no-galloway]] piece (Scott Galloway, May 8, 2026) directly corroborates Klein's empirical case using actual employment numbers: US tech employment grew from 8.7M to 9.6M between 2020–2023 and has since flattened — not declined. Galloway's anatomy of the 2023-2024 "AI layoffs" (Oracle trading people for chips, Meta returning to 2021 headcount, Microsoft still 47% larger than pre-pandemic) supports Klein's read that "tech companies might be unwinding a hiring binge." Galloway adds narrative economics risk (Robert Shiller's concept: fear stories can become self-fulfilling even when the underlying technology doesn't support them) and frames wealth inequality (Gini >0.8) as the structural concern the optimistic read underweights.
+
+The two pieces form a converging argument: Klein through economic mechanism, Galloway through observed employment data — both reaching similar conclusions while both flagging distributional harm as the real risk scenario.
+
 ## Related pages
 
 - [[relational-economy]]
@@ -114,3 +120,4 @@ Both of Klein's concerns have direct educational implications:
 - [[cte-and-ai]]
 - [[anthropic-labor-market-index]]
 - [[ai-economics-scan-2026]]
+- [[apocalypse-no-galloway]]
