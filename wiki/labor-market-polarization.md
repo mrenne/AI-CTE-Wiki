@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-05-13
 
 ---
 
@@ -83,6 +83,20 @@ The **Jevons Paradox** provides a parallel mechanism (Klein, [[ai-job-apocalypse
 
 The relational economy thesis does not refute polarization — it predicts a different endpoint. Polarization has hollowed out the middle. The relational economy thesis predicts the next phase hollows out commodity cognitive work (currently concentrated among educated white-collar workers) while the sectors that grow are precisely those CTE prepares: healthcare, hospitality, early childhood education, skilled trades, personal services.
 
+## The BCG Six-Segment Framework: A More Granular Taxonomy
+
+BCG Henderson Institute (April 2026) offers the most operationally specific occupational taxonomy available — applying three sequential factors (task automation potential, augmentation vs. substitution, demand expandability) to 1,500 US roles across 165 million workers. The result challenges binary "at risk / not at risk" framing. See [[ai-labor-disruption-segments]] for the full concept page. Key findings:
+
+**43%** of US jobs exceed the 40% task-automation threshold — but automation potential alone does not determine outcomes.
+
+**Only 12%** (Substituted segment) face genuine headcount contraction — roles where AI replaces the core function AND demand is bounded (call center reps, routine data entry). This is a dramatically more optimistic figure than the Frey & Osborne "47% at risk" estimate.
+
+**A critical split within high-automation roles**: Software engineers (high automation, expandable demand) are Amplified — headcount rose after ChatGPT. Call center reps (high automation, bounded demand) are Substituted. The same automation exposure produces opposite employment outcomes depending on demand structure. This is the Jevons Paradox operating as an empirical fact, not a theoretical claim.
+
+**The entry-level concentration mechanism**: BCG's Divergent segment (12%) reveals the most consequential near-term pattern — AI automates junior tasks first, while senior roles persist. This creates a hiring pipeline problem: fewer entry-level positions means fewer workers building the experience base needed to reach senior roles. BCG's phrase: "AI fluency may become an increasingly important complement to tenure." This is the mechanism behind the [[anthropic-labor-market-index]] finding of a 14% hiring slowdown for workers aged 22–25. (source: ai-will-reshape-more-jobs-than-it-replaces.pdf)
+
+**The 57% protected**: Limited-Exposure (34%) + Enabled (23%) = 57% of US jobs either gain from AI or are substantially insulated from elimination. These roles are defined by physical presence requirements, sustained human interaction, and contextual judgment in variable settings — exactly the BCG operationalization of what makes work resistant to substitution.
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -100,3 +114,5 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[relational-economy]]
 - [[what-will-be-scarce]]
 - [[ai-job-apocalypse-klein]]
+- [[bcg-ai-reshapes-jobs]]
+- [[ai-labor-disruption-segments]]

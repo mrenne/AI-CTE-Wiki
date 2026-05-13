@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/ai_index_report_2026_chapter_7_education.pdf`
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-05-13
 
 ---
 
@@ -73,6 +73,35 @@ CTE primarily serves students in grades 9–14 — exactly the age range where e
 
 Subject-level findings also matter for CTE: language/literacy (g = 0.830) and skills-based learning (g = 0.391) show the strongest effects; natural science (g = −0.065) shows no benefit. CTE programs with strong science content (healthcare, agriculture, environmental tech) should be particularly cautious about claims that AI interventions improve cognitive outcomes.
 
+## BCG Confirmation: CTE Sectors Occupy the Protected 57%
+
+BCG Henderson Institute's six-segment analysis (April 2026) provides the strongest quantitative validation to date of the claim that CTE-trained sectors are structurally positioned for the AI transition. The analysis covers 1,500 US occupational roles across 165 million workers.
+
+**Limited-Exposure (34% of US jobs)**: Roles with less than 25% task automation potential — defined by physical presence requirements, sustained human interaction, and contextual judgment in variable settings. Physicians (physical), elementary teachers, and construction workers fall here. These are core CTE pipelines. AI tools improve administrative margins (documentation, scheduling) without threatening the core function.
+
+**Enabled (23% of US jobs)**: Roles where AI extends capability without displacement risk — nurses, social workers, skilled tradespeople. These workers gain AI tools that make them more productive without the substitution threat that faces office-based cognitive workers.
+
+**Combined: 57% of US jobs** that are either insulated from elimination or gain from AI — and this 57% is disproportionately concentrated in CTE-adjacent sectors. The BCG framework converts the relational economy thesis from an economic theory into a concrete occupational taxonomy. (source: ai-will-reshape-more-jobs-than-it-replaces.pdf)
+
+**The entry-level concentration finding** is the key risk to monitor: BCG's Divergent segment (12%) shows that within professional roles, AI automates junior tasks first while senior roles persist. The 14% young-worker hiring slowdown from [[anthropic-labor-market-index]] is the labor market consequence. CTE students entering knowledge-adjacent roles may find their entry-level starting points compressed precisely when they need them most. This makes the quality of CTE program-to-career transitions especially important to track.
+
+See [[ai-labor-disruption-segments]] for the full six-segment framework and [[bcg-ai-reshapes-jobs]] for the source summary.
+
+## Stanford AI Index: The K-12 AI Policy Gap
+
+The Stanford HAI AI Index 2026 Chapter 7 ([[stanford-ai-index-education-2026]]) quantifies a structural implementation failure in K-12 AI education that directly affects CTE:
+
+- **Only 4 states** explicitly emphasize AI in K-12 CS standards
+- **Only 50%** of middle and high schools have any AI policy
+- **Only 6%** of teachers report their school's AI policies are clear
+- **No state** has established teacher training standards for AI education
+
+The ECEP (Expanding Computing Education Pathways) analysis is particularly significant: state guidance is largely nonbinding and decentralized. AP CS — the primary K-12 gateway to technical careers — excludes AI content entirely. The institutions designed to prepare students for AI-era work are operating without coherent AI literacy frameworks, without teacher AI training infrastructure, and without binding standards.
+
+For CTE specifically, this means that students entering CTE programs from K-12 are unlikely to have received meaningful AI literacy preparation regardless of which school they attended. The equity implication is direct: students from better-resourced schools with more proactive educators may arrive with informal AI proficiency, while others arrive with none. CTE programs cannot assume AI baseline knowledge from incoming students. (source: ai_index_report_2026_chapter_7_education.pdf)
+
+The new CSTA K-12 Computer Science Standards (expected summer 2026) will integrate significant AI content across grade bands — a potential turning point if states choose to adopt them.
+
 ## The Applied Co-Intelligence Response
 
 The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-model]] as the framework for preparing CTE learners: integrating AI Mastery (via the [[ai-mastery-continuum]]) with Technical and Transferable Skills within occupational contexts. Key implementation challenges include the alignment crisis between educators and industry, the human capital gap among faculty, structural policy patchworks, and a near-total absence of longitudinal evidence.
@@ -98,3 +127,6 @@ The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-mo
 - [[relational-economy]]
 - [[what-will-be-scarce]]
 - [[ai-agents-k12-meta-analysis]]
+- [[bcg-ai-reshapes-jobs]]
+- [[ai-labor-disruption-segments]]
+- [[stanford-ai-index-education-2026]]

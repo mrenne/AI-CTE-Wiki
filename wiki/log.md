@@ -224,3 +224,29 @@ Append-only record of all operations.
 - `wiki/index.md` — Added 2 new source summaries; added `[[illusion-of-understanding]]` to AI Risks and Safety concept pages; added new Key Theme on illusion of understanding; added `[[apocalypse-no-galloway]]` to source summaries; updated Last updated
 
 **Total pages created**: 2 | **Total pages updated**: 6
+
+---
+
+## 2026-05-13 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf` — BCG Henderson Institute, April 3, 2026; authors: Tomas Chamorro-Premuzic, Rainer Strack, Allison Bailey, Nicolas Dollé, Vinciane Beauchene
+2. `raw/ai_index_report_2026_chapter_7_education.pdf` — Stanford HAI AI Index 2026, Chapter 7: Education; Stanford Institute for Human-Centered Artificial Intelligence
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/bcg-ai-reshapes-jobs.md` — BCG six-segment taxonomy applied to 165M US jobs; 50–55% reshaped in 2–3 years, 10–15% eliminated in 4–5 years; three-factor methodology (task automation potential → augmentation vs. substitution → demand expandability); Jevons Paradox as empirical labor market mechanism (software engineers Amplified; call center reps Substituted); entry-level concentration in Divergent roles (pipeline problem); Limited-Exposure (34%) + Enabled (23%) = 57% insulated; CEO imperatives; excludes physical AI/robotics
+- `wiki/stanford-ai-index-education-2026.md` — Three-way definitional framework (AI in Education / AI Literacy / AI Education); CS undergraduate enrollment -11% (2024–2025); AI master's graduates +17%; 80% of university students use GenAI (doubled from 40% in 2023); Anthropic Claude data: creating 39.8% / analyzing 30.2%; K-12: 4 states emphasize AI in CS standards; 50% of schools have AI policies; 6% of teachers say policies are clear; ECEP finding: nonbinding guidance, no teacher training standards, AP CS excludes AI; CSTA K-12 standards with AI content expected summer 2026; China/UAE mandated AI education 2025–26; India 3x global average LinkedIn AI skill penetration; US 2x; fastest growing US AI literacy skills: AI prompting, Microsoft Copilot Studio
+
+*Concept page*:
+- `wiki/ai-labor-disruption-segments.md` — Full concept page for BCG six-segment framework: Amplified (5%), Rebalanced (14%), Divergent (12%), Substituted (12%), Enabled (23%), Limited-Exposure (34%); each segment defined by automation potential + augmentation/substitution + demand expandability; CTE implications for each; combined 57% protected calculation; demand expandability mechanism; connection to relational economy thesis and Jevons Paradox
+
+**Pages updated**:
+- `wiki/labor-market-polarization.md` — Added "BCG Six-Segment Framework" section: 43% automation threshold; Substituted vs. Amplified split; entry-level concentration mechanism; 57% protected; demand expandability as empirical mechanism; updated Sources, Related pages, Last updated
+- `wiki/cte-and-ai.md` — Added "BCG Confirmation: CTE Sectors Occupy the Protected 57%" section: Limited-Exposure and Enabled segments mapped to CTE pathways; entry-level concentration risk for CTE graduates entering knowledge-adjacent roles; added "Stanford AI Index: The K-12 AI Policy Gap" section: policy vacuum data; ECEP implementation gap; CSTA standards update; updated Sources, Related pages, Last updated
+- `wiki/transferable-skills.md` — Added "BCG's Operationalization" section: human interaction intensity + process structure as the two BCG variables determining augmentation vs. substitution; transferable skills as the operationalized basis for the 57% insulation figure; updated Sources, Related pages, Last updated
+- `wiki/ai-in-k12-education.md` — Added "Stanford AI Index 2026: Quantifying the Policy Gap" section: three-way definition; enrollment trends; 80% student use; K-12 policy vacuum; ECEP finding; CSTA update; updated Sources, Related pages, Last updated
+- `wiki/index.md` — Added 2 new source summary rows; added "Labor Market Analysis" concept page section with 3 entries (bcg-ai-reshapes-jobs, ai-labor-disruption-segments, stanford-ai-index-education-2026); added 4 new Key Themes
+
+**Total pages created**: 3 | **Total pages updated**: 5

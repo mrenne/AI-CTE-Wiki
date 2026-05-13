@@ -2,9 +2,9 @@
 
 **Summary**: An overview of how generative AI is — and isn't — reshaping K-12 schools, with a focus on tutoring, academic integrity, teacher roles, and the early evidence base.
 
-**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`, `raw/The Illusion of Understanding.pdf`, `raw/Apocalypse No.md`
+**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`, `raw/The Illusion of Understanding.pdf`, `raw/Apocalypse No.md`, `raw/ai_index_report_2026_chapter_7_education.pdf`
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-05-13
 
 ---
 
@@ -73,6 +73,32 @@ The [[columbia-cs-ai-disruption]] investigation (Columbia Spectator, May 2026) p
 
 **Social isolation**: Students increasingly ask AI the questions they would previously have directed to peers or TAs. Office hours attendance has dropped to near-zero for some students. A historically collaborative discipline is becoming more individually practiced — with unknown long-term consequences for the collaborative competencies employers value. (source: Columbia CS article)
 
+## Stanford AI Index 2026: Quantifying the Policy Gap
+
+The Stanford HAI AI Index 2026 Chapter 7 ([[stanford-ai-index-education-2026]]) provides the most comprehensive quantitative snapshot of AI in education as of 2026. Key findings directly relevant to K-12:
+
+**The definitional problem**: The report distinguishes three concepts frequently conflated in policy:
+- *AI in Education*: Using AI tools to teach any subject (widespread, largely ungoverned)
+- *AI Literacy*: Understanding how AI works (curriculum-targeted, nascent)
+- *AI Education*: Technical skills to build and deploy AI (growing in higher ed, declining in undergrad CS headcount)
+
+A school that allows students to use ChatGPT for essays is doing "AI in Education." It may be doing nothing about AI Literacy and has no AI Education program. Tracking these separately reveals that the widespread integration of AI tools into schoolwork has happened *without* corresponding curriculum, training, or policy infrastructure.
+
+**The scale of student AI use**: 80% of university students report using GenAI for schoolwork — doubled from 40% in 2023. Anthropic's own Claude data shows students using it primarily for creating (39.8%) and analyzing (30.2%) content — higher-order task labels that do not, per [[illusion-of-understanding]], guarantee higher-order learning.
+
+**The K-12 policy vacuum**:
+- Only 4 states explicitly emphasize AI in K-12 CS standards
+- Only 50% of middle and high schools have any AI policy
+- Only 6% of teachers report policies are clear
+- No state has teacher training standards for AI education
+- AP CS — the primary K-12 technical gateway — excludes AI content
+
+The ECEP analysis explains why: state guidance is largely nonbinding and decentralized. Standards without teacher training infrastructure and without enforcement mechanisms do not change what happens in classrooms. (source: ai_index_report_2026_chapter_7_education.pdf)
+
+**The enrollment signal**: CS undergraduate enrollment at 4-year universities fell 11% from 2024 to 2025. This is likely a labor market response — students reading shifting career signals — rather than disengagement from technical skills. Graduate AI enrollment (master's up 17%, PhD pipeline into academia nearly doubled) is growing simultaneously. The likely outcome is a bifurcation: AI as a specialized graduate-level discipline, with AI literacy diffused across all undergraduate majors.
+
+**The potential turning point**: The new CSTA K-12 Computer Science Standards (expected summer 2026) will integrate significant AI content across K-12 grade bands for the first time. Whether this becomes consequential depends on state adoption — which ECEP's findings suggest is not automatic.
+
 ## Implications for CTE
 
 The [[applied-co-intelligence-report]] argues that AI's potential for positive impact is greater in CTE than in general K-12 education, precisely because CTE is oriented toward tangible skill development with clear industry benchmarks. The [[applied-co-intelligence-model]] offers a more structured approach than simple AI integration: a developmental continuum that progresses learners from passive literacy to expert-level mastery within an occupational context.
@@ -89,3 +115,4 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[relational-economy]]
 - [[illusion-of-understanding]]
 - [[apocalypse-no-galloway]]
+- [[stanford-ai-index-education-2026]]

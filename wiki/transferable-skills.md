@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-05-13
 
 ---
 
@@ -56,6 +56,19 @@ The key caveat: this requires deliberate counter-design against [[ai-sycophancy]
 
 This is practically significant for CTE Healthcare & Human Services programs: AI-assisted social skills practice could scale access to training that currently requires expensive human role-play and supervision.
 
+## BCG's Operationalization: What Makes Work "Augmented" vs. "Substituted"
+
+BCG Henderson Institute (April 2026) provides the most rigorous empirically-grounded definition of what distinguishes roles where AI augments human work from those where it substitutes. The two factors that determine augmentation vs. substitution:
+
+1. **Human interaction and judgment intensity**: Does the role require real-time social intelligence, empathic response, or complex contextual reasoning with another person? If yes, AI can assist but cannot replace the core value.
+2. **Process structure**: Is the task fully specifiable by rules and procedures, or does it require discretionary adaptation to novel situations?
+
+Roles with high human interaction intensity and low process structure land in Augmented segments (Amplified, Rebalanced, Enabled) — AI extends them. Roles with low human interaction and high process structure land in Substituted — AI replaces them.
+
+This gives transferable skills a precise economic mechanism: "human interaction and judgment" is literally the BCG variable that determines whether a role survives AI automation or doesn't. Empathy, communication, and ethical reasoning are not abstract ideals — they are the operational criteria that BCG's framework uses to classify 57% of US jobs as insulated from displacement. (source: ai-will-reshape-more-jobs-than-it-replaces.pdf)
+
+See [[ai-labor-disruption-segments]] for the full six-category taxonomy.
+
 ## Economic Valuation: The Relational Economy Argument
 
 Until recently, the case for transferable skills rested on two foundations: the claim that AI can't replicate them, and the claim that employers say they matter. The [[relational-economy]] thesis (Imas, 2026; [[what-will-be-scarce]]) provides a third, more structural foundation: **structural change economics predicts that relational skills will command a growing share of total economic output**.
@@ -82,3 +95,5 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[relational-economy]]
 - [[what-will-be-scarce]]
 - [[ai-job-apocalypse-klein]]
+- [[bcg-ai-reshapes-jobs]]
+- [[ai-labor-disruption-segments]]
