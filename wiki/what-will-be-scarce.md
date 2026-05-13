@@ -102,3 +102,4 @@ The relational economy thesis directly reframes several themes already in the wi
 - [[transferable-skills]]
 - [[anthropic-labor-market-index]]
 - [[ai-economics-scan-2026]]
+- [[bcg-ai-reshapes-jobs]]

@@ -250,3 +250,26 @@ Append-only record of all operations.
 - `wiki/index.md` — Added 2 new source summary rows; added "Labor Market Analysis" concept page section with 3 entries (bcg-ai-reshapes-jobs, ai-labor-disruption-segments, stanford-ai-index-education-2026); added 4 new Key Themes
 
 **Total pages created**: 3 | **Total pages updated**: 5
+
+---
+
+## 2026-05-13 — Lint audit
+
+**Findings**: No orphan pages, no contradictions, no format violations. 9 missing cross-links identified across pages that were written before the BCG/Stanford/Galloway/Abdelghani ingestions and not retroactively updated.
+
+**Cross-links added**:
+- `wiki/relational-economy.md` — added `[[bcg-ai-reshapes-jobs]]`, `[[ai-labor-disruption-segments]]`
+- `wiki/what-will-be-scarce.md` — added `[[bcg-ai-reshapes-jobs]]`
+- `wiki/anthropic-labor-market-index.md` — added `[[bcg-ai-reshapes-jobs]]`, `[[ai-labor-disruption-segments]]`
+- `wiki/ai-economics-scan-2026.md` — added `[[bcg-ai-reshapes-jobs]]`, `[[apocalypse-no-galloway]]`, `[[stanford-ai-index-education-2026]]`
+- `wiki/columbia-cs-ai-disruption.md` — added `[[stanford-ai-index-education-2026]]`
+- `wiki/ai-sycophancy.md` — added `[[illusion-of-understanding]]`
+- `wiki/your-brain-on-chatgpt.md` — added `[[illusion-of-understanding]]`
+- `wiki/applied-co-intelligence-report.md` — added `[[bcg-ai-reshapes-jobs]]`, `[[stanford-ai-index-education-2026]]`
+- `wiki/ai-job-apocalypse-klein.md` — added `[[bcg-ai-reshapes-jobs]]`
+
+**Concept gaps flagged (no fix yet — await new sources)**:
+- Metacognition: central to illusion-of-understanding, agentivism, cognitive-debt; no dedicated page
+- Agentic AI: referenced in applied-co-intelligence-report and cte-and-ai; no dedicated page
+
+**Total pages created**: 0 | **Total pages updated**: 9

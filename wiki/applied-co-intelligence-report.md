@@ -115,3 +115,5 @@ The report illustrates Applied Co-Intelligence through a CNA student named Maya,
 - [[khanmigo]]
 - [[agentivism]]
 - [[evidence-base-ai-k12]]
+- [[bcg-ai-reshapes-jobs]]
+- [[stanford-ai-index-education-2026]]

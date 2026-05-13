@@ -121,3 +121,4 @@ The two pieces form a converging argument: Klein through economic mechanism, Gal
 - [[anthropic-labor-market-index]]
 - [[ai-economics-scan-2026]]
 - [[apocalypse-no-galloway]]
+- [[bcg-ai-reshapes-jobs]]

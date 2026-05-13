@@ -134,3 +134,5 @@ The relational economy thesis has direct implications for [[cte-and-ai]]:
 - [[ai-economics-scan-2026]]
 - [[cognitive-debt]]
 - [[ai-in-k12-education]]
+- [[bcg-ai-reshapes-jobs]]
+- [[ai-labor-disruption-segments]]

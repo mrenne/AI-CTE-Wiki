@@ -110,3 +110,5 @@ The report's findings have several implications for how AI's labor market effect
 - [[ai-economics-scan-2026]]
 - [[ai-in-k12-education]]
 - [[transferable-skills]]
+- [[bcg-ai-reshapes-jobs]]
+- [[ai-labor-disruption-segments]]

@@ -54,3 +54,4 @@ Moore et al. call for reframing AI alignment as a public-health issue rather tha
 - [[agentivism]]
 - [[ai-and-mental-health]]
 - [[ai-tutoring]]
+- [[illusion-of-understanding]]

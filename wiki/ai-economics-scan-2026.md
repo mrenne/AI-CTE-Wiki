@@ -96,3 +96,6 @@ The scan surfaces several dynamics relevant to [[ai-in-k12-education]] and [[cte
 - [[cte-and-ai]]
 - [[ai-in-k12-education]]
 - [[transferable-skills]]
+- [[bcg-ai-reshapes-jobs]]
+- [[apocalypse-no-galloway]]
+- [[stanford-ai-index-education-2026]]

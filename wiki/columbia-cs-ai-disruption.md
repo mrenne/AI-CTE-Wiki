@@ -131,3 +131,4 @@ This pattern connects to Klein's concern in [[ai-job-apocalypse-klein]] about th
 - [[ai-job-apocalypse-klein]]
 - [[ai-privacy-and-institutional-adoption]]
 - [[transferable-skills]]
+- [[stanford-ai-index-education-2026]]
