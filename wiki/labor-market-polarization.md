@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-05-18
 
 ---
 
@@ -97,6 +97,16 @@ BCG Henderson Institute (April 2026) offers the most operationally specific occu
 
 **The 57% protected**: Limited-Exposure (34%) + Enabled (23%) = 57% of US jobs either gain from AI or are substantially insulated from elimination. These roles are defined by physical presence requirements, sustained human interaction, and contextual judgment in variable settings — exactly the BCG operationalization of what makes work resistant to substitution.
 
+## The Infrastructure Economy: A Distributional Case Study
+
+The NBER data centers paper ([[nber-data-centers-local-economies]]) illustrates the equity dimension of polarization with unusual precision. Using IV estimation across 3,100+ US counties (1995–2020), Alvarez et al. find that data center construction raises county employment, income, and house prices — but also electricity prices. The distributional structure is instructive:
+
+**Who captures the gains**: Trade workers during the construction boom (electricians, HVAC, plumbers); knowledge workers in permanent data-processing roles; landowners and homeowners who benefit from rising property values.
+
+**Who absorbs the costs**: All county residents face higher electricity prices (+0.9%), regardless of whether they benefit from the income gains. Renters and prospective buyers absorb the housing cost increase (+17.7%) without capturing the asset appreciation that homeowners receive.
+
+This is polarization in miniature: the AI infrastructure buildout generates genuine local employment, but the gains and costs are distributed along fault lines that track existing inequality. The bottom of the income distribution faces proportionally higher cost burdens. This pattern is likely to generalize beyond data centers to other AI-infrastructure investments. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -116,3 +126,4 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[ai-job-apocalypse-klein]]
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
+- [[nber-data-centers-local-economies]]

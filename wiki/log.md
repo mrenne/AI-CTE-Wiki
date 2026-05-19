@@ -273,3 +273,25 @@ Append-only record of all operations.
 - Agentic AI: referenced in applied-co-intelligence-report and cte-and-ai; no dedicated page
 
 **Total pages created**: 0 | **Total pages updated**: 9
+
+---
+
+## 2026-05-18 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf` — Fernando E. Alvarez (U Chicago/NBER), David Argente, Joyce Chow, Diana Van Patten (Yale/NBER); NBER Working Paper 35194, May 2026
+
+**Two other raw files found but not ingested**:
+- `raw/Dept of Labor AI Literacy Framework.md` — web clipper failure: contains only YAML frontmatter and a JPG image link; no actual text content captured
+- `raw/Why the 'Middle Path' of AI Literacy May Be the Future of English Class.md` — file found by Glob but unreadable by Read tool; likely apostrophe encoding issue in filename; awaiting user action
+
+**Pages created**:
+- `wiki/nber-data-centers-local-economies.md` — Source summary for NBER WP 35194; shift-share IV design (two instruments: fiber proximity × Chinese DC revenue; 1980 college share × ROW DC revenue; F-stats 786–907); key IV results 1995–2020: employment +3.9%, construction employment +7.1% (front-loaded early), data-processing +29.4%, establishments +6.2%, house prices +17.7%, electricity prices +0.9%, AGI +8.2%, wages +5.9%; geographic concentration (7.6% of counties; Virginia/Texas dominant); US DC electricity 4.4% of national consumption; equity analysis: income gains trade-heavy and construction-front-loaded; costs (electricity, housing) broadly distributed and fall hardest on renters and low-income households; robustness: construction employment and total employment not robust to state FE
+
+**Pages updated**:
+- `wiki/cte-and-ai.md` — Added causal IV evidence to "AI Infrastructure Jobs" section: county-level employment, income, construction timing, geographic concentration, equity caveat on electricity and housing costs; added `[[nber-data-centers-local-economies]]` to Related pages; updated Sources and Last updated
+- `wiki/labor-market-polarization.md` — Added "The Infrastructure Economy: A Distributional Case Study" section: data center gains vs. costs; electricity and housing burden on low-income residents; added `[[nber-data-centers-local-economies]]` to Related pages; updated Sources and Last updated
+- `wiki/relational-economy.md` — Added "The Infrastructure Economy as Relational Economy Complement" section: physical AI infrastructure as a site of automation-resistant human labor; added `[[nber-data-centers-local-economies]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row (both in Source Summaries table and Labor Market Analysis concept section); added new Key Theme on AI infrastructure jobs with distributional costs
+
+**Total pages created**: 1 | **Total pages updated**: 4

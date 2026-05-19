@@ -2,9 +2,9 @@
 
 **Summary**: The economic theory that AI-driven automation will not eliminate work but relocate scarcity — shifting employment and expenditure from commodity production into a "relational sector" where human involvement is inseparable from the value of the good or service.
 
-**Sources**: `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
+**Sources**: `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-05-18
 
 ---
 
@@ -125,6 +125,12 @@ The relational economy thesis has direct implications for [[cte-and-ai]]:
 
 4. **AI may help the relational sector, not threaten it.** Klein's personal observation: the better his AI got, the more he wanted from the humans in his life. AI as a complement to human relationships rather than a substitute for them is the optimistic version of the relational economy — and it is consistent with the Jevons Paradox logic.
 
+## The Infrastructure Economy as Relational Economy Complement
+
+The NBER data centers paper ([[nber-data-centers-local-economies]]) adds an empirical dimension to the relational economy thesis: the physical infrastructure enabling AI is itself a site of human labor that is resistant to automation. The IV evidence shows that data center construction creates durable local employment concentrated in trades — electricians, HVAC, plumbers — precisely the CTE-pipeline occupations with high physical presence requirements and contextual judgment demands.
+
+This reinforces the relational economy framework from a different angle: the relational sector isn't the only protected zone. The physical layer of the AI economy — installing and maintaining the infrastructure that makes cognitive commodity production possible — also demands human presence and skill. The commodity economy does not float free of physical work; it depends on it. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
+
 ## Related pages
 
 - [[labor-market-polarization]]
@@ -136,3 +142,4 @@ The relational economy thesis has direct implications for [[cte-and-ai]]:
 - [[ai-in-k12-education]]
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
+- [[nber-data-centers-local-economies]]

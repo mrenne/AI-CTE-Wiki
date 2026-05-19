@@ -27,6 +27,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[illusion-of-understanding]]      | Abdelghani et al. 2026: middle-schoolers can't evaluate prompt or answer quality; positive AI attitudes are a liability |
 | [[bcg-ai-reshapes-jobs]]           | BCG Henderson Institute 2026: six-segment taxonomy of 165M US jobs; 57% insulated from displacement; 12% truly substituted |
 | [[stanford-ai-index-education-2026]] | Stanford HAI 2026 Ch. 7: CS enrollment -11%; 80% student AI use; K-12 policy vacuum; ECEP implementation gap        |
+| [[nber-data-centers-local-economies]] | NBER WP 35194 (May 2026): IV evidence that data centers raise local construction employment, income, house prices, and electricity prices |
 |                                    |                                                                                                                       |
 
 ---
@@ -59,6 +60,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[bcg-ai-reshapes-jobs]] | BCG source summary: six-segment taxonomy, demand expandability, entry-level concentration, CEO imperatives |
 | [[ai-labor-disruption-segments]] | Concept page: the BCG six categories (Amplified, Rebalanced, Divergent, Substituted, Enabled, Limited-Exposure) with CTE implications |
 | [[stanford-ai-index-education-2026]] | Stanford HAI source summary: CS enrollment trends, student use data, K-12 policy gaps, ECEP implementation gap, global comparisons |
+| [[nber-data-centers-local-economies]] | NBER source summary: IV-identified local effects of AI infrastructure — construction employment, income, house prices, electricity costs |
 
 ### Infrastructure and Adoption
 
@@ -106,3 +108,4 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 - **Only 12% of US jobs face true substitution**: BCG's six-segment analysis of 165M US jobs finds only 12% (Substituted) face genuine headcount contraction — far below the Frey & Osborne "47% at risk" figure — because demand expandability and augmentation dynamics protect the rest; CTE sectors constitute the core of the 57% insulated from displacement (see [[bcg-ai-reshapes-jobs]], [[ai-labor-disruption-segments]], [[labor-market-polarization]])
 - **Human interaction and judgment is the decisive variable**: BCG's empirical framework operationalizes what makes a role augmented vs. substituted — roles with high human interaction intensity and low process structure land in protected segments; this gives transferable skills a concrete economic mechanism, not just a normative claim (see [[transferable-skills]], [[ai-labor-disruption-segments]], [[relational-economy]])
 - **The K-12 AI policy gap is structural, not accidental**: 80% of students use AI for schoolwork; only 6% of teachers have clear school AI policies; no state has teacher training standards for AI; AP CS excludes AI content; state guidance is nonbinding — students are integrating AI without any institutional literacy framework (see [[stanford-ai-index-education-2026]], [[cte-and-ai]], [[ai-in-k12-education]])
+- **AI infrastructure creates real trade jobs — with distributional costs**: Causal IV evidence from 3,100+ US counties confirms that data center construction raises local construction employment (+7.1%) and income (+8.2%), validating CTE infrastructure pipeline claims — but also raises electricity prices and house prices, with costs falling disproportionately on renters and low-income households (see [[nber-data-centers-local-economies]], [[cte-and-ai]], [[labor-market-polarization]])

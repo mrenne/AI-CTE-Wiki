@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/ai_index_report_2026_chapter_7_education.pdf`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Labor market impacts of AI A new measure and early evidence.md`, `raw/The economics of AI in spring 2026.md`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/ai_index_report_2026_chapter_7_education.pdf`, `raw/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-05-18
 
 ---
 
@@ -53,6 +53,17 @@ Unlike 4-year institutions with rigid curricular governance, CTE programs are bu
 
 ### AI Infrastructure Jobs
 The AI boom generates substantial downstream demand for skilled trades: data centers require electricians, HVAC technicians, plumbers, and construction workers. These are core CTE pipelines and the work is inherently automation-resistant due to its context-sensitive, physically demanding, and safety-critical nature (source: Applied-Co-Intelligence PDF). The future AI economy will not only be dominated by coders; it requires the CTE-trained workforce that makes intelligent infrastructure possible.
+
+A May 2026 NBER working paper ([[nber-data-centers-local-economies]]) provides the first **causal identification** of this effect at the county level. Using shift-share instrumental variables across 3,100+ US counties from 1995–2020, Alvarez, Argente, Chow, and Van Patten find:
+
+- Total county employment: **+3.9%**
+- Construction employment: **+7.1%** — with the largest gains front-loaded in the years immediately after data center investment
+- Data-processing employment: **+29.4%** (persistent but small as a share of total employment)
+- County income (adjusted gross): **+8.2%**
+
+**The timing structure matters for CTE program planning**: the construction employment boom is early-stage and trade-heavy. The longer-term data-processing gains flow to a small number of highly skilled workers. CTE programs in data-center-dense regions (Virginia, Texas) have strong causal justification for building out electrician, HVAC, and construction pathways as AI infrastructure pipelines. Programs outside those corridors — only 7.6% of US counties had any data center presence by 2020 — face a different geographic calculus. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
+
+**An equity caveat**: the NBER paper also finds that data center construction raises county-level electricity prices (+0.9%) and house prices (+17.7%). These costs fall on all county residents — including renters and low-income households — while the income gains accrue primarily to trade workers during construction and high-skill workers permanently. CTE educators in affected regions should be aware that their communities face distributional consequences, not just benefits, from the AI infrastructure buildout.
 
 ### Learner Confidence
 CTE learners are 3x more likely than non-CTE peers to report confidence in their future (American College Learner Freedom, Progress and Flourishing survey). This confidence and practical orientation may make CTE learners more adaptable to workplace AI integration than students from purely academic pathways.
@@ -130,3 +141,4 @@ The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-mo
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[stanford-ai-index-education-2026]]
+- [[nber-data-centers-local-economies]]
