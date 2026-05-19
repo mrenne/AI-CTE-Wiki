@@ -314,3 +314,23 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added new Key Theme on AI audits replacing bans
 
 **Total pages created**: 1 | **Total pages updated**: 5
+
+---
+
+## 2026-05-18 — Lint audit
+
+**Findings**: No orphans, no contradictions, no format violations. 3 missing cross-links to `[[middle-path-ai-literacy-nurenberg]]` identified in pages written before that source was ingested. README source and page counts stale.
+
+**Cross-links added**:
+- `wiki/cognitive-debt.md` — added `[[middle-path-ai-literacy-nurenberg]]` (Nurenberg cites cognitive debt research as the rationale for his middle path)
+- `wiki/ai-in-k12-education.md` — added `[[middle-path-ai-literacy-nurenberg]]` (wiki's only practitioner K-12 classroom account)
+- `wiki/evidence-base-ai-k12.md` — added `[[middle-path-ai-literacy-nurenberg]]` (pedagogical friction recommendation aligns with AI audit approach)
+
+**Stale fact fixed**:
+- `README.md` — updated "Nineteen sources ingested so far, producing 33 interlinked wiki pages" → "Twenty-one sources ingested so far, producing 37 interlinked wiki pages"
+
+**Concept gaps flagged (no fix yet — await new sources)**:
+- Metacognition: now prominent in 5+ pages; no dedicated page
+- Agentic AI: referenced in applied-co-intelligence-report and cte-and-ai; no dedicated page
+
+**Total pages created**: 0 | **Total pages updated**: 4

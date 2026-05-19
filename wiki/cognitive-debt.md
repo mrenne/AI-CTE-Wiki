@@ -147,3 +147,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[ai-job-apocalypse-klein]]
 - [[columbia-cs-ai-disruption]]
 - [[illusion-of-understanding]]
+- [[middle-path-ai-literacy-nurenberg]]
