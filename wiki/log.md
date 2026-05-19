@@ -295,3 +295,22 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row (both in Source Summaries table and Labor Market Analysis concept section); added new Key Theme on AI infrastructure jobs with distributional costs
 
 **Total pages created**: 1 | **Total pages updated**: 4
+
+---
+
+## 2026-05-18 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md` — David Nurenberg; *The 74* (the74million.org), May 8, 2026; abridged version of forthcoming NCTE *English Journal* Issue 115.6 article
+
+**Pages created**:
+- `wiki/middle-path-ai-literacy-nurenberg.md` — Source summary; three-option frame (ban / freely allow / teach AI literacy); five classroom activities using AI as text (literary analysis, discussion, essay writing, research, note-taking); AI audit replacing bans (demonstrate how tool operates, what gained/lost, accuracy verified, thinking not relinquished); cognitive surrender vs. cognitive offloading distinction; student-discovered sycophancy ("purposely said dumb things"); less-confident students never escaping AI deference; developmental timing argument (can't wait for skills before AI literacy); equity tension; genuine voice as transferable skill; connections to agentivism, illusion-of-understanding, ai-sycophancy, transferable-skills, cognitive-debt
+
+**Pages updated**:
+- `wiki/agentivism.md` — Added Nurenberg's AI audit as classroom operationalization of P2 (epistemic monitoring) and P3 (reconstructive internalization); student "say dumb things" probe as organic P2 instance; cognitive surrender vs. cognitive offloading as student-facing language for Agentivism's core distinction; added `[[middle-path-ai-literacy-nurenberg]]` to Related pages; updated Sources and Last updated
+- `wiki/ai-sycophancy.md` — Added "Student-Discovered Sycophancy" section: student probe ("purposely said dumb things"), chatbot-as-discussion-partner as curricular sycophancy exposure tool, ChatGPT killing debate tension; added `[[middle-path-ai-literacy-nurenberg]]` to Related pages; updated Sources and Last updated
+- `wiki/illusion-of-understanding.md` — Added "Classroom Observation: Metacognition's Absence in Low-Confidence Students" section: less-confident students deferring to AI writing quality, Nurenberg's unresolved tension, AI audit as structural metacognitive scaffold, equity implication for under-resourced schools; added `[[middle-path-ai-literacy-nurenberg]]` to Related pages; updated Sources and Last updated
+- `wiki/transferable-skills.md` — Added "Genuine Voice as a Transferable Skill" section: essay comparison exercise, student discovery of voice vs. generic AI prose, relational economy connection, AI audit as metacognitive transferable-skills practice; added `[[middle-path-ai-literacy-nurenberg]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added new Key Theme on AI audits replacing bans
+
+**Total pages created**: 1 | **Total pages updated**: 5

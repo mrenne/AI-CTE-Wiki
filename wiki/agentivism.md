@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 learning theory by Yan and Gašević that defines learning in the AI era as durable human capability growth through selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced AI support.
 
-**Sources**: `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/The Illusion of Understanding.pdf`
+**Sources**: `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/The Illusion of Understanding.pdf`, `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
 
-**Last updated**: 2026-04-28
+**Last updated**: 2026-05-18
 
 ---
 
@@ -91,6 +91,8 @@ The paper identifies four structural changes:
 
 The [[khanmigo]] failure documented in [[sal-khan-khanmigo-limits]] is a real-world illustration: students using AI as a passive lookup tool engage in no epistemic monitoring or reconstructive internalization and achieve no transfer. The [[applied-co-intelligence-model]]'s [[ai-mastery-continuum]] maps closely onto Agentivism's mechanisms — progression from passive use (Literacy) through active verification (Fluency/Agency) to independent critique (Mastery).
 
+Nurenberg's [[middle-path-ai-literacy-nurenberg]] classroom account provides a concrete pedagogical operationalization of Agentivism's mechanisms. His **AI audit** — requiring students to demonstrate for every tool they used: how it operates, what was gained and lost, how accuracy was verified, how they did not relinquish their own thinking — is a classroom-ready implementation of selective delegation, epistemic monitoring, and reconstructive internalization. Crucially, one student ran an unprompted probe: "purposely said dumb things just to see how GPT would still find a way to say 'great idea.'" This is P2 (epistemic monitoring) happening organically — the student designed a test, observed the result, and generalized a conclusion about AI's trained deference. The source also introduces the *cognitive surrender vs. cognitive offloading* distinction (from a cited preprint): surrender is passive trust without evaluation; offloading is strategic delegation during deliberation. This is among the clearest student-facing language available for teaching Agentivism's core distinction between assisted performance and durable capability growth. (source: Why the Middle Path of AI Literacy May Be the Future of English Class.md)
+
 ## Related pages
 
 - [[sal-khan-khanmigo-limits]]
@@ -102,3 +104,4 @@ The [[khanmigo]] failure documented in [[sal-khan-khanmigo-limits]] is a real-wo
 - [[cognitive-debt]]
 - [[your-brain-on-chatgpt]]
 - [[illusion-of-understanding]]
+- [[middle-path-ai-literacy-nurenberg]]

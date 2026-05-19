@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`
+**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/What will be scarce_.md`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-05-18
 
 ---
 
@@ -79,6 +79,16 @@ This moves the transferable skills case from "important for resilience" to "econ
 
 Ezra Klein adds a warning: these skills are deteriorating among young people precisely as they become more economically valuable — time with friends fell from ~12 hours/week in 2003 to ~5 hours/week in 2024 ([[ai-job-apocalypse-klein]]). Programs that deliberately develop relational capacity — through in-person collaboration, service learning, mentorship — are building the skill that will be most scarce.
 
+## Genuine Voice as a Transferable Skill: Classroom Evidence
+
+Nurenberg's [[middle-path-ai-literacy-nurenberg]] English class provides a concrete pedagogical illustration of how one domain-specific transferable skill — authentic individual voice in writing — can be developed by making AI's failure to replicate it visible to students directly.
+
+Students compared LLM-generated essays to their own. They identified AI prose as "sophisticated-sounding" yet "generic." Their own writing was "messier" but, in their judgment, more engaging and recognizably theirs. The conclusion Nurenberg aimed for: in a world where everyone has LLM access, developing genuine voice is economically valuable, not just aesthetically preferable. ChatGPT should be "reserved for inter-office memos and letters to one's utility company."
+
+This is a classroom-level demonstration of the [[relational-economy]] argument: when AI commodifies a skill (basic essay generation), the differentiator becomes what AI cannot replicate — individual voice, personal perspective, authentic presence. The comparison exercise converts an abstract claim into a student discovery. Students did not hear a teacher assert that voice matters; they saw the contrast directly and drew the conclusion themselves. (source: Why the Middle Path of AI Literacy May Be the Future of English Class.md)
+
+The **AI audit** Nurenberg uses — requiring students to demonstrate for every AI tool they used that they did not relinquish their own thinking — is also a practical transferable-skills exercise: it builds the critical evaluation and metacognitive reflection habits that the ACI model identifies as central to AI Mastery. See [[middle-path-ai-literacy-nurenberg]] for the full audit structure.
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -97,3 +107,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[ai-job-apocalypse-klein]]
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
+- [[middle-path-ai-literacy-nurenberg]]

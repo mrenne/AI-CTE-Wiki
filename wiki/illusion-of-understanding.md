@@ -2,9 +2,9 @@
 
 **Summary**: A source summary and concept page for a 2026 experimental study finding that middle-school students cannot discriminate good from bad AI prompts, cannot evaluate AI answer quality, and rarely engage in any follow-up behavior — suggesting that AI access creates a systematic illusion of understanding that students are unable to detect or correct.
 
-**Sources**: `raw/The Illusion of Understanding.pdf`
+**Sources**: `raw/The Illusion of Understanding.pdf`, `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-05-18
 
 ---
 
@@ -128,6 +128,16 @@ This connects to the "Socratic chatbot paradox" observed in [[evidence-base-ai-k
 
 ---
 
+## Classroom Observation: Metacognition's Absence in Low-Confidence Students
+
+Nurenberg's [[middle-path-ai-literacy-nurenberg]] practitioner account provides corroborating field observation for the study's metacognition finding. In his affluent-school English classroom:
+
+> "Some of my less-confident students never stopped considering LLMs' 'clear' and 'well organized' writing superior to their own, and still hesitated to trust their own readings of literature over 'the answers' ChatGPT offered."
+
+This is the illusion of understanding operating via a different pathway: not epistemic failure from AI fluency alone, but from low metacognitive confidence in one's own judgment combined with AI fluency. The Abdelghani et al. finding that metacognitive regulation is the protective factor (r = 0.30) predicts exactly this: students who don't habitually monitor and trust their own understanding are the most vulnerable to AI deference, regardless of actual subject knowledge.
+
+Nurenberg cannot resolve the tension — he acknowledges struggling with asking students to critically evaluate AI while their own analytic skills are still forming. His practical response (the AI audit) attempts to build metacognitive habits structurally rather than waiting for them to develop spontaneously. The equity implication: less-resourced schools with more students in this lower-confidence profile may find the illusion of understanding harder to address — the very population for whom metacognitive scaffolding is most necessary may be the hardest to reach. (source: Why the Middle Path of AI Literacy May Be the Future of English Class.md)
+
 ## Implications for CTE
 
 The illusion of understanding has specific implications for CTE practice:
@@ -153,3 +163,4 @@ The illusion of understanding has specific implications for CTE practice:
 - [[ai-mastery-continuum]]
 - [[cte-and-ai]]
 - [[ai-in-k12-education]]
+- [[middle-path-ai-literacy-nurenberg]]
