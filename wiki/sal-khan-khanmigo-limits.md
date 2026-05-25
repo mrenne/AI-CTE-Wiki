@@ -59,3 +59,4 @@ The limitations Khan describes map directly onto what [[agentivism]] identifies 
 - [[ai-in-k12-education]]
 - [[applied-co-intelligence-report]]
 - [[evidence-base-ai-k12]]
+- [[building-ai-companions]]

@@ -150,3 +150,4 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[ai-agents-k12-meta-analysis]]
 - [[illusion-of-understanding]]
 - [[middle-path-ai-literacy-nurenberg]]
+- [[building-ai-companions]]

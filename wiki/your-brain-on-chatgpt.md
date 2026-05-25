@@ -116,3 +116,4 @@ The cognitive debt finding in Session 4 provides neurological evidence for [[age
 - [[ai-in-k12-education]]
 - [[transferable-skills]]
 - [[illusion-of-understanding]]
+- [[building-ai-companions]]

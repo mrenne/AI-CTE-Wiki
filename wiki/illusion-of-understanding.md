@@ -164,3 +164,4 @@ The illusion of understanding has specific implications for CTE practice:
 - [[cte-and-ai]]
 - [[ai-in-k12-education]]
 - [[middle-path-ai-literacy-nurenberg]]
+- [[building-ai-companions]]

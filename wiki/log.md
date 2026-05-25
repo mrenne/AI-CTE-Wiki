@@ -353,3 +353,21 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row to Source Summaries table and "AI and Learning Theory" concept table; added new Key Theme on work AI vs. learning AI as different engineering problems
 
 **Total pages created**: 1 | **Total pages updated**: 5
+
+---
+
+## 2026-05-24 — Lint audit
+
+**Findings**: No orphans, no contradictions, no format violations. 4 missing cross-links to `[[building-ai-companions]]` identified in pages written before that source was ingested. README count accurate.
+
+**Cross-links added**:
+- `wiki/illusion-of-understanding.md` — added `[[building-ai-companions]]` (metacognitive calibration is the designed response to the illusion)
+- `wiki/evidence-base-ai-k12.md` — added `[[building-ai-companions]]` (answers Bastani's "science of guardrails" question)
+- `wiki/sal-khan-khanmigo-limits.md` — added `[[building-ai-companions]]` (fullest account of Khanmigo's design failure and redesign)
+- `wiki/your-brain-on-chatgpt.md` — added `[[building-ai-companions]]` (cognitive debt finding is building-ai-companions' empirical foundation)
+
+**Concept gaps flagged (no fix yet — await new sources)**:
+- Metacognition: now prominent in 13+ pages (illusion-of-understanding has 13 occurrences alone); no dedicated page
+- Agentic AI: referenced in applied-co-intelligence-report and cte-and-ai; no dedicated page
+
+**Total pages created**: 0 | **Total pages updated**: 4
