@@ -1,8 +1,8 @@
-# Building AI Companions That Prioritise Learning over Performance
+﻿# Building AI Companions That Prioritise Learning over Performance
 
 **Summary**: A 2026 position paper by Khosravi, Gašević, Yan et al. that names the "learning-performance paradox," establishes a three-foundation framework for educational AI design (Pedagogical, Adaptive, Responsible), and documents what five deployed tutoring systems reveal about the gap between the tutoring systems that feel best and those that teach best.
 
-**Sources**: `raw/Building AI Companions.pdf`
+**Sources**: `raw/PDF/Building AI Companions.pdf`
 
 **Last updated**: 2026-05-24
 

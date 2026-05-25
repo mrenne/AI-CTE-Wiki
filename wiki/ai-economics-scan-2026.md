@@ -1,8 +1,8 @@
-# AI Economics Scan 2026
+﻿# AI Economics Scan 2026
 
 **Summary**: A horizon scan by futurist Bryan Alexander (April 2026) surveying AI's economic landscape across business models, the bubble question, and labor market signals — concluding that signals remain contradictory and it is still "early days" for definitive conclusions.
 
-**Sources**: `raw/The economics of AI in spring 2026.md`
+**Sources**: `raw/blog/The economics of AI in spring 2026.md`
 
 **Last updated**: 2026-04-28
 

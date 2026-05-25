@@ -1,8 +1,8 @@
-# The Education of Sal Khan and the Limits of His Chatbot
+﻿# The Education of Sal Khan and the Limits of His Chatbot
 
 **Summary**: A 2026 Chalkbeat article in which Sal Khan reflects on Khanmigo's disappointing real-world adoption and revises his expectations for AI's role in education.
 
-**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`
 
 **Last updated**: 2026-04-27
 

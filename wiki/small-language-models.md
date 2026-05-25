@@ -1,8 +1,8 @@
-# Small Language Models
+﻿# Small Language Models
 
 **Summary**: AI language models trained on curated, domain-specific datasets rather than the full internet — smaller, cheaper, more customizable, and more privacy-preserving than large language models, with growing potential for institutional educational deployment.
 
-**Sources**: `raw/Can Small Language Models Help K–12 Schools.md`, `raw/SmallLLMs.pdf`
+**Sources**: `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/SmallLLMs.pdf`
 
 **Last updated**: 2026-04-27
 

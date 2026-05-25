@@ -1,8 +1,8 @@
-# Illusion of Understanding (Abdelghani et al., 2026)
+﻿# Illusion of Understanding (Abdelghani et al., 2026)
 
 **Summary**: A source summary and concept page for a 2026 experimental study finding that middle-school students cannot discriminate good from bad AI prompts, cannot evaluate AI answer quality, and rarely engage in any follow-up behavior — suggesting that AI access creates a systematic illusion of understanding that students are unable to detect or correct.
 
-**Sources**: `raw/The Illusion of Understanding.pdf`, `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
+**Sources**: `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
 
 **Last updated**: 2026-05-18
 

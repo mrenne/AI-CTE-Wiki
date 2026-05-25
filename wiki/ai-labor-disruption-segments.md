@@ -1,8 +1,8 @@
-# AI Labor Disruption Segments
+﻿# AI Labor Disruption Segments
 
 **Summary**: BCG Henderson Institute's six-category framework for classifying all US jobs by their exposure to AI — the most granular occupational taxonomy currently available, distinguishing between roles that will be amplified, rebalanced, diverged, substituted, enabled, or left with limited AI exposure.
 
-**Sources**: `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`
+**Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`
 
 **Last updated**: 2026-05-13
 

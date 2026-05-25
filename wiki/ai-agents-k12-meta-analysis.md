@@ -1,8 +1,8 @@
-# AI Agents in K-12: Meta-Analysis of Cognitive Outcomes
+﻿# AI Agents in K-12: Meta-Analysis of Cognitive Outcomes
 
 **Summary**: A 2026 meta-analysis (Liu et al.) synthesizing 34 experimental studies and 73 effect sizes on AI agent effectiveness in K-12 cognitive learning — finding a significant moderate overall effect (g = 0.404), but with effectiveness that varies sharply by grade level (upper-primary strongest; high school near-zero) and subject (language/literacy strong; natural science negative).
 
-**Sources**: `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
+**Sources**: `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
 
 **Last updated**: 2026-05-12
 

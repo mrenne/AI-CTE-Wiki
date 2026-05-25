@@ -1,8 +1,8 @@
-# Stanford HAI AI Index 2026: Chapter 7 — Education
+﻿# Stanford HAI AI Index 2026: Chapter 7 — Education
 
 **Summary**: Stanford HAI's AI Index 2026 Chapter 7 provides the most comprehensive quantitative snapshot of AI in education as of 2026 — covering CS enrollment shifts, student AI use rates, K-12 policy gaps, global comparisons, and AI skill diffusion in the workforce.
 
-**Sources**: `raw/ai_index_report_2026_chapter_7_education.pdf`
+**Sources**: `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`
 
 **Last updated**: 2026-05-13
 

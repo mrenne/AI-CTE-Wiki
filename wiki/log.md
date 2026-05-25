@@ -1,4 +1,4 @@
-# Wiki Log
+﻿# Wiki Log
 
 Append-only record of all operations.
 
@@ -7,9 +7,9 @@ Append-only record of all operations.
 ## 2026-04-25 — Initial ingestion (3 sources)
 
 **Sources ingested**:
-1. `raw/The education of Sal Khan and the limits of his chatbot.md`
-2. `raw/Agentivism.pdf`
-3. `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+1. `raw/blog/The education of Sal Khan and the limits of his chatbot.md`
+2. `raw/PDF/Agentivism.pdf`
+3. `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
 
 **Pages created**:
 
@@ -40,8 +40,8 @@ Append-only record of all operations.
 ## 2026-04-26 — Ingestion (2 sources)
 
 **Sources ingested**:
-1. `raw/AI's 'Delusional Spirals' (and What to Do About Them).md`
-2. `raw/Using LLMs To Improve Workplace Social Skills.md`
+1. `raw/blog/AI's 'Delusional Spirals' (and What to Do About Them).md`
+2. `raw/misc/Using LLMs To Improve Workplace Social Skills.md`
 
 **Pages created**:
 
@@ -66,8 +66,8 @@ Append-only record of all operations.
 ## 2026-04-27 — Ingestion (2 sources)
 
 **Sources ingested**:
-1. `raw/Can Small Language Models Help K–12 Schools.md`
-2. `raw/SmallLLMs.pdf`
+1. `raw/blog/Can Small Language Models Help K–12 Schools.md`
+2. `raw/PDF/SmallLLMs.pdf`
 
 **Pages created**:
 
@@ -90,7 +90,7 @@ Append-only record of all operations.
 ## 2026-04-27 — Ingestion (1 source)
 
 **Sources ingested**:
-1. `raw/The Evidence Base on AI in K-12 Report.pdf`
+1. `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`
 
 **Pages created**:
 
@@ -127,10 +127,10 @@ Append-only record of all operations.
 ## 2026-04-28 — Ingestion (3 sources; 1 source skipped)
 
 **Sources attempted**:
-1. `raw/Your Brain on ChatGPT.pdf` — ingested
-2. `raw/Labor market impacts of AI A new measure and early evidence.md` — ingested
-3. `raw/The economics of AI in spring 2026.md` — ingested
-4. `raw/Dept of Labor AI Literacy Framework.md` — **skipped**: file contains only an embedded image URL with no extractable text content; cannot ingest without visual access to the image
+1. `raw/PDF/Your Brain on ChatGPT.pdf` — ingested
+2. `raw/misc/Labor market impacts of AI A new measure and early evidence.md` — ingested
+3. `raw/blog/The economics of AI in spring 2026.md` — ingested
+4. `raw/misc/Dept of Labor AI Literacy Framework.md` — **skipped**: file contains only an embedded image URL with no extractable text content; cannot ingest without visual access to the image
 
 **Pages created**:
 
@@ -157,9 +157,9 @@ Append-only record of all operations.
 ## 2026-05-04 — Ingestion (3 sources)
 
 **Sources ingested**:
-1. `raw/What will be scarce_.md` — Alex Imas (UChicago Booth), Substack, April 13, 2026
-2. `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md` — Ezra Klein, NYT Opinion, May 3, 2026
-3. `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md` — Columbia Spectator, May 3, 2026
+1. `raw/blog/What will be scarce_.md` — Alex Imas (UChicago Booth), Substack, April 13, 2026
+2. `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md` — Ezra Klein, NYT Opinion, May 3, 2026
+3. `raw/blog/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md` — Columbia Spectator, May 3, 2026
 
 **Pages created**:
 
@@ -186,7 +186,7 @@ Append-only record of all operations.
 ## 2026-05-12 — Ingestion (1 source)
 
 **Sources ingested**:
-1. `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md` — Liu, Mbowe, Tahri & Aziku, *Computers in Human Behavior Reports*, 2026
+1. `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md` — Liu, Mbowe, Tahri & Aziku, *Computers in Human Behavior Reports*, 2026
 
 **Pages created**:
 
@@ -206,8 +206,8 @@ Append-only record of all operations.
 ## 2026-05-12 — Ingestion (2 sources)
 
 **Sources ingested**:
-1. `raw/Apocalypse No.md` — Scott Galloway (profgmedia.com), May 8, 2026
-2. `raw/The Illusion of Understanding.pdf` — Abdelghani, Murayama, Kidd, Sauzéon, Oudeyer; Hector Research Institute / UC Berkeley / Inria Bordeaux; arXiv:2505.01106v2, March 3, 2026
+1. `raw/blog/Apocalypse No.md` — Scott Galloway (profgmedia.com), May 8, 2026
+2. `raw/PDF/The Illusion of Understanding.pdf` — Abdelghani, Murayama, Kidd, Sauzéon, Oudeyer; Hector Research Institute / UC Berkeley / Inria Bordeaux; arXiv:2505.01106v2, March 3, 2026
 
 **Pages created**:
 
@@ -230,8 +230,8 @@ Append-only record of all operations.
 ## 2026-05-13 — Ingestion (2 sources)
 
 **Sources ingested**:
-1. `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf` — BCG Henderson Institute, April 3, 2026; authors: Tomas Chamorro-Premuzic, Rainer Strack, Allison Bailey, Nicolas Dollé, Vinciane Beauchene
-2. `raw/ai_index_report_2026_chapter_7_education.pdf` — Stanford HAI AI Index 2026, Chapter 7: Education; Stanford Institute for Human-Centered Artificial Intelligence
+1. `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf` — BCG Henderson Institute, April 3, 2026; authors: Tomas Chamorro-Premuzic, Rainer Strack, Allison Bailey, Nicolas Dollé, Vinciane Beauchene
+2. `raw/PDF/ai_index_report_2026_chapter_7_education.pdf` — Stanford HAI AI Index 2026, Chapter 7: Education; Stanford Institute for Human-Centered Artificial Intelligence
 
 **Pages created**:
 
@@ -279,10 +279,10 @@ Append-only record of all operations.
 ## 2026-05-18 — Ingestion (1 source)
 
 **Sources ingested**:
-1. `raw/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf` — Fernando E. Alvarez (U Chicago/NBER), David Argente, Joyce Chow, Diana Van Patten (Yale/NBER); NBER Working Paper 35194, May 2026
+1. `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf` — Fernando E. Alvarez (U Chicago/NBER), David Argente, Joyce Chow, Diana Van Patten (Yale/NBER); NBER Working Paper 35194, May 2026
 
 **Two other raw files found but not ingested**:
-- `raw/Dept of Labor AI Literacy Framework.md` — web clipper failure: contains only YAML frontmatter and a JPG image link; no actual text content captured
+- `raw/misc/Dept of Labor AI Literacy Framework.md` — web clipper failure: contains only YAML frontmatter and a JPG image link; no actual text content captured
 - `raw/Why the 'Middle Path' of AI Literacy May Be the Future of English Class.md` — file found by Glob but unreadable by Read tool; likely apostrophe encoding issue in filename; awaiting user action
 
 **Pages created**:
@@ -301,7 +301,7 @@ Append-only record of all operations.
 ## 2026-05-18 — Ingestion (1 source)
 
 **Sources ingested**:
-1. `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md` — David Nurenberg; *The 74* (the74million.org), May 8, 2026; abridged version of forthcoming NCTE *English Journal* Issue 115.6 article
+1. `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md` — David Nurenberg; *The 74* (the74million.org), May 8, 2026; abridged version of forthcoming NCTE *English Journal* Issue 115.6 article
 
 **Pages created**:
 - `wiki/middle-path-ai-literacy-nurenberg.md` — Source summary; three-option frame (ban / freely allow / teach AI literacy); five classroom activities using AI as text (literary analysis, discussion, essay writing, research, note-taking); AI audit replacing bans (demonstrate how tool operates, what gained/lost, accuracy verified, thinking not relinquished); cognitive surrender vs. cognitive offloading distinction; student-discovered sycophancy ("purposely said dumb things"); less-confident students never escaping AI deference; developmental timing argument (can't wait for skills before AI literacy); equity tension; genuine voice as transferable skill; connections to agentivism, illusion-of-understanding, ai-sycophancy, transferable-skills, cognitive-debt
@@ -340,7 +340,7 @@ Append-only record of all operations.
 ## 2026-05-24 — Ingestion (1 source)
 
 **Sources ingested**:
-1. `raw/Building AI Companions.pdf` — Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J.M., Tangen, J.M., Denny, P., DiCerbo, K., Buckingham Shum, S., Baker, R.S. "Building AI Companions that Prioritise Learning over Performance." arXiv:2605.04816v2, May 15, 2026. Authors: University of Queensland, University of Hong Kong, Monash University, Tsinghua University, University of Auckland, Khan Academy, University of Technology Sydney, Columbia University Teachers College.
+1. `raw/PDF/Building AI Companions.pdf` — Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J.M., Tangen, J.M., Denny, P., DiCerbo, K., Buckingham Shum, S., Baker, R.S. "Building AI Companions that Prioritise Learning over Performance." arXiv:2605.04816v2, May 15, 2026. Authors: University of Queensland, University of Hong Kong, Monash University, Tsinghua University, University of Auckland, Khan Academy, University of Technology Sydney, Columbia University Teachers College.
 
 **Pages created**:
 - `wiki/building-ai-companions.md` — Source summary; learning-performance paradox (formal name for the structural mismatch between work AI and learning AI); AI for Work vs. AI for Learning nine-dimension taxonomy (Figure 1); three-foundation framework: Pedagogical (preserve productive struggle, design for transfer), Adaptive (Capture→Model→Adapt→Evolve; metacognitive calibration; RLHL), Responsible Design (security, transparency, accountability, inclusion); five case studies: Khanmigo (Socratic failure and redesign), RiPPLE (80K+ students, IRT adaptive), CodeHelp (withholds solution code), JeepyTA (Socratic discussion + essay feedback), Recast (institutional platform); prompt-level guardrails show near-null effects — architectural design required; Khanmigo finding: interest personalization produces no gains; skill-level mastery is the only useful personalization signal

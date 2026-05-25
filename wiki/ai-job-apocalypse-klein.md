@@ -1,8 +1,8 @@
-# Why the A.I. Job Apocalypse (Probably) Won't Happen
+﻿# Why the A.I. Job Apocalypse (Probably) Won't Happen
 
 **Summary**: A 2026 NYT opinion piece by Ezra Klein synthesizing the relational economy thesis (Imas), the Jevons Paradox applied to AI (accountants after VisiCalc), and his own observation that better AI increases demand for human collaboration — while warning that partial displacement is politically harder to address than mass unemployment, and that relational skills are deteriorating precisely when they matter most.
 
-**Sources**: `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
+**Sources**: `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
 
 **Last updated**: 2026-05-04
 

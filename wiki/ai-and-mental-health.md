@@ -1,8 +1,8 @@
-# AI and Mental Health
+﻿# AI and Mental Health
 
 **Summary**: The double-edged relationship between AI and mental health — AI as a scalable tool for training counseling and therapy skills, and AI as a source of harm through sycophantic amplification of distorted beliefs.
 
-**Sources**: `raw/AI's 'Delusional Spirals' (and What to Do About Them).md`, `raw/Using LLMs To Improve Workplace Social Skills.md`
+**Sources**: `raw/blog/AI's 'Delusional Spirals' (and What to Do About Them).md`, `raw/misc/Using LLMs To Improve Workplace Social Skills.md`
 
 **Last updated**: 2026-04-26
 

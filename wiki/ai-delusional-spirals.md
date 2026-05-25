@@ -1,8 +1,8 @@
-# AI's Delusional Spirals
+﻿# AI's Delusional Spirals
 
 **Summary**: A Stanford study of 19 real human-chatbot conversations identifying how AI sycophancy and endless validation — without pushback — can amplify distorted beliefs into dangerous escalating cycles with serious real-world consequences.
 
-**Sources**: `raw/AI's 'Delusional Spirals' (and What to Do About Them).md`
+**Sources**: `raw/blog/AI's 'Delusional Spirals' (and What to Do About Them).md`
 
 **Last updated**: 2026-04-26
 

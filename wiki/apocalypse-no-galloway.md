@@ -1,8 +1,8 @@
-# Apocalypse No (Galloway)
+﻿# Apocalypse No (Galloway)
 
 **Summary**: Scott Galloway argues that AI job apocalypse narratives are primarily a marketing strategy benefiting those who profit from fear, presents data showing US tech employment has grown and stabilized rather than collapsed, and offers three structural scenarios for how AI will actually reshape the economy.
 
-**Sources**: `raw/Apocalypse No.md`
+**Sources**: `raw/blog/Apocalypse No.md`
 
 **Last updated**: 2026-05-12
 

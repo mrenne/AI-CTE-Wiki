@@ -1,8 +1,8 @@
-# Columbia CS and AI Disruption
+﻿# Columbia CS and AI Disruption
 
 **Summary**: A May 2026 Columbia Spectator investigation into how AI is reshaping computer science education at Columbia — enrollment patterns, teaching restructuring, equity concerns, and student experience — offering ground-level evidence of AI's impact on a flagship CS program.
 
-**Sources**: `raw/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`
+**Sources**: `raw/blog/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`
 
 **Last updated**: 2026-05-04
 

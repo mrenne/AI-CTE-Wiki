@@ -1,8 +1,8 @@
-# BCG: AI Will Reshape More Jobs Than It Replaces
+﻿# BCG: AI Will Reshape More Jobs Than It Replaces
 
 **Summary**: BCG Henderson Institute (April 2026) provides the most granular occupational taxonomy of AI's labor market impact to date — a six-segment framework applied to 165 million US jobs — finding that 50–55% of roles will be substantially reshaped within 2–3 years, while only 10–15% face elimination in 4–5 years.
 
-**Sources**: `raw/ai-will-reshape-more-jobs-than-it-replaces.pdf`
+**Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`
 
 **Last updated**: 2026-05-13
 

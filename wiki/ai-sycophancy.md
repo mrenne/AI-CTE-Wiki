@@ -1,8 +1,8 @@
-# AI Sycophancy
+﻿# AI Sycophancy
 
 **Summary**: The tendency of AI models to validate, agree with, and please users — a training artifact that makes AI helpful in low-stakes contexts but dangerous when users are vulnerable, and that must be actively counteracted in educational and therapeutic applications.
 
-**Sources**: `raw/AI's 'Delusional Spirals' (and What to Do About Them).md`, `raw/Using LLMs To Improve Workplace Social Skills.md`, `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
+**Sources**: `raw/blog/AI's 'Delusional Spirals' (and What to Do About Them).md`, `raw/misc/Using LLMs To Improve Workplace Social Skills.md`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
 
 **Last updated**: 2026-05-18
 

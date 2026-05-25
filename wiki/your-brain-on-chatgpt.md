@@ -1,8 +1,8 @@
-# Your Brain on ChatGPT
+﻿# Your Brain on ChatGPT
 
 **Summary**: An MIT Media Lab study using EEG brain monitoring during essay writing tasks that finds LLM use produces measurably weaker neural connectivity, near-total failure to encode memory of one's own writing, and — after repeated use — a state of "cognitive debt" that impairs independent cognition even after AI is removed.
 
-**Sources**: `raw/Your Brain on ChatGPT.pdf`
+**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`
 
 **Last updated**: 2026-04-28
 

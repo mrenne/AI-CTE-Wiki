@@ -1,8 +1,8 @@
-# Small Models, Big Support
+﻿# Small Models, Big Support
 
 **Summary**: An academic paper demonstrating an end-to-end, locally-deployed educator AI support system using 3B–7B open-source models that achieves near-parity with Gemini 2.5 Pro on semantic similarity while keeping all institutional data on-premises.
 
-**Sources**: `raw/SmallLLMs.pdf`
+**Sources**: `raw/PDF/SmallLLMs.pdf`
 
 **Last updated**: 2026-04-27
 

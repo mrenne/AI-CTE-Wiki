@@ -1,8 +1,8 @@
-# Anthropic Labor Market Index
+﻿# Anthropic Labor Market Index
 
 **Summary**: An Anthropic research report (Massenkoff & McCrory, 2026) introducing *observed exposure* — a new metric combining theoretical LLM capability with actual Claude usage data — and finding no detectable unemployment impact so far, but suggestive evidence that hiring of young workers into AI-exposed occupations has slowed by 14%.
 
-**Sources**: `raw/Labor market impacts of AI A new measure and early evidence.md`
+**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`
 
 **Last updated**: 2026-04-28
 

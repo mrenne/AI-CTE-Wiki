@@ -1,8 +1,8 @@
-# Can Small Language Models Help K–12 Schools?
+﻿# Can Small Language Models Help K–12 Schools?
 
 **Summary**: A 2025 EdTech Magazine article introducing small language models as a cost-effective, safer, and more customizable alternative to LLMs for K–12 education — better suited to the specific, deep knowledge needs of schools than general-purpose AI.
 
-**Sources**: `raw/Can Small Language Models Help K–12 Schools.md`
+**Sources**: `raw/blog/Can Small Language Models Help K–12 Schools.md`
 
 **Last updated**: 2026-04-27
 

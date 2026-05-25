@@ -1,8 +1,8 @@
-# Data Centers and Local Economies in the Age of AI
+﻿# Data Centers and Local Economies in the Age of AI
 
 **Summary**: A May 2026 NBER working paper using shift-share instrumental variables to causally identify how data center construction affects local employment, income, house prices, and electricity prices across 3,100+ US counties from 1995–2020.
 
-**Sources**: `raw/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
+**Sources**: `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
 
 **Last updated**: 2026-05-18
 

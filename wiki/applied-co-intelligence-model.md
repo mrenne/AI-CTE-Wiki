@@ -1,8 +1,8 @@
-# Applied Co-Intelligence Model
+﻿# Applied Co-Intelligence Model
 
 **Summary**: A pedagogical framework for CTE that integrates AI Mastery with Technical Skills and Transferable Skills within a specific occupational context — an extension of Ethan Mollick's co-intelligence concept designed for hands-on, applied learning environments.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
 
 **Last updated**: 2026-04-25
 

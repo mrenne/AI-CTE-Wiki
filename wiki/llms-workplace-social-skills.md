@@ -1,8 +1,8 @@
-# Using LLMs to Improve Workplace Social Skills
+﻿# Using LLMs to Improve Workplace Social Skills
 
 **Summary**: Stanford research showing that AI practice partners with expert-designed personas and AI mentor feedback can build both confidence and competence in social skills like conflict resolution, peer counseling, and therapy — but require deliberate anti-sycophancy design to work.
 
-**Sources**: `raw/Using LLMs To Improve Workplace Social Skills.md`
+**Sources**: `raw/misc/Using LLMs To Improve Workplace Social Skills.md`
 
 **Last updated**: 2026-04-26
 

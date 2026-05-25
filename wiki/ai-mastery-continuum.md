@@ -1,8 +1,8 @@
-# AI Mastery Continuum
+﻿# AI Mastery Continuum
 
 **Summary**: A four-level developmental framework from the Applied Co-Intelligence report for tracking a CTE learner's progression from basic AI awareness to the ability to critique, adapt, and innovate with AI tools within an occupational context.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
 
 **Last updated**: 2026-04-25
 

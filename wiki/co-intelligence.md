@@ -1,8 +1,8 @@
-# Co-Intelligence
+﻿# Co-Intelligence
 
 **Summary**: Ethan Mollick's concept of AI as a collaborative partner rather than a mere tool — the intellectual foundation that the Applied Co-Intelligence model adapts and extends for CTE learners.
 
-**Sources**: `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
 
 **Last updated**: 2026-04-25
 

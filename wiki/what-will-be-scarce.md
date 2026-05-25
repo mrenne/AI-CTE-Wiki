@@ -1,8 +1,8 @@
-# What Will Be Scarce?
+﻿# What Will Be Scarce?
 
 **Summary**: A 2026 Substack essay by University of Chicago economist Alex Imas arguing that AI will trigger a structural shift toward a "relational sector" — where human involvement is the product itself — drawing on structural change economics, mimetic desire theory, and experimental data showing AI undermines the exclusivity premium of goods.
 
-**Sources**: `raw/What will be scarce_.md`
+**Sources**: `raw/blog/What will be scarce_.md`
 
 **Last updated**: 2026-05-04
 

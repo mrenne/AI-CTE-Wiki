@@ -1,8 +1,8 @@
-# Cognitive Debt
+﻿# Cognitive Debt
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/Your Brain on ChatGPT.pdf`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/The Illusion of Understanding.pdf`, `raw/Building AI Companions.pdf`
+**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`
 
 **Last updated**: 2026-05-24
 
