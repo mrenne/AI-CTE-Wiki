@@ -334,3 +334,22 @@ Append-only record of all operations.
 - Agentic AI: referenced in applied-co-intelligence-report and cte-and-ai; no dedicated page
 
 **Total pages created**: 0 | **Total pages updated**: 4
+
+---
+
+## 2026-05-24 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/Building AI Companions.pdf` — Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J.M., Tangen, J.M., Denny, P., DiCerbo, K., Buckingham Shum, S., Baker, R.S. "Building AI Companions that Prioritise Learning over Performance." arXiv:2605.04816v2, May 15, 2026. Authors: University of Queensland, University of Hong Kong, Monash University, Tsinghua University, University of Auckland, Khan Academy, University of Technology Sydney, Columbia University Teachers College.
+
+**Pages created**:
+- `wiki/building-ai-companions.md` — Source summary; learning-performance paradox (formal name for the structural mismatch between work AI and learning AI); AI for Work vs. AI for Learning nine-dimension taxonomy (Figure 1); three-foundation framework: Pedagogical (preserve productive struggle, design for transfer), Adaptive (Capture→Model→Adapt→Evolve; metacognitive calibration; RLHL), Responsible Design (security, transparency, accountability, inclusion); five case studies: Khanmigo (Socratic failure and redesign), RiPPLE (80K+ students, IRT adaptive), CodeHelp (withholds solution code), JeepyTA (Socratic discussion + essay feedback), Recast (institutional platform); prompt-level guardrails show near-null effects — architectural design required; Khanmigo finding: interest personalization produces no gains; skill-level mastery is the only useful personalization signal
+
+**Pages updated**:
+- `wiki/khanmigo.md` — Added "The Socratic Design Failure and Redesign" section: original "You are a Socratic tutor" prompt, rigid GPT interpretation, student frustration and abandonment; three-stage redesign (attempt → hint → worked example with structured engagement); ICAP cognitive engagement framework; interest vs. mastery personalization finding (interest: no gains; mastery placement: effective); added `[[building-ai-companions]]` and `[[cognitive-debt]]` to Related pages; updated Sources and Last updated
+- `wiki/agentivism.md` — Added "Design Successor: Building AI Companions" section: named this paper as applied design successor by same author group (Gašević, Yan); learning-performance paradox as formal label for the performance/learning gap; Agentivism mechanism-to-design-requirement mapping table; prompt-level guardrails are insufficient (architectural, not instructional, fix required); added `[[building-ai-companions]]` to Related pages; updated Sources and Last updated
+- `wiki/ai-tutoring.md` — Added "The Learning-Performance Paradox: A Formal Framing" section with the nine-dimension AI for Work vs. AI for Learning taxonomy table; added "The Three-Foundation Framework for Learning AI" section with Pedagogical, Adaptive (metacognitive calibration, RLHL), and Responsible Design foundations; critical guardrails finding (near-null effects; architectural redesign required); added `[[building-ai-companions]]` and `[[illusion-of-understanding]]` to Related pages; updated Sources and Last updated
+- `wiki/cognitive-debt.md` — Added "The Learning-Performance Paradox: The Named Concept" section: conceptual relationship between cognitive debt (empirical neurological) and learning-performance paradox (named framing + design implication); both converge on task completion ≠ learning; added `[[building-ai-companions]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row to Source Summaries table and "AI and Learning Theory" concept table; added new Key Theme on work AI vs. learning AI as different engineering problems
+
+**Total pages created**: 1 | **Total pages updated**: 5

@@ -2,9 +2,9 @@
 
 **Summary**: The use of AI systems to provide personalized, interactive instruction to students — an approach that has shown limited real-world adoption despite technical promise, and which raises fundamental questions about whether AI-assisted interaction constitutes genuine learning.
 
-**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
+**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/Building AI Companions.pdf`
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-05-24
 
 ---
 
@@ -28,6 +28,35 @@ The [[evidence-base-ai-k12]] report (Stanford SCALE, 2026) reviewed 818 papers a
 - Students struggle to formulate useful questions
 - Even students who engage may do so passively — receiving information without building durable understanding
 - Teacher enthusiasm has been consistently lower than administrator enthusiasm
+
+## The Learning-Performance Paradox: A Formal Framing
+
+The [[building-ai-companions]] paper (Khosravi, Gašević, Yan et al., 2026) formalizes the central problem with AI tutoring as the **learning-performance paradox**: AI tools reliably improve short-term measurable task performance while simultaneously undermining the cognitive processes that produce durable learning — elaboration, productive struggle, memory consolidation, metacognitive monitoring.
+
+This is not a problem of misuse or insufficient motivation. It is a structural mismatch between AI designed for work contexts (where efficiency and output quality are paramount) and learning contexts (where struggle and error processing are the mechanism). The paper's taxonomy makes the conflict explicit:
+
+| Dimension | AI for Work | AI for Learning |
+|-----------|-------------|-----------------|
+| Goal | Task completion / quality output | Durable understanding / transferable capability |
+| Relationship to error | Errors are defects | Errors are diagnostic information |
+| Friction | Minimize friction | Preserve productive struggle |
+| Feedback timing | Immediate, corrective | Timed for learning; may be withheld |
+| Memory | Stateless / session-based | Cumulative longitudinal student model |
+| Success metric | Output quality / efficiency | Retention, transfer, metacognitive growth |
+
+Most AI students use (ChatGPT, Copilot) is built for the left column. Deploying it in learning contexts produces the paradox: better outputs, weaker learning. The question is not whether these tools work but whether they are solving the right problem. (source: Building AI Companions.pdf)
+
+## The Three-Foundation Framework for Learning AI
+
+The same paper proposes three necessary foundations for AI companions that teach rather than merely assist:
+
+**Foundation 1 — Pedagogical**: Learning AI must preserve productive struggle, support metacognitive development, sequence AI support after (not before) foundational capability is established, and design for transfer — not task completion. The standard of success is whether learned capability persists with reduced AI support.
+
+**Foundation 2 — Adaptive**: Effective AI companions require a longitudinal student model built through a Capture → Model → Adapt → Evolve cycle. Key mechanism: **metacognitive calibration** — eliciting expressed confidence, comparing against demonstrated performance, and surfacing the gap between what students think they know and what they demonstrably know. This is the designed response to [[illusion-of-understanding]]. The paper proposes **RLHL (Reinforcement Learning from Human Learning)** as the next-generation approach: continually refining the tutoring policy from student interaction data, optimizing for learning outcomes rather than engagement or satisfaction.
+
+**Foundation 3 — Responsible Design**: Educational AI requires security and privacy protections for longitudinal learning data, transparency about how pedagogical decisions are made, clear accountability for educational consequences, and inclusion design for ELL students, students with disabilities, and students from non-dominant cultural backgrounds. (source: Building AI Companions.pdf)
+
+**Critical finding on guardrails**: Adding Socratic instructions to a general-purpose AI produces near-null learning effects. Prompt-level guardrails are reactive, stateless, and task-level only — they cannot track prior knowledge, distinguish productive struggle from helpless confusion, or adapt across sessions. Effective learning AI requires architectural redesign, not instructional wrapping. This directly answers the Bastani "science of guardrails" question: the solution is not better prompts but different systems. (source: Building AI Companions.pdf)
 
 ## The Learning Theory Problem
 
@@ -134,3 +163,5 @@ The difference between beneficial and harmful AI interaction in these contexts a
 - [[your-brain-on-chatgpt]]
 - [[cognitive-debt]]
 - [[ai-agents-k12-meta-analysis]]
+- [[building-ai-companions]]
+- [[illusion-of-understanding]]

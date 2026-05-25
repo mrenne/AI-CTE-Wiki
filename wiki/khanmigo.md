@@ -2,9 +2,9 @@
 
 **Summary**: Khan Academy's AI-powered tutoring chatbot, built on GPT-4, designed to guide students toward answers through Socratic dialogue — but which has struggled to achieve meaningful adoption among the students who need it most.
 
-**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`
+**Sources**: `raw/The education of Sal Khan and the limits of his chatbot.md`, `raw/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Building AI Companions.pdf`
 
-**Last updated**: 2026-04-27
+**Last updated**: 2026-05-24
 
 ---
 
@@ -43,6 +43,25 @@ This validates Khanmigo's pedagogical design — refusing to give direct answers
 
 Khan Academy overhauled its product to embed Khanmigo directly within practice exercises rather than offering it as a standalone tool. The rationale: "students were not seeking out Khanmigo's help as much as we had hoped." This shift — from passive resource to embedded scaffold — aligns with the [[applied-co-intelligence-model]]'s argument that AI must be integrated into structured tasks, not offered as an optional add-on.
 
+## The Socratic Design Failure and Redesign
+
+The [[building-ai-companions]] paper (Khosravi, Gašević, Yan et al., 2026) provides the fullest documented account of what went wrong inside the original Khanmigo design and how it was fixed.
+
+**Original design**: The system prompt began "You are a Socratic tutor." GPT's literal interpretation was rigid enforcement of the Socratic method — refusing to provide any direct answer regardless of context, responding only with probing questions. Student reaction: widespread frustration and abandonment. Students without prior knowledge of a concept had no basis for answering Socratic questions about it. The design intended to be pedagogically principled was experienced as pedagogically useless.
+
+**The failure mode**: Pure Socratic withholding fails students with low prior knowledge. Guiding questions about concepts the student doesn't yet understand are unanswerable — the student has no internal basis for responding. This is the condition where students most need help, and it was precisely where the original design offered none. (source: Building AI Companions.pdf)
+
+**The redesign**: Khan Academy moved to a three-stage contextual scaffold that matches the student's knowledge state:
+1. Allow the student to attempt the problem first (preserving effort and productive struggle)
+2. If no idea, provide a hint (scaffolded entry point)
+3. If wrong after genuine engagement, provide a worked example — followed by structured follow-up requiring explanation, variation, and transfer
+
+This matches the ICAP cognitive engagement hierarchy (Interactive > Constructive > Active > Passive). The worked-example-with-structured-engagement condition produces equivalent cognitive depth to Socratic dialogue — without requiring the precondition of prior knowledge.
+
+**The personalization finding**: Khan Academy tested two personalization approaches and got an unexpected result. Interest-based personalization — tailoring content to student declared interests — produced **no learning gains**. Skill-level mastery information — identifying exactly where in a knowledge sequence the student is currently stuck — was the only useful personalization signal. Engagement does not produce learning; accurate placement in a knowledge structure does. (source: Building AI Companions.pdf)
+
+**Broader implication**: The design that felt most educationally virtuous (pure Socratic) was the most educationally harmful for students who lacked prior knowledge. The lesson for AI tutoring design: pedagogical intuition requires empirical testing. The [[learning-performance paradox]] operates in both directions — a tool can feel good to use and still fail to teach; a tool can feel frustratingly difficult and still produce the deepest learning.
+
 ## Related pages
 
 - [[sal-khan-khanmigo-limits]]
@@ -51,3 +70,5 @@ Khan Academy overhauled its product to embed Khanmigo directly within practice e
 - [[ai-in-k12-education]]
 - [[applied-co-intelligence-report]]
 - [[evidence-base-ai-k12]]
+- [[building-ai-companions]]
+- [[cognitive-debt]]

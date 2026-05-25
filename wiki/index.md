@@ -29,6 +29,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[stanford-ai-index-education-2026]] | Stanford HAI 2026 Ch. 7: CS enrollment -11%; 80% student AI use; K-12 policy vacuum; ECEP implementation gap        |
 | [[nber-data-centers-local-economies]] | NBER WP 35194 (May 2026): IV evidence that data centers raise local construction employment, income, house prices, and electricity prices |
 | [[middle-path-ai-literacy-nurenberg]] | The 74 / NCTE (May 2026): high school teacher uses AI as curriculum object; AI audits replace bans; students discover sycophancy and voice firsthand |
+| [[building-ai-companions]]         | arXiv 2026 (Khosravi, Gašević, Yan et al.): learning-performance paradox named; AI for Work vs. AI for Learning taxonomy; three-foundation design framework; Khanmigo Socratic failure and redesign |
 |                                    |                                                                                                                       |
 
 ---
@@ -44,6 +45,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[ai-in-k12-education]] | Broad overview of AI's actual vs. promised impact in K-12 schools as of 2026 |
 | [[khanmigo]] | Khan Academy's AI chatbot — the most prominent real-world test of AI tutoring to date |
 | [[cognitive-debt]] | The accumulation of long-term cognitive harm from habitual AI reliance — measurable in EEG brain activity |
+| [[building-ai-companions]] | The learning-performance paradox named; AI for Work vs. AI for Learning taxonomy; three-foundation design framework for tutoring AI |
 
 ### CTE and Workforce
 
@@ -111,3 +113,4 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 - **The K-12 AI policy gap is structural, not accidental**: 80% of students use AI for schoolwork; only 6% of teachers have clear school AI policies; no state has teacher training standards for AI; AP CS excludes AI content; state guidance is nonbinding — students are integrating AI without any institutional literacy framework (see [[stanford-ai-index-education-2026]], [[cte-and-ai]], [[ai-in-k12-education]])
 - **AI infrastructure creates real trade jobs — with distributional costs**: Causal IV evidence from 3,100+ US counties confirms that data center construction raises local construction employment (+7.1%) and income (+8.2%), validating CTE infrastructure pipeline claims — but also raises electricity prices and house prices, with costs falling disproportionately on renters and low-income households (see [[nber-data-centers-local-economies]], [[cte-and-ai]], [[labor-market-polarization]])
 - **AI bans fail; AI audits work**: The most practical secondary-level AI literacy framework in the wiki — students discover sycophancy, voice, and source bias firsthand by studying AI as a curriculum object; the AI audit (demonstrate you did not relinquish your thinking) operationalizes agentivism in a classroom (see [[middle-path-ai-literacy-nurenberg]], [[agentivism]], [[illusion-of-understanding]])
+- **Work AI and learning AI are different engineering problems**: The learning-performance paradox (Khosravi et al.) names the structural mismatch: AI optimized for output quality reliably improves task performance while undermining the productive struggle that produces durable learning; prompt-level guardrails produce near-null effects — effective learning AI requires architectural redesign, not instructional wrapping (see [[building-ai-companions]], [[cognitive-debt]], [[agentivism]], [[khanmigo]])

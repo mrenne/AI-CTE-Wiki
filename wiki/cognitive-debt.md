@@ -2,9 +2,9 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/Your Brain on ChatGPT.pdf`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/The Illusion of Understanding.pdf`
+**Sources**: `raw/Your Brain on ChatGPT.pdf`, `raw/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/The Illusion of Understanding.pdf`, `raw/Building AI Companions.pdf`
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-05-24
 
 ---
 
@@ -114,6 +114,16 @@ The [[columbia-cs-ai-disruption]] article documents a live instance: CS students
 
 The [[relational-economy]] thesis makes this concern economically precise: the sector that absorbs employment as AI commodifies cognitive work is the relational sector, where the human element is the product. Cognitive debt impairs independent cognitive capability; relational debt may impair the capacity for the human presence that the relational economy requires.
 
+## The Learning-Performance Paradox: The Named Concept
+
+Khosravi, Gašević, Yan et al. (2026) in [[building-ai-companions]] formalize cognitive debt's mechanism under the name **learning-performance paradox**: AI tools reliably improve short-term measurable performance while simultaneously undermining the cognitive processes required for durable learning. The paradox captures something cognitive debt's empirical grounding leaves implicit: this is not a bug in AI deployment but a structural consequence of using work AI (optimized for output quality and efficiency) in learning contexts (where productive struggle and error processing are the mechanism of growth).
+
+The conceptual relationship:
+- **Cognitive debt** (Kosmyna et al.): the empirical, neurological, longitudinal manifestation — accumulated over months, measurable in EEG, persistent after AI is removed
+- **Learning-performance paradox** (Khosravi et al.): the named framing and design implication — why AI tutoring that feels effective produces the paradox, and what architectural design must therefore do differently
+
+Both converge on the same core finding: task completion is not learning, and AI that optimizes for task completion actively suppresses the processes that produce learning. (source: Building AI Companions.pdf)
+
 ## The Illusion of Understanding: A Metacognitive Cousin
 
 Abdelghani et al. (2026) document a related but distinct phenomenon in the [[illusion-of-understanding]] study: middle-schoolers completing science tasks with ChatGPT could not discriminate good prompts from bad (d' at chance), could not evaluate AI answer quality (d' at chance), and rarely asked follow-up questions (only 14 of 63 students). Average task success was M = 0.51 — chance level.
@@ -148,3 +158,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[columbia-cs-ai-disruption]]
 - [[illusion-of-understanding]]
 - [[middle-path-ai-literacy-nurenberg]]
+- [[building-ai-companions]]

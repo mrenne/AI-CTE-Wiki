@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 learning theory by Yan and Gašević that defines learning in the AI era as durable human capability growth through selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced AI support.
 
-**Sources**: `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/The Illusion of Understanding.pdf`, `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
+**Sources**: `raw/Agentivism.pdf`, `raw/The Evidence Base on AI in K-12 Report.pdf`, `raw/Your Brain on ChatGPT.pdf`, `raw/The Illusion of Understanding.pdf`, `raw/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/Building AI Companions.pdf`
 
-**Last updated**: 2026-05-18
+**Last updated**: 2026-05-24
 
 ---
 
@@ -87,6 +87,23 @@ The paper identifies four structural changes:
 - **Pedagogy**: Tasks should preserve learner responsibility for problem framing, criteria articulation, evidence comparison, and explanation of why outputs are appropriate.
 - **Design**: Interface design, institutional norms, and acceptable-delegation policies shape whether learners remain genuinely agentic.
 
+## Design Successor: Building AI Companions
+
+Agentivism defines what learning requires in the AI age — theoretically. The [[building-ai-companions]] paper (Khosravi, Gašević, Yan et al., 2026) is its direct applied successor, by the same core author group (Gašević, Yan). Where Agentivism provides a learning theory, Building AI Companions specifies what that theory demands of engineering and design.
+
+The paper formalizes the gap between assisted performance and durable capability growth as the **learning-performance paradox**: AI tools optimized for efficiency and output quality reliably improve short-term measurable performance while undermining the cognitive processes required for durable learning — elaboration, productive struggle, memory consolidation, metacognitive monitoring. This is not a misuse problem; it is a structural mismatch between work AI and learning AI.
+
+The Agentivism-to-design mapping:
+
+| Agentivism mechanism | Design requirement (Building AI Companions) |
+|---------------------|---------------------------------------------|
+| Selective delegation | AI must withhold answers until learner has attempted (Khanmigo redesign three-stage scaffold) |
+| Epistemic monitoring | Metacognitive calibration: surface the gap between expressed confidence and actual performance |
+| Reconstructive internalization | Worked-example follow-up requires explanation, variation, transfer — not just exposure |
+| Transfer under reduced support | Prompt-level guardrails are insufficient; architectural adaptive modeling is required |
+
+The paper's finding on prompt-level guardrails is particularly significant for Agentivism's propositions: adding Socratic instructions to a general-purpose AI does not produce Agentivism-compliant behavior. It produces rigid question-asking that fails students with low prior knowledge. Mechanisms 1–4 require architectural design, not instructional wrapping. (source: Building AI Companions.pdf)
+
 ## Connections to Other Sources
 
 The [[khanmigo]] failure documented in [[sal-khan-khanmigo-limits]] is a real-world illustration: students using AI as a passive lookup tool engage in no epistemic monitoring or reconstructive internalization and achieve no transfer. The [[applied-co-intelligence-model]]'s [[ai-mastery-continuum]] maps closely onto Agentivism's mechanisms — progression from passive use (Literacy) through active verification (Fluency/Agency) to independent critique (Mastery).
@@ -105,3 +122,4 @@ Nurenberg's [[middle-path-ai-literacy-nurenberg]] classroom account provides a c
 - [[your-brain-on-chatgpt]]
 - [[illusion-of-understanding]]
 - [[middle-path-ai-literacy-nurenberg]]
+- [[building-ai-companions]]
