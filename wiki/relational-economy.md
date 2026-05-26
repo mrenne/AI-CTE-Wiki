@@ -2,9 +2,9 @@
 
 **Summary**: The economic theory that AI-driven automation will not eliminate work but relocate scarcity — shifting employment and expenditure from commodity production into a "relational sector" where human involvement is inseparable from the value of the good or service.
 
-**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
+**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
 
-**Last updated**: 2026-05-18
+**Last updated**: 2026-05-25
 
 ---
 
@@ -125,6 +125,18 @@ The relational economy thesis has direct implications for [[cte-and-ai]]:
 
 4. **AI may help the relational sector, not threaten it.** Klein's personal observation: the better his AI got, the more he wanted from the humans in his life. AI as a complement to human relationships rather than a substitute for them is the optimistic version of the relational economy — and it is consistent with the Jevons Paradox logic.
 
+## The Independence Era: A Structural Complement
+
+Sinead Bovell ([[sinead-bovell-job-market]], 2026) adds a dimension to the relational economy thesis that Imas does not address: the **form** of work may change as much as the sector. As task unbundling breaks fixed job roles into fluid skill configurations, work increasingly organizes around independent contracts rather than full-time employment.
+
+This is structurally complementary to the relational economy prediction:
+
+- The relational sector is characterized by Baumol's cost disease — it resists productivity scaling, so labor remains central
+- Independent contracting is the natural form for relational work: a nurse, a coach, a therapist, or a skilled tradesperson can offer their skills to multiple clients or contexts without requiring institutional employment
+- Lifelong learning — Bovell's structural requirement for an entrepreneurial workforce — is precisely the posture the relational economy requires: human workers whose advantage over AI compounds as their relational skill and contextual judgment deepen
+
+The risk Bovell identifies is that the transition from employment to independent contracting could strip workers of benefits, bargaining power, and economic security unless policy deliberately rebuilds those protections outside of the employment relationship. The relational economy thesis predicts *where* labor demand will grow; the independence era thesis describes the *institutional form* that growth may take — and the structural vulnerabilities that form creates. (source: The Job Market Is Going Away.md)
+
 ## The Infrastructure Economy as Relational Economy Complement
 
 The NBER data centers paper ([[nber-data-centers-local-economies]]) adds an empirical dimension to the relational economy thesis: the physical infrastructure enabling AI is itself a site of human labor that is resistant to automation. The IV evidence shows that data center construction creates durable local employment concentrated in trades — electricians, HVAC, plumbers — precisely the CTE-pipeline occupations with high physical presence requirements and contextual judgment demands.
@@ -143,3 +155,4 @@ This reinforces the relational economy framework from a different angle: the rel
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[nber-data-centers-local-economies]]
+- [[sinead-bovell-job-market]]

@@ -371,3 +371,22 @@ Append-only record of all operations.
 - Agentic AI: referenced in applied-co-intelligence-report and cte-and-ai; no dedicated page
 
 **Total pages created**: 0 | **Total pages updated**: 4
+
+---
+
+## 2026-05-25 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md` — Sinead Bovell, YouTube (I've Got Questions), April 2, 2026; video transcript; futurist and strategic foresight adviser; https://www.youtube.com/watch?v=4whdDIco06c
+
+**Pages created**:
+- `wiki/sinead-bovell-job-market.md` — Source summary; task unbundling as core mechanism (AI automates tasks within jobs, not jobs themselves); skills > job titles as organizing principle; financial analyst → financial strategist evolution example; the independence era (entrepreneurial/project-based work, independent contracts); pre/post-AI skill-dominance shift; transition risk (jobs may disappear faster than new work emerges); power asymmetry as structural threat requiring policy response; AI-as-intern frame (frame, evaluate, give feedback, understand limits); AI agent architect as emerging occupation; relationship table mapping Bovell's claims to existing wiki pages
+
+**Pages updated**:
+- `wiki/labor-market-polarization.md` — Added "Task Unbundling: The Mechanism Behind Polarization" section: narrative grounding for BCG Divergent segment; fixed job titles becoming obsolete; skill credentials more durable than task credentials; added "The Independence Era: Structural Shift in Work's Form" section: project-based entrepreneurial work, independent contracts, power asymmetry risk; added `[[sinead-bovell-job-market]]` to Related pages; updated Sources and Last updated
+- `wiki/transferable-skills.md` — Added "The Pre/Post-AI Skill-Dominance Shift" section: competitive advantage migrates from procedural mastery to judgment/communication/framing; AI-as-intern frame as concrete manifestation of transferable skills in practice; added `[[sinead-bovell-job-market]]` to Related pages; updated Sources and Last updated
+- `wiki/cte-and-ai.md` — Added "Task Unbundling and the Skills-Based Credential Imperative" section: unbundling logic applied to CTE fields (HVAC, medical assistant); implication that procedural credentials have shorter shelf-lives; AI agent architect as emerging CTE-adjacent occupation; institutional agility as CTE's asset for tracking new role categories; added `[[sinead-bovell-job-market]]` to Related pages; updated Sources and Last updated
+- `wiki/relational-economy.md` — Added "The Independence Era: A Structural Complement" section: project-based independent contracting as natural form for relational work; lifelong learning as structural requirement; policy risk of benefits/bargaining power erosion; added `[[sinead-bovell-job-market]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added new Key Theme on task unbundling and the independence era
+
+**Total pages created**: 1 | **Total pages updated**: 5

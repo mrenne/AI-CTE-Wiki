@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
 
-**Last updated**: 2026-05-18
+**Last updated**: 2026-05-25
 
 ---
 
@@ -89,6 +89,22 @@ This is a classroom-level demonstration of the [[relational-economy]] argument: 
 
 The **AI audit** Nurenberg uses — requiring students to demonstrate for every AI tool they used that they did not relinquish their own thinking — is also a practical transferable-skills exercise: it builds the critical evaluation and metacognitive reflection habits that the ACI model identifies as central to AI Mastery. See [[middle-path-ai-literacy-nurenberg]] for the full audit structure.
 
+## The Pre/Post-AI Skill-Dominance Shift
+
+Sinead Bovell ([[sinead-bovell-job-market]], 2026) sharpens the transferable skills argument with a specific claim about competitive differentiation: **the skills that made you dominant before AI are not the same skills that make you dominant after AI**.
+
+> "Before AI, that financial analyst was the number cruncher. After AI, well, they have to be much more about the problem solver... your communication skills, your judgment on weighing the different trade-offs... it becomes even more challenging."
+
+This is more precise than the general claim that "transferable skills matter." It identifies a within-role shift: the *competitive advantage* within any given field migrates from procedural mastery (the tasks AI can now handle) toward judgment, framing, communication, and ethical reasoning — the tasks AI still handles poorly.
+
+The implication for CTE credentialing: a credential that signals technical procedural competence has a shorter half-life than one that signals judgment and communication competence, because the latter is what AI most reliably cannot replicate as roles evolve through task unbundling. Technical skills remain necessary for entry — but they are increasingly insufficient for advancement. The differentiating skill layer shifts upward.
+
+Bovell also introduces the **AI-as-intern** frame as a practical description of what transferable skills look like in practice:
+
+> "You can think of AI in your role like an intern. If you were to give an intern instructions, you would have to frame the problem properly... evaluate its work, give it feedback."
+
+Managing an intern requires exactly the skills the ACI model and BCG framework identify as automation-resistant: communication, critical judgment, problem framing, and ability to evaluate quality. This frame is useful precisely because it grounds abstract competency claims in a social relationship workers already understand. (source: The Job Market Is Going Away.md)
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -108,3 +124,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[middle-path-ai-literacy-nurenberg]]
+- [[sinead-bovell-job-market]]

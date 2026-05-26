@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
 
-**Last updated**: 2026-05-18
+**Last updated**: 2026-05-25
 
 ---
 
@@ -84,6 +84,20 @@ CTE primarily serves students in grades 9–14 — exactly the age range where e
 
 Subject-level findings also matter for CTE: language/literacy (g = 0.830) and skills-based learning (g = 0.391) show the strongest effects; natural science (g = −0.065) shows no benefit. CTE programs with strong science content (healthcare, agriculture, environmental tech) should be particularly cautious about claims that AI interventions improve cognitive outcomes.
 
+## Task Unbundling and the Skills-Based Credential Imperative
+
+Sinead Bovell ([[sinead-bovell-job-market]], 2026) frames the mechanism of AI-era labor disruption in terms directly relevant to CTE program design: **task unbundling**, not job elimination, is the primary AI-era labor market dynamic.
+
+When AI takes over six of ten tasks within a financial analyst's day, the role doesn't disappear — it evolves toward financial strategist. The same logic applies across CTE fields: an HVAC technician whose diagnostic tasks are partially AI-assisted still needs the physical dexterity, contextual judgment, and client communication skills that AI cannot replicate. A medical assistant whose documentation is automated needs stronger clinical reasoning and empathic interaction skills to fill the expanded human-contact time.
+
+The implication for CTE credential design:
+
+- **Technical credentials that certify specific procedural tasks** have shorter shelf-lives as AI automates those tasks first
+- **Credentials that certify a configuration of judgment, communication, and adaptable technical reasoning** are more durable — because those are the tasks that remain after unbundling
+- Bovell explicitly argues that the workforce becomes organized around skills rather than fixed job titles — the exact direction the ACI model's [[ai-mastery-continuum]] points toward
+
+Bovell also notes that new work is already emerging: "AI agent architect" roles — workers who build automated workflows by connecting AI systems across organizational functions — represent an early example of AI-era occupations that didn't exist three years ago. CTE's institutional agility (industry advisory boards, rapid curriculum updates) is its strongest asset for tracking and responding to these emerging role categories. (source: The Job Market Is Going Away.md)
+
 ## BCG Confirmation: CTE Sectors Occupy the Protected 57%
 
 BCG Henderson Institute's six-segment analysis (April 2026) provides the strongest quantitative validation to date of the claim that CTE-trained sectors are structurally positioned for the AI transition. The analysis covers 1,500 US occupational roles across 165 million workers.
@@ -142,3 +156,4 @@ The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-mo
 - [[ai-labor-disruption-segments]]
 - [[stanford-ai-index-education-2026]]
 - [[nber-data-centers-local-economies]]
+- [[sinead-bovell-job-market]]

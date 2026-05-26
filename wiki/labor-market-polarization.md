@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
 
-**Last updated**: 2026-05-18
+**Last updated**: 2026-05-25
 
 ---
 
@@ -107,6 +107,30 @@ The NBER data centers paper ([[nber-data-centers-local-economies]]) illustrates 
 
 This is polarization in miniature: the AI infrastructure buildout generates genuine local employment, but the gains and costs are distributed along fault lines that track existing inequality. The bottom of the income distribution faces proportionally higher cost burdens. This pattern is likely to generalize beyond data centers to other AI-infrastructure investments. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
+## Task Unbundling: The Mechanism Behind Polarization
+
+Sinead Bovell ([[sinead-bovell-job-market]], 2026) provides the clearest narrative account of how polarization actually operates at the job level — naming the mechanism **task unbundling**:
+
+> "AI isn't capable of automating an entire workflow. At least not yet. But what it can do is automate tasks within a job."
+
+The worked example: a financial analyst with ten daily tasks. If AI handles six effectively, the role doesn't disappear — it evolves. The remaining four tasks (problem framing, trade-off evaluation, client communication, strategic judgment) become the new core of a role that increasingly resembles a **financial strategist**. Two years later, AI learns new tricks, and the strategist role evolves again.
+
+This is the task-polarization framework made concrete: the routine/procedural tasks within any role get automated first; the judgment, communication, and contextual tasks remain and grow in relative importance. BCG's "Divergent" segment ([[ai-labor-disruption-segments]]) formalizes exactly this pattern — junior tasks automated while senior judgment roles persist.
+
+The implication for the learn-work-retire model: fixed job titles become unreliable anchors. A role description that is accurate today may not describe what the worker actually does in three years. The workforce reorganizes around **skills rather than job titles** — an observation with direct implications for how CTE programs design credentials. A credential tied to a specific technical task has a shorter shelf-life than a credential tied to a durable skill configuration. (source: The Job Market Is Going Away.md)
+
+## The Independence Era: Structural Shift in Work's Form
+
+Task unbundling drives a parallel structural change in how work is organized. Bovell predicts a shift from full-time employment toward an **independence era** of entrepreneurial, project-based work:
+
+> "Is a company going to hire for a full-time role or much more likely to hire an independent contract because they know that the person who's best for the tasks that need to be completed today may not have the skills for the task that need to be completed in a couple years."
+
+The projected pattern: workers offer their skills to multiple clients simultaneously — 40% with one company, 40% with another, with independent projects filling the gaps. Work becomes project-based. Benefits and protections historically tied to full-time employment need to migrate to the individual, not the job.
+
+This is structurally consistent with the [[relational-economy]] argument — the expanding sector of the economy is one where workers provide human presence, judgment, and relationship, not fungible cognitive output. But it adds a form dimension: not just *what* work becomes economically valuable, but *how* it is organized. Lifelong skill development stops being a career strategy and becomes a structural economic requirement for participation.
+
+Bovell flags the power asymmetry risk: in an independent-contract economy without deliberate policy intervention, workers have no bargaining power, no benefits structure, and no protection against being treated as "dispensable short-term pieces of labor." The transition can be participatory or exclusionary — the difference depends on policy choices made now. (source: The Job Market Is Going Away.md)
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -127,3 +151,4 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[nber-data-centers-local-economies]]
+- [[sinead-bovell-job-market]]
