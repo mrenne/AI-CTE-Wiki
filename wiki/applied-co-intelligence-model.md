@@ -2,9 +2,9 @@
 
 **Summary**: A pedagogical framework for CTE that integrates AI Mastery with Technical Skills and Transferable Skills within a specific occupational context — an extension of Ethan Mollick's co-intelligence concept designed for hands-on, applied learning environments.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
 
-**Last updated**: 2026-04-25
+**Last updated**: 2026-05-27
 
 ---
 
@@ -51,9 +51,28 @@ The ACI model and [[agentivism]] are convergent frameworks. Agentivism provides 
 
 The report explicitly argues against stand-alone AI certification programs as the primary vehicle for building co-intelligence in CTE. AI is not a subject to be learned in a vacuum — it is a tool to be mastered in the context of doing the work. An integrated approach teaches learners how to *think with AI* in their chosen profession (source: Applied-Co-Intelligence PDF).
 
+Tom Pigg (Jackson State Community College) reinforces this from the practitioner side: incumbent workers are actively requesting AI education, but standalone AI courses fail them. Students and workers must encounter AI within their occupational context to understand where it helps, where it fails, and what human judgment is actually doing (source: Preparing CTE Learners for an AI-Driven Workforce webinar).
+
+## Technology Is Not Destiny
+
+The [[cte-futures-aci-webinar]] (February 2026) situates the ACI model within a political-economy argument drawn from Daron Acemoglu and Simon Johnson's *Power and Progress* (2023):
+
+> "Technology is not destiny. The path that technology takes is a result of human choices and countervailing forces. The ACI model is our countervailing force."
+
+Acemoglu and Johnson argue that AI's effects on workers are not fixed by the technology itself — they depend on which institutions and stakeholders make choices about how AI is deployed. Historically, labor market outcomes favorable to workers have required deliberate institutional action against default patterns of technological adoption. The ACI model positions CTE institutions as that countervailing actor: rather than waiting for AI to reshape work and responding afterward, CTE programs that implement the ACI framework are actively shaping the conditions under which workers encounter AI.
+
+This framing also implies a caution: without deliberate countervailing action, AI's default trajectory in the workforce favors those who already hold power — employers who can deploy AI to reduce headcount, or high-skill workers who capture AI productivity gains. CTE's historically underserved populations are the most exposed to the default trajectory. (source: Preparing CTE Learners for an AI-Driven Workforce webinar)
+
+## CLNA as Implementation Vehicle
+
+A concrete policy mechanism for ACI implementation surfaces in the webinar: the **Comprehensive Local Needs Assessment (CLNA)**, required under the Perkins V federal funding framework. The CLNA mandates that CTE programs assess workforce needs, engage employers, and document gaps.
+
+Rather than building new institutional structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. The CLNA creates an already-authorized mechanism for ongoing AI curriculum alignment — the gap is not authority, it is practice. Programs currently treating the CLNA as a compliance exercise would need to reframe it as the primary vehicle for real-time industry-alignment work (source: Preparing CTE Learners for an AI-Driven Workforce webinar).
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
+- [[cte-futures-aci-webinar]]
 - [[ai-mastery-continuum]]
 - [[transferable-skills]]
 - [[co-intelligence]]

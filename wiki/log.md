@@ -390,3 +390,21 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added new Key Theme on task unbundling and the independence era
 
 **Total pages created**: 1 | **Total pages updated**: 5
+
+---
+
+## 2026-05-27 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md` — CTE Futures, ACTE, Advance CTE; February 23, 2026 webinar; presenter: Dr. Cameron Sublett (Foundation for California Community Colleges / CTE Futures); panelists: Lauren Mason, Alisha Hyslop (ACTE chief policy officer), Kate Kreamer (Advance CTE executive director), Michael Tinsley (Tennessee Board of Regents), Dr. Tom Pigg (Jackson State Community College). Video companion to the Applied Co-Intelligence report.
+
+**Pages created**:
+- `wiki/cte-futures-aci-webinar.md` — Source summary; "skill economy not job economy yet" framing; Acemoglu & Johnson *Power and Progress* citation — ACI as countervailing force; National Career Clusters Framework update: Digital Technology added as crosscutting cluster with data science/AI subcluster, designed to integrate across every sector pathway; CLNA (Comprehensive Local Needs Assessment, Perkins V) as existing policy vehicle for continuous employer alignment; traditional advisory board/curriculum cycles insufficient at AI's pace; four obstacles confirmed by practitioners with symmetric alignment crisis (employers confused too); incumbent worker demand signal; "AI is not going to fix it for you" — failure modes in occupational contexts; standalone AI courses insufficient; relationship table mapping to existing wiki pages
+
+**Pages updated**:
+- `wiki/applied-co-intelligence-model.md` — Added "Technology Is Not Destiny" section: Acemoglu/Johnson *Power and Progress* argument; ACI as countervailing force; default trajectory favors employers and high-skill workers without deliberate institutional action; added "CLNA as Implementation Vehicle" section: Perkins V existing mandate repurposed for continuous AI curriculum alignment; expanded Stand-Alone vs. Integrated section with Pigg practitioner voice; added `[[cte-futures-aci-webinar]]` to Related pages; updated Sources and Last updated
+- `wiki/applied-co-intelligence-report.md` — Added "Webinar Companion" section: key additive content from the video (skill economy framing, Acemoglu anchor, CLNA, Digital Technology crosscutting cluster, symmetric alignment crisis, incumbent worker demand); added `[[cte-futures-aci-webinar]]` to Related pages; updated Sources and Last updated
+- `wiki/cte-and-ai.md` — Added Digital Technology crosscutting cluster update to "What is CTE?" section; added [[cte-futures-aci-webinar]] to "Applied Co-Intelligence Response" section with CLNA and countervailing force framing; added `[[cte-futures-aci-webinar]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added two new Key Themes on technology is not destiny and skill economy before job economy
+
+**Total pages created**: 1 | **Total pages updated**: 4

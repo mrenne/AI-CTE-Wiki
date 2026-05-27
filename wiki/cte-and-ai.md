@@ -2,15 +2,17 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-05-27
 
 ---
 
 ## What is CTE?
 
 Career and Technical Education (CTE) prepares learners for high-skill, high-demand careers through applied learning, hands-on technical skills, and industry-aligned credentials. It spans middle school through community college and serves a wide range of occupational fields. The National Career Clusters Framework (updated by Advance CTE in fall 2024) organizes CTE into 14 clusters across six groupings: Building & Moving, Cultivating Resources, Caring for Communities, Creating & Experiencing, Managing & Connecting, and Digital Technology.
+
+A significant structural update to the National Career Clusters Framework — reported by Advance CTE Executive Director Kate Kreamer in the February 2026 [[cte-futures-aci-webinar]] — added **Digital Technology as a crosscutting cluster**, alongside Health Science and Education. Unlike standard sector clusters, crosscutting clusters are designed to integrate *across every other pathway sector* rather than serve as standalone tracks. A data science and AI subcluster sits within Digital Technology. This architecture embeds the [[applied-co-intelligence-model]]'s integration imperative into the national framework: AI and data skills are not a separate CTE domain but a capability layer that runs through healthcare, construction, hospitality, agriculture, and every other sector. (source: Preparing CTE Learners for an AI-Driven Workforce webinar)
 
 CTE evolved from vocational education — historically associated with tracking low-income students and students of color into terminal, low-skill programs — into a modernized pathway. Contemporary CTE is associated with higher graduation rates, college enrollment, and strong early wage outcomes. However, the legacy of stratification persists: race, income, and gender are still highly predictive of which CTE fields students pursue (source: Applied-Co-Intelligence PDF).
 
@@ -131,6 +133,8 @@ The new CSTA K-12 Computer Science Standards (expected summer 2026) will integra
 
 The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-model]] as the framework for preparing CTE learners: integrating AI Mastery (via the [[ai-mastery-continuum]]) with Technical and Transferable Skills within occupational contexts. Key implementation challenges include the alignment crisis between educators and industry, the human capital gap among faculty, structural policy patchworks, and a near-total absence of longitudinal evidence.
 
+The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *countervailing force* in the Acemoglu & Johnson sense — deliberate institutional action to shape AI's workforce trajectory rather than reactive adaptation. Practitioners confirm that the alignment crisis is symmetric: both educators and employers are uncertain, not just educators. Incumbent workers are actively requesting AI education, creating demand signal that most programs are not equipped to meet. The CLNA (Comprehensive Local Needs Assessment, required under Perkins V) is identified as an existing policy vehicle for continuous employer alignment — repurposing an existing mandate rather than building new infrastructure.
+
 ## Policy Context
 
 - Trump Executive Order on Advancing AI Education for America's Youth (2025): advocates AI literacy and proficiency in schools
@@ -157,3 +161,4 @@ The [[applied-co-intelligence-report]] proposes the [[applied-co-intelligence-mo
 - [[stanford-ai-index-education-2026]]
 - [[nber-data-centers-local-economies]]
 - [[sinead-bovell-job-market]]
+- [[cte-futures-aci-webinar]]

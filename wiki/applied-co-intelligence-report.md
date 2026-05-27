@@ -2,9 +2,9 @@
 
 **Summary**: A February 2026 policy and practice report from CTE Futures proposing the Applied Co-Intelligence model — a framework for preparing CTE learners by integrating AI Mastery with technical and transferable skills within occupational contexts.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
 
-**Last updated**: 2026-04-25
+**Last updated**: 2026-05-27
 
 ---
 
@@ -104,9 +104,21 @@ The report illustrates Applied Co-Intelligence through a CNA student named Maya,
 
 > "Working with AI is not just making a prompt on ChatGPT, it's really more complex than that." — Daniel Doppler, Quicktext
 
+## Webinar Companion
+
+A February 23, 2026 webinar ([[cte-futures-aci-webinar]]) presenting the report to practitioners added several dimensions not present in the written text:
+
+- **"Skill economy, not job economy yet"** — Sublett's precise framing of where AI disruption stands as of early 2026: reorganizing which skills matter, not yet eliminating jobs at scale
+- **Acemoglu & Johnson as anchor**: ACI explicitly framed as a "countervailing force" in the *Power and Progress* sense — not reactive adaptation but deliberate institutional action to shape AI's trajectory
+- **CLNA as implementation vehicle**: The Perkins V Comprehensive Local Needs Assessment identified as the existing policy mechanism to operationalize continuous employer alignment (no new authority needed, changed practice required)
+- **Digital Technology as crosscutting cluster**: Kate Kreamer reports that Advance CTE added Digital Technology — with a data science/AI subcluster — as a crosscutting cluster in the National Career Clusters Framework, alongside Health Science and Education, with explicit intent to integrate it across all other sector pathways
+- **Employer confusion is symmetric**: Practitioners confirm that employers are "confused too" — the alignment crisis is not CTE's failure to read a clear employer signal; it is a genuine shared uncertainty about AI's workforce trajectory
+- **Incumbent worker demand**: Employees already in the workforce are actively requesting AI education, creating urgent demand that most programs are not yet equipped to meet
+
 ## Related pages
 
 - [[applied-co-intelligence-model]]
+- [[cte-futures-aci-webinar]]
 - [[ai-mastery-continuum]]
 - [[cte-and-ai]]
 - [[labor-market-polarization]]
