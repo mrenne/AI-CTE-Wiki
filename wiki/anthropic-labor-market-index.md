@@ -4,7 +4,7 @@
 
 **Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`
 
-**Last updated**: 2026-04-28
+**Last updated**: 2026-05-29
 
 ---
 
@@ -103,6 +103,18 @@ The report's findings have several implications for how AI's labor market effect
 
 4. **Monitoring requires ongoing measurement.** The Anthropic Economic Index approach — periodically measuring actual usage and mapping it to occupations — is more informative than static theoretical capability assessments. As AI capabilities and adoption evolve, exposure rankings will shift.
 
+## Methodological Caveat: The WFH Confound
+
+Lambert & Schindler ([[broken-ladder]], May 2026) raise a first-order challenge to the attribution of young-worker hiring declines to GenAI — one that directly applies to this paper's 14% finding.
+
+Their core observation: **WFH exposure and GenAI exposure have a Spearman rank correlation of 0.77 across O\*NET occupations.** The same occupations hit hardest by GenAI (software developers, management consultants, financial analysts) are also the most remote-capable. Single-treatment designs that estimate GenAI exposure alone will pick up WFH effects as a confound.
+
+In their joint-treatment difference-in-differences across 243 million hires and 407 million job postings (US, UK, Canada, Australia, 2017–2025): when WFH and GenAI exposure enter simultaneously, the WFH coefficient is stable and significant; the GenAI coefficient attenuates heavily and is often statistically indistinguishable from zero. Using actual WFH adoption (not just exposure) produces the same result. Multiple robustness exercises — non-parametric co-treatment controls, selection-on-unobservables diagnostics, Monte Carlo measurement-error simulations — preserve the WFH-dominant pattern.
+
+The Massenkoff & McCrory paper uses a different design (unemployment stocks via CPS, not junior hire shares via résumé data) and a different measure (observed Claude exposure, not theoretical Eloundou exposure), so the two papers are not directly testing the same specification. But the WFH confound is a genuine concern for any design that uses occupational exposure variation to attribute effects to AI. The authors themselves note that their young-worker hiring finding is "just barely statistically significant" and may reflect "alternative explanations (tariffs, immigration policy, general economic uncertainty)" — WFH adoption is the most structurally motivated of those alternatives.
+
+**Working synthesis**: The early-career hiring slowdown is empirically real and documented in multiple data sources. Whether WFH or GenAI (or both) is the primary driver remains actively contested. The Lambert & Schindler finding is cause for optimism — WFH's organizational frictions around junior development are surmountable through better management practice, whereas a GenAI-driven effect would require more structural policy remedies. (source: The Broken Ladder.pdf)
+
 ## Related pages
 
 - [[labor-market-polarization]]
@@ -112,3 +124,4 @@ The report's findings have several implications for how AI's labor market effect
 - [[transferable-skills]]
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
+- [[broken-ladder]]

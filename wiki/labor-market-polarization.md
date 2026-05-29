@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-05-29
 
 ---
 
@@ -131,6 +131,22 @@ This is structurally consistent with the [[relational-economy]] argument — the
 
 Bovell flags the power asymmetry risk: in an independent-contract economy without deliberate policy intervention, workers have no bargaining power, no benefits structure, and no protection against being treated as "dispensable short-term pieces of labor." The transition can be participatory or exclusionary — the difference depends on policy choices made now. (source: The Job Market Is Going Away.md)
 
+## The WFH Confound: Rethinking the Entry-Level Hiring Decline
+
+Lambert & Schindler ([[broken-ladder]], May 2026) introduce a methodological complication that directly affects how the junior-hiring decline should be interpreted.
+
+**The problem**: WFH exposure and GenAI exposure have a Spearman rank correlation of 0.77 across O\*NET occupations. Software developers, management consultants, and financial analysts sit at the top of *both* rankings; electricians, janitors, and construction laborers sit at the bottom of *both*. This means any single-treatment design that uses occupational exposure variation to attribute the junior-hiring decline to GenAI will also pick up WFH effects.
+
+**The empirical test**: Using 243 million new hires and 407 million job postings across four countries (2017–2025), Lambert & Schindler estimate WFH and GenAI exposure jointly. Single-treatment: both predict ~5pp fall in junior-share of hires per 2sd increase. Joint-treatment: the WFH coefficient holds (−1.42 to −1.57pp); the GenAI coefficient attenuates to −0.41 to −0.45pp and is often statistically insignificant. The same pattern holds using actual WFH adoption at the firm level, alternative exposure measures, non-parametric co-treatment controls, and Monte Carlo measurement-error simulations.
+
+**The mechanism for WFH**: remote work raises supervision costs (monitoring, feedback, and skill transfer are harder remotely) and slows on-the-job learning rates (proximity effects on feedback are especially large for younger workers). Both reduce the firm's expected return from investing in junior talent. Senior-to-junior wage premia have widened with WFH exposure; junior replacement rates have fallen — both consistent with the WFH mechanism rather than task automation.
+
+**The implication for this wiki's entry-level narrative**: Several pages have framed the 14% young-worker hiring slowdown (Anthropic) and BCG's Divergent-segment pipeline problem as AI-driven. These patterns are empirically real, but their attribution to GenAI specifically is now contested. The jury is still out — Lambert & Schindler scope to 2025 (early in GenAI adoption) and acknowledge their findings bear only on junior vs. senior hiring ratios, not total employment levels.
+
+**The CTE-sector reinforcement**: The occupational rankings in The Broken Ladder are directly relevant to the protected-sector thesis. Electricians, construction workers, and other CTE-track occupations sit at the bottom of *both* WFH and GenAI exposure rankings — doubly insulated from both post-pandemic shocks. This provides additional structural support for the claim that CTE-aligned workers face lower near-term disruption from both AI and organizational change.
+
+**The optimism argument**: If WFH is driving the junior-hiring decline, the organizational frictions are surmountable through better management practice (hybrid onboarding protocols, structured remote mentoring, deliberate junior development practices). If GenAI is the driver, more structural policy interventions would be required. The diagnosis changes the remedy. (source: The Broken Ladder.pdf)
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -152,3 +168,4 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[ai-labor-disruption-segments]]
 - [[nber-data-centers-local-economies]]
 - [[sinead-bovell-job-market]]
+- [[broken-ladder]]

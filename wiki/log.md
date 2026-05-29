@@ -408,3 +408,21 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added two new Key Themes on technology is not destiny and skill economy before job economy
 
 **Total pages created**: 1 | **Total pages updated**: 4
+
+---
+
+## 2026-05-29 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/PDF/The Broken Ladder.pdf` — Peter John Lambert (University of Warwick & LSE) & Yannick Schindler (Ellison Institute of Technology, Oxford); May 2026 working paper. Correspondence: p.j.lambert@lse.ac.uk. Funded by ESRC via CAGE (Warwick) and Centre for Economic Performance (LSE).
+
+**Pages created**:
+- `wiki/broken-ladder.md` — Source summary; central claim: WFH is the more robust predictor of the early-career hiring decline, not GenAI; data: 243M new hires + 407M job postings, US/UK/Canada/Australia 2017–2025; WFH/GenAI Spearman rank correlation of 0.77 across O*NET occupations; joint-treatment DiD: WFH coefficient stable (−1.42 to −1.57pp), GenAI attenuates to near-zero and often insignificant; actual WFH adoption design confirms result; formal model: WFH raises supervision costs and lowers learning rates → reduced junior hiring share; robustness: non-parametric co-treatment controls, selection-on-unobservables (WFH RV 3–5× larger than GenAI RV), Monte Carlo measurement-error simulations, alternative exposure measures, leave-one-out by occupation and country; scope caveats: covers only junior vs. senior ratio up to 2025, does not address mass unemployment; optimism argument: WFH frictions are surmountable via managerial practice; relationship table mapping to existing wiki pages
+
+**Pages updated**:
+- `wiki/anthropic-labor-market-index.md` — Added "Methodological Caveat: The WFH Confound" section: Lambert & Schindler's challenge to AI attribution of 14% young-worker hiring slowdown; design differences between the two papers; working synthesis (decline is real; attribution contested); added `[[broken-ladder]]` to Related pages; updated Last updated
+- `wiki/labor-market-polarization.md` — Added "The WFH Confound: Rethinking the Entry-Level Hiring Decline" section: 0.77 rank correlation between WFH and GenAI exposure; joint-treatment DiD results; WFH mechanism (supervision costs + learning rates); caveat on prior wiki framing; CTE double-insulation finding (bottom of both rankings); optimism argument; added `[[broken-ladder]]` to Related pages; updated Sources and Last updated
+- `wiki/cte-and-ai.md` — Added WFH confound caveat to BCG Confirmation section; noted that CTE occupations sit at the bottom of both WFH and GenAI exposure rankings (doubly insulated); added `[[broken-ladder]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added two new Key Themes on contested AI attribution and CTE double insulation
+
+**Total pages created**: 1 | **Total pages updated**: 4

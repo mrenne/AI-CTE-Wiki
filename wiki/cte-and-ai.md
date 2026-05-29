@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-05-29
 
 ---
 
@@ -112,6 +112,8 @@ BCG Henderson Institute's six-segment analysis (April 2026) provides the stronge
 
 **The entry-level concentration finding** is the key risk to monitor: BCG's Divergent segment (12%) shows that within professional roles, AI automates junior tasks first while senior roles persist. The 14% young-worker hiring slowdown from [[anthropic-labor-market-index]] is the labor market consequence. CTE students entering knowledge-adjacent roles may find their entry-level starting points compressed precisely when they need them most. This makes the quality of CTE program-to-career transitions especially important to track.
 
+**A methodological caveat on the attribution**: Lambert & Schindler ([[broken-ladder]], May 2026) challenge whether this entry-level decline is primarily AI-driven. Using 243 million hires across four countries (2017–2025), they find that WFH exposure and GenAI exposure have a 0.77 Spearman rank correlation across occupations — and in joint-treatment specifications, the WFH coefficient is stable while the GenAI coefficient attenuates to near-zero. The decline in junior hiring may be primarily a consequence of remote work's organizational frictions (harder supervision, slower on-the-job learning) rather than task automation per se. Crucially for CTE: electricians and construction workers sit at the *bottom* of both WFH and GenAI exposure rankings — doubly insulated from both post-pandemic shocks. The CTE protected-sector thesis gains structural confirmation from an unexpected direction. (source: The Broken Ladder.pdf)
+
 See [[ai-labor-disruption-segments]] for the full six-segment framework and [[bcg-ai-reshapes-jobs]] for the source summary.
 
 ## Stanford AI Index: The K-12 AI Policy Gap
@@ -162,3 +164,4 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - [[nber-data-centers-local-economies]]
 - [[sinead-bovell-job-market]]
 - [[cte-futures-aci-webinar]]
+- [[broken-ladder]]
