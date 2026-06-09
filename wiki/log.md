@@ -426,3 +426,19 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added two new Key Themes on contested AI attribution and CTE double insulation
 
 **Total pages created**: 1 | **Total pages updated**: 4
+
+---
+
+## 2026-06-09 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md` — The New York Times video, June 3, 2026; ~4 minutes; Bay Area, California; graduating high school seniors in a construction trades program discussing their trade pivot as an AI hedge.
+
+**Pages created**:
+- `wiki/nyt-teens-trade-classes.md` — Source summary; first primary journalistic evidence in the wiki of student-level behavioral response to AI anxiety; Bay Area class of 2026 articulating physical-presence insulation argument independently; CTE as discovery pathway (95%+ had never used tools before; choice required the program to exist); California 2021 construction grant doubling as structural precondition; six-figure wage narrative arriving via social media; trade stigma persists — family/cultural pressure especially strong for immigrant families; "no path is safe" as the underlying psychological frame of the COVID generation; relationship table mapping to existing wiki claims
+
+**Pages updated**:
+- `wiki/cte-and-ai.md` — Added "Student Behavioral Response: The Class of 2026" section: AI hedge argument articulated by students; CTE as discovery mechanism; trade stigma as the binding constraint; generalized economic anxiety framing; added `[[nyt-teens-trade-classes]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added new Key Theme on the trade pivot and CTE exposure as the mechanism
+
+**Total pages created**: 1 | **Total pages updated**: 2

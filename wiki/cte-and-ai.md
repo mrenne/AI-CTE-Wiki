@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`
 
-**Last updated**: 2026-05-29
+**Last updated**: 2026-06-09
 
 ---
 
@@ -116,6 +116,23 @@ BCG Henderson Institute's six-segment analysis (April 2026) provides the stronge
 
 See [[ai-labor-disruption-segments]] for the full six-segment framework and [[bcg-ai-reshapes-jobs]] for the source summary.
 
+## Student Behavioral Response: The Class of 2026
+
+The New York Times ([[nyt-teens-trade-classes]], June 2026) provides the first primary journalistic evidence in this wiki that the protected-sector thesis is producing measurable behavioral change at the student level. The setting is the Bay Area — the self-described "AI capital" — where graduating seniors in 2026 are explicitly choosing trades as an AI hedge.
+
+**The insulation argument, from students:**
+> "A.I. is not going to build a home. A.I. isn't going to weld anything either."
+
+> "I don't have any friends that are really wanting to go into the tech industry at all because of A.I."
+
+Students are independently arriving at the same conclusion that BCG's Limited-Exposure framework and Lambert & Schindler's [[broken-ladder]] double-insulation finding formalize: physical-presence, hands-on work is structurally protected from the post-pandemic shocks that are reorganizing white-collar employment. This behavioral shift is occurring in the place where AI's disruption of professional work is most immediately visible.
+
+**CTE as discovery, not default:** The construction teacher's testimony is critical — over 95% of students had never used tools before taking the class; nearly 100% had never used a power tool. One student: "I had no idea this class existed. I didn't even really consider construction seriously until I took this class." CTE programs are the discovery mechanism that creates the choice set. Students cannot choose pathways they haven't encountered, which means California's 2021 doubling of construction trades grants was not just a labor market supply response — it was the structural precondition for this cohort having trades as a viable option.
+
+**Trade stigma persists as the binding constraint:** Despite the AI hedge argument and six-figure wage data, the barrier is cultural and family-driven. Immigrant families are placing especially heavy pressure toward four-year degrees even when students have found genuine aptitude and interest. "They're supportive. They're just a little disappointed that I'm not going to college." Teachers observe parents resisting trade paths for students who have demonstrated real skill: "They think it is less than." No policy investment fully resolves this — it requires changing the narrative about what CTE prepares students *for*, not just what it protects them *from*.
+
+**The psychological frame — "no path is safe":** The underlying affect of this cohort is not confidence in trades but generalized economic anxiety: "If your plan is not future-proof, the world is going to eat you." Students who grew up in the pandemic and watched the tech industry restructure are performing risk arbitrage across a landscape they perceive as uniformly unstable. The trade pivot is a calculated hedge, not an aspiration — which makes the [[applied-co-intelligence-model]]'s framing of CTE as preparation for an affirmatively valuable relational economy, rather than a fallback from disruption, especially important for enrollment and persistence. (source: These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md)
+
 ## Stanford AI Index: The K-12 AI Policy Gap
 
 The Stanford HAI AI Index 2026 Chapter 7 ([[stanford-ai-index-education-2026]]) quantifies a structural implementation failure in K-12 AI education that directly affects CTE:
@@ -165,3 +182,4 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - [[sinead-bovell-job-market]]
 - [[cte-futures-aci-webinar]]
 - [[broken-ladder]]
+- [[nyt-teens-trade-classes]]
