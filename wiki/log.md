@@ -482,3 +482,21 @@ Append-only record of all operations.
 - Added third schools/policy bullet: AI equity as cultural representation problem beyond infrastructure; indigenous data; data sovereignty
 
 **Total pages created**: 0 | **Total pages updated**: 6 (broken-ladder, cognitive-debt, ai-in-k12-education, cte-and-ai, labor-market-polarization, README)
+
+---
+
+## 2026-06-10 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/blog/AI is making you faster AND slower, better AND worse at your job.md` — Dr. Philippa Hardman, Substack, June 3, 2026. Synthesizes Demirer, Musolff & Yang (2026) study of 100,000+ GitHub developers across three AI tool generations into a five-effects taxonomy for AI's actual workplace impact. First source in the wiki grounded in large-scale workplace productivity data. Cited by Murgatroyd (source 27) as essential reading.
+
+**Pages created**:
+- `wiki/hardman-ai-faster-slower.md` — Source summary; five-effects taxonomy: (1) Faster creation (+228% to +740% production velocity); (2) Only ~20% more shipped — productivity funnel (740% code → 65% more reviews → 20% more shipped); (3) More complex (upstream cheaper, downstream heavier); (4) Lower average quality (AI reproduces common practice, not best practice; quality drag mechanism); (5) Better — only when aimed high in the chain with scaffolded domain-specific design; "enter high in the chain" strategic principle; organizational failure rates (MIT NANDA 95%, RAND 80%, Gartner 60%); P&G/NBER 1+AI≈2-person team; anthropomorphism warning (Kropp et al., 2026 — "AI buddy/mentor" framing makes reviewers sloppier); five practical strategies; relationship table mapping to existing wiki claims
+
+**Pages updated**:
+- `wiki/building-ai-companions.md` — Added "Workplace-Scale Validation: The Five-Effects Taxonomy" section: productivity funnel as workplace analog to learning-performance paradox; "enter high in the chain" principle validates architectural argument over prompt guardrails; quality drag mechanism as the organizational manifestation of the learning-performance paradox; Effect 5 corroborates the high-chain design goal; added `[[hardman-ai-faster-slower]]` to Related pages; updated Sources and Last updated
+- `wiki/evidence-base-ai-k12.md` — Added "Organizational Evidence: The Productivity Funnel" section: 740%→20% productivity funnel; MIT NANDA 95%, RAND 80%, Gartner 60% organizational failure rates; "enter high in the chain" principle applied to educational AI deployment; added `[[hardman-ai-faster-slower]]` to Related pages; updated Sources
+- `wiki/ai-sycophancy.md` — Added "The Anthropomorphism Effect: A Compounding Mechanism" section: Kropp et al. (2026) — "AI buddy/mentor" framing makes reviewers measurably sloppier; distinct from sycophancy but compounds it; maximum reduction in epistemic monitoring when both operate; educational framing implications; added `[[hardman-ai-faster-slower]]` and `[[building-ai-companions]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added three new Key Themes (productivity funnel, "enter high in chain," anthropomorphism compounding sycophancy)
+
+**Total pages created**: 1 | **Total pages updated**: 4

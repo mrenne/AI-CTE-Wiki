@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Twenty-seven sources ingested so far, producing 43 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Twenty-eight sources ingested so far, producing 44 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 
@@ -25,6 +25,8 @@ Twenty-seven sources ingested so far, producing 43 interlinked wiki pages. The p
 **AI tutoring has barely worked, and it may be the wrong tool for high schoolers.** Khanmigo underperformed its adoption targets because students who most need help are least likely to seek it out. A 2026 meta-analysis of 34 experimental studies (Liu et al.) found near-zero cognitive benefit for grades 10–12 (g = 0.037) while upper-primary students benefited substantially (g = 0.877). The core CTE population is in the grade range where AI educational interventions show the weakest evidence.
 
 **The clearest positive evidence is for teachers, not students.** Educator-facing AI tools — especially real-time coaching during lessons — show the most consistent causal benefits, with the largest gains for novice teachers. This is where AI investment in schools is best supported by evidence.
+
+**AI boosts production speed dramatically but converts only marginally to shipped output.** Demirer, Musolff & Yang (2026), tracking 100,000+ GitHub developers across three AI tool generations, find a consistent productivity funnel: +740% code produced → +65% review requests → only ~20% more shipped releases. Every human-dependent review stage absorbs the gain before it converts to finished output. At the organizational level: ~95% of companies see no meaningful return from GenAI (MIT NANDA, 2025); 80% of AI projects fail — twice the rate of comparable non-AI projects (RAND, 2025). The bottleneck is not AI capability; it is human review and integration capacity. The same funnel operates in education: AI dramatically raises output volume while durable learning gains drain through reading, retrieval, and transfer. The strategic implication — "enter high in the chain" — means AI aimed at feedback, metacognitive calibration, and teacher coaching (where cognitive consolidation lives) outperforms AI aimed at content generation. The same technology, aimed at a different stage, produces the opposite result.
 
 **Oral defense is the answer to both cognitive debt and AI detection.** Murgatroyd (2026) and Nurenberg (2026) independently converge on the same classroom solution: design assessment so that understanding must be demonstrated in real time, rather than trying to detect AI-generated artifacts after the fact. Murgatroyd's "Build, Analyze, Defend" scaffold — produce something with AI, interrogate it critically, then defend it orally — maps directly onto the Agentivism framework and makes AI detection irrelevant. AI detection software does not work reliably; institutions relying on it are now losing court cases filed by students falsely accused of academic misconduct.
 

@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 position paper by Khosravi, Gašević, Yan et al. that names the "learning-performance paradox," establishes a three-foundation framework for educational AI design (Pedagogical, Adaptive, Responsible), and documents what five deployed tutoring systems reveal about the gap between the tutoring systems that feel best and those that teach best.
 
-**Sources**: `raw/PDF/Building AI Companions.pdf`
+**Sources**: `raw/PDF/Building AI Companions.pdf`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`
 
-**Last updated**: 2026-05-24
+**Last updated**: 2026-06-10
 
 ---
 
@@ -157,6 +157,20 @@ A Socratic guardrail added to ChatGPT produces the same failure Khanmigo's initi
 
 ---
 
+## Workplace-Scale Validation: The Five-Effects Taxonomy
+
+[[hardman-ai-faster-slower]] (Hardman, 2026) provides the largest-scale empirical validation in the wiki for this paper's core architecture argument, drawn from Demirer, Musolff & Yang (2026) — 100,000+ GitHub developers tracked across three AI tool generations.
+
+**The productivity funnel maps exactly to the learning-performance paradox.** At work: +740% code produced → +65% review requests → only ~20% more shipped. In education: AI boosts task completion dramatically while durable learning gains drain away through every stage of human cognitive consolidation. The mechanism is structurally identical — rapid AI-assisted production enters a human-dependent attenuation process, and the bottleneck is the human stages downstream, not the AI-assisted production upstream.
+
+**The "enter high in the chain" principle directly validates this paper's architectural argument.** Hardman's finding: "A modest tool that enters high in the production chain beats a powerful tool that enters low, because its gains have fewer human-dependent stages left to drain through." Applied to learning: a general-purpose chatbot with prompt-level Socratic guardrails enters low in the learning chain — at content generation — and drains all gains through reading, retrieval, reflection, and transfer. A purpose-built learning AI (adaptive learner modeling, metacognitive calibration, Socratic scaffolding timed to the learner's knowledge state) enters high — at the stages where cognitive consolidation lives. This is exactly what the three-foundation framework specifies architecturally and what the Khanmigo case study demonstrates empirically.
+
+**Effect 4's quality drag mechanism is the workplace analog to the learning-performance paradox.** Hardman: "Generic AI confidently reproduces the most common version of whatever you ask for — weak on depth, context, and judgement." This is not a different phenomenon from the paradox; it is the same AI-optimization artifact operating in the production domain rather than the learning domain. AI optimized for output produces output at the expense of depth.
+
+**Effect 5 (better) corroborates the high-chain design goal.** Hardman's evidence for genuine quality improvement — EduPlanner multi-agent systems with domain-specific rubrics, ARCHED human-centred ID framework, knowledge-enhanced GPT-4 with stepwise self-critique — all share the property this paper identifies: scaffolded, domain-specific, architecturally designed AI targeting the high-value stages of the work chain. Prompt guardrails on a general-purpose model do not appear in Effect 5. (source: AI is making you faster AND slower.md)
+
+---
+
 ## Relationship to This Wiki
 
 This paper is the most comprehensive design synthesis in the wiki on what AI tutoring needs to be — as distinct from what it currently is. Its relationships:
@@ -183,3 +197,4 @@ This paper is the most comprehensive design synthesis in the wiki on what AI tut
 - [[applied-co-intelligence-report]]
 - [[ai-mastery-continuum]]
 - [[middle-path-ai-literacy-nurenberg]]
+- [[hardman-ai-faster-slower]]
