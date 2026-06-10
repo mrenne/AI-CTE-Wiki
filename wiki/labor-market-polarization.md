@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
 
-**Last updated**: 2026-05-29
+**Last updated**: 2026-06-10
 
 ---
 
@@ -147,6 +147,14 @@ Lambert & Schindler ([[broken-ladder]], May 2026) introduce a methodological com
 
 **The optimism argument**: If WFH is driving the junior-hiring decline, the organizational frictions are surmountable through better management practice (hybrid onboarding protocols, structured remote mentoring, deliberate junior development practices). If GenAI is the driver, more structural policy interventions would be required. The diagnosis changes the remedy. (source: The Broken Ladder.pdf)
 
+## Adaptive Employer Responses: Hiring Directly from High School
+
+An early signal of how employers are responding to the entry-level pipeline disruption: Murgatroyd ([[ai-unplugged-murgatroyd]], 2026) reports that Deloitte and Shopify are now hiring directly from high school, explicitly preferring to train young workers rather than wait for university or college credentialing.
+
+> "One of the interesting developments is that the large accounting companies like Deloitte are now hiring direct from high school because they'd rather train a young person than let them go to university or college. Shopify is also doing the same thing."
+
+This is a practitioner-level observation rather than published research, but it is structurally consistent with the entry-level analysis across this wiki. If AI is automating the procedural tasks that junior university-trained workers historically performed, the economic case for paying graduate wage premiums weakens — while the case for hiring motivated young workers and training them in firm-specific tools and workflows grows stronger. This is the [[sinead-bovell-job-market]] skills-over-credentials argument applied to large employers rather than independent contractors: the shift is not confined to gig work. (source: New Book Podcast: AI Unplugged.md)
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -169,3 +177,4 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[nber-data-centers-local-economies]]
 - [[sinead-bovell-job-market]]
 - [[broken-ladder]]
+- [[ai-unplugged-murgatroyd]]

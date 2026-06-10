@@ -2,9 +2,9 @@
 
 **Summary**: The cluster of cost, data privacy, infrastructure, and policy barriers that prevent schools and colleges from adopting AI — and the emerging strategies (local SLM deployment, elastic policies, fellowship programs) for overcoming them equitably.
 
-**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
 
-**Last updated**: 2026-04-27
+**Last updated**: 2026-06-10
 
 ---
 
@@ -60,6 +60,31 @@ CTE institutions — often community colleges and technical schools serving dive
 
 The [[small-models-big-support]] research demonstrates that the technical barriers are more surmountable than they appear: a locally-deployed 7B model on consumer hardware can support educator workflows effectively. The remaining barriers are policy, funding, and institutional will — all human choices, not technical inevitabilities.
 
+## International Perspective: Canada's Equity and Access Challenge
+
+Dr. Stephen Murgatroyd ([[ai-unplugged-murgatroyd]], 2026) provides the most specific access equity data in the wiki for a G7 country:
+
+- **650,000 Canadian households** (~4% of the population) have no internet access — concentrated in northern indigenous and rural communities (northern Ontario, Quebec, Manitoba, BC, Alberta)
+- **Canada ranks among the 5 most expensive jurisdictions globally** for mobile phone and broadband costs — making even basic AI access a significant household expense
+- Many powerful AI tools require payment: "Even $20/month is a huge amount of money if you don't have it." Murgatroyd estimates his own annual AI/technology/software costs at ~$5,000 — and notes most teachers neither have that money nor should be expected to pay it
+- As AI companies move toward profitability, tool costs will increase: "Some of them haven't made any money so far" — meaning the access gap will likely widen, not close, as commercial AI matures
+
+The Canadian figures likely understate the severity of the access problem in lower-income countries. The concentration in indigenous and rural northern communities is not incidental — it reflects historical patterns of infrastructure underinvestment that AI adoption inherits rather than remedies. (source: New Book Podcast: AI Unplugged.md)
+
+## Western Cultural Bias and Indigenous Data Sovereignty
+
+Murgatroyd identifies a structural dimension of AI inequity that goes beyond access: the cultural bias embedded in AI training data.
+
+> "A lot of the AI slop is based on a kind of western imperialist colonialist cultural view. If you talk to ChatGPT or Gemini about how the treaties got written and made and signed and agreed to in Canada, it's basically nonsense."
+
+This is not primarily a hallucination problem — it is a training data representation problem. AI systems trained predominantly on English-language, Western-origin text produce outputs that reflect those cultural perspectives, misrepresent or erase non-Western knowledge systems, and may actively harm communities whose histories and practices are poorly represented.
+
+His proposed structural response is **data sovereignty**: locally deployed AI systems built on locally controlled data, rather than cloud-based systems trained on predominantly Western corpora. He is advising an indigenous LMS provider in British Columbia whose systems use local, personal sovereign data — addressing both the privacy concern and the cultural accuracy problem simultaneously.
+
+**Case study — Treaty 8 school, northern Alberta**: A northern Alberta indigenous school in Treaty 8 territory cannot find teachers or educational assistants. AI is being used as a necessity, not a luxury enhancement. They are co-designing learning supports with students and teachers in Cree language, based on indigenous storytelling, with indigenous cultural resources attached. This reframes the equity conversation: for communities that colonial resource allocation has left without human educational capacity, locally designed AI is not a risk to be managed but the only available infrastructure. (source: New Book Podcast: AI Unplugged.md)
+
+The data sovereignty argument reinforces the [[small-language-models]] case for local deployment — but extends it beyond privacy and cost to cultural self-determination. Open-weight models under institutional control, trained on locally relevant data, are the technical mechanism; indigenous and community governance of that data is the institutional requirement.
+
 ## Related pages
 
 - [[small-language-models]]
@@ -68,3 +93,4 @@ The [[small-models-big-support]] research demonstrates that the technical barrie
 - [[applied-co-intelligence-report]]
 - [[cte-and-ai]]
 - [[ai-in-k12-education]]
+- [[ai-unplugged-murgatroyd]]

@@ -442,3 +442,22 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added new Key Theme on the trade pivot and CTE exposure as the mechanism
 
 **Total pages created**: 1 | **Total pages updated**: 2
+
+---
+
+## 2026-06-10 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md` — MindShare TV podcast, June 4, 2026; host: Robert Merloti; guest: Dr. Stephen Murgatroyd (University of Alberta, education futurist); discussing *AI Unplugged: The Hype and Hope in Education Futures* (Routledge, co-authored with John-Claude Couture), his 50th book. First Canadian/non-US source in the wiki.
+
+**Pages created**:
+- `wiki/ai-unplugged-murgatroyd.md` — Source summary; historical edtech skepticism ("we've had this conversation since 1927"); interregnum framing for the current transition; "build, analyze, defend" assessment scaffold that maps to agentivism mechanisms and renders AI detection moot; AI detection software legal liability (court cases of students suing); students as knowledgeable participants (Toronto BLDP); teacher working conditions as real adoption constraint (Alberta 10-week strike); Canadian equity/access data (650K households offline, 5 most expensive globally for broadband); western/colonial bias in AI outputs; data sovereignty response; Treaty 8 indigenous school case (AI as necessity, Cree language learning supports); Deloitte/Shopify hiring direct from high school; ecosystem framing for school's role
+
+**Pages updated**:
+- `wiki/ai-privacy-and-institutional-adoption.md` — Added "International Perspective: Canada's Equity and Access Challenge" section (650K households, cost data, teacher tool cost); added "Western Cultural Bias and Indigenous Data Sovereignty" section (colonial bias in AI, data sovereignty, BC indigenous LMS, Treaty 8 case study); added `[[ai-unplugged-murgatroyd]]` to Related pages; updated Sources and Last updated
+- `wiki/evidence-base-ai-k12.md` — Added "AI Detection Software: Ineffective and Legally Risky" section (legal liability, false accusations, court cases); added "Assessment Redesign: Build → Analyze → Defend" section (scaffold mapped to agentivism; portfolio assessment; 50-year apprenticeship framing); added `[[ai-unplugged-murgatroyd]]` to Related pages; updated Sources and Last updated
+- `wiki/labor-market-polarization.md` — Added "Adaptive Employer Responses: Hiring Directly from High School" section (Deloitte, Shopify; skills-over-credentials shift in large employers); added `[[ai-unplugged-murgatroyd]]` to Related pages; updated Sources and Last updated
+- `wiki/agentivism.md` — Added "build, analyze, defend" scaffold as second classroom operationalization of agentivism mechanisms, alongside Nurenberg's AI audit; added `[[ai-unplugged-murgatroyd]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added two new Key Themes on oral defense/AI detection and cultural bias/data sovereignty
+
+**Total pages created**: 1 | **Total pages updated**: 5

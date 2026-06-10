@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 systematic review by Stanford SCALE of 818 papers on AI in K–12 education — only 20 meet the bar for strong causal evidence, and zero are high-quality causal studies of student learning in U.S. K–12 settings.
 
-**Sources**: `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/The Illusion of Understanding.pdf`
+**Sources**: `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-06-10
 
 ---
 
@@ -95,6 +95,30 @@ Unlike earlier education technologies, AI blurs the boundary between purpose-bui
 The SAFE AI Companions Task Force (EDSAFE AI Alliance, 2026) organized a research agenda around five topics: mandated reporting, student data privacy, prosocial design and use, learning sciences and pedagogy, and benchmarking.
 
 This connects directly to the [[ai-delusional-spirals]] findings: unguided, emotionally responsive AI can amplify distorted beliefs in vulnerable users — a risk category that includes adolescents.
+
+## AI Detection Software: Ineffective and Legally Risky
+
+A practical implication for school leaders that goes beyond the research evidence: AI detection software should not be used as a primary enforcement mechanism. Murgatroyd ([[ai-unplugged-murgatroyd]], 2026) makes the sharpest formulation of this point available in the wiki:
+
+> "AI detection software doesn't work. You're actually opening yourself to legal jeopardy. There are lots of cases where students are suing the school system or the university or college for falsely accusing them of plagiarism and academic misconduct."
+
+The research literature confirms the unreliability premise — detection tools produce significant false positive rates, especially for non-native English speakers and students who have adopted direct, clear writing styles. Murgatroyd adds a legal liability angle: false accusation of academic misconduct based on faulty detection tools creates actionable discrimination claims that institutions are beginning to lose in court.
+
+The correct response is assessment redesign, not better detection: design assessments so that AI substitution is either irrelevant (oral defense, live demonstration, process artifacts) or self-evidently traceable (portfolios with revision history, defended presentations). This aligns directly with the "build, analyze, defend" scaffold described below. (source: New Book Podcast: AI Unplugged.md)
+
+## Assessment Redesign: "Build → Analyze → Defend"
+
+The most concrete practitioner-level assessment scaffold in the wiki comes from Murgatroyd ([[ai-unplugged-murgatroyd]], 2026). His three-stage framework:
+
+1. **Build**: Students produce work — essay, project, analysis — with whatever AI assistance they choose
+2. **Analyze**: Students critically interrogate the work — what did AI contribute? What's accurate? What's wrong? What's missing?
+3. **Defend**: Students present orally to peers or teacher — explaining choices, defending claims, accounting for gaps in real time
+
+> "Build, analyze, defend is the scaffolding process that actually increases cognition. If you don't do that, then we're likely to see a reduction in cognitive capabilities."
+
+This scaffold is structurally isomorphic to the [[agentivism]] framework: Build = delegated agency; Analyze = epistemic monitoring; Defend = reconstructive internalization and transfer under reduced support. It is also the mechanism that renders AI detection moot — oral defense requires the student to demonstrate independent understanding regardless of how the written artifact was produced.
+
+Murgatroyd's portfolio assessment model extends this: students build portfolios comprising oral work, video, poetry, images, and peer presentations, then present them publicly. "We're showing them what a rich learning portfolio looks like. We're modeling the behavior we think should be seen in classrooms." He frames learning as "a 50-year apprenticeship" — embedding lifelong skill development as the design goal rather than credential completion at a specific moment. (source: New Book Podcast: AI Unplugged.md)
 
 ## What the Evidence Doesn't Tell Us
 
