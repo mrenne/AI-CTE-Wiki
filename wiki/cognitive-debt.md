@@ -159,3 +159,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[illusion-of-understanding]]
 - [[middle-path-ai-literacy-nurenberg]]
 - [[building-ai-companions]]
+- [[ai-unplugged-murgatroyd]]

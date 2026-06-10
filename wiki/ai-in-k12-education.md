@@ -117,3 +117,4 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[apocalypse-no-galloway]]
 - [[stanford-ai-index-education-2026]]
 - [[middle-path-ai-literacy-nurenberg]]
+- [[ai-unplugged-murgatroyd]]

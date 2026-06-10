@@ -461,3 +461,24 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added two new Key Themes on oral defense/AI detection and cultural bias/data sovereignty
 
 **Total pages created**: 1 | **Total pages updated**: 5
+
+---
+
+## 2026-06-10 — Lint audit + README update
+
+**Lint findings**: No orphan pages, no format violations, no broken wiki-links. 5 missing cross-links identified for the two most recently added source pages. README "What the research actually shows" section stale — did not yet reflect The Broken Ladder, NYT Teens, or AI Unplugged findings.
+
+**Cross-links added**:
+- `wiki/broken-ladder.md` — added `[[nyt-teens-trade-classes]]` (students independently confirm the double-insulation thesis)
+- `wiki/cognitive-debt.md` — added `[[ai-unplugged-murgatroyd]]` (Build→Analyze→Defend scaffold as the assessment antidote to cognitive debt)
+- `wiki/ai-in-k12-education.md` — added `[[ai-unplugged-murgatroyd]]` (AI detection legal liability; assessment redesign; historical skepticism counterpoint)
+- `wiki/cte-and-ai.md` — added `[[ai-unplugged-murgatroyd]]` (Deloitte/Shopify direct HS hiring; teacher conditions; Canadian equity data)
+- `wiki/labor-market-polarization.md` — added `[[nyt-teens-trade-classes]]` (student behavioral evidence for the trade pivot section)
+
+**README updated**:
+- Added fifth learning/cognition bullet: oral defense as answer to both cognitive debt and AI detection; "Build, Analyze, Defend" scaffold; AI detection legal liability
+- Replaced entry-level hiring bullet with updated framing: decline is real but attribution contested; WFH confound (Broken Ladder); 243M hires, four countries, joint-treatment DiD
+- Added new "On CTE specifically" section (3 bullets): student behavioral response in AI capital; CTE as discovery mechanism; CTE double insulation from both post-pandemic shocks
+- Added third schools/policy bullet: AI equity as cultural representation problem beyond infrastructure; indigenous data; data sovereignty
+
+**Total pages created**: 0 | **Total pages updated**: 6 (broken-ladder, cognitive-debt, ai-in-k12-education, cte-and-ai, labor-market-polarization, README)

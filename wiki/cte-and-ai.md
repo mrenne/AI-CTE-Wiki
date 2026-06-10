@@ -183,3 +183,4 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - [[cte-futures-aci-webinar]]
 - [[broken-ladder]]
 - [[nyt-teens-trade-classes]]
+- [[ai-unplugged-murgatroyd]]

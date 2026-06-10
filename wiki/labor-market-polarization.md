@@ -178,3 +178,4 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[sinead-bovell-job-market]]
 - [[broken-ladder]]
 - [[ai-unplugged-murgatroyd]]
+- [[nyt-teens-trade-classes]]

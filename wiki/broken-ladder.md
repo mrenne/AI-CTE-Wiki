@@ -144,3 +144,4 @@ This paper directly complicates several claims in this wiki:
 - [[sinead-bovell-job-market]]
 - [[ai-job-apocalypse-klein]]
 - [[ai-economics-scan-2026]]
+- [[nyt-teens-trade-classes]]
