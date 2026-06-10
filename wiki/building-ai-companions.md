@@ -2,7 +2,7 @@
 
 **Summary**: A 2026 position paper by Khosravi, Gašević, Yan et al. that names the "learning-performance paradox," establishes a three-foundation framework for educational AI design (Pedagogical, Adaptive, Responsible), and documents what five deployed tutoring systems reveal about the gap between the tutoring systems that feel best and those that teach best.
 
-**Sources**: `raw/PDF/Building AI Companions.pdf`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`
+**Sources**: `raw/PDF/Building AI Companions.pdf`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
 
 **Last updated**: 2026-06-10
 
@@ -157,6 +157,18 @@ A Socratic guardrail added to ChatGPT produces the same failure Khanmigo's initi
 
 ---
 
+## The Offloading Paradox: Empirical Support for Zone 3 Design
+
+[[hardman-cognitive-offloading-paradox]] (Hardman, 2026) adds a critical empirical layer to this paper's architecture argument. Wang & Zhang (2026) found that **partnership orientation** with AI simultaneously activates both vigilance (β=0.335) and strategic offloading (β=0.351) — and both independently predict transformative learning. The same tool, framed as an intellectual collaborator rather than a passive answer-machine, produces opposite outcomes.
+
+This validates the paper's three-foundation framework from the learner's side. The Pedagogical foundation (preserve productive struggle, design for transfer) corresponds to Zone 3's requirement that freed cognitive capacity be directed to higher-order work. The Adaptive foundation (metacognitive calibration, learner modeling) corresponds to the vigilance pathway Wang & Zhang identify. The Responsible Design foundation corresponds to the structural design question: will the deployment design produce Zone 2 or Zone 3 conditions?
+
+**The cognitive partnership vs. social anthropomorphism distinction**: Kropp et al. (2026), cited in [[hardman-ai-faster-slower]], found that "AI buddy/mentor" framing makes reviewers sloppier. Wang & Zhang found that "intellectual collaborator" framing activates critical vigilance. These findings are compatible:
+- **Cognitive partnership** = treating AI as an intellectual collaborator you think *with* and actively evaluate → more vigilance, more strategic delegation, better learning
+- **Social anthropomorphism** = treating AI as a trusted peer/friend whose outputs you accept → less critical scrutiny, reduced epistemic monitoring
+
+The distinction matters for Responsible Design (Foundation 3): institutions should explicitly frame AI as a cognitive tool requiring active evaluation — not as a tutor, mentor, or companion who can be trusted passively. The persona design choices that maximize engagement (warm, named, relational AI tutors) may be precisely the design choices that reduce the vigilance needed for Zone 3 learning. (source: The "Cognitive Offloading" Paradox.md)
+
 ## Workplace-Scale Validation: The Five-Effects Taxonomy
 
 [[hardman-ai-faster-slower]] (Hardman, 2026) provides the largest-scale empirical validation in the wiki for this paper's core architecture argument, drawn from Demirer, Musolff & Yang (2026) — 100,000+ GitHub developers tracked across three AI tool generations.
@@ -198,3 +210,4 @@ This paper is the most comprehensive design synthesis in the wiki on what AI tut
 - [[ai-mastery-continuum]]
 - [[middle-path-ai-literacy-nurenberg]]
 - [[hardman-ai-faster-slower]]
+- [[hardman-cognitive-offloading-paradox]]

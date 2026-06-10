@@ -2,9 +2,9 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`
+**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
 
-**Last updated**: 2026-05-24
+**Last updated**: 2026-06-10
 
 ---
 
@@ -99,6 +99,21 @@ The cognitive debt concept has direct implications for how AI should be sequence
 
 4. **The AI Mastery Continuum's sequencing** — Literacy → Fluency → Agency → Mastery — implies a progression that could mitigate cognitive debt if learners are required to demonstrate competence before advancing. Requiring reconstructive internalization (see [[agentivism]]) at each level prevents the passive consumption that drives debt accumulation.
 
+## The Offloading Paradox: Locating Cognitive Debt on the U-Curve
+
+Wang & Zhang (2026), synthesized in [[hardman-cognitive-offloading-paradox]], provide the most important contextualizing evidence for cognitive debt in the wiki: cognitive debt is a **Zone 2 phenomenon**, not an inevitable consequence of all AI use.
+
+Their 912-student cross-cultural study identifies a U-shaped relationship between AI offloading and deep learning:
+- **Zone 1** (no AI): Full cognitive load — learning happens, slowly
+- **Zone 2** (scattered, half-hearted use): **Worst outcomes** — coordination overhead without freed capacity, measurably worse than no AI at all. *This is where the Gerlich, Kosmyna, Bastani, Fischer, and Lehmann negative findings were operating*
+- **Zone 3** (committed, strategic delegation of entire task categories): **Best outcomes** — genuine cognitive reallocation to higher-order work AI cannot do
+
+The mechanism that prevents cognitive debt in Zone 3: **partnership orientation** activates both vigilance (critical evaluation of AI outputs, β=0.337) and strategic offloading (β=0.351) simultaneously. Both independently predict transformative learning — questioning assumptions, shifting frameworks, restructuring understanding. The freed cognitive capacity gets invested in exactly the higher-order work that builds durable capability.
+
+This does not contradict the Kosmyna study — it contextualizes it. The EEG evidence documents what Zone 2 produces when AI is used without design (no structure for what to delegate or how to redirect freed capacity). Zone 3 is the design condition that prevents debt accumulation: large enough delegation to genuinely free cognitive capacity, combined with a deliberate structure for investing that capacity in higher-order reflection.
+
+The practical implication: **Zone 2 should be actively avoided** in educational AI design, not just Zone 1 failure modes. Scattered AI assists — the default for students with unstructured AI access — are demonstrably worse than no AI at all. The fix is not restriction; it is structured Zone 3 design. (source: The "Cognitive Offloading" Paradox.md)
+
 ## Relational Debt: An Extension
 
 Ezra Klein ([[ai-job-apocalypse-klein]]) raises a parallel concern that extends cognitive debt into the social domain: **relational skills may be deteriorating at the same moment they become most economically valuable**.
@@ -160,3 +175,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[middle-path-ai-literacy-nurenberg]]
 - [[building-ai-companions]]
 - [[ai-unplugged-murgatroyd]]
+- [[hardman-cognitive-offloading-paradox]]

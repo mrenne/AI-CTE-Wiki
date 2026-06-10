@@ -520,3 +520,23 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added four new Key Themes
 
 **Total pages created**: 1 | **Total pages updated**: 6
+
+---
+
+## 2026-06-10 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/blog/The _Cognitive Offloading_ Paradox.md` — Dr. Philippa Hardman, Substack, April 15, 2026. Third Hardman source in the wiki. Synthesizes Wang & Zhang (2026) — 912 students across China/Europe/US — revealing a U-shaped relationship between AI cognitive offloading and transformative learning. Directly contextualizes the cognitive debt literature.
+
+**Pages created**:
+- `wiki/hardman-cognitive-offloading-paradox.md` — Source summary; Gerlich/Kosmyna/Favero/Lodge & Loble prior evidence; Wang & Zhang (2026) study design; three-zone U-curve (Zone 1 no AI / Zone 2 scattered = worst / Zone 3 committed delegation = best); the offloading paradox (partnership orientation activates both vigilance β=0.335 and offloading β=0.351, both independently predict transformative learning); six design principles (offload substantially or not at all; learner first; AI flags errors not fixes; verification in workflow; assess without scaffolding; frame as intellectual partner); Xu et al. (2026) performance-capability gap (g=0.751 vs 0.369 across 35 studies); cognitive partnership vs. social anthropomorphism distinction; relationship table mapping to existing wiki claims
+
+**Pages updated**:
+- `wiki/cognitive-debt.md` — Added "The Offloading Paradox: Locating Cognitive Debt on the U-Curve" section: Zone 2 is where cognitive debt accumulates; Zone 3 is the design condition that prevents it; added `[[hardman-cognitive-offloading-paradox]]` to Related pages; updated Sources and Last updated
+- `wiki/agentivism.md` — Added "Empirical Validation: The Offloading Paradox Maps to Agentivism's Zones" section: three-zone/four-mechanism mapping table; Zone 3 = all four mechanisms operating; added `[[hardman-cognitive-offloading-paradox]]` to Related pages; updated Sources
+- `wiki/evidence-base-ai-k12.md` — Added "The Zone 2/3 Distinction: Why 'AI Harms Learning' Was Incomplete" section; Xu et al. performance-capability gap; added `[[hardman-cognitive-offloading-paradox]]` to Related pages; updated Sources
+- `wiki/building-ai-companions.md` — Added "The Offloading Paradox: Empirical Support for Zone 3 Design" section; cognitive partnership vs. social anthropomorphism distinction; added `[[hardman-cognitive-offloading-paradox]]` to Related pages; updated Sources
+- `wiki/hardman-ai-faster-slower.md` — Added `[[hardman-cognitive-offloading-paradox]]` to Related pages
+- `wiki/index.md` — Added source summary row; added two new Key Themes
+
+**Total pages created**: 1 | **Total pages updated**: 6

@@ -2,7 +2,7 @@
 
 **Summary**: A 2026 systematic review by Stanford SCALE of 818 papers on AI in K–12 education — only 20 meet the bar for strong causal evidence, and zero are high-quality causal studies of student learning in U.S. K–12 settings.
 
-**Sources**: `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`
+**Sources**: `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
 
 **Last updated**: 2026-06-10
 
@@ -149,6 +149,23 @@ Design remains the decisive variable. What Liu et al. add that Stanford does not
 
 (source: Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md)
 
+## The Zone 2/3 Distinction: Why "AI Harms Learning" Was Incomplete
+
+[[hardman-cognitive-offloading-paradox]] (Hardman, synthesizing Wang & Zhang, 2026) provides the most important contextual finding for all of Key Finding 1: the negative studies measured one specific condition — and a different design condition produces opposite results.
+
+Wang & Zhang (2026), 912 students across China/Europe/US, found a **U-shaped relationship** between AI cognitive offloading and transformative learning:
+
+- **Zone 2** (scattered, half-hearted AI use — *most current AI use*): **Worst outcomes** — adds coordination overhead without freeing enough cognitive capacity; measurably *worse than no AI at all*
+- **Zone 3** (committed, strategic delegation of entire task categories): **Best outcomes** — genuine cognitive reallocation to higher-order work, producing deep assumption-questioning and perspective-shifting
+
+Critically: partnership orientation with AI simultaneously activated both **vigilance** (β=0.335) and **strategic offloading** (β=0.351), and both independently predicted transformative learning. Treating AI as an intellectual collaborator makes learners *more* critical, not less.
+
+**How this maps onto Key Finding 1**: The Turkey study (Bastani), the crutch effect (Fischer), the cognitive debt study (Kosmyna), and the Gerlich critical-thinking findings all measured Zone 2 conditions — unstructured, habitual AI access without design for strategic delegation. Their negative findings are not wrong; they describe the modal deployment condition. Wang & Zhang show that Zone 3 design flips the outcome.
+
+**The Xu et al. (2026) performance-capability gap**: Across 35 studies, AI-assisted performance g=0.751 vs. independent performance g=0.369. The gap is large and consistent — directly supporting Principle 6 (assess without scaffolding). Students who look capable with AI may be operating entirely in Zone 2.
+
+The practical implication: the design question is not "restrict AI or allow it" but "Zone 2 or Zone 3." Zone 2 is the default and it should be actively designed against. Zone 3 requires structure: whole-category delegation, learner-first sequencing, verification built into workflow, and unassisted assessment. (source: The "Cognitive Offloading" Paradox.md)
+
 ## Organizational Evidence: The Productivity Funnel
 
 [[hardman-ai-faster-slower]] (Hardman, 2026) adds a workplace-scale layer to the educational evidence reviewed above. The two bodies of evidence are structurally consistent: the same AI-production/human-attenuation pattern that characterizes student AI use also characterizes organizational AI deployment.
@@ -195,3 +212,4 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[middle-path-ai-literacy-nurenberg]]
 - [[building-ai-companions]]
 - [[hardman-ai-faster-slower]]
+- [[hardman-cognitive-offloading-paradox]]

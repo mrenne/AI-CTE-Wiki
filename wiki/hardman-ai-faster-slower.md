@@ -130,6 +130,7 @@ Hardman's recommendations, roughly ordered by leverage:
 
 ## Related pages
 
+- [[hardman-cognitive-offloading-paradox]]
 - [[building-ai-companions]]
 - [[evidence-base-ai-k12]]
 - [[ai-sycophancy]]

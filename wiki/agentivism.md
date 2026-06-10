@@ -2,7 +2,7 @@
 
 **Summary**: A 2026 learning theory by Yan and Gašević that defines learning in the AI era as durable human capability growth through selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced AI support.
 
-**Sources**: `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/PDF/Building AI Companions.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
+**Sources**: `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/PDF/Building AI Companions.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
 
 **Last updated**: 2026-06-10
 
@@ -104,6 +104,22 @@ The Agentivism-to-design mapping:
 
 The paper's finding on prompt-level guardrails is particularly significant for Agentivism's propositions: adding Socratic instructions to a general-purpose AI does not produce Agentivism-compliant behavior. It produces rigid question-asking that fails students with low prior knowledge. Mechanisms 1–4 require architectural design, not instructional wrapping. (source: Building AI Companions.pdf)
 
+## Empirical Validation: The Offloading Paradox Maps to Agentivism's Zones
+
+Wang & Zhang (2026), synthesized in [[hardman-cognitive-offloading-paradox]], provide cross-cultural empirical validation of Agentivism's core claim. Their 912-student study (China/Europe/US) identifies a U-shaped relationship between AI offloading and transformative learning that maps directly onto Agentivism's mechanism structure:
+
+| Wang & Zhang zone | Agentivism interpretation |
+|---|---|
+| **Zone 1** (no AI) | P1 absent: no delegation, full cognitive load, learning is slow but the mechanisms are engaged |
+| **Zone 2** (scattered AI use — worst outcomes) | P1 without P2+P3: delegation occurs but without epistemic monitoring or reconstructive internalization; exactly the failure Agentivism predicts; where cognitive debt accumulates |
+| **Zone 3** (committed, strategic delegation — best outcomes) | P1+P2+P3 operating together: large delegation frees capacity; freed capacity invested in higher-order work requiring vigilance and reconstruction |
+
+The key empirical finding: **partnership orientation** with AI simultaneously activates both **vigilance** (epistemic monitoring, P2; β=0.335) AND **strategic offloading** (selective delegation, P1; β=0.351). Both independently predict transformative learning (deep assumption-questioning, perspective-shifting). This is direct empirical confirmation of Agentivism's claim that delegation and critical monitoring are not opposed but complementary — they activate together when the learner's orientation is correct.
+
+For P6 (repeated low-friction delegation without reconstruction = cognitive dependence): Wang & Zhang confirm the negative case in Zone 2 and demonstrate the positive case in Zone 3. The difference is not more or less AI; it is whether delegation is large enough to genuinely free capacity, and whether the freed capacity is deliberately reinvested in higher-order cognitive work.
+
+The six design principles Hardman derives from Wang & Zhang (offload substantially or not at all; learner generates first; AI flags errors, human fixes them; verification built into workflow; assess without scaffolding) are the classroom-level operationalizations of Agentivism's four mechanisms as design requirements. (source: The "Cognitive Offloading" Paradox.md)
+
 ## Connections to Other Sources
 
 The [[khanmigo]] failure documented in [[sal-khan-khanmigo-limits]] is a real-world illustration: students using AI as a passive lookup tool engage in no epistemic monitoring or reconstructive internalization and achieve no transfer. The [[applied-co-intelligence-model]]'s [[ai-mastery-continuum]] maps closely onto Agentivism's mechanisms — progression from passive use (Literacy) through active verification (Fluency/Agency) to independent critique (Mastery).
@@ -126,3 +142,4 @@ Nurenberg's [[middle-path-ai-literacy-nurenberg]] classroom account provides a c
 - [[middle-path-ai-literacy-nurenberg]]
 - [[building-ai-companions]]
 - [[ai-unplugged-murgatroyd]]
+- [[hardman-cognitive-offloading-paradox]]
