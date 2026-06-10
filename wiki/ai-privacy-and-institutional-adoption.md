@@ -2,7 +2,7 @@
 
 **Summary**: The cluster of cost, data privacy, infrastructure, and policy barriers that prevent schools and colleges from adopting AI — and the emerging strategies (local SLM deployment, elastic policies, fellowship programs) for overcoming them equitably.
 
-**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
+**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`
 
 **Last updated**: 2026-06-10
 
@@ -85,6 +85,18 @@ His proposed structural response is **data sovereignty**: locally deployed AI sy
 
 The data sovereignty argument reinforces the [[small-language-models]] case for local deployment — but extends it beyond privacy and cost to cultural self-determination. Open-weight models under institutional control, trained on locally relevant data, are the technical mechanism; indigenous and community governance of that data is the institutional requirement.
 
+## Corporate Data Sovereignty: A Competitive Dimension
+
+Brad Smith ([[brad-smith-ai-jobs-next-generation]], 2026) extends the data sovereignty argument from indigenous and national contexts to a competitive imperative for every organization:
+
+> "The benefits of AI for a business will be short-lived if it transfers and trains someone else's AI model using a firm's unique knowledge and expertise. This helps explain why each company needs to develop its own internal AI capabilities and control its own data."
+
+> "Sovereignty must be preserved not only for countries but for companies. And privacy must be protected not only for individuals but for organizations."
+
+The mechanism: an organization whose proprietary knowledge and processes are used to train a third-party model loses the competitive advantage that expertise represents. As general AI capabilities commoditize, the differentiator becomes an organization's unique domain knowledge — which is only valuable if retained under institutional control.
+
+For schools and CTE institutions, this argument maps directly onto the barriers documented above: routing student submissions and curriculum through cloud APIs not only creates FERPA exposure, it transfers institutional learning — the accumulated knowledge of educators, students, and curriculum design — to the infrastructure providers. Local SLM deployment ([[small-models-big-support]]) addresses both concerns simultaneously: privacy protection and institutional sovereignty over the knowledge that shapes the AI's outputs. (source: AI, jobs, and the next generation.md)
+
 ## Related pages
 
 - [[small-language-models]]
@@ -94,3 +106,4 @@ The data sovereignty argument reinforces the [[small-language-models]] case for 
 - [[cte-and-ai]]
 - [[ai-in-k12-education]]
 - [[ai-unplugged-murgatroyd]]
+- [[brad-smith-ai-jobs-next-generation]]

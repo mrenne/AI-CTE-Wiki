@@ -2,7 +2,7 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`
 
 **Last updated**: 2026-06-10
 
@@ -147,6 +147,32 @@ Lambert & Schindler ([[broken-ladder]], May 2026) introduce a methodological com
 
 **The optimism argument**: If WFH is driving the junior-hiring decline, the organizational frictions are surmountable through better management practice (hybrid onboarding protocols, structured remote mentoring, deliberate junior development practices). If GenAI is the driver, more structural policy interventions would be required. The diagnosis changes the remedy. (source: The Broken Ladder.pdf)
 
+## The Pace of AI Diffusion: Constrained by Humans, Not Technology
+
+Brad Smith ([[brad-smith-ai-jobs-next-generation]], 2026) introduces a structural argument about *how fast* AI will actually transform the economy, grounded in a citation from Narayanan & Kapoor (Knight Columbia):
+
+> "Diffusion is limited by the speed of human, organizational, and institutional change." — Narayanan & Kapoor
+
+Smith's application: broad AI transformation over a quarter century would be "remarkable" — a measured claim that implicitly pushes back on 3–5 year disruption forecasts. The AI Diffusion Report (Microsoft, Q1 2026) supports this: 17.8% of the world's working-age population currently uses generative AI; 31.3% in the United States, the most AI-intensive workforce in the world. Less than one in three US workers has yet adopted the tool.
+
+The bottleneck is not technical readiness — it is the human, organizational, and institutional change required to absorb and reorganize around AI capabilities. Organizations need to redesign workflows, train workers, develop governance structures, and build institutional AI capabilities before AI's theoretical productivity potential converts into actual productivity. The Hardman/Demirer productivity funnel ([[hardman-ai-faster-slower]]) quantifies this: +740% code produced → +65% reviews → ~20% more shipped. Human integration stages absorb the gain.
+
+This does not mean the disruption is small — Smith explicitly names real headwinds for current graduates. It means the timeline for transformation is measured in decades, not years, and that institutional choices made now shape which outcomes materialize. (source: AI, jobs, and the next generation.md)
+
+## The "Perfect Storm": Multiple Simultaneous Headwinds for 2026 Graduates
+
+Smith ([[brad-smith-ai-jobs-next-generation]], 2026) offers the most candid industry-insider accounting of the compound pressures facing 2026 graduates:
+
+> "They face multiple headwinds as they enter the job market. This includes AI automation of tasks in current entry-level positions and, especially in the tech sector, corporate pressure to reduce headcount to help pay for AI's enormous capital expenditures. It also involves other factors, including geopolitical uncertainty, trade tensions, and correction from over-hiring in the early years of the decade. Like a perfect storm, the wind is blowing from multiple directions."
+
+Smith's taxonomy of the "perfect storm":
+1. **AI task automation** of entry-level positions — the mechanism most sources focus on
+2. **Headcount reduction to fund AI capex** — companies cutting workers to pay for AI infrastructure, independent of whether those workers are obsolete; this is the [[broken-ladder]] hiring decline with a cost-of-capital explanation added
+3. **COVID-era hiring overhang** — consistent with [[apocalypse-no-galloway]]'s layoff anatomy (Meta returning to 2021 headcount, Microsoft 47% larger pre-pandemic)
+4. **Geopolitical uncertainty and trade tensions** — external macro factors compressing entry-level hiring further
+
+This is significant because Smith explicitly disentangles "AI is making workers unnecessary" from "companies are cutting headcount to fund AI capex" — the same workers may be affected by either mechanism for different reasons, and the policy remedies differ. It also corroborates the [[broken-ladder]] multi-causal account: the junior-hiring decline is not cleanly attributable to any single driver. (source: AI, jobs, and the next generation.md)
+
 ## Adaptive Employer Responses: Hiring Directly from High School
 
 An early signal of how employers are responding to the entry-level pipeline disruption: Murgatroyd ([[ai-unplugged-murgatroyd]], 2026) reports that Deloitte and Shopify are now hiring directly from high school, explicitly preferring to train young workers rather than wait for university or college credentialing.
@@ -179,3 +205,4 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[broken-ladder]]
 - [[ai-unplugged-murgatroyd]]
 - [[nyt-teens-trade-classes]]
+- [[brad-smith-ai-jobs-next-generation]]

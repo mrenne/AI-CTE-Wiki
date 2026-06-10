@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 YouTube video by futurist Sinead Bovell arguing that the "learn, work, retire" era is ending — replaced by a skills-based, entrepreneurial workforce defined by task unbundling, lifelong learning, and the rise of independent contracts.
 
-**Sources**: `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
+**Sources**: `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-06-10
 
 ---
 
@@ -117,6 +117,16 @@ This is pedagogically useful because it grounds abstract AI literacy advice in a
 
 ---
 
+## The Task-Bucket Framework: A Complementary Operationalization
+
+Roslansky and Ramen ([[brad-smith-ai-jobs-next-generation]], *Open to Work*, 2026) independently arrive at the same task-unbundling logic and give it a concrete self-diagnostic structure:
+
+> "Think about your job not as a title but a bundle of tasks. Write down a list of your tasks and put them into three buckets: the bucket of tasks that AI can do; the bucket of tasks that you can do with AI; and the bucket of tasks that humans must do by themselves."
+
+Bucket 2 — "you + AI" — is where Bovell's financial analyst → financial strategist evolution lives: the remaining tasks after AI handles the procedural layer. The three-bucket structure makes the task-unbundling insight actionable as a personal planning exercise, rather than an analytical observation about labor markets.
+
+The frameworks are convergent: where Bovell provides the mechanism and narrative (task unbundling drives role evolution; skills > job titles), Roslansky/Ramen provide the diagnostic tool (categorize your specific tasks to see where your role is heading). Together they give workers a complete picture — both the dynamic and the exercise for applying it to their own situation. (source: AI, jobs, and the next generation.md)
+
 ## Emerging Roles: AI Agent Architects
 
 Bovell documents an early example of genuinely new work emerging from AI:
@@ -158,3 +168,4 @@ This supports the long-run argument against mass unemployment: the AI era is alr
 - [[stanford-ai-index-education-2026]]
 - [[agentivism]]
 - [[cognitive-debt]]
+- [[brad-smith-ai-jobs-next-generation]]

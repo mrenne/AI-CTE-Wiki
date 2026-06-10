@@ -500,3 +500,23 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added three new Key Themes (productivity funnel, "enter high in chain," anthropomorphism compounding sycophancy)
 
 **Total pages created**: 1 | **Total pages updated**: 4
+
+---
+
+## 2026-06-10 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/blog/AI, jobs, and the next generation.md` — Brad Smith (President, Microsoft), Microsoft On the Issues blog, June 10, 2026. First tech-industry-insider voice in the wiki. Written in response to 2026 college graduates booing AI at commencement ceremonies and the Princeton beer jacket controversy. Cites Microsoft AI Diffusion Report (Q1 2026) and Roslansky/Ramen *Open to Work* (LinkedIn, 2026).
+
+**Pages created**:
+- `wiki/brad-smith-ai-jobs-next-generation.md` — Source summary; 2026 student commencement backlash (booing AI, Princeton "100% human" jacket); Microsoft diffusion data (17.8% global, 31.3% US); Narayanan/Kapoor (Knight Columbia) diffusion-is-institutional-change argument; "perfect storm" headwinds (AI automation + capex-driven headcount cuts + COVID overhang + geopolitics); task-bucket framework (Roslansky/Ramen, *Open to Work*): AI alone / you+AI / humans only; Five Cs (curiosity, creativity, compassion, communications, courage); dignity of work as first-order value; corporate data sovereignty; Jevons Paradox from 50-year Microsoft experience; relationship table mapping to existing wiki claims
+
+**Pages updated**:
+- `wiki/transferable-skills.md` — Added "The Five Cs: A Convergent Industry Framework" section; added "The Task-Bucket Framework: Personal Operationalization" section; added "The Dignity of Work: A First-Order Value" section; added `[[brad-smith-ai-jobs-next-generation]]` to Related pages; updated Sources and Last updated
+- `wiki/labor-market-polarization.md` — Added "The Pace of AI Diffusion: Constrained by Humans, Not Technology" section (Narayanan/Kapoor; 17.8%/31.3% adoption data); added "The 'Perfect Storm'" section (multi-causal headwinds for 2026 graduates); added `[[brad-smith-ai-jobs-next-generation]]` to Related pages; updated Sources
+- `wiki/sinead-bovell-job-market.md` — Added "The Task-Bucket Framework: A Complementary Operationalization" section; added `[[brad-smith-ai-jobs-next-generation]]` to Related pages; updated Sources and Last updated
+- `wiki/nyt-teens-trade-classes.md` — Added "The Commencement Backlash: A Parallel 2026 Signal" section; added `[[brad-smith-ai-jobs-next-generation]]` to Related pages; updated Last updated
+- `wiki/ai-privacy-and-institutional-adoption.md` — Added "Corporate Data Sovereignty: A Competitive Dimension" section; added `[[brad-smith-ai-jobs-next-generation]]` to Related pages; updated Sources
+- `wiki/index.md` — Added source summary row; added four new Key Themes
+
+**Total pages created**: 1 | **Total pages updated**: 6

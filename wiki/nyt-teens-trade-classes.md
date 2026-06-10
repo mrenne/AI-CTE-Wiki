@@ -4,7 +4,7 @@
 
 **Sources**: `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`
 
-**Last updated**: 2026-06-09
+**Last updated**: 2026-06-10
 
 ---
 
@@ -92,6 +92,14 @@ This provides narrative grounding for the causal IV finding in [[nber-data-cente
 
 ---
 
+## The Commencement Backlash: A Parallel 2026 Signal
+
+[[Brad-smith-ai-jobs-next-generation]] (Smith, June 2026) documents a complementary behavioral signal from the same graduating cohort. At university commencement ceremonies across the United States, the class of 2026 booed AI when it was mentioned from the podium. At Princeton, students petitioned to reject a beer jacket design created with AI assistance, replacing it with one labeled "100% cotton — 100% human."
+
+Smith — the President of Microsoft — frames this as a "wake-up call" that tech sector leaders "had better take notice" of. His observation: these students are also, according to Microsoft's own research, the *highest AI adopters* in the country (counties with large college-age populations show the highest generative AI usage rates in the US). When a generation's most enthusiastic adopters are also its loudest critics, the signal carries extra weight.
+
+The commencement backlash and the Bay Area trade pivot documented in this source share the same psychological root: both reflect a generation that has processed AI's impact in real time and is asserting the value of distinctly human work — whether through trade enrollment or through the explicit rejection of AI-generated creative artifacts. The Princeton jacket's "100% human" label is the same logic as "A.I. is not going to build a home" — expressed in the register of self-definition rather than career arbitrage. (source: AI, jobs, and the next generation.md)
+
 ## "No Path Is Safe": The Psychological Frame
 
 The underlying affect of this cohort is not confidence in trades as a safe harbor — it is generalized anxiety about all paths:
@@ -133,3 +141,4 @@ This psychological framing is structurally consistent with the [[sinead-bovell-j
 - [[ai-job-apocalypse-klein]]
 - [[columbia-cs-ai-disruption]]
 - [[stanford-ai-index-education-2026]]
+- [[brad-smith-ai-jobs-next-generation]]

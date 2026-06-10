@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-06-10
 
 ---
 
@@ -105,6 +105,43 @@ Bovell also introduces the **AI-as-intern** frame as a practical description of 
 
 Managing an intern requires exactly the skills the ACI model and BCG framework identify as automation-resistant: communication, critical judgment, problem framing, and ability to evaluate quality. This frame is useful precisely because it grounds abstract competency claims in a social relationship workers already understand. (source: The Job Market Is Going Away.md)
 
+## The Five Cs: A Convergent Industry Framework
+
+Roslansky and Ramen (LinkedIn; *Open to Work*, 2026), cited in [[brad-smith-ai-jobs-next-generation]], name five "soft skills that are uniquely human" in the AI era — all beginning with C:
+
+1. **Curiosity** — pursuing deeper questions beyond what AI can surface
+2. **Creativity** — synthesis and originality that generic AI cannot replicate
+3. **Compassion** — empathic presence inseparable from care, teaching, and service contexts
+4. **Communications** — translating AI-generated insight into human persuasion and action
+5. **Courage** — making accountable calls, advocating for positions, owning consequences
+
+This is a third independent taxonomy of durable human skills, alongside the [[applied-co-intelligence-model]]'s framework (critical thinking, ethical reasoning, empathy, communication, collaboration) and the BCG operationalization (human interaction intensity + discretionary judgment). All three arrive at a similar cluster from different entry points — management consulting, learning science, and labor market practice.
+
+Smith adds the mechanism: "Even when AI automates multiple tasks, people must continue to oversee its work. This creates the need for additional human observation and insight." Oversight itself is a transferable skill — requiring judgment, communication, and the courage to push back when AI is wrong. (source: AI, jobs, and the next generation.md)
+
+## The Task-Bucket Framework: Personal Operationalization
+
+Roslansky and Ramen offer a practical diagnostic tool that operationalizes the task-unbundling insight from [[sinead-bovell-job-market]]:
+
+> "Think about your job not as a title but a bundle of tasks. Write down a list of your tasks and put them into three buckets: the bucket of tasks that AI can do; the bucket of tasks that you can do with AI; and the bucket of tasks that humans must do by themselves."
+
+The three buckets:
+1. **AI alone** — if almost everything is here, consider a different type of work
+2. **You + AI** — where most tasks land for most workers; redirect energy here
+3. **Humans only** — irreplaceable; the zone where transferable skills concentrate
+
+This converts Bovell's financial analyst → financial strategist narrative into a self-diagnostic structure anyone can apply to their own job. The strategic move — using AI to handle bucket 1 frees attention for buckets 2 and 3 — is the [[agentivism]] delegation/monitoring principle applied to career planning. (source: AI, jobs, and the next generation.md)
+
+## The Dignity of Work: A First-Order Value
+
+[[Brad-smith-ai-jobs-next-generation]] introduces the most normatively explicit argument in the wiki for why transferable skills matter beyond economic productivity:
+
+> "The American Dream has been founded on the dignity of work and the critical role it plays in giving life purpose."
+
+Smith argues — unusually, from inside the tech sector — that the purpose-giving function of work is a first-order value AI must not undermine even as it transforms work's content. This moves the transferable skills case beyond "these skills are resilient to automation" and "these sectors will grow" to "these skills constitute the human activity that gives work its meaning." The distinction matters for CTE specifically: the case for building transferable skills is not only economic but anthropological — people thrive through skilled, purposeful work, not through displacement to passive consumption.
+
+Smith's corresponding self-criticism: "The technological, economic, and societal transformations of the past three decades have left too many people behind." The implication is that the success of those transformations in generating productivity did not translate into success in preserving dignified work for broad populations — a failure pattern the AI transition must actively design around. (source: AI, jobs, and the next generation.md)
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -125,3 +162,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[ai-labor-disruption-segments]]
 - [[middle-path-ai-literacy-nurenberg]]
 - [[sinead-bovell-job-market]]
+- [[brad-smith-ai-jobs-next-generation]]
