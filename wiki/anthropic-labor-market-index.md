@@ -2,9 +2,9 @@
 
 **Summary**: An Anthropic research report (Massenkoff & McCrory, 2026) introducing *observed exposure* — a new metric combining theoretical LLM capability with actual Claude usage data — and finding no detectable unemployment impact so far, but suggestive evidence that hiring of young workers into AI-exposed occupations has slowed by 14%.
 
-**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`
+**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`
 
-**Last updated**: 2026-05-29
+**Last updated**: 2026-06-14
 
 ---
 
@@ -115,6 +115,16 @@ The Massenkoff & McCrory paper uses a different design (unemployment stocks via 
 
 **Working synthesis**: The early-career hiring slowdown is empirically real and documented in multiple data sources. Whether WFH or GenAI (or both) is the primary driver remains actively contested. The Lambert & Schindler finding is cause for optimism — WFH's organizational frictions around junior development are surmountable through better management practice, whereas a GenAI-driven effect would require more structural policy remedies. (source: The Broken Ladder.pdf)
 
+## The Canaries Dashboard: Corroboration and a Mechanism-Level Extension
+
+Stanford Digital Economy Lab's Canaries Dashboard (Brynjolfsson et al., June 2026) provides the most current and largest-sample corroboration of this paper's early-career finding — 4.6 million workers in a live ADP payroll panel — while adding a critical mechanism-level insight this paper's design cannot produce. See [[stanford-del-ai-economic-indicators]] for the full treatment.
+
+**Corroboration**: Early-career (22–25) workers in the most AI-exposed occupations are contracting at −3.8%/year since ChatGPT, while the least-exposed are growing at +2.0%/year. The pattern is directionally consistent with this paper's 14% job-finding-rate slowdown and with the Brynjolfsson/Chandar/Chen parallel finding. The live 2026 ADP data confirm the signal has not reversed.
+
+**The mechanism extension**: The Canaries Dashboard decomposes AI usage at the occupation level using the Anthropic Economic Index (the same source underlying this paper's observed-exposure measure). The finding: occupations with higher **automation**-type AI usage show a clear negative correlation with early-career employment; occupations with higher **augmentation**-type usage show **no relationship**. This is the mechanism the observed-exposure measure cannot distinguish — it matters not just which occupations AI touches, but whether AI is replacing workers' tasks or assisting workers who remain in the loop.
+
+This finding also provides a partial response to the [[broken-ladder]] WFH confound concern: Lambert & Schindler's critique applies to total exposure measures that conflate automation and augmentation. The automation/augmentation decomposition is a different analytical handle that the WFH confound argument does not directly address. (source: AIEI_RN01_Jun26.pdf)
+
 ## Related pages
 
 - [[labor-market-polarization]]
@@ -125,3 +135,4 @@ The Massenkoff & McCrory paper uses a different design (unemployment stocks via 
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[broken-ladder]]
+- [[stanford-del-ai-economic-indicators]]

@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`
 
-**Last updated**: 2026-05-29
+**Last updated**: 2026-06-14
 
 ---
 
@@ -133,10 +133,21 @@ This paper directly complicates several claims in this wiki:
 
 ---
 
+## The Canaries Dashboard: A Subsequent Corroboration (June 2026)
+
+Stanford Digital Economy Lab's Canaries Dashboard ([[stanford-del-ai-economic-indicators]], Brynjolfsson et al., June 2026) explicitly situates this paper in its broader debate context and extends the early-career employment finding into live 2026 ADP payroll data. Two points of contact with Lambert & Schindler's argument:
+
+**Corroboration of the early-career signal**: The Canaries Dashboard confirms that the most AI-exposed early-career (22–25) occupations are contracting at −3.8%/year since ChatGPT while the least-exposed are growing at +2.0%/year. The signal has not reversed in the three-plus years since Lambert & Schindler's post-period ends.
+
+**The automation/augmentation handle**: The Canaries Dashboard decomposes AI usage at the occupation level into automation-type (AI replaces worker involvement) and augmentation-type (AI assists workers who remain in the loop). The finding: **automation usage** predicts employment decline; **augmentation usage** does not. This is a mechanism-level distinction that exposure-based designs — including the total GenAI exposure measure Lambert & Schindler use — cannot make. The WFH confound argument applies to total exposure; it does not directly address whether the employment-contracting occupations are predominantly automation-heavy rather than augmentation-heavy in their actual AI usage.
+
+Lambert & Schindler's finding remains methodologically sound within its scope — the WFH coefficient is robust and the GenAI coefficient attenuates in joint-treatment designs using total exposure. But the Canaries Dashboard's automation/augmentation decomposition opens a second mechanism channel that the WFH confound critique does not foreclose. The debate is not closed. (source: AIEI_RN01_Jun26.pdf)
+
 ## Related pages
 
 - [[anthropic-labor-market-index]]
 - [[labor-market-polarization]]
+- [[stanford-del-ai-economic-indicators]]
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[cte-and-ai]]

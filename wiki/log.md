@@ -540,3 +540,28 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added two new Key Themes
 
 **Total pages created**: 1 | **Total pages updated**: 6
+
+---
+
+## 2026-06-14 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/PDF/AIEI_RN01_Jun26.pdf` — Stanford Digital Economy Lab (Erik Brynjolfsson, Director) + ADP Research; Research Note #1, June 2026. Three-component initiative: Canaries Dashboard (25K firms, 4.6M workers, 730+ occupations via ADP payroll), Takeoff Tracker (12 macroeconomic indicators), Adoption Monitor (individual and firm-level AI adoption). Key finding: automation-type AI usage predicts early-career employment decline; augmentation-type usage does not. This is the most current and largest-sample corroboration of the early-career hiring slowdown, with a mechanism-level insight the existing debate was missing.
+2. `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md` — Benzinga/Yahoo Finance, June 11, 2026. Meta's $115M "America's Workforce Academy" for free data center construction training with NCCER credentials. Launch locations: Louisiana, Ohio, Indiana, Texas. Level-Up predecessor: 35,000 applications in first week. Meta Texas: 1,800 peak construction → ~100 permanent roles. Zuckerberg: "hundreds of thousands of skilled tradespeople." Meta cut 8,000 employees (10%) while committing $600B in US infrastructure.
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/stanford-del-ai-economic-indicators.md` — Canaries Dashboard design and findings (25K firms, 4.6M workers; −3.8%/yr vs. +2.0%/yr early-career divergence since ChatGPT; automation ratio predicts decline, augmentation ratio does not; home health aides growing, software developers declining); Takeoff Tracker (7 neutral, 3 mild, 2 strong — TFP neutral, capital share strong, no decisive takeoff); Adoption Monitor (workplace adoption reversals; text generation plateauing; robotics/AV largest expected-vs-current gap); research debate context (Lambert/Schindler, Budget Lab, Johnston/Makridis); relationship table
+- `wiki/meta-workforce-academy.md` — America's Workforce Academy design ($115M, free, NCCER + transferable certificate, Louisiana/Ohio/Indiana/Texas); Zuckerberg quote; Level-Up 35,000 applications in week one; Meta Texas 1,800→100 construction/permanent split; simultaneous layoffs and infrastructure investment as "perfect storm" mechanism at named company; source caveat on Benzinga advertising content; relationship table
+
+**Pages updated**:
+- `wiki/anthropic-labor-market-index.md` — Added "The Canaries Dashboard: Corroboration and a Mechanism-Level Extension" section: ADP live data corroborates 14% finding; automation/augmentation decomposition offers handle that WFH confound critique does not address; added `[[stanford-del-ai-economic-indicators]]` to Related pages; updated Sources and Last updated
+- `wiki/labor-market-polarization.md` — Added "The Canaries Dashboard: Live Employment Data Through April 2026" section: quantified divergence (−3.8%/yr vs. +2.0%/yr); automation/augmentation finding; named occupation examples; Takeoff Tracker TFP neutral; WFH confound implication; added `[[stanford-del-ai-economic-indicators]]` and `[[meta-workforce-academy]]` to Related pages; updated Sources and Last updated
+- `wiki/broken-ladder.md` — Added "The Canaries Dashboard: A Subsequent Corroboration (June 2026)" section: live 2026 corroboration; automation/augmentation decomposition as mechanism handle WFH confound critique does not directly address; debate not closed; added `[[stanford-del-ai-economic-indicators]]` to Related pages; updated Sources and Last updated
+- `wiki/cte-and-ai.md` — Added "The Meta Workforce Academy: Industry Validation at Scale" section (Zuckerberg quote; $115M; NCCER credentials; 35,000 Level-Up applications; 1,800→100 split; perfect storm juxtaposition); added "Canaries Dashboard: Home Health Aides Are Empirically Growing" section (live ADP data showing home health aide employment increases for youngest workers; −3.8%/yr vs. +2.0%/yr divergence); added `[[meta-workforce-academy]]` and `[[stanford-del-ai-economic-indicators]]` to Related pages; updated Sources and Last updated
+- `wiki/nber-data-centers-local-economies.md` — Added "The Meta Texas Case: A Named 2026 Example" section: 1,800→100 ratio as named-project corroboration of NBER's construction-front-loading finding; Zuckerberg "hundreds of thousands" quote; combined NBER+Meta as full picture of AI infrastructure → CTE demand chain; added `[[meta-workforce-academy]]` to Related pages; updated Sources and Last updated
+- `wiki/nyt-teens-trade-classes.md` — Added "Corporate Validation: Zuckerberg Confirms the Demand" section: CEO-level confirmation of the demand Bay Area students were betting on; $115M Academy; 35,000 Level-Up applications; student risk arbitrage and executive demand forecasts converging; added `[[meta-workforce-academy]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added 2 new source summary rows (source summaries table and Labor Market Analysis concept section); added 3 new Key Themes (automation vs. augmentation; no macro takeoff but early-career signal real; Big Tech investing in CTE trades training)
+
+**Total pages created**: 2 | **Total pages updated**: 7

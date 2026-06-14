@@ -2,9 +2,9 @@
 
 **Summary**: A June 2026 New York Times video report documenting Bay Area high school seniors explicitly choosing trades as an AI hedge — the first primary journalistic source in the wiki showing student-level behavioral response to AI anxiety in the class of 2026.
 
-**Sources**: `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`
+**Sources**: `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-06-14
 
 ---
 
@@ -100,6 +100,18 @@ Smith — the President of Microsoft — frames this as a "wake-up call" that te
 
 The commencement backlash and the Bay Area trade pivot documented in this source share the same psychological root: both reflect a generation that has processed AI's impact in real time and is asserting the value of distinctly human work — whether through trade enrollment or through the explicit rejection of AI-generated creative artifacts. The Princeton jacket's "100% human" label is the same logic as "A.I. is not going to build a home" — expressed in the register of self-definition rather than career arbitrage. (source: AI, jobs, and the next generation.md)
 
+## Corporate Validation: Zuckerberg Confirms the Demand
+
+Just days after this report was published, the CEO of one of the largest AI infrastructure spenders explicitly confirmed the demand the Bay Area students were betting on:
+
+> "America is going to need hundreds of thousands of skilled tradespeople to build the infrastructure for our country to lead in AI." — Mark Zuckerberg, June 9, 2026
+
+Meta simultaneously announced $115 million for "America's Workforce Academy" — free data center construction training with NCCER credentials, launching in Louisiana, Ohio, Indiana, and Texas in 2026. The program's predecessor (Level-Up fiber installation training) attracted 35,000 applications in its first week ([[meta-workforce-academy]]).
+
+The Bay Area students making their trade pivot in June 2026 are doing so in the same moment that the CEO of a $600B-infrastructure-committing tech company is explicitly naming "hundreds of thousands of skilled tradespeople" as the workforce need. Student risk arbitrage and executive labor demand forecasts have converged on the same answer. (source: Mark Zuckerberg Says America Needs...md)
+
+---
+
 ## "No Path Is Safe": The Psychological Frame
 
 The underlying affect of this cohort is not confidence in trades as a safe harbor — it is generalized anxiety about all paths:
@@ -132,6 +144,7 @@ This psychological framing is structurally consistent with the [[sinead-bovell-j
 - [[cte-and-ai]]
 - [[labor-market-polarization]]
 - [[broken-ladder]]
+- [[meta-workforce-academy]]
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[applied-co-intelligence-report]]

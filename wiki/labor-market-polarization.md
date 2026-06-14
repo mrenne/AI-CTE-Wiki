@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-06-14
 
 ---
 
@@ -181,6 +181,35 @@ An early signal of how employers are responding to the entry-level pipeline disr
 
 This is a practitioner-level observation rather than published research, but it is structurally consistent with the entry-level analysis across this wiki. If AI is automating the procedural tasks that junior university-trained workers historically performed, the economic case for paying graduate wage premiums weakens — while the case for hiring motivated young workers and training them in firm-specific tools and workflows grows stronger. This is the [[sinead-bovell-job-market]] skills-over-credentials argument applied to large employers rather than independent contractors: the shift is not confined to gig work. (source: New Book Podcast: AI Unplugged.md)
 
+## The Canaries Dashboard: Live Employment Data Through April 2026
+
+Stanford Digital Economy Lab's Canaries Dashboard ([[stanford-del-ai-economic-indicators]], Brynjolfsson et al., June 2026) provides the most current and largest-sample corroboration of the early-career divergence finding — and introduces the most important new mechanism-level result in the wiki's labor market analysis.
+
+**Scale**: 25,000 firms, 4.6 million workers, 730+ occupations, live ADP payroll data through April 2026.
+
+**Quantified divergence** (annual rate since ChatGPT, November 2022):
+- Early-career (22–25), most AI-exposed: **−3.8%/year**
+- Early-career (22–25), least AI-exposed: **+2.0%/year**
+
+**YoY as of April 2026** (most vs. least exposed, early-career):
+- Most exposed: −4.2% / Least exposed: −1.7%
+
+The aggregate (all-ages) divergence is modest (−0.2% vs. +0.1% YoY). The early-career divergence is the signal — and it has been compounding for over three years.
+
+**The automation/augmentation finding — the key new result**: Decomposing AI usage at the occupation level using the Anthropic Economic Index:
+- **Automation ratio** (AI replaces worker involvement): clear *negative* correlation with early-career employment — more automation → worse outcomes
+- **Augmentation ratio** (AI assists workers who remain in the loop): *no clear relationship* with employment trends
+
+The mechanism the debate has been missing: it is not AI exposure per se that matters for labor market outcomes. It is whether the AI in an occupation is automating tasks or augmenting workers. Automation displaces; augmentation does not. (source: AIEI_RN01_Jun26.pdf)
+
+**Occupation examples (named, live 2026 data)**:
+- Declining: early-career software developers; customer service representatives
+- Growing: home health aides (least AI-exposed, youngest workers)
+
+**Macroeconomic Takeoff Tracker** (12 indicators, May 2026): 7 neutral, 3 mild, 2 strong evidence. TFP growth is neutral — no break from recent levels. Capital share is rising (strong evidence). The overall verdict: "We do not see decisive evidence of takeoff in these indicators." The early-career divergence in the Canaries Dashboard is real and compounding; the aggregate productivity transformation is not yet visible in macro data. (source: AIEI_RN01_Jun26.pdf)
+
+**Implications for the WFH confound debate**: Lambert & Schindler ([[broken-ladder]]) use total AI exposure measures that conflate automation and augmentation. The Canaries Dashboard's decomposition is a mechanism handle the WFH confound critique does not directly address — it is possible that the employment-contracting occupations are the automation-heavy ones specifically, independent of WFH exposure.
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -191,6 +220,7 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 
 - [[cte-and-ai]]
 - [[transferable-skills]]
+- [[stanford-del-ai-economic-indicators]]
 - [[applied-co-intelligence-report]]
 - [[applied-co-intelligence-model]]
 - [[anthropic-labor-market-index]]
@@ -201,6 +231,7 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]
 - [[nber-data-centers-local-economies]]
+- [[meta-workforce-academy]]
 - [[sinead-bovell-job-market]]
 - [[broken-ladder]]
 - [[ai-unplugged-murgatroyd]]

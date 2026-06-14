@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 NBER working paper using shift-share instrumental variables to causally identify how data center construction affects local employment, income, house prices, and electricity prices across 3,100+ US counties from 1995–2020.
 
-**Sources**: `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`
+**Sources**: `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`
 
-**Last updated**: 2026-05-18
+**Last updated**: 2026-06-14
 
 ---
 
@@ -88,6 +88,16 @@ This has implications for how [[cte-and-ai]] programs are designed. CTE programs
 
 **External validity note**: The 1995–2020 period precedes the most recent AI-driven data center acceleration (the post-2022 buildout following ChatGPT). The observed effects are likely lower bounds on what current expansion will produce, both in scale and in the construction intensity of the specific facilities being built.
 
+## The Meta Texas Case: A Named 2026 Example
+
+The Meta Workforce Academy announcement ([[meta-workforce-academy]], June 2026) provides a named, current illustration of this paper's central temporal finding:
+
+> "Meta's Texas data center project is expected to employ more than 1,800 workers during peak construction but create around 100 operational roles after completion." (source: Mark Zuckerberg Says America Needs...md)
+
+The construction-to-permanent ratio (roughly 18:1) maps almost exactly to the NBER paper's causal finding that construction employment gains are front-loaded and that data-processing employment — while persistent — is small as a share of total county employment. Meta's concurrent commitment of $115 million for free trades training (America's Workforce Academy) and Zuckerberg's explicit statement that "America is going to need hundreds of thousands of skilled tradespeople" confirm the demand-side reality this paper identifies from the supply side. Together they constitute the most complete current picture of the AI infrastructure → CTE labor demand chain: causal IV estimation for the employment mechanism (NBER) + named company commitment to training supply (Meta). (source: Mark Zuckerberg Says America Needs...md)
+
+---
+
 ## Implications for the NBER Paper's Wiki Contribution
 
 This paper provides three things the wiki previously lacked:
@@ -102,6 +112,7 @@ This paper provides three things the wiki previously lacked:
 
 - [[cte-and-ai]]
 - [[labor-market-polarization]]
+- [[meta-workforce-academy]]
 - [[relational-economy]]
 - [[bcg-ai-reshapes-jobs]]
 - [[ai-labor-disruption-segments]]

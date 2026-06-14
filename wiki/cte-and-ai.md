@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`
 
-**Last updated**: 2026-06-09
+**Last updated**: 2026-06-14
 
 ---
 
@@ -66,6 +66,26 @@ A May 2026 NBER working paper ([[nber-data-centers-local-economies]]) provides t
 **The timing structure matters for CTE program planning**: the construction employment boom is early-stage and trade-heavy. The longer-term data-processing gains flow to a small number of highly skilled workers. CTE programs in data-center-dense regions (Virginia, Texas) have strong causal justification for building out electrician, HVAC, and construction pathways as AI infrastructure pipelines. Programs outside those corridors — only 7.6% of US counties had any data center presence by 2020 — face a different geographic calculus. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 **An equity caveat**: the NBER paper also finds that data center construction raises county-level electricity prices (+0.9%) and house prices (+17.7%). These costs fall on all county residents — including renters and low-income households — while the income gains accrue primarily to trade workers during construction and high-skill workers permanently. CTE educators in affected regions should be aware that their communities face distributional consequences, not just benefits, from the AI infrastructure buildout.
+
+### The Meta Workforce Academy: Industry Validation at Scale
+
+The most concrete Big Tech confirmation of the AI infrastructure → CTE demand claim arrived in June 2026 when Meta announced "America's Workforce Academy" — a $115 million free training initiative for data center construction and operations ([[meta-workforce-academy]]):
+
+> "America is going to need hundreds of thousands of skilled tradespeople to build the infrastructure for our country to lead in AI." — Mark Zuckerberg, June 9, 2026
+
+Program design: free training, NCCER credentials (the construction industry's primary national certification), a transferable America's Workforce Certificate, and direct employment pathways. Launch locations: Louisiana, Ohio, Indiana, Texas.
+
+The predecessor program (Level-Up fiber installation) attracted 35,000 applications in its first week — confirming that latent demand for this type of credentialed training pathway is high when cost barriers are removed.
+
+**The construction/operations split**: Meta's Texas data center is projected to employ 1,800 workers at peak construction and ~100 permanently after completion (roughly 18:1). This is the [[nber-data-centers-local-economies]] temporal finding made specific with a named project: the construction boom is real and trade-heavy; the permanent operational employment is smaller. CTE programs in data-center-dense regions should plan for a construction pipeline that is durable (as new sites continue to break ground across the country) but episodic at any single location. (source: Mark Zuckerberg Says America Needs...md)
+
+**Context**: Meta simultaneously cut ~8,000 employees (10%) while committing $600B in US infrastructure. This confirms Brad Smith's "perfect storm" diagnosis ([[brad-smith-ai-jobs-next-generation]]): capital reallocation away from white-collar workers toward AI infrastructure that requires a different workforce category.
+
+### Canaries Dashboard: Home Health Aides Are Empirically Growing
+
+Stanford DEL's Canaries Dashboard ([[stanford-del-ai-economic-indicators]], June 2026) provides the first live employment data in the wiki showing which specific occupations are growing among the youngest workers. **Home health aides** — a core CTE pipeline in the Healthcare & Human Services cluster — show employment increases for the youngest age cohorts (22–25) in the ADP payroll data through April 2026.
+
+This is not a theoretical claim from a BCG taxonomy or a Jevons Paradox argument — it is live payroll data from 4.6 million workers. The least AI-exposed occupations, including home health aides, are growing at +2.0%/year since ChatGPT while the most AI-exposed early-career occupations are contracting at −3.8%/year. The relational economy thesis and the BCG Limited-Exposure classification now have empirical confirmation in real 2026 employment data. (source: AIEI_RN01_Jun26.pdf)
 
 ### Learner Confidence
 CTE learners are 3x more likely than non-CTE peers to report confidence in their future (American College Learner Freedom, Progress and Flourishing survey). This confidence and practical orientation may make CTE learners more adaptable to workplace AI integration than students from purely academic pathways.
@@ -168,6 +188,8 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - [[ai-mastery-continuum]]
 - [[labor-market-polarization]]
 - [[transferable-skills]]
+- [[meta-workforce-academy]]
+- [[stanford-del-ai-economic-indicators]]
 - [[ai-in-k12-education]]
 - [[evidence-base-ai-k12]]
 - [[anthropic-labor-market-index]]
