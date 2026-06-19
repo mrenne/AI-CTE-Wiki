@@ -565,3 +565,23 @@ Append-only record of all operations.
 - `wiki/index.md` — Added 2 new source summary rows (source summaries table and Labor Market Analysis concept section); added 3 new Key Themes (automation vs. augmentation; no macro takeoff but early-career signal real; Big Tech investing in CTE trades training)
 
 **Total pages created**: 2 | **Total pages updated**: 7
+
+---
+
+## 2026-06-18 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/misc/Employers step in to fill the AI education gap.md` — Isabel Berwick, FT "Working It" newsletter, June 3, 2026. Reports on SXSW London conversations with IBM global chief impact officer Justina Nixon-Saintil, Mission 44 CEO Jason Arthur, and career consultant Sally Marnan. Central theme: employers beginning to fill the AI skills gap that school curricula cannot keep pace with. Key signals: IBM's "beyond prompt engineering" quality standard; 30M commitment / 22M reached; AI certificates as hygiene factor not differentiator; London AI Campus (Google + Camden Council); employer-led training still in infancy. UK Milburn Review interim report named as government confirmation of entry-level labour market pressure from AI.
+
+**Pages created**:
+- `wiki/berwick-employers-ai-education-gap.md` — Source summary; Milburn Review as UK government confirmation of entry-level AI pressure; IBM SkillsBuild model (30M/22M, 1,000 courses, 20 languages, "beyond prompt engineering" quality standard); Mission 44/F1 as STEM engagement vehicle; AI certificate = hygiene factor, not differentiator (Sally Marnan); London AI Campus (Google + Camden Council) as bricks-and-mortar model; employer-led training explicitly in its infancy; equity risk of corporate-led AI literacy infrastructure; relationship table
+
+**Pages updated**:
+- `wiki/transferable-skills.md` — Added "AI Certificates as a Hiring Signal: The Hygiene Factor Finding" section: Sally Marnan's finding that AI certs don't move the needle on trust/rapport/making interviewers feel seen; as AI literacy commoditizes, differentiator shifts to human relational qualities; added `[[berwick-employers-ai-education-gap]]` to Related pages; updated Sources and Last updated
+- `wiki/stanford-ai-index-education-2026.md` — Added "The Employer Response: Early-Stage Ecosystem" section: IBM/Google/Anthropic as early movers; London AI Campus model; infancy framing; equity risk of corporate-led provision; added `[[berwick-employers-ai-education-gap]]` to Related pages; updated Sources and Last updated
+- `wiki/ai-in-k12-education.md` — Added "Employer-Led AI Training: An Emerging but Immature Response" section: IBM/Google early movers; Mission 44 addressing siloed teaching; IBM "beyond prompt engineering" standard; equity implication of selective access (London AI Campus is curated cohort, not universal); added `[[berwick-employers-ai-education-gap]]` to Related pages; updated Sources and Last updated
+- `wiki/cte-and-ai.md` — Added "The 'Beyond Prompt Engineering' Employer Standard" section: IBM quality benchmark; 30M/22M commitment; maps to ai-mastery-continuum upper levels; Sally Marnan hygiene factor finding; added `[[berwick-employers-ai-education-gap]]` to Related pages; updated Sources and Last updated
+- `wiki/labor-market-polarization.md` — Added Milburn Review (UK government) to "The 'Perfect Storm'" section as government-sourced confirmation of entry-level AI pressure; added `[[berwick-employers-ai-education-gap]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added 2 new Key Themes (prompt engineering as floor; employer-led training in infancy with equity risk)
+
+**Total pages created**: 1 | **Total pages updated**: 6

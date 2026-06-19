@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-06-18
 
 ---
 
@@ -142,6 +142,18 @@ Smith argues — unusually, from inside the tech sector — that the purpose-giv
 
 Smith's corresponding self-criticism: "The technological, economic, and societal transformations of the past three decades have left too many people behind." The implication is that the success of those transformations in generating productivity did not translate into success in preserving dignified work for broad populations — a failure pattern the AI transition must actively design around. (source: AI, jobs, and the next generation.md)
 
+## AI Certificates as a Hiring Signal: The Hygiene Factor Finding
+
+Sally Marnan (Side Door Career Co., career consultancy for graduates), interviewed by the FT ([[berwick-employers-ai-education-gap]], June 2026), provides the most direct statement in the wiki on what AI credentials actually signal in hiring:
+
+> "I think it could be a hygiene factor if you're trying to get a job through the front door of a big company, but I don't think it'll make a candidate stand out who wouldn't otherwise."
+
+> "We generally hire people we trust, like or make us feel seen — and an AI certificate doesn't move the needle on any of those things."
+
+This is the sharpest empirical counterargument to the AI-upskilling-as-differentiator narrative. As AI literacy becomes widespread — IBM alone has committed to reaching 30 million people with AI skills by 2030, with 22 million reached by end of 2025 — it transitions from a differentiator to a baseline expectation. Once everyone has it, no one stands out by having it.
+
+The differentiating layer then shifts to exactly what the ACI model, BCG, and the Five Cs identify: the human relational qualities that AI cannot replicate. Making interviewers "trust you, like you, or feel seen" — rapport, authentic presence, empathic communication — are not AI-trainable competencies. They are what the [[relational-economy]] thesis predicts will command the premium as cognitive competencies commoditize. The hiring market, as observed by a career consultant working with graduates daily, has already reached this conclusion. (source: Employers step in to fill the AI education gap.md)
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -163,3 +175,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[middle-path-ai-literacy-nurenberg]]
 - [[sinead-bovell-job-market]]
 - [[brad-smith-ai-jobs-next-generation]]
+- [[berwick-employers-ai-education-gap]]

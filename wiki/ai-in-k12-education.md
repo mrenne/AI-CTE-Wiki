@@ -2,9 +2,9 @@
 
 **Summary**: An overview of how generative AI is — and isn't — reshaping K-12 schools, with a focus on tutoring, academic integrity, teacher roles, and the early evidence base.
 
-**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-06-18
 
 ---
 
@@ -99,6 +99,16 @@ The ECEP analysis explains why: state guidance is largely nonbinding and decentr
 
 **The potential turning point**: The new CSTA K-12 Computer Science Standards (expected summer 2026) will integrate significant AI content across K-12 grade bands for the first time. Whether this becomes consequential depends on state adoption — which ECEP's findings suggest is not automatic.
 
+## Employer-Led AI Training: An Emerging but Immature Response
+
+The curriculum lag documented in this page has begun producing a market response: large employers are launching free AI training programmes to compensate for what schools cannot produce fast enough. The FT ([[berwick-employers-ai-education-gap]], Berwick, June 2026) reports this as nascent: "Joined-up thinking across sectors and silos is in its infancy, but there are early adopters."
+
+IBM's SkillsBuild (1,000 free courses, 20 languages, 30M commitment / 22M reached) and Google's London AI Campus (bricks-and-mortar, Camden Council partnership, state-school sixth-formers) are the named early examples. Mission 44 (Lewis Hamilton foundation) uses F1 as a STEM engagement vehicle, explicitly addressing what its CEO calls the education system's "focus on knowledge acquisition" and "siloed subject teaching" — the same structural problems this wiki traces to the [[agentivism]] concern about performance-without-learning and the [[illusion-of-understanding]] dynamic.
+
+The employer quality standard is direct: IBM's chief impact officer at SXSW London stated that "it is not enough to understand prompt engineering — that's very basic." The floor that school programmes stop at is not where employers draw the line.
+
+The equity implication is critical: if employer-led programmes become the primary AI literacy infrastructure, access will concentrate among students near large tech employers and their partner institutions. Students in under-resourced districts — already behind on AI literacy per the [[stanford-ai-index-education-2026]] policy gap findings — face a second structural disadvantage if the response to that gap flows through corporate partnerships rather than public school systems. The London AI Campus is "selected sixth-form students from the borough's state schools" — a curated cohort, not universal provision. (source: Employers step in to fill the AI education gap.md)
+
 ## Implications for CTE
 
 The [[applied-co-intelligence-report]] argues that AI's potential for positive impact is greater in CTE than in general K-12 education, precisely because CTE is oriented toward tangible skill development with clear industry benchmarks. The [[applied-co-intelligence-model]] offers a more structured approach than simple AI integration: a developmental continuum that progresses learners from passive literacy to expert-level mastery within an occupational context.
@@ -118,3 +128,4 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[stanford-ai-index-education-2026]]
 - [[middle-path-ai-literacy-nurenberg]]
 - [[ai-unplugged-murgatroyd]]
+- [[berwick-employers-ai-education-gap]]

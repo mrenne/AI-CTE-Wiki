@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-06-14
+**Last updated**: 2026-06-18
 
 ---
 
@@ -153,6 +153,18 @@ Students are independently arriving at the same conclusion that BCG's Limited-Ex
 
 **The psychological frame — "no path is safe":** The underlying affect of this cohort is not confidence in trades but generalized economic anxiety: "If your plan is not future-proof, the world is going to eat you." Students who grew up in the pandemic and watched the tech industry restructure are performing risk arbitrage across a landscape they perceive as uniformly unstable. The trade pivot is a calculated hedge, not an aspiration — which makes the [[applied-co-intelligence-model]]'s framing of CTE as preparation for an affirmatively valuable relational economy, rather than a fallback from disruption, especially important for enrollment and persistence. (source: These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md)
 
+## The "Beyond Prompt Engineering" Employer Standard
+
+IBM's global chief impact officer at SXSW London (June 2026, [[berwick-employers-ai-education-gap]]) established the employer quality benchmark for AI literacy more precisely than any source previously in the wiki:
+
+> "It is not enough to understand prompt engineering. That's very basic and that's where a lot of people are right now. We really have to go beyond that, and bring hands-on opportunities to the education system."
+
+IBM has committed to delivering AI skills to 30 million people by 2030 (22 million reached by end of 2025) through its free SkillsBuild programme. The programme partners with educational and non-profit institutions — including Mission 44 (Lewis Hamilton foundation) — to deliver hands-on access and to train teachers.
+
+The implication for CTE program design: if prompt engineering is where "a lot of people are right now," then CTE programs that stop at prompt literacy are producing graduates who meet the floor of a crowded market, not workers who can stand out. IBM's standard points toward the upper levels of the [[ai-mastery-continuum]]: Fluency (disciplinary embedding), Agency (independent AI workflow design), and Mastery (evaluation and improvement of AI systems) are where CTE AI education should aim.
+
+Complementarily, career consultant Sally Marnan ([[berwick-employers-ai-education-gap]]) confirmed that AI certificates at the prompt-engineering level are a "hygiene factor" in hiring — necessary for not being filtered out, but insufficient to differentiate candidates. The differentiating layer remains the human relational qualities that make interviewers "trust you, like you, or feel seen." This reinforces [[transferable-skills]] as the differentiator even as AI literacy becomes a baseline. (source: Employers step in to fill the AI education gap.md)
+
 ## Stanford AI Index: The K-12 AI Policy Gap
 
 The Stanford HAI AI Index 2026 Chapter 7 ([[stanford-ai-index-education-2026]]) quantifies a structural implementation failure in K-12 AI education that directly affects CTE:
@@ -190,6 +202,7 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - [[transferable-skills]]
 - [[meta-workforce-academy]]
 - [[stanford-del-ai-economic-indicators]]
+- [[berwick-employers-ai-education-gap]]
 - [[ai-in-k12-education]]
 - [[evidence-base-ai-k12]]
 - [[anthropic-labor-market-index]]

@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Thirty-two sources ingested so far, producing 48 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Thirty-three sources ingested so far, producing 49 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 

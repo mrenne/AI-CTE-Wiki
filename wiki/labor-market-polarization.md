@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-06-14
+**Last updated**: 2026-06-18
 
 ---
 
@@ -171,6 +171,8 @@ Smith's taxonomy of the "perfect storm":
 3. **COVID-era hiring overhang** — consistent with [[apocalypse-no-galloway]]'s layoff anatomy (Meta returning to 2021 headcount, Microsoft 47% larger pre-pandemic)
 4. **Geopolitical uncertainty and trade tensions** — external macro factors compressing entry-level hiring further
 
+The UK government's **Milburn Review** interim report ([[berwick-employers-ai-education-gap]], June 2026) independently confirms this diagnosis: "There are fewer entry-level roles than there were, while competition for them has intensified. Meanwhile, artificial intelligence and automation are likely to add further pressure to the entry-level labour market." The Milburn Review is the first government-sourced statement in this wiki explicitly naming AI as a driver of entry-level labour market pressure — adding policy-level confirmation to the academic and industry evidence. (source: Employers step in to fill the AI education gap.md)
+
 This is significant because Smith explicitly disentangles "AI is making workers unnecessary" from "companies are cutting headcount to fund AI capex" — the same workers may be affected by either mechanism for different reasons, and the policy remedies differ. It also corroborates the [[broken-ladder]] multi-causal account: the junior-hiring decline is not cleanly attributable to any single driver. (source: AI, jobs, and the next generation.md)
 
 ## Adaptive Employer Responses: Hiring Directly from High School
@@ -237,3 +239,4 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[ai-unplugged-murgatroyd]]
 - [[nyt-teens-trade-classes]]
 - [[brad-smith-ai-jobs-next-generation]]
+- [[berwick-employers-ai-education-gap]]

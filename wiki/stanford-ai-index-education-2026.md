@@ -2,9 +2,9 @@
 
 **Summary**: Stanford HAI's AI Index 2026 Chapter 7 provides the most comprehensive quantitative snapshot of AI in education as of 2026 — covering CS enrollment shifts, student AI use rates, K-12 policy gaps, global comparisons, and AI skill diffusion in the workforce.
 
-**Sources**: `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`
+**Sources**: `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-06-18
 
 ---
 
@@ -90,6 +90,20 @@ Three actionable conclusions from the Stanford data:
 
 3. **CS enrollment decline is a signal, not a crisis**: The -11% undergrad CS enrollment is not evidence that students are ignoring AI — it is evidence that they are reading the labor market correctly. Students are diversifying rather than concentrating. The right policy response is to ensure AI literacy is available across all majors, not to prop up CS enrollment.
 
+## The Employer Response: Early-Stage Ecosystem
+
+The K-12 policy vacuum documented in this chapter has begun generating a market response: large employers are launching their own AI training programmes to compensate for what schools are not producing. The FT ([[berwick-employers-ai-education-gap]], June 2026) documents this as an emerging but nascent trend:
+
+> "Joined-up thinking across sectors and silos is in its infancy, but there are early adopters."
+
+**IBM SkillsBuild**: 1,000 free courses in 20 languages; commitment to reach 30 million people with AI skills by 2030; 22 million reached by end of 2025. IBM's quality standard explicitly moves past the baseline: "It is not enough to understand prompt engineering. That's very basic and that's where a lot of people are right now."
+
+**Google + Camden Council**: The London AI Campus — bricks-and-mortar AI tuition, mentoring, and expert access for state-school sixth-formers near Google's King's Cross HQ. A public-private model that goes beyond online courses to physical presence and local community embedding.
+
+**Anthropic Academy** and Google's AI Pro student agreements provide free online AI training to university students.
+
+This employer-led ecosystem is not yet coordinated or widespread. It is a collection of individual company initiatives filling a gap that policy has not. The critical implication for the [[stanford-ai-index-education-2026]] finding on the K-12 policy vacuum: if employer-led programmes become the primary AI literacy infrastructure, access will be uneven — concentrated among students in proximity to large tech employers and their partner institutions, widening rather than closing the equity gap the chapter identifies. (source: Employers step in to fill the AI education gap.md)
+
 ## Related pages
 
 - [[ai-in-k12-education]]
@@ -101,3 +115,4 @@ Three actionable conclusions from the Stanford data:
 - [[agentivism]]
 - [[ai-labor-disruption-segments]]
 - [[small-language-models]]
+- [[berwick-employers-ai-education-gap]]
