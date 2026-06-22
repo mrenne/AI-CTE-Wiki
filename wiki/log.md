@@ -585,3 +585,24 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added 2 new Key Themes (prompt engineering as floor; employer-led training in infancy with equity risk)
 
 **Total pages created**: 1 | **Total pages updated**: 6
+
+---
+
+## 2026-06-22 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md` — Dan Fitzpatrick, aieducator.tools, June 22, 2026. Profile interview with Justin Spelhaug, President of Microsoft Elevate — the company's ~$4B, five-year program to credential ~20 million people for the AI economy. Spelhaug validates student AI anxiety (Gallup/Lumina: 47% considered changing majors, 16% already did); names the durable skill as "navigate yourself" (metacognition, not tool-specific competency); cites Microsoft/Digital Promise misplaced confidence research (500 undergrads; confidence climbed, knowledge didn't); takes teacher-first stance citing One Laptop Per Child failure; 2M teachers credentialed by Elevate for Educators in past year; IP/human agency equity argument.
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/spelhaug-microsoft-elevate.md` — Source summary; Gallup/Lumina 47%/16% major-change data; low-hire/low-fire framing; LinkedIn 70% skills change by 2030; "navigate yourself" as the durable skill; metacognitive capabilities that AI won't automate; misplaced confidence trap (Microsoft/Digital Promise ~500 undergrads + CHI 2025 study: more AI trust → less critical thinking); teacher-first principle ("starts with a teacher"); One Laptop Per Child warning; 2M teachers credentialed via Elevate for Educators; IP/human agency equity argument; tensions with Brad Smith's more multi-causal "perfect storm" diagnosis; source and speaker caveats
+
+**Pages updated**:
+- `wiki/cognitive-debt.md` — Added "Corporate Research Corroboration: Microsoft's Misplaced Confidence Finding" section: Digital Promise study (~500 undergrads, confidence up, knowledge didn't); CHI 2025 Microsoft Research study (more AI trust = less critical thinking); significance as large-scale corporate corroboration; connection to Zone 3 design (Spelhaug's fix = structured delegation, not passive answering); added `[[spelhaug-microsoft-elevate]]` to Related pages; updated Sources and Last updated
+- `wiki/transferable-skills.md` — Added "'Navigate Yourself': The Industry Formulation of Metacognition as the Durable Skill" section: Spelhaug's compressed formulation; writer-to-editor, player-to-coach analogies; metacognitive capabilities AI won't automate; adaptive capacity as structural argument for why transferable skills command growing economic value; honest caveat that this is a wager; added `[[spelhaug-microsoft-elevate]]` to Related pages; updated Sources and Last updated
+- `wiki/ai-in-k12-education.md` — Added "Microsoft Elevate: The Largest Employer-Led AI Education Program in the Wiki" section: $4B program; 2M teachers credentialed; 14% of Spain's teachers; "starts with a teacher" governing principle; One Laptop Per Child warning; strongest outcomes when "an agent and a teacher work together"; convergence with evidence-base-ai-k12 systematic review findings on educator-facing AI; added `[[spelhaug-microsoft-elevate]]` to Related pages; updated Sources and Last updated
+- `wiki/broken-ladder.md` — Added "Student Behavioral Response: Gallup/Lumina 2026" section: 47% of 3,801 US students considered changing majors; 16% already had; behavioral response to observable career environment regardless of contested causal attribution; connection to NYT teens trade-pivot data; added `[[spelhaug-microsoft-elevate]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added source summary row; added 3 new Key Themes (navigate yourself; misplaced confidence; students changing majors at scale)
+
+**Total pages created**: 1 | **Total pages updated**: 5

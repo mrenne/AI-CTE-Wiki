@@ -2,9 +2,9 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
+**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-06-22
 
 ---
 
@@ -149,6 +149,16 @@ Key distinction: cognitive debt requires extended AI use to manifest (Kosmyna et
 
 The individual differences data from Abdelghani et al. adds important nuance: positive AI attitudes negatively predict quality (β = −0.39), while metacognition is protective (r = 0.30). Applied to cognitive debt, this suggests that students most at risk of accumulating cognitive debt are precisely those most enthusiastic about AI — they are least likely to apply the critical distance that could interrupt the debt-accumulation cycle. (source: The Illusion of Understanding.pdf)
 
+## Corporate Research Corroboration: Microsoft's Misplaced Confidence Finding
+
+Justin Spelhaug (President, Microsoft Elevate) surfaced a large-scale corroboration of the cognitive debt thesis from inside Microsoft's own research ([[spelhaug-microsoft-elevate]], June 2026). Microsoft ran research with Digital Promise tracking roughly 500 undergraduates who used AI to learn "without a pedagogy behind it, without a program behind it." Their confidence climbed. Their knowledge didn't. Spelhaug's term: **"misplaced confidence"** (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md).
+
+A second Microsoft study (2025, presented at CHI) found the same pattern in knowledge workers: the more workers trusted AI, the less critical thinking they applied (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md).
+
+The significance for cognitive debt: this is not a small-sample academic preprint. It comes from the company running a $4B AI education program, using their own platform data, and it produces the same conclusion — confidence and capability diverge when AI is used without structured pedagogy. The mechanism matches exactly: AI use without deliberate design produces performance gains (confidence, output quality) while undermining the cognitive processes that create durable understanding.
+
+Spelhaug's prescribed fix — technology that "promotes thinking and learning versus just being answering machines," agents designed to hold students at a productive threshold where "the system's not going to deliver it for you" — is a direct operational description of what Zone 3 design looks like in practice (see [[hardman-cognitive-offloading-paradox]]): structure that prevents passive delegation and routes freed cognitive capacity into reconstruction and reflection.
+
 ## Limitations of the Concept
 
 The Kosmyna study that grounds this concept is a preprint with a small sample (54 participants), conducted in a single city, using ChatGPT for a single task type (essay writing). Cognitive debt as a formal concept requires:
@@ -176,3 +186,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[building-ai-companions]]
 - [[ai-unplugged-murgatroyd]]
 - [[hardman-cognitive-offloading-paradox]]
+- [[spelhaug-microsoft-elevate]]

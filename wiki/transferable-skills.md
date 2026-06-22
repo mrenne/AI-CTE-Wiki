@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-06-22
 
 ---
 
@@ -154,6 +154,16 @@ This is the sharpest empirical counterargument to the AI-upskilling-as-different
 
 The differentiating layer then shifts to exactly what the ACI model, BCG, and the Five Cs identify: the human relational qualities that AI cannot replicate. Making interviewers "trust you, like you, or feel seen" — rapport, authentic presence, empathic communication — are not AI-trainable competencies. They are what the [[relational-economy]] thesis predicts will command the premium as cognitive competencies commoditize. The hiring market, as observed by a career consultant working with graduates daily, has already reached this conclusion. (source: Employers step in to fill the AI education gap.md)
 
+## "Navigate Yourself": The Industry Formulation of Metacognition as the Durable Skill
+
+Justin Spelhaug (President, Microsoft Elevate) offers the most compressed formulation in the wiki of what transferable skills are for in the AI era: the goal of education is **"equipping people with the skills and knowledge to navigate themselves"** (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md).
+
+His argument ([[spelhaug-microsoft-elevate]], June 2026): the half-life of any specific competency is collapsing. Teach a specific tool and it becomes obsolete; teach the capacity to keep re-orienting as the map redraws — that is durable. His analogies: from writer to editor, from position player to coach, from playing one instrument to conducting. The common thread is the metacognitive layer — the ability to evaluate, direct, and adapt performance rather than execute it — which is exactly what Spelhaug identifies as the "metacognitive capabilities, thinking about thinking, creativity, insight" that AI "will not" automate.
+
+He is honest that this is a wager rather than a finding: schools have spent decades failing to teach and assess metacognition reliably. But as a senior Microsoft executive who validates student anxiety rather than dismissing it, his convergence with the [[applied-co-intelligence-model]]'s transferable skills framework and with the Five Cs taxonomy (both in this page) is notable. Industry, learning science, and management consulting are arriving at the same cluster from different entry points.
+
+The "navigate yourself" phrase is the individual-level version of what lifelong learning research calls **adaptive capacity** — the meta-skill that determines how quickly someone can acquire the next round of specific skills as each prior round depreciates. If AI is accelerating skill depreciation, adaptive capacity becomes proportionally more valuable. This is the structural argument behind LinkedIn's projection that 70% of job skills will change by 2030 (Spelhaug, source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md) — and the reason the transferable skills case is not merely normative but economic.
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -176,3 +186,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[sinead-bovell-job-market]]
 - [[brad-smith-ai-jobs-next-generation]]
 - [[berwick-employers-ai-education-gap]]
+- [[spelhaug-microsoft-elevate]]

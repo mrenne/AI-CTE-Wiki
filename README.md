@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Thirty-three sources ingested so far, producing 49 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Thirty-four sources ingested so far, producing 50 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 
@@ -61,6 +61,8 @@ Thirty-three sources ingested so far, producing 49 interlinked wiki pages. The p
 **The K-12 AI policy gap is structural, not accidental.** Stanford's AI Index 2026 finds that 80% of university students use AI for schoolwork — doubled from 40% in 2023 — but only 6% of teachers report their school's AI policies are clear. No US state has established teacher training standards for AI education. AP CS excludes AI content. State guidance is largely nonbinding. Students are integrating AI into their work at scale, without any institutional literacy framework around it.
 
 **The key design variable is whether AI provides answers or builds thinking.** The evidence base consistently shows that AI tutors designed to give hints and ask guiding questions produce near-equivalent outcomes to traditional instruction; AI that provides complete answers harms independent learning and widens achievement gaps for low-prior-knowledge students. The same technology, with different pedagogical design, produces opposite effects.
+
+**The transformation starts with teachers, not tools.** Microsoft Elevate's president Justin Spelhaug — who leads a $4B AI education program — cites One Laptop Per Child as the warning: many laptops "became doorstops within six months." His verdict: "Providing a tool to a student does nothing." Microsoft credentialed 2 million teachers in its first year through Elevate for Educators. The largest employer-led AI training programs converge on a teacher-first stance that the systematic research evidence supports: the most consistent positive causal effects in AI education are on the educator side, not the student side. Spelhaug names "navigate yourself" — metacognitive adaptability, not any specific tool — as the durable skill worth building. Gallup/Lumina 2026 (3,801 US college students) finds 47% have seriously considered changing their major because of AI's career impact; 16% already have.
 
 **AI equity runs deeper than an infrastructure gap — it is also a cultural representation problem.** AI systems trained predominantly on Western, English-language text produce outputs that systematically misrepresent or erase indigenous and non-Western knowledge systems. In Canada (among the world's wealthiest countries), 650,000 households lack internet access — primarily indigenous and northern rural communities — while Canada ranks among the five most expensive jurisdictions globally for broadband. The answer to both problems points in the same direction: locally deployed AI on locally controlled data (data sovereignty), not scaled access to centralized Western cloud systems.
 

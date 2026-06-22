@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
 
-**Last updated**: 2026-06-14
+**Last updated**: 2026-06-22
 
 ---
 
@@ -133,6 +133,19 @@ This paper directly complicates several claims in this wiki:
 
 ---
 
+## Student Behavioral Response: Gallup/Lumina 2026 (June 2026)
+
+A Gallup and Lumina Foundation survey of 3,801 US college students published in 2026, cited by Justin Spelhaug ([[spelhaug-microsoft-elevate]]), provides behavioral evidence that young people are registering the broken-ladder dynamic — and acting on it:
+
+- **47%** had seriously considered changing their major because of AI's potential impact on the job market
+- **16%** already had (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md)
+
+This is not survey data about *awareness* of AI's labor market effects — it is data about *behavioral response*. Nearly half of enrolled students are reconsidering their course of study specifically because of AI-driven career risk. One in six has already made the change.
+
+The Broken Ladder's contribution to interpreting this data: the junior-hiring decline is real regardless of whether its proximate cause is WFH organizational frictions or AI task automation. Students reading Spelhaug's "low-hire, low-fire job market" description for new entrants are responding to an observable career environment — not to a contested causal attribution. Whether WFH or AI is the primary mechanism behind that environment, the environment itself is real, and these students are making rational responses to it.
+
+The Bay Area class of 2026 ([[nyt-teens-trade-classes]]) represents the same phenomenon in a different population: high school seniors explicitly avoiding tech careers and pivoting to trades as an AI hedge. The Gallup/Lumina data shows this pattern is not just visible in the AI capital — it is widespread among enrolled college students nationwide.
+
 ## The Canaries Dashboard: A Subsequent Corroboration (June 2026)
 
 Stanford Digital Economy Lab's Canaries Dashboard ([[stanford-del-ai-economic-indicators]], Brynjolfsson et al., June 2026) explicitly situates this paper in its broader debate context and extends the early-career employment finding into live 2026 ADP payroll data. Two points of contact with Lambert & Schindler's argument:
@@ -156,3 +169,4 @@ Lambert & Schindler's finding remains methodologically sound within its scope �
 - [[ai-job-apocalypse-klein]]
 - [[ai-economics-scan-2026]]
 - [[nyt-teens-trade-classes]]
+- [[spelhaug-microsoft-elevate]]
