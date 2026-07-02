@@ -35,7 +35,7 @@ These gaps motivate the [[applied-co-intelligence-model]] as a CTE-specific exte
 
 ## Contrast with Agentivism
 
-Mollick's co-intelligence framework is primarily prescriptive and optimistic — a guide for how to work well with AI. [[Agentivism]] provides the theoretical grounding for *why* certain modes of AI collaboration produce learning and others do not. Together they are complementary: co-intelligence describes the goal; agentivism explains the mechanism.
+Mollick's co-intelligence framework is primarily prescriptive and optimistic — a guide for how to work well with AI. [[agentivism]] provides the theoretical grounding for *why* certain modes of AI collaboration produce learning and others do not. Together they are complementary: co-intelligence describes the goal; agentivism explains the mechanism.
 
 ## Related pages
 

@@ -46,7 +46,7 @@ This is why the ACI model insists all three spheres must be developed together: 
 
 ## Connection to Agentivism
 
-[[Agentivism]]'s mechanisms of epistemic monitoring and verification are essentially transferable skills applied to AI interactions. The ability to evaluate AI outputs for truthfulness, relevance, and adequacy requires critical thinking. The ability to decide how much to delegate and how much to retain requires judgment. These are not AI-specific skills — they are durable human competencies that become especially critical in AI-augmented work.
+[[agentivism]]'s mechanisms of epistemic monitoring and verification are essentially transferable skills applied to AI interactions. The ability to evaluate AI outputs for truthfulness, relevance, and adequacy requires critical thinking. The ability to decide how much to delegate and how much to retain requires judgment. These are not AI-specific skills — they are durable human competencies that become especially critical in AI-augmented work.
 
 ## AI-Assisted Development of Social Transferable Skills
 
@@ -134,7 +134,7 @@ This converts Bovell's financial analyst → financial strategist narrative into
 
 ## The Dignity of Work: A First-Order Value
 
-[[Brad-smith-ai-jobs-next-generation]] introduces the most normatively explicit argument in the wiki for why transferable skills matter beyond economic productivity:
+[[brad-smith-ai-jobs-next-generation]] introduces the most normatively explicit argument in the wiki for why transferable skills matter beyond economic productivity:
 
 > "The American Dream has been founded on the dignity of work and the critical role it plays in giving life purpose."
 

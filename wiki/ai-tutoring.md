@@ -60,7 +60,7 @@ The same paper proposes three necessary foundations for AI companions that teach
 
 ## The Learning Theory Problem
 
-[[Agentivism]] provides the theoretical explanation for AI tutoring's limitations (source: Agentivism.pdf). Students interacting with an AI tutor without engaging in:
+[[agentivism]] provides the theoretical explanation for AI tutoring's limitations (source: Agentivism.pdf). Students interacting with an AI tutor without engaging in:
 - **Epistemic monitoring** (evaluating whether the AI's explanation is correct, relevant, adequate)
 - **Reconstructive internalization** (reworking the AI's explanation into their own understanding)
 

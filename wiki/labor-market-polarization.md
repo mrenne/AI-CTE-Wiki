@@ -75,7 +75,7 @@ The mechanism: experienced workers with accumulated expertise and institutional 
 
 ## The Relational Economy Counter-Thesis
 
-[[Relational-economy|The relational economy thesis]] (Imas, 2026; [[what-will-be-scarce]]) challenges the polarization framework's assumption that AI pressure simply moves up the skill ladder. The structural change argument holds that when AI makes cognitive commodity production cheap, rising incomes shift demand toward a **relational sector** — goods and services where human involvement is inseparable from the value (care, hospitality, artisanal production, education, therapy).
+[[relational-economy|The relational economy thesis]] (Imas, 2026; [[what-will-be-scarce]]) challenges the polarization framework's assumption that AI pressure simply moves up the skill ladder. The structural change argument holds that when AI makes cognitive commodity production cheap, rising incomes shift demand toward a **relational sector** — goods and services where human involvement is inseparable from the value (care, hospitality, artisanal production, education, therapy).
 
 Historical evidence (Comin, Lashkari & Mestieri, *Econometrica* 2021): income effects account for over 75% of observed patterns of structural change across countries. When technology makes a sector cheap, the sector shrinks as a share of GDP and employment, while spending and employment shift toward higher-income-elasticity sectors. Applied to AI: commodity cognitive work shrinks; relational work grows.
 

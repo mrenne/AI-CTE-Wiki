@@ -78,7 +78,7 @@ Galloway's three-scenario structure is useful for CTE program design under uncer
 - **Jevons scenario**: AI augmentation of technical and relational work creates productivity gains; CTE graduates who master AI tools will do dramatically more of the same work. The [[applied-co-intelligence-model]] prepares students for exactly this.
 - **Permanent underclass scenario**: The most urgent CTE policy concern. If AI productivity gains flow only to capital, CTE's role shifts from workforce preparation to social equity preservation — ensuring that non-college-track students are not consigned to structural exclusion from the AI economy.
 
-## Related Pages
+## Related pages
 
 - [[ai-job-apocalypse-klein]]
 - [[labor-market-polarization]]

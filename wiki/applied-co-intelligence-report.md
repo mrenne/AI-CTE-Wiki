@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-07-02
 
 ---
 
@@ -57,10 +57,7 @@ AI is a **general-purpose technology** — comparable to electricity in scope, n
 - Domain expertise makes workers *better* AI users: "The best users of AI tools in the workplace are people with training and expertise in the field"
 
 ### AI Exposure by CTE Cluster (AIOE data)
-- **Highest exposure**: Digital Technology, Financial Services, Management & Entrepreneurship
-- **Lowest current exposure**: Agriculture, Construction, Hospitality (though changing)
-- Exposure generally increases with education level within each cluster
-- The uneven distribution raises significant equity concerns
+This report's original AIOE estimates by cluster have since been superseded by occupation-level data from the ERO/Advance CTE/ACTE "Fostering AI-Ready CTE Pipelines" report series, which applied the AIOE and Task Routinization Index directly to BLS/O*NET occupation data across four of the six modernized Career Cluster Groupings. See [[ai-occupational-exposure-index]] for the full methodology and cross-cluster comparison table, and [[cte-and-ai]]'s "AI Exposure by CTE Cluster" section for the current rankings. The one finding that holds up unchanged: **exposure generally increases with the education level required for entry into a cluster's occupations** — this pattern reproduces inside every cluster grouping studied, not just across clusters, and the uneven distribution continues to raise significant equity concerns.
 
 ## Chapter 4: The Applied Co-Intelligence Model
 
@@ -129,3 +126,4 @@ A February 23, 2026 webinar ([[cte-futures-aci-webinar]]) presenting the report 
 - [[evidence-base-ai-k12]]
 - [[bcg-ai-reshapes-jobs]]
 - [[stanford-ai-index-education-2026]]
+- [[ai-occupational-exposure-index]]

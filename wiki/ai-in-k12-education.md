@@ -18,7 +18,7 @@ Three years after ChatGPT's public release, the consensus view in K-12 education
 
 **Teacher burden**: Teachers are grappling with how to design assignments that meaningfully assess student learning when AI can produce plausible responses to most prompts. Many are doing this without institutional support, often turning to AI themselves for help with lesson planning or feedback — ad-hoc and unsupported.
 
-**AI tutoring underperformance**: [[Khanmigo]] and similar tools have failed to achieve the adoption their creators expected. Students who most need help are least likely to seek it out, even when AI tutoring is freely available. See [[ai-tutoring]] for detailed analysis.
+**AI tutoring underperformance**: [[khanmigo|Khanmigo]] and similar tools have failed to achieve the adoption their creators expected. Students who most need help are least likely to seek it out, even when AI tutoring is freely available. See [[ai-tutoring]] for detailed analysis.
 
 ## The Evidence Gap
 

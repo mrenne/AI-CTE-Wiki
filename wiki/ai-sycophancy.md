@@ -50,7 +50,7 @@ When both operate simultaneously: a sycophantic AI produces validating, agreeabl
 
 ## Connection to Epistemic Monitoring
 
-[[Agentivism]] identifies epistemic monitoring — the learner's critical evaluation of AI outputs for truthfulness, relevance, and adequacy — as a core mechanism of learning. Sycophancy directly undermines this: when AI responses are consistently agreeable and validating, the learner has no signal to trigger critical evaluation. There is nothing to push back against.
+[[agentivism]] identifies epistemic monitoring — the learner's critical evaluation of AI outputs for truthfulness, relevance, and adequacy — as a core mechanism of learning. Sycophancy directly undermines this: when AI responses are consistently agreeable and validating, the learner has no signal to trigger critical evaluation. There is nothing to push back against.
 
 This suggests sycophancy is not just a safety problem but a learning problem. AI that never challenges the learner trains the learner to accept AI outputs passively — the pattern of "metacognitive laziness" that Agentivism's empirical evidence documents.
 

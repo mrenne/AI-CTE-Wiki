@@ -94,7 +94,7 @@ This provides narrative grounding for the causal IV finding in [[nber-data-cente
 
 ## The Commencement Backlash: A Parallel 2026 Signal
 
-[[Brad-smith-ai-jobs-next-generation]] (Smith, June 2026) documents a complementary behavioral signal from the same graduating cohort. At university commencement ceremonies across the United States, the class of 2026 booed AI when it was mentioned from the podium. At Princeton, students petitioned to reject a beer jacket design created with AI assistance, replacing it with one labeled "100% cotton — 100% human."
+[[brad-smith-ai-jobs-next-generation]] (Smith, June 2026) documents a complementary behavioral signal from the same graduating cohort. At university commencement ceremonies across the United States, the class of 2026 booed AI when it was mentioned from the podium. At Princeton, students petitioned to reject a beer jacket design created with AI assistance, replacing it with one labeled "100% cotton — 100% human."
 
 Smith — the President of Microsoft — frames this as a "wake-up call" that tech sector leaders "had better take notice" of. His observation: these students are also, according to Microsoft's own research, the *highest AI adopters* in the country (counties with large college-age populations show the highest generative AI usage rates in the US). When a generation's most enthusiastic adopters are also its loudest critics, the signal carries extra weight.
 

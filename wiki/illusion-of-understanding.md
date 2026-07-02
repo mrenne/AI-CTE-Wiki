@@ -152,7 +152,7 @@ The illusion of understanding has specific implications for CTE practice:
 
 ---
 
-## Related Pages
+## Related pages
 
 - [[agentivism]]
 - [[cognitive-debt]]
