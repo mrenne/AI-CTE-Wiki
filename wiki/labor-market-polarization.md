@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-07-02
 
 ---
 
@@ -212,6 +212,12 @@ The mechanism the debate has been missing: it is not AI exposure per se that mat
 
 **Implications for the WFH confound debate**: Lambert & Schindler ([[broken-ladder]]) use total AI exposure measures that conflate automation and augmentation. The Canaries Dashboard's decomposition is a mechanism handle the WFH confound critique does not directly address — it is possible that the employment-contracting occupations are the automation-heavy ones specifically, independent of WFH exposure.
 
+## Occupation-Level Confirmation: The Fostering AI-Ready CTE Pipelines Series
+
+Four ERO/Advance CTE/ACTE reports (March–August 2025) apply the [[ai-occupational-exposure-index]] (AIOE and Task Routinization Index) to four of the six modernized Career Cluster Groupings — [[fostering-ai-ready-building-moving]], [[fostering-ai-ready-cultivating-resources]], [[fostering-ai-ready-caring-communities]], [[fostering-ai-ready-creating-experiencing]] — and the pattern that emerges is a direct, occupation-level confirmation of the polarization-extends-upward thesis. Within *every one* of the four groupings, regardless of whether the grouping's *average* exposure is high (Caring for Communities) or low (Building & Moving), the same internal split holds: bachelor's-degree-requiring occupations score well above the national AIOE mean, while occupations requiring a high school diploma or less score well below it. Engineers score above welders; lawyers and teachers score above childcare workers and correctional officers; natural sciences managers score above farmworkers. This is polarization's education-credential gradient reproduced inside CTE-adjacent occupations specifically, not just across the economy as a whole — see [[ai-occupational-exposure-index]] for the full cross-cluster comparison.
+
+**A dissenting data point worth flagging**: the Creating & Experiencing report ([[fostering-ai-ready-creating-experiencing]]) includes an interview with Jesse Anglen (CEO, Rapid Innovations), who predicts AI will displace "close to a hundred percent of knowledge workers" within 5 years — a claim that, if true, would represent polarization collapsing into near-total displacement of cognitive labor rather than a reallocation toward relational and physical work. This contradicts the dominant thesis on this page (extension of polarization pressure upward, not elimination of the knowledge-work tier) and the wider wiki consensus ([[bcg-ai-reshapes-jobs]], [[apocalypse-no-galloway]], [[ai-job-apocalypse-klein]]). It is noted here per the wiki's citation rule for explicit contradictions; see [[fostering-ai-ready-creating-experiencing]] for the full quote and the caveats around its evidentiary basis.
+
 ## Implications for CTE
 
 CTE is specifically designed to serve the workers most vulnerable to polarization. Without deliberate intervention to build [[transferable-skills]] and [[ai-mastery-continuum|AI mastery]], AI could deepen existing inequities. The privileged groups (higher-education, high-exposure occupations) are positioned to capture AI's productivity gains, while marginalized populations risk concentration in lower-reward roles or in middle-skill occupations under maximum automation pressure.
@@ -240,3 +246,8 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[nyt-teens-trade-classes]]
 - [[brad-smith-ai-jobs-next-generation]]
 - [[berwick-employers-ai-education-gap]]
+- [[ai-occupational-exposure-index]]
+- [[fostering-ai-ready-building-moving]]
+- [[fostering-ai-ready-cultivating-resources]]
+- [[fostering-ai-ready-caring-communities]]
+- [[fostering-ai-ready-creating-experiencing]]

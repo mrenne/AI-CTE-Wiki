@@ -2,9 +2,9 @@
 
 **Summary**: The economic theory that AI-driven automation will not eliminate work but relocate scarcity — shifting employment and expenditure from commodity production into a "relational sector" where human involvement is inseparable from the value of the good or service.
 
-**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`
+**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`
 
-**Last updated**: 2026-05-25
+**Last updated**: 2026-07-02
 
 ---
 
@@ -113,6 +113,12 @@ If AI is accelerating this social withdrawal by offering a digital simulacrum of
 
 > "If Imas is right — and I think he is — our ability to relate, sensitively and deeply, to other human beings will be a central and valuable skill. That, I fear, is the exact skill we are breaking down in the young." (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md)
 
+## A Contested Case Within the Relational Sector: Hospitality's Gendered Exposure
+
+The Creating & Experiencing report in the ERO/Advance CTE/ACTE series ([[fostering-ai-ready-creating-experiencing]], August 2025) complicates the relational economy thesis with a finding worth noting directly. Hospitality, Events, & Tourism — a canonical relational-sector cluster in Imas's framework (guest service, personalized experience, human presence) — scores *below* the national AIOE average, which on its face supports the relational economy prediction that human-presence work resists AI displacement. But the report explicitly flags this cluster as "highly vulnerable to AI-driven automation" at the task level (AI-driven dynamic pricing, chatbot concierges, automated booking and housekeeping-schedule optimization), and raises a gendered concern: women comprise **54% of the global tourism workforce** (World Tourism Organization, 2019), so AI-driven task automation within hospitality could disproportionately affect women workers even while the sector's relational core (in-person guest interaction) remains protected.
+
+This is a useful stress test for the relational economy thesis: the thesis predicts sectoral growth for relational work overall, but does not predict which specific tasks *within* a relational-sector job survive automation, nor who bears the transition cost when the routine tasks inside a relational occupation (booking, pricing, basic guest inquiries) are automated even as the core relational task (in-person hospitality) persists. See [[ai-occupational-exposure-index]] for the occupation-level data and [[fostering-ai-ready-creating-experiencing]] for the source report, including a dissenting interview voice (Jesse Anglen) whose far more pessimistic labor-displacement prediction is also documented there.
+
 ## Implications for CTE and Education
 
 The relational economy thesis has direct implications for [[cte-and-ai]]:
@@ -156,3 +162,5 @@ This reinforces the relational economy framework from a different angle: the rel
 - [[ai-labor-disruption-segments]]
 - [[nber-data-centers-local-economies]]
 - [[sinead-bovell-job-market]]
+- [[ai-occupational-exposure-index]]
+- [[fostering-ai-ready-creating-experiencing]]

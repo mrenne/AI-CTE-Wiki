@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-07-02
 
 ---
 
@@ -92,11 +92,14 @@ CTE learners are 3x more likely than non-CTE peers to report confidence in their
 
 ## AI Exposure by CTE Cluster
 
-Using the AI Occupational Exposure Index (AIOE):
-- **Highest exposure**: Digital Technology, Financial Services, Management & Entrepreneurship
-- **Moderate exposure**: Healthcare & Human Services, Education, Public Service & Safety
-- **Lower current exposure**: Agriculture, Construction, Supply Chain & Transportation, Hospitality (though changing rapidly)
-- Exposure generally increases with the education level required for entry into a cluster's occupations
+The ERO/Advance CTE/ACTE "Fostering AI-Ready CTE Pipelines" report series ([[ai-occupational-exposure-index]]) has now applied the [[ai-occupational-exposure-index|AIOE and Task Routinization Index]] methodology to four of the six modernized Career Cluster Groupings, replacing earlier general-impression estimates with occupation-level data:
+
+- **Highest exposure — Caring for Communities** ([[fostering-ai-ready-caring-communities]]): Education and Public Service & Safety score slightly above the national average (driven by teachers, lawyers, and administrators — Lawyers AIOE 1.33, Middle school teachers 1.29, Medical and health services managers 1.26); Healthcare & Human Services is the exception within this grouping, tracking closer to the national average.
+- **Average exposure, internally split — Creating & Experiencing** ([[fostering-ai-ready-creating-experiencing]]): Arts, Entertainment & Design scores slightly above the national average (Editors 1.13, Interior designers 1.12, Graphic designers 0.72); Hospitality, Events & Tourism scores slightly below average but is still flagged as highly automation-vulnerable at the task level, with a gendered dimension — women comprise 54% of the global tourism workforce (World Tourism Organization, 2019).
+- **Close to average — Cultivating Resources** ([[fostering-ai-ready-cultivating-resources]]): Agriculture slightly below, Energy & Natural Resources slightly above; outliers are bachelor's-level science/management roles (Natural sciences managers AIOE 1.33, Biological scientists 1.01) against a low-AIOE base of field and production labor (Farmworkers −1.6).
+- **Lowest exposure — Building & Moving** ([[fostering-ai-ready-building-moving]]): the largest cluster grouping by employment (38.9M workers, 26% of the US workforce) and the least AI-exposed of the four studied; only bachelor's-level engineering and management roles (Industrial Engineers 1.14, Mechanical Engineers 1.00) exceed the national average, while most skilled-trade occupations score well below it (Welders −1.20, Electricians and HVAC technicians in the −1.1 to −1.5 range).
+- Managing & Connecting and Digital Technology are not yet covered by this report series as of mid-2026 and remain estimated rather than measured.
+- Across all four studied groupings, the same pattern holds: **exposure increases with the education level required for entry**, because AI correlates most strongly with cognitive tasks and least with physical ones — not because a cluster's *field* (trades vs. professional services) determines exposure on its own. See [[ai-occupational-exposure-index]] for the full methodology and cross-cluster comparison table.
 
 ## Evidence on AI Effectiveness at the CTE Level
 
@@ -152,6 +155,22 @@ Students are independently arriving at the same conclusion that BCG's Limited-Ex
 **Trade stigma persists as the binding constraint:** Despite the AI hedge argument and six-figure wage data, the barrier is cultural and family-driven. Immigrant families are placing especially heavy pressure toward four-year degrees even when students have found genuine aptitude and interest. "They're supportive. They're just a little disappointed that I'm not going to college." Teachers observe parents resisting trade paths for students who have demonstrated real skill: "They think it is less than." No policy investment fully resolves this — it requires changing the narrative about what CTE prepares students *for*, not just what it protects them *from*.
 
 **The psychological frame — "no path is safe":** The underlying affect of this cohort is not confidence in trades but generalized economic anxiety: "If your plan is not future-proof, the world is going to eat you." Students who grew up in the pandemic and watched the tech industry restructure are performing risk arbitrage across a landscape they perceive as uniformly unstable. The trade pivot is a calculated hedge, not an aspiration — which makes the [[applied-co-intelligence-model]]'s framing of CTE as preparation for an affirmatively valuable relational economy, rather than a fallback from disruption, especially important for enrollment and persistence. (source: These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md)
+
+## The Fostering AI-Ready CTE Pipelines Series: Occupation-Level Confirmation
+
+Four ERO/Advance CTE/ACTE reports published March–August 2025 ([[fostering-ai-ready-building-moving]], [[fostering-ai-ready-cultivating-resources]], [[fostering-ai-ready-caring-communities]], [[fostering-ai-ready-creating-experiencing]]) apply the [[ai-occupational-exposure-index]] methodology to four of the six modernized Career Cluster Groupings, replacing this page's earlier general-impression exposure estimates with occupation-level BLS/O*NET data (see the "AI Exposure by CTE Cluster" section above for the resulting rankings).
+
+Three findings from this series reinforce or extend the wiki's existing labor-market thesis:
+
+**The "toolbelt generation" gets a second, independent naming.** The Building & Moving report cites Te-Ping Chen's April 2024 *Wall Street Journal* article "How Gen Z Is Becoming the Toolbelt Generation" as evidence that Gen Z's growing interest in trades work will buoy an already-low-exposure Building & Moving workforce (38.9M workers, 26% of the US workforce). This is a distinct source arriving at the same conclusion as [[nyt-teens-trade-classes]]'s Bay Area reporting — two independent journalistic accounts converging on the same behavioral trend from opposite coasts and different years.
+
+**Nursing education is adapting curriculum around AI-as-first-drafter, mirroring the "build, analyze, defend" pattern.** Dr. Jose Bowen (AAC&U) proposed that nursing programs shift from teaching students to *write* clinical notes toward teaching them to *recognize* good, bad, and "ugly" AI-generated notes — since AI will produce the draft, the durable skill is evaluation, not production. This is a domain-specific instance of the same pedagogical logic behind [[ai-unplugged-murgatroyd]]'s "build, analyze, defend" scaffold: assessment must target the human judgment that remains after AI takes the first pass, not the task AI has already automated.
+
+### A dissenting view: Jesse Anglen and the contradiction
+
+The Creating & Experiencing report is the only one of the four to include an interview subject whose prediction directly contradicts the wiki's dominant labor-market narrative. Jesse Anglen, CEO & Founder of Rapid Innovations, predicted AI will replace "close to a hundred percent of knowledge workers in the next 5 years" and called it "immoral" to tell displaced workers new jobs will simply appear, given that the Industrial Revolution took a century to complete its labor market transition and "we are not going to have time to create all of these new jobs" this time around.
+
+This stands in direct opposition to [[bcg-ai-reshapes-jobs]]'s finding that only 12% of US jobs face true substitution, [[apocalypse-no-galloway]]'s "AI apocalypse is marketing" argument, [[ai-job-apocalypse-klein]]'s case for why mass unemployment probably won't happen, and the [[relational-economy]] thesis this wiki has built up across dozens of sources. Per the wiki's citation rule, this contradiction is noted explicitly rather than smoothed over — but it is worth flagging that Anglen's claim is not tied to a named study or dataset, comes from the CEO of an AI company with a direct commercial interest in the technology's perceived transformative power, and is presented by the report's own authors as an outlier view rather than their own conclusion (the report's Conclusion, while citing Anglen's framing about the lack of a century-long adjustment period, still lands on the more moderate assessment that Creating & Experiencing jobs "retain substantial relevance and human value"). See [[fostering-ai-ready-creating-experiencing]] for the full quote and context.
 
 ## The "Beyond Prompt Engineering" Employer Standard
 
@@ -219,3 +238,8 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - [[broken-ladder]]
 - [[nyt-teens-trade-classes]]
 - [[ai-unplugged-murgatroyd]]
+- [[ai-occupational-exposure-index]]
+- [[fostering-ai-ready-building-moving]]
+- [[fostering-ai-ready-cultivating-resources]]
+- [[fostering-ai-ready-caring-communities]]
+- [[fostering-ai-ready-creating-experiencing]]

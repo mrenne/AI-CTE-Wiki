@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-07-02
 
 ---
 
@@ -164,6 +164,12 @@ He is honest that this is a wager rather than a finding: schools have spent deca
 
 The "navigate yourself" phrase is the individual-level version of what lifelong learning research calls **adaptive capacity** — the meta-skill that determines how quickly someone can acquire the next round of specific skills as each prior round depreciates. If AI is accelerating skill depreciation, adaptive capacity becomes proportionally more valuable. This is the structural argument behind LinkedIn's projection that 70% of job skills will change by 2030 (Spelhaug, source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md) — and the reason the transferable skills case is not merely normative but economic.
 
+## Evaluation as the New Production Skill: The Nursing Notes Example
+
+Dr. Jose Bowen (Senior Scholar, AAC&U), interviewed for the [[fostering-ai-ready-caring-communities]] report (June 2025), gives a concrete, domain-specific worked example of a transferable skill replacing a technical one as AI takes over first-draft production. Nursing students traditionally spend an entire semester in a dedicated course learning to *write* clinical notes. Once AI can produce a competent draft note automatically, that production skill stops being the bottleneck — but nurses still need to catch errors in AI-generated documentation ("Oh, no, AI forgot this"). Bowen's proposed fix: have AI generate a mix of good, bad, and "ugly" nursing notes, and train students to identify which is which. If they can't tell the difference, they haven't learned the skill that now matters.
+
+This is a specific instance of the general pattern documented elsewhere in the wiki — [[ai-unplugged-murgatroyd]]'s "build, analyze, defend" scaffold and [[hardman-ai-faster-slower]]'s "enter high in the chain" principle both point to the same shift: as AI absorbs first-draft production tasks, the durable human skill becomes *evaluation* of AI output rather than *creation* of the artifact. The [[ai-occupational-exposure-index]] framework gives this shift an occupational-scale empirical basis — occupations with above-average AIOE scores are consistently the ones where technical production skills are most exposed, while critical evaluation and judgment remain the differentiating skill.
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -184,6 +190,8 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[ai-labor-disruption-segments]]
 - [[middle-path-ai-literacy-nurenberg]]
 - [[sinead-bovell-job-market]]
+- [[ai-occupational-exposure-index]]
+- [[fostering-ai-ready-caring-communities]]
 - [[brad-smith-ai-jobs-next-generation]]
 - [[berwick-employers-ai-education-gap]]
 - [[spelhaug-microsoft-elevate]]

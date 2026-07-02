@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Thirty-four sources ingested so far, producing 50 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Thirty-eight sources ingested so far, producing 55 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 
@@ -55,6 +55,8 @@ Thirty-four sources ingested so far, producing 50 interlinked wiki pages. The pi
 **CTE programs create the choice set — they are discovery mechanisms, not pipelines.** Over 95% of students in California's construction programs had never used tools before the class. One student: "I had no idea this class existed. I didn't even really consider construction seriously until I took this class." The obstacle to scaling the trade pivot is not student interest — it's exposure. State investment in CTE programs is the structural precondition; family cultural pressure (especially in immigrant families, who associate four-year degrees with social mobility) is the binding constraint once interest exists.
 
 **CTE-track occupations are doubly insulated from both post-pandemic shocks.** Electricians, construction workers, and other CTE-aligned workers sit at the bottom of both WFH *and* GenAI exposure rankings. Whether the junior-hiring decline ultimately proves to be AI-driven or WFH-driven — the attribution is now contested — CTE-track workers face neither pressure. The protected-sector thesis holds regardless of which mechanism wins the empirical debate.
+
+**AI exposure inside CTE now has occupation-level data, not just general impressions.** A four-report series from the Education Research & Opportunity Center, Advance CTE, and ACTE (March–August 2025) applies the AI Occupational Exposure Index to four of the six modernized Career Cluster Groupings. Building & Moving (38.9M workers, 26% of the US workforce) is the least AI-exposed; Caring for Communities (education, healthcare, public safety) is the most exposed; Cultivating Resources and Creating & Experiencing sit near the national average. The same pattern holds inside every single grouping regardless of its average: bachelor's-degree occupations score well above the national mean, high-school-or-less occupations score well below it — the labor market polarization thesis reproduced at the occupation level, inside CTE specifically. One report includes a sharply dissenting voice: Jesse Anglen (CEO, Rapid Innovations) predicts AI will displace "close to a hundred percent of knowledge workers" within five years, directly contradicting the wiki's dominant, more moderate labor-market consensus — noted here per the wiki's rule to flag contradictions explicitly rather than resolve them.
 
 ### On schools and policy
 

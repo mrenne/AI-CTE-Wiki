@@ -606,3 +606,35 @@ Append-only record of all operations.
 - `wiki/index.md` — Added source summary row; added 3 new Key Themes (navigate yourself; misplaced confidence; students changing majors at scale)
 
 **Total pages created**: 1 | **Total pages updated**: 5
+
+---
+
+## 2026-07-02 — Ingestion (4 sources)
+
+**Sources ingested**:
+1. `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf` — Sublett, Mason, Rimbach-Jones, Beltran, & Fresard, ERO/Advance CTE/ACTE, March 2025. Building & Moving cluster grouping (Advanced Manufacturing, Construction, Supply Chain & Transportation); 38.9M workers, 26% of US workforce; interview spotlights Nick Goodnight (Ivy Tech), Paul Thurber (Everguard.ai), Tim Sisson (Trane); "toolbelt generation" (Chen 2024, WSJ); least AI-exposed of the four groupings studied.
+2. `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf` — Sublett, Rimbach-Jones, Mason, Beltran, & Fresard, ERO/Advance CTE/ACTE, April 2025. Agriculture and Energy & Natural Resources cluster grouping; interview spotlights Dr. Kevin Wade (McGill, dairy AI), Daniel Goldsmith (Julius Education, green-jobs SOC-code critique), Dr. Ben Hertz-Shargel (Wood Mackenzie, grid AI upskilling); John Deere See & Spray, Cainthus, PAWS/SMART anti-poaching AI; near-national-average AI exposure.
+3. `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf` — Rimbach-Jones, Sublett, Mason, & Fresard, ERO/Advance CTE/ACTE, June 2025. Education, Healthcare & Human Services, Public Service & Safety cluster grouping; interview spotlights Superintendent Michael Matsuda, Dr. Edward Watson (AAC&U), Dr. Jose Bowen (AAC&U, nursing-notes pedagogy), Commander Charlie Epperson (US Coast Guard); Khan Academy's Kristen DiCerbo "human high five" quote; Duke TRINA robot, Rothman Index, ShotSpotter, Corti; the highest-AI-exposure grouping of the four studied.
+4. `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf` — Rimbach-Jones, Sublett, Mason, Beltran, & Fresard, ERO/Advance CTE/ACTE, August 2025. Hospitality/Events/Tourism and Arts/Entertainment/Design cluster grouping; interview spotlights Daniel Doppler (QuickText), Robert Morton (Australian Cinematographers Society AI Committee), and Jesse Anglen (Rapid Innovations CEO) — a dissenting voice predicting ~100% knowledge-worker displacement within 5 years; gendered tourism-workforce exposure (54% women); 5-second AI video = 1 hour of microwave energy.
+
+All four reports share identical methodology (AIOE — Felten et al. 2021 — and Task Routinization Index — Acemoglu & Autor 2011) and four-audience recommendation structure (CTE Providers, Industry Partners, Policymakers, Conclusion), enabling direct cross-cluster-grouping comparison. Treated as four separate numbered source ingests per the wiki's established one-source-per-ingest convention.
+
+**Pages created**:
+
+*Concept page*:
+- `wiki/ai-occupational-exposure-index.md` — Shared AIOE/Task Routinization Index methodology across all four reports; five cross-report findings (cognitive > physical exposure; education-level gradient; integration ≠ displacement; substitution vs. complementarity; technical vs. transferable skill exposure); cross-cluster-grouping comparison table; limitations
+
+*Source summaries*:
+- `wiki/fostering-ai-ready-building-moving.md` — Building & Moving source summary; full AIOE figures for Advanced Manufacturing/Construction/Supply Chain & Transportation; three interview spotlights; "toolbelt generation" term; least-exposed grouping finding
+- `wiki/fostering-ai-ready-cultivating-resources.md` — Cultivating Resources source summary; Agriculture and Energy & Natural Resources AIOE figures; three interview spotlights; SOC-code green-jobs classification limitation
+- `wiki/fostering-ai-ready-caring-communities.md` — Caring for Communities source summary; Education/Healthcare & Human Services/Public Service & Safety AIOE figures; four interview spotlights; highest-exposure-grouping finding; explicit critique of proposed federal CTE funding cuts
+- `wiki/fostering-ai-ready-creating-experiencing.md` — Creating & Experiencing source summary; Hospitality/Events/Tourism and Arts/Entertainment/Design AIOE figures; three interview spotlights including full Jesse Anglen dissenting-voice quote with explicit contradiction framing against the wiki's dominant labor-market narrative; gendered tourism exposure
+
+**Pages updated**:
+- `wiki/cte-and-ai.md` — Replaced placeholder "AI Exposure by CTE Cluster" section with real occupation-level data from all four reports (per-grouping exposure ranking, key AIOE figures, education-gradient finding); added "The Fostering AI-Ready CTE Pipelines Series: Occupation-Level Confirmation" section (toolbelt generation cross-reference, nursing-notes pedagogical shift) with "A dissenting view: Jesse Anglen and the contradiction" subsection; added 5 new Related pages; updated Sources and Last updated
+- `wiki/relational-economy.md` — Added "A Contested Case Within the Relational Sector: Hospitality's Gendered Exposure" section: hospitality's below-average AIOE score supports the thesis while task-level automation vulnerability and the 54%-women statistic complicate it; added `[[ai-occupational-exposure-index]]` and `[[fostering-ai-ready-creating-experiencing]]` to Related pages; updated Sources and Last updated
+- `wiki/labor-market-polarization.md` — Added "Occupation-Level Confirmation: The Fostering AI-Ready CTE Pipelines Series" section: education-credential gradient reproduces inside every cluster grouping regardless of average exposure; Jesse Anglen dissent flagged against the page's core thesis; added 5 new Related pages; updated Sources and Last updated
+- `wiki/transferable-skills.md` — Added "Evaluation as the New Production Skill: The Nursing Notes Example" section: Dr. Jose Bowen's good/bad/ugly AI-note pedagogy as a concrete instance of the evaluation-over-production shift, cross-referenced to build/analyze/defend and enter-high-in-the-chain; added `[[ai-occupational-exposure-index]]` and `[[fostering-ai-ready-caring-communities]]` to Related pages; updated Sources and Last updated
+- `wiki/index.md` — Added 4 new source summary rows and 1 new concept page row (CTE and Workforce section); added 4 new Key Themes (occupation-level exposure grounding; Jesse Anglen dissent; relational economy stress test; cross-cluster education gradient)
+
+**Total pages created**: 5 | **Total pages updated**: 5
