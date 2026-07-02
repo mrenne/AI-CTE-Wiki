@@ -143,3 +143,4 @@ Nurenberg's [[middle-path-ai-literacy-nurenberg]] classroom account provides a c
 - [[building-ai-companions]]
 - [[ai-unplugged-murgatroyd]]
 - [[hardman-cognitive-offloading-paradox]]
+- [[cems-augmented-leadership]]

@@ -43,3 +43,4 @@ Mollick's co-intelligence framework is primarily prescriptive and optimistic —
 - [[applied-co-intelligence-model]]
 - [[agentivism]]
 - [[cte-and-ai]]
+- [[cems-augmented-leadership]]

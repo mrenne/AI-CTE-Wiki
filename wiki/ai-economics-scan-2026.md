@@ -99,3 +99,5 @@ The scan surfaces several dynamics relevant to [[ai-in-k12-education]] and [[cte
 - [[bcg-ai-reshapes-jobs]]
 - [[apocalypse-no-galloway]]
 - [[stanford-ai-index-education-2026]]
+- [[ai-economy-measurement-2026]]
+- [[ai-token-costs-throttling]]

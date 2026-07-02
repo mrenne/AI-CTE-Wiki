@@ -638,3 +638,30 @@ All four reports share identical methodology (AIOE — Felten et al. 2021 — an
 - `wiki/index.md` — Added 4 new source summary rows and 1 new concept page row (CTE and Workforce section); added 4 new Key Themes (occupation-level exposure grounding; Jesse Anglen dissent; relational economy stress test; cross-cluster education gradient)
 
 **Total pages created**: 5 | **Total pages updated**: 5
+
+---
+
+## 2026-07-02 — Ingestion (3 sources)
+
+**Sources ingested**:
+1. `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md` — Ben Casselman, *The New York Times*, July 2, 2026. Meta-level survey of why economists cannot agree on AI's current labor-market effect: conflicting exposure-measure methodologies, outdated federal occupational data (May 2025), and diverging private data sources (Stanford DEL/ADP showing entry-level declines vs. Ramp/Revelio showing heavy AI adopters hiring faster).
+2. `raw/misc/Companies Are Throttling Employees' AI Use Because It's Too Expensive.md` — Joseph Cox, *404 Media*, July 2, 2026. Leaked internal communications from Atlassian, Adobe, Amazon, Citi, GitHub, and Accenture documenting enterprise AI-cost throttling: Atlassian AI spend $5M→$15M/month in nine months; Citi disabling Opus 4.6/4.7 and GPT-5.5 access; triggered by GitHub Copilot's June 2026 shift to usage-based billing.
+3. `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf` — CEMS – The Global Alliance in Management Education (33 business schools, 70+ corporate partners), 2026. Ten workplace takeaways and thirty role-specific insights from seven interviews (ABB, Beko, tesa, American University in Cairo, University of Sydney, Université Catholique de Louvain, Black Door Technology) on AI-age leadership and business education.
+
+A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was re-checked and confirmed still unextractable (image-only content) — previously logged as skipped on 2026-05-18; not re-ingested.
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/ai-economy-measurement-2026.md` — Casselman/NYT source summary; explains the measurement crisis underlying the wiki's own conflicting exposure-index and labor-data sources; J-curve explanation; federal statistical capacity shrinking; bipartisan Senate data-collection bill
+- `wiki/ai-token-costs-throttling.md` — Cox/404 Media source summary; enterprise AI cost-rationing as a new adoption-curve friction not previously represented in the wiki; Accenture irony; implications for small-language-model/cost-tiering literacy
+- `wiki/cems-augmented-leadership.md` — CEMS source summary; ten key takeaways; expertise-gap mechanism (Delacour/ABB) as employer-side complement to hiring-decline evidence; cognitive-offloading and metacognition findings as independent adult/corporate-population corroboration of the Abdelghani et al. illusion-of-understanding study; three-institution convergence on oral/process-based assessment design (Léonard, Riemer, plus existing wiki sources); "copilot not autopilot" framing; four skills buckets (Bahrami)
+
+**Pages updated**:
+- `wiki/ai-economics-scan-2026.md` — Added `[[ai-economy-measurement-2026]]` and `[[ai-token-costs-throttling]]` to Related pages
+- `wiki/illusion-of-understanding.md` — Added `[[cems-augmented-leadership]]` to Related pages
+- `wiki/agentivism.md` — Added `[[cems-augmented-leadership]]` to Related pages
+- `wiki/co-intelligence.md` — Added `[[cems-augmented-leadership]]` to Related pages
+- `wiki/index.md` — Added 3 new source summary rows; added 4 new Key Themes (measurement uncertainty tempering the wiki's own exposure data; enterprise AI cost-rationing as a new adoption friction; CEMS's business-education corroboration of K-12 cognitive-offloading findings; the expertise-gap employer-side mechanism)
+
+**Total pages created**: 3 | **Total pages updated**: 5
