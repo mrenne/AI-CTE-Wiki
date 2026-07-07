@@ -17,7 +17,7 @@ The promise of AI in education runs headlong into a cluster of practical institu
 ### 1. Cost
 Cloud-based LLM APIs charge per token. For an institution with thousands of students and teachers querying AI tools throughout the day, costs scale rapidly and unpredictably. On top of per-query costs, running large models locally requires expensive GPU infrastructure most schools do not have.
 
-[[Small language models]] offer a direct response: 3–7B parameter models run on standard institutional hardware at no marginal per-query cost (source: SmallLLMs.pdf).
+[[small-language-models|Small language models]] offer a direct response: 3–7B parameter models run on standard institutional hardware at no marginal per-query cost (source: SmallLLMs.pdf).
 
 ### 2. Data Privacy
 Routing student submissions, grades, and curriculum materials through third-party cloud APIs creates significant privacy exposure. Student data is subject to FERPA, state privacy laws, and district policies — and most cloud AI providers cannot offer the institutional control these regulations require. Faculty who are already skeptical of AI may refuse to use tools that route student work through external servers.

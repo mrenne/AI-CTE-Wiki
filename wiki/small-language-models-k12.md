@@ -18,7 +18,7 @@ Only **6% of K–12 educators** say AI does more good than harm (Pew Research Ce
 
 ## What Are SLMs?
 
-[[Small language models]] are AI models with roughly a few million to 20 billion parameters — compared to LLMs with up to a trillion. They are trained on specific, curated datasets rather than the breadth of the internet.
+[[small-language-models|Small language models]] are AI models with roughly a few million to 20 billion parameters — compared to LLMs with up to a trillion. They are trained on specific, curated datasets rather than the breadth of the internet.
 
 The defining analogy: LLMs are like a Jeopardy contestant who knows a bit about everything; SLMs are like a professor with deep expertise in a specific subject (Tushar Katarki, Red Hat). LLMs are "a mile wide and an inch deep" — their knowledge of very specific issues can be shallow (Julien Simon, Arcee AI).
 

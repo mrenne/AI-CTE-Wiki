@@ -10,7 +10,7 @@
 
 ## Overview
 
-This academic paper (anonymous college, ~2025) presents an open-source framework for educator-centric AI assistance using [[small language models]] (3B–7B parameters) deployed entirely on institutional hardware. The system supports the full instructional design workflow: exercise generation, rubric generation, and student assessment. All data — curriculum materials, student submissions, grades — remains within the institution's secure network.
+This academic paper (anonymous college, ~2025) presents an open-source framework for educator-centric AI assistance using [[small-language-models|small language models]] (3B–7B parameters) deployed entirely on institutional hardware. The system supports the full instructional design workflow: exercise generation, rubric generation, and student assessment. All data — curriculum materials, student submissions, grades — remains within the institution's secure network.
 
 The paper directly targets the three core [[ai-privacy-and-institutional-adoption]] barriers: cost, data privacy, and infrastructure constraints of cloud-based systems.
 

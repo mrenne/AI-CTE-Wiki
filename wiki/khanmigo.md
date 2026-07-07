@@ -60,7 +60,7 @@ This matches the ICAP cognitive engagement hierarchy (Interactive > Constructive
 
 **The personalization finding**: Khan Academy tested two personalization approaches and got an unexpected result. Interest-based personalization — tailoring content to student declared interests — produced **no learning gains**. Skill-level mastery information — identifying exactly where in a knowledge sequence the student is currently stuck — was the only useful personalization signal. Engagement does not produce learning; accurate placement in a knowledge structure does. (source: Building AI Companions.pdf)
 
-**Broader implication**: The design that felt most educationally virtuous (pure Socratic) was the most educationally harmful for students who lacked prior knowledge. The lesson for AI tutoring design: pedagogical intuition requires empirical testing. The [[learning-performance paradox]] operates in both directions — a tool can feel good to use and still fail to teach; a tool can feel frustratingly difficult and still produce the deepest learning.
+**Broader implication**: The design that felt most educationally virtuous (pure Socratic) was the most educationally harmful for students who lacked prior knowledge. The lesson for AI tutoring design: pedagogical intuition requires empirical testing. The [[building-ai-companions|learning-performance paradox]] operates in both directions — a tool can feel good to use and still fail to teach; a tool can feel frustratingly difficult and still produce the deepest learning.
 
 ## Related pages
 
