@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Forty-one sources ingested so far, producing 58 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Forty-two sources ingested so far, producing 60 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 
@@ -31,6 +31,8 @@ Forty-one sources ingested so far, producing 58 interlinked wiki pages. The pict
 **AI boosts production speed dramatically but converts only marginally to shipped output.** Demirer, Musolff & Yang (2026), tracking 100,000+ GitHub developers across three AI tool generations, find a consistent productivity funnel: +740% code produced → +65% review requests → only ~20% more shipped releases. Every human-dependent review stage absorbs the gain before it converts to finished output. At the organizational level: ~95% of companies see no meaningful return from GenAI (MIT NANDA, 2025); 80% of AI projects fail — twice the rate of comparable non-AI projects (RAND, 2025). The bottleneck is not AI capability; it is human review and integration capacity. The same funnel operates in education: AI dramatically raises output volume while durable learning gains drain through reading, retrieval, and transfer. The strategic implication — "enter high in the chain" — means AI aimed at feedback, metacognitive calibration, and teacher coaching (where cognitive consolidation lives) outperforms AI aimed at content generation. The same technology, aimed at a different stage, produces the opposite result.
 
 **Oral defense is the answer to both cognitive debt and AI detection.** Murgatroyd (2026) and Nurenberg (2026) independently converge on the same classroom solution: design assessment so that understanding must be demonstrated in real time, rather than trying to detect AI-generated artifacts after the fact. Murgatroyd's "Build, Analyze, Defend" scaffold — produce something with AI, interrogate it critically, then defend it orally — maps directly onto the Agentivism framework and makes AI detection irrelevant. AI detection software does not work reliably; institutions relying on it are now losing court cases filed by students falsely accused of academic misconduct.
+
+**Human judgment may be a categorically different cognitive strategy from LLM prediction, not a slower version of it.** Stanford GSB research (Guilbeault, Caplan & Yang, 2026, *PNAS*) on "satisficing" — reaching confident conclusions from deliberately minimal data via intuitive leaps — and the Tolerance Principle offers the wiki's first mechanism-level cognitive-science account of why transferable skills and reconstructive internalization matter, distinct from labor-economics or classroom-outcome evidence. If human judgment is a different strategy suited to sparse, ambiguous conditions rather than an inferior, lower-data version of AI prediction, it does not necessarily lose value as AI's data access and compute scale up.
 
 ### On labor markets
 

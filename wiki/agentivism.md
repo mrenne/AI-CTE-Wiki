@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 learning theory by Yan and Gašević that defines learning in the AI era as durable human capability growth through selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced AI support.
 
-**Sources**: `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/PDF/Building AI Companions.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
+**Sources**: `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/PDF/Building AI Companions.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-07-07
 
 ---
 
@@ -45,6 +45,8 @@ Because AI outputs are probabilistic, rhetorically fluent, and persuasive, learn
 
 ### 3. Reconstructive Internalization
 Learning occurs only when AI-assisted outputs are reworked into the learner's own explainable and usable capability. Task success with AI support is insufficient. A learner must be able to reconstruct why the accepted response is appropriate, identify when it would fail, and adapt it to new situations.
+
+Stanford GSB research on [[satisficing-and-tolerance-principle|satisficing and the Tolerance Principle]] (Guilbeault et al., 2026) suggests a possible cognitive-science account of why this mechanism matters: human understanding appears to form through intuitive leaps from deliberately partial data, not through absorbing a complete, fully-worked answer. If accurate, reconstructive internalization may be this same intuitive-leap process applied to AI-assisted work — which would help explain why passively accepting an AI's complete output bypasses the mechanism that produces durable learning. (source: The secret to human 'brilliance' that AI just can't match.md — treat as a plausible theoretical bridge, not an established finding.)
 
 ### 4. Transfer Under Reduced Support
 The decisive test of learning: can the learner demonstrate capability with less or no AI support? Immediate assisted performance is no longer sufficient evidence. The question is whether capabilities persist when support changes.
@@ -144,3 +146,5 @@ Nurenberg's [[middle-path-ai-literacy-nurenberg]] classroom account provides a c
 - [[ai-unplugged-murgatroyd]]
 - [[hardman-cognitive-offloading-paradox]]
 - [[cems-augmented-leadership]]
+- [[satisficing-and-tolerance-principle]]
+- [[human-brilliance-satisficing]]

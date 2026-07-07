@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-07-07
 
 ---
 
@@ -47,6 +47,10 @@ This is why the ACI model insists all three spheres must be developed together: 
 ## Connection to Agentivism
 
 [[agentivism]]'s mechanisms of epistemic monitoring and verification are essentially transferable skills applied to AI interactions. The ability to evaluate AI outputs for truthfulness, relevance, and adequacy requires critical thinking. The ability to decide how much to delegate and how much to retain requires judgment. These are not AI-specific skills — they are durable human competencies that become especially critical in AI-augmented work.
+
+## A Cognitive-Science Mechanism: Satisficing
+
+Most of this page's argument for why transferable skills retain value rests on labor economics and employer testimony. Stanford GSB research on [[satisficing-and-tolerance-principle|satisficing and the Tolerance Principle]] (Guilbeault, Caplan & Yang, 2026) offers a complementary cognitive-science mechanism. Human judgment appears to work by reaching confident conclusions from deliberately minimal data — an intuitive-leap strategy validated experimentally in social-convention learning — rather than the data-maximalist, exhaustive-computation approach LLMs use. If this is accurate, judgment-under-uncertainty is not a vague "soft skill" placeholder but a specific, identifiable cognitive process suited to exactly the sparse, ambiguous conditions real work presents — and not one that necessarily erodes as AI's raw data access and compute scale up. (source: The secret to human 'brilliance' that AI just can't match.md — treat this connection as a plausible theoretical bridge, not an established empirical finding; see [[human-brilliance-satisficing]] for caveats.)
 
 ## AI-Assisted Development of Social Transferable Skills
 
@@ -195,3 +199,5 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[brad-smith-ai-jobs-next-generation]]
 - [[berwick-employers-ai-education-gap]]
 - [[spelhaug-microsoft-elevate]]
+- [[satisficing-and-tolerance-principle]]
+- [[human-brilliance-satisficing]]

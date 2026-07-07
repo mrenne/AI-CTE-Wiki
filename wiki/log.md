@@ -665,3 +665,45 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Added 3 new source summary rows; added 4 new Key Themes (measurement uncertainty tempering the wiki's own exposure data; enterprise AI cost-rationing as a new adoption friction; CEMS's business-education corroboration of K-12 cognitive-offloading findings; the expertise-gap employer-side mechanism)
 
 **Total pages created**: 3 | **Total pages updated**: 5
+
+---
+
+## 2026-07-07 — Lint audit
+
+**Findings**:
+1. **Broken/malformed wiki-links** (fixed): four links used spaces and/or capitalization that didn't match actual filenames, so they rendered as plain text instead of navigable links:
+   - `wiki/ai-privacy-and-institutional-adoption.md:20` — `[[Small language models]]` → `[[small-language-models|Small language models]]`
+   - `wiki/small-language-models-k12.md:21` — `[[Small language models]]` → `[[small-language-models|Small language models]]`
+   - `wiki/small-models-big-support.md:13` — `[[small language models]]` → `[[small-language-models|small language models]]`
+   - `wiki/khanmigo.md:63` — `[[learning-performance paradox]]` → `[[building-ai-companions|learning-performance paradox]]` (term is defined on that page, not a standalone page)
+2. **No orphan pages** — every content page has at least one inbound link.
+3. **No page-format violations** — all 58 content pages have Title/Summary/Sources/Last updated/Related pages. (Initial automated check flagged all older pages for "missing Title" — false positive caused by a UTF-8 BOM preceding the `#` on those files; this is the same cosmetic BOM inconsistency already flagged and deliberately left unfixed in the 2026-05-13 lint audit.)
+4. **No new contradictions detected** between pages.
+5. **Stale concept gaps carried forward** (unaddressed, awaiting either a dedicated source or explicit go-ahead): standalone **Metacognition** concept page (referenced in 15+ pages); standalone **Agentic AI** concept page.
+6. **README source/page counts verified accurate** (41 sources, 58 pages) against actual file count.
+
+**Pages updated**: `ai-privacy-and-institutional-adoption.md`, `small-language-models-k12.md`, `small-models-big-support.md`, `khanmigo.md`
+
+**Total pages created**: 0 | **Total pages updated**: 4
+
+---
+
+## 2026-07-07 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/blog/The secret to human 'brilliance' that AI just can't match.md` — Stanford Graduate School of Business news article (news.stanford.edu), June 25, 2026, summarizing Douglas Guilbeault, Spencer Caplan & Charles Yang's *PNAS* research. Satisficing (Herbert Simon) and the Tolerance Principle (originally from language-acquisition linguistics) shown, via two controlled experimental games (Name Game, Mind Reading Game; 24–96 participants), to govern how adults learn social conventions from minimal data via intuitive leaps — structurally distinct from LLM data-maximalist prediction.
+
+**Pages created**:
+
+*Source summary*:
+- `wiki/human-brilliance-satisficing.md` — Guilbeault/Stanford GSB source summary; satisficing and Tolerance Principle defined; Name Game and Mind Reading Game experimental results (20–30 rounds to consensus regardless of group size; 25% dissent threshold to overturn consensus); contrast with LLM data-maximalism; explicit caveat that this is a single source with small controlled-game evidence, not yet cross-validated in K-12/CTE settings
+
+*Concept page*:
+- `wiki/satisficing-and-tolerance-principle.md` — New concept page defining satisficing and the Tolerance Principle as a pair; why this reframes the "AI has more data, therefore better judgment" assumption; relationship to transferable-skills, agentivism, and relational-economy; limitations section flagging the connections as the wiki's own inference, not claims made by the source research
+
+**Pages updated**:
+- `wiki/transferable-skills.md` — Added "A Cognitive-Science Mechanism: Satisficing" section: judgment-under-uncertainty reframed as a specific, identifiable cognitive process rather than vague soft-skill language; added source to Sources; added `[[satisficing-and-tolerance-principle]]` and `[[human-brilliance-satisficing]]` to Related pages; updated Last updated
+- `wiki/agentivism.md` — Added paragraph under Reconstructive Internalization (Mechanism 3): satisficing as a possible cognitive account of why reworking AI output into one's own understanding (vs. passively accepting it) produces durable learning; added source to Sources; added `[[satisficing-and-tolerance-principle]]` and `[[human-brilliance-satisficing]]` to Related pages; updated Last updated
+- `wiki/index.md` — Added source summary row; added concept page row (Frameworks and Models section); added new Key Theme on human judgment as a categorically different cognitive strategy from LLM prediction
+
+**Total pages created**: 2 | **Total pages updated**: 3
