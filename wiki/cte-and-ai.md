@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-07-08
 
 ---
 
@@ -212,6 +212,14 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - Neither order has force of law; the US lacks a comprehensive federal AI regulatory framework
 - A patchwork of state-level regulations (Colorado, California, Utah, Illinois) has emerged — creating inconsistency for both businesses and educational institutions
 
+## Congressional Testimony: A Replicable State CTE Pipeline Model
+
+The June 2026 [[senate-hearing-ai-k12-education]] provided the wiki's first direct congressional testimony on CTE-relevant AI workforce preparation. QuantHub CEO Joshua Jones described Alabama's Data Scholars program — a state Department of Education partnership that has placed 100+ high school students into paid AI/data internships across 50+ employers, with students earning industry-recognized AI/data credentials before graduation. Alabama ranks third nationally in student data-science course enrollment (behind only California and Virginia) and first nationally in students earning industry-recognized data/AI credentials pre-graduation, per the National Data Science for Everyone State of the Field report.
+
+Jones's central structural argument directly extends the [[cte-futures-aci-webinar]]'s curriculum-cadence concern: "the traditional curriculum refresh rate is typically five to ten years, and in the age of AI, that is generations." QuantHub's response — a human-in-the-loop system where AI agents draft curriculum but instructional designers and subject-matter experts validate everything before it reaches a student — cut development time from roughly 200 hours to about 10 hours of validation per learning hour, a claimed 20x improvement without compromising rigor. His federal policy recommendation: reward curriculum funding structures for update *cadence* (semester-level refresh), not just initial development hours or page counts. (source: Senate Hearing on Artificial Intelligence and K-12 Education.md)
+
+This is a concrete, congressionally-documented implementation of the abstract curriculum-agility argument already present in [[cte-futures-aci-webinar]] and [[applied-co-intelligence-model]] — evidence that at least one state has operationalized "countervailing force" institutional action at meaningful scale, not just proposed it in a report.
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -233,6 +241,8 @@ The [[cte-futures-aci-webinar]] (February 2026) frames the ACI model as a *count
 - [[ai-labor-disruption-segments]]
 - [[stanford-ai-index-education-2026]]
 - [[nber-data-centers-local-economies]]
+- [[senate-hearing-ai-k12-education]]
+- [[ai-education-policy-and-legislation]]
 - [[sinead-bovell-job-market]]
 - [[cte-futures-aci-webinar]]
 - [[broken-ladder]]

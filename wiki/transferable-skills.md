@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-07-07
+**Last updated**: 2026-07-08
 
 ---
 
@@ -43,6 +43,12 @@ In the ACI model, transferable skills are not separate from AI use — they enab
 - **Collaboration** → working in teams where AI is one contributor among many
 
 This is why the ACI model insists all three spheres must be developed together: an automotive student who masters AI diagnostic tools but cannot communicate their findings to a team, or who lacks the ethical reasoning to question an AI's recommendation, is not truly co-intelligent.
+
+## Congressional Testimony: A Consensus Skill Definition
+
+Across three witnesses testifying before the Senate HELP subcommittee in June 2026 ([[senate-hearing-ai-k12-education]]), a consistent definition of "AI literacy" emerged that is almost entirely composed of transferable skills rather than technical AI operation: ethics (when to use AI, when not to), tool selection (understanding different tools' strengths and weaknesses rather than memorizing one vendor's interface), critical evaluation of outputs ("healthy cynicism," in QuantHub CEO Joshua Jones's phrase), and discernment as a durable habit of mind. Erin Mote (InnovateEDU): "I want them to grow the skill of discernment... working in multifunctional teams with humans, but also with AI as a teammate." Delaware Secretary Cindy Marten, on what schools should test: "they will be able to evaluate critically the information the tool is producing. They cannot accept the answer as it is being produced." (source: Senate Hearing on Artificial Intelligence and K-12 Education.md)
+
+Notably, all three witnesses explicitly rejected teaching students specific prompting tactics as durable skill-building — Jones: "we are not teaching them tactical [prompts], because that is changing so fast. Almost by the time you publish it, chances are it will be out of date." This directly corroborates [[stanford-ai-index-education-2026]] and [[berwick-employers-ai-education-gap]]'s finding that prompt engineering is "the floor, not the ceiling" of AI competency — now with independent confirmation from practitioners testifying to federal lawmakers rather than researchers or employers.
 
 ## Connection to Agentivism
 
@@ -201,3 +207,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[spelhaug-microsoft-elevate]]
 - [[satisficing-and-tolerance-principle]]
 - [[human-brilliance-satisficing]]
+- [[senate-hearing-ai-k12-education]]

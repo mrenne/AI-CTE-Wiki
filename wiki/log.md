@@ -707,3 +707,31 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Added source summary row; added concept page row (Frameworks and Models section); added new Key Theme on human judgment as a categorically different cognitive strategy from LLM prediction
 
 **Total pages created**: 2 | **Total pages updated**: 3
+
+---
+
+## 2026-07-08 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md` — C-SPAN transcript (auto-generated closed captioning), Senate Health, Education, Labor and Pensions subcommittee hearing, event date June 16, 2026. Chaired by Sen. Tommy Tuberville, ranking member Sen. Lisa Blunt Rochester. Witnesses: Joshua Jones (CEO, QuantHub), Erin Mote (CEO, InnovateEDU / Ed Safe AI Alliance), Cindy Marten (Delaware Secretary of Education, former US Deputy Secretary of Education). Also participating: Senators Banks, Husted, Kaine, Murphy, Armstrong. The wiki's first congressional-hearing source.
+
+**Pages created**:
+
+*Source summary*:
+- `wiki/senate-hearing-ai-k12-education.md` — Full hearing summary with source-quality caveat (uncorrected closed captioning; at least two speaker misattributions identified and corrected by context); no-causal-studies finding (Mote); "cognitive surrender" testimony and 80% error-acceptance claim; Delaware's AI Assurance Lab case study; Alabama's Data Scholars program case study (100+ paid internships, semester-cadence curriculum refresh, 20x validation-time reduction); PowerSchool breach (62M students, 9.5M teachers); Five Tech Quality Indicators and "waterfall" regulatory approach (Mote); civil rights harms (dialect-based grading bias, Florida AI Civil Rights Bill); RAYS Act; relationship table mapping hearing findings to 9 existing wiki pages
+
+*Concept page*:
+- `wiki/ai-education-policy-and-legislation.md` — New concept page tracking concrete state/federal AI-education policy instruments as distinct from research findings: Delaware's AI Assurance Lab, Alabama's Data Scholars program, Florida's AI Civil Rights Bill, the RAYS Act, and proposed-but-not-yet-codified frameworks (Five Tech Quality Indicators, waterfall regulatory approach); notes the cross-witness federalism consensus (state authority, federal support role); limitations section on single-hearing, advocacy-inflected sourcing
+
+**Pages updated**:
+- `wiki/cte-and-ai.md` — Added "Congressional Testimony: A Replicable State CTE Pipeline Model" section: Alabama Data Scholars program as concrete implementation of the cte-futures-aci-webinar's curriculum-cadence argument; added source to Sources; added `[[senate-hearing-ai-k12-education]]` and `[[ai-education-policy-and-legislation]]` to Related pages; updated Last updated
+- `wiki/evidence-base-ai-k12.md` — Added "Independent Corroboration: Congressional Testimony" section: Mote's no-causal-studies statement as a second, differently-sourced confirmation of the Stanford SCALE finding; added source to Sources; added `[[senate-hearing-ai-k12-education]]` to Related pages; updated Last updated
+- `wiki/ai-privacy-and-institutional-adoption.md` — Added "Congressional Testimony: The Scale of the Data Privacy Problem" section: PowerSchool breach, district cybersecurity incident rate, Five Tech Quality Indicators, waterfall regulatory approach; added source to Sources; added `[[senate-hearing-ai-k12-education]]` and `[[ai-education-policy-and-legislation]]` to Related pages; updated Last updated
+- `wiki/ai-sycophancy.md` — Added "'Cognitive Surrender': The Term Enters Federal Policy Discourse" section: Mote's testimony, 80% error-acceptance figure, connection to Nurenberg's cognitive-surrender/offloading distinction and the illusion-of-understanding 71.4% finding; added source to Sources; added `[[senate-hearing-ai-k12-education]]` to Related pages; updated Last updated
+- `wiki/ai-and-mental-health.md` — Added "Congressional Attention: Companion Chatbots as the Highest-Risk Category" section: Mote's waterfall-approach testimony on companion/relationship chatbots; Sen. Murphy's neuroscience/age-25 regulatory argument; added source to Sources; added `[[senate-hearing-ai-k12-education]]` and `[[ai-education-policy-and-legislation]]` to Related pages; updated Last updated
+- `wiki/middle-path-ai-literacy-nurenberg.md` — Added note that "cognitive surrender" reached federal testimony within roughly a month of this page's ingestion — bottom-up/top-down vocabulary convergence; added source to Sources; added `[[senate-hearing-ai-k12-education]]` to Related pages; updated Last updated
+- `wiki/applied-co-intelligence-model.md` — Added "A Working Example: Alabama's Data Scholars Program" section: concrete ACI-model implementation via congressional testimony; curriculum-refresh-cadence specifics (200hrs→10hrs validation, 20x claimed efficiency); added source to Sources; added `[[senate-hearing-ai-k12-education]]` to Related pages; updated Last updated
+- `wiki/transferable-skills.md` — Added "Congressional Testimony: A Consensus Skill Definition" section: three witnesses converge on AI literacy as ethics/tool-selection/critical-evaluation/discernment rather than prompting tactics; corroborates berwick-employers-ai-education-gap's "prompt engineering is the floor" finding; added source to Sources; added `[[senate-hearing-ai-k12-education]]` to Related pages; updated Last updated
+- `wiki/index.md` — Added source summary row; added new "Policy and Governance" concept-page section with `[[ai-education-policy-and-legislation]]`; added 4 new Key Themes (congressional corroboration of the evidence gap; cognitive surrender's policy-discourse convergence; state-level implementation models; PowerSchool breach as concrete privacy evidence)
+
+**Total pages created**: 2 | **Total pages updated**: 9

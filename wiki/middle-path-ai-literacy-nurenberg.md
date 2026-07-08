@@ -2,9 +2,9 @@
 
 **Summary**: A first-person practitioner account by a high school English teacher who used AI itself as the curriculum object — having students discover AI's failures through direct comparison — and replaced AI bans with AI audits requiring students to demonstrate critical evaluation of every tool they used.
 
-**Sources**: `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
+**Sources**: `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-05-18
+**Last updated**: 2026-07-08
 
 ---
 
@@ -80,6 +80,8 @@ The AI literacy curriculum Nurenberg describes is designed to teach students to 
 
 It also parallels the [[illusion-of-understanding]] finding: students who exhibit cognitive surrender produce chance-level task outcomes while experiencing a feeling of competence. The audit is a structural intervention designed to make surrender visible and correctable.
 
+**The term reaches federal policy discourse**: In June 2026, Erin Mote (CEO, InnovateEDU) used "cognitive surrender" in testimony before the Senate HELP subcommittee, describing consumer-grade AI's "algorithmic sycophancy" as producing exactly this pattern — citing a finding that users accepted incorrect chatbot answers 80% of the time. See [[senate-hearing-ai-k12-education]]. This is a notable trajectory for a term this page introduced to the wiki from a single classroom practitioner's account: within roughly a month of ingestion, the same concept and vocabulary appears in a US Senate hearing, suggesting genuine convergence between grassroots classroom practice and federal policy framing rather than the wiki simply tracking an already-established term.
+
 ## The Equity Tension
 
 Nurenberg teaches an affluent population. He acknowledges that similar critical AI literacy approaches are being used with more economically and linguistically diverse learners — citing existing research — but his classroom account reflects the challenges that may be harder in under-resourced settings:
@@ -117,3 +119,4 @@ The Nurenberg piece is the only practitioner-level account in the wiki of a sust
 - [[ai-in-k12-education]]
 - [[cte-and-ai]]
 - [[stanford-ai-index-education-2026]]
+- [[senate-hearing-ai-k12-education]]

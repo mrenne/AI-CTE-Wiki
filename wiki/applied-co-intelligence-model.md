@@ -2,9 +2,9 @@
 
 **Summary**: A pedagogical framework for CTE that integrates AI Mastery with Technical Skills and Transferable Skills within a specific occupational context — an extension of Ethan Mollick's co-intelligence concept designed for hands-on, applied learning environments.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-07-08
 
 ---
 
@@ -69,6 +69,12 @@ A concrete policy mechanism for ACI implementation surfaces in the webinar: the 
 
 Rather than building new institutional structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. The CLNA creates an already-authorized mechanism for ongoing AI curriculum alignment — the gap is not authority, it is practice. Programs currently treating the CLNA as a compliance exercise would need to reframe it as the primary vehicle for real-time industry-alignment work (source: Preparing CTE Learners for an AI-Driven Workforce webinar).
 
+## A Working Example: Alabama's Data Scholars Program
+
+The [[senate-hearing-ai-k12-education]] (June 2026) provides the ACI model's clearest real-world implementation example to date, described in congressional testimony rather than a program proposal. QuantHub's four-year partnership with the Alabama Department of Education has placed 100+ high school students into paid AI/data internships across 50+ employers, with students earning industry-recognized data/AI credentials before graduation — a direct instantiation of the ACI model's insistence that AI mastery, technical skill, and transferable skill development happen together within a real occupational context, not as standalone coursework.
+
+QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens the "Technology Is Not Destiny" argument above with an operational specificity the webinar source lacks: "the traditional curriculum refresh rate is typically five to ten years, and in the age of AI, that is generations." His human-in-the-loop response — AI agents draft curriculum, but instructional designers and subject-matter experts validate every unit before students see it — reduced curriculum-development time from roughly 200 hours to about 10 hours of validation per learning hour, a claimed 20x efficiency gain without sacrificing rigor. This is a concrete demonstration of what "countervailing force" institutional action looks like in practice, one state's answer to the same curriculum-cadence problem the [[cte-futures-aci-webinar]] identifies as a structural obstacle. (source: Senate Hearing on Artificial Intelligence and K-12 Education.md)
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -78,3 +84,4 @@ Rather than building new institutional structures to accomplish the continuous e
 - [[co-intelligence]]
 - [[cte-and-ai]]
 - [[agentivism]]
+- [[senate-hearing-ai-k12-education]]

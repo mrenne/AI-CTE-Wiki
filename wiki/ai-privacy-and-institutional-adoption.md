@@ -2,9 +2,9 @@
 
 **Summary**: The cluster of cost, data privacy, infrastructure, and policy barriers that prevent schools and colleges from adopting AI — and the emerging strategies (local SLM deployment, elastic policies, fellowship programs) for overcoming them equitably.
 
-**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`
+**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-07-08
 
 ---
 
@@ -97,6 +97,12 @@ The mechanism: an organization whose proprietary knowledge and processes are use
 
 For schools and CTE institutions, this argument maps directly onto the barriers documented above: routing student submissions and curriculum through cloud APIs not only creates FERPA exposure, it transfers institutional learning — the accumulated knowledge of educators, students, and curriculum design — to the infrastructure providers. Local SLM deployment ([[small-models-big-support]]) addresses both concerns simultaneously: privacy protection and institutional sovereignty over the knowledge that shapes the AI's outputs. (source: AI, jobs, and the next generation.md)
 
+## Congressional Testimony: The Scale of the Data Privacy Problem
+
+The June 2026 [[senate-hearing-ai-k12-education]] provided concrete, large-scale evidence for the data-privacy barrier described above. The PowerSchool breach — described in the hearing as the largest breach of children's education data in US history — exposed data belonging to 62 million students and 9.5 million teachers. More than half of US school districts experienced a cybersecurity incident in 2025 (per Sen. Blunt Rochester's opening statement). Erin Mote (InnovateEDU) testified that existing education-privacy law functions reasonably well for purpose-built education technology, but the real gap is **consumer-grade tools entering classrooms** — general chatbots and AI companions not necessarily subject to the same restrictions, where student data harvesting may occur without district or family awareness. The average school district now accesses nearly 3,000 digital tools per year — Mote's "fragmented, unmanageable landscape" — which is the practical scale problem any procurement-standard response must solve. (source: Senate Hearing on Artificial Intelligence and K-12 Education.md)
+
+Mote proposed a concrete evidence-based purchasing standard in response: **Five Tech Quality Indicators** (safe, interoperable, usable, inclusive, evidence-based), with her claim that fewer than half of purpose-built education tools currently meet this bar, and only 2% of consumer-grade tools do. She also proposed a **"waterfall" regulatory approach** — heaviest safety controls on the highest-risk consumer/companion AI platforms, lighter burden on purpose-built, lower-risk educational tools — as an explicit alternative to blanket bans or uniform screen-time limits, which she argues disproportionately harm students with disabilities who rely on digital tools for mandated accommodations. See [[ai-education-policy-and-legislation]] for the full policy-instrument tracking page.
+
 ## Related pages
 
 - [[small-language-models]]
@@ -107,3 +113,5 @@ For schools and CTE institutions, this argument maps directly onto the barriers 
 - [[ai-in-k12-education]]
 - [[ai-unplugged-murgatroyd]]
 - [[brad-smith-ai-jobs-next-generation]]
+- [[senate-hearing-ai-k12-education]]
+- [[ai-education-policy-and-legislation]]

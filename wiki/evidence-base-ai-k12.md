@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 systematic review by Stanford SCALE of 818 papers on AI in K–12 education — only 20 meet the bar for strong causal evidence, and zero are high-quality causal studies of student learning in U.S. K–12 settings.
 
-**Sources**: `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
+**Sources**: `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-07-08
 
 ---
 
@@ -185,6 +185,12 @@ These numbers should temper predictions about how quickly AI tools will transfor
 
 **The "enter high in the chain" principle** (Demirer et al., drawn from Hardman) is the strategic implication this evidence base points toward: AI aimed at lower-value, upstream tasks (generating more content, producing first drafts) drains its gains through every human-review stage that remains. AI aimed at higher-value stages — where the consequential cognitive work lives — has fewer human stages left to drain the gain. In educational terms: AI for assessment feedback, metacognitive calibration, and teacher coaching (all of which show positive evidence above) enters higher in the chain than AI for content generation or practice-problem supply. (source: AI is making you faster AND slower.md)
 
+## Independent Corroboration: Congressional Testimony
+
+Erin Mote (CEO, InnovateEDU), testifying before the Senate HELP subcommittee in June 2026, stated under direct questioning: "there is currently no high-quality causal studies on the long-term effects of A.I. on student learning, equity, or social emotional development... What we have is a number of studies that are short-term and tool based." (source: Senate Hearing on Artificial Intelligence and K-12 Education.md)
+
+This is a striking independent confirmation of this page's central finding — reached via a completely different methodology (advocacy-informed congressional testimony rather than systematic literature review) and a completely different institutional vantage point (a nonprofit/policy CEO addressing federal lawmakers rather than academic researchers). See [[senate-hearing-ai-k12-education]] for the full hearing summary.
+
 ## Relationship to This Wiki
 
 This report is the most comprehensive causal evidence base for claims made across multiple pages:
@@ -213,3 +219,4 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[building-ai-companions]]
 - [[hardman-ai-faster-slower]]
 - [[hardman-cognitive-offloading-paradox]]
+- [[senate-hearing-ai-k12-education]]

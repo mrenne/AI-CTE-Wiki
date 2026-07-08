@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Forty-two sources ingested so far, producing 60 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Forty-three sources ingested so far, producing 62 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 
@@ -65,6 +65,8 @@ Forty-two sources ingested so far, producing 60 interlinked wiki pages. The pict
 ### On schools and policy
 
 **The K-12 AI policy gap is structural, not accidental.** Stanford's AI Index 2026 finds that 80% of university students use AI for schoolwork — doubled from 40% in 2023 — but only 6% of teachers report their school's AI policies are clear. No US state has established teacher training standards for AI education. AP CS excludes AI content. State guidance is largely nonbinding. Students are integrating AI into their work at scale, without any institutional literacy framework around it.
+
+**Congress has now heard, and largely confirmed, the wiki's core evidence gap — while surfacing concrete state-level policy models.** At a June 2026 Senate HELP subcommittee hearing, InnovateEDU CEO Erin Mote testified there are "currently no high-quality causal studies on the long-term effects of A.I. on student learning, equity, or social emotional development" — independently corroborating Stanford SCALE's systematic-review finding via congressional testimony rather than academic synthesis. The hearing also surfaced two concrete, operating state models: Delaware's AI Assurance Lab (independent pre-adoption testing of AI tools rather than trusting vendor claims) and Alabama's Data Scholars program (100+ paid high-school AI/data internships, curriculum refresh cycles redesigned for AI's pace of change rather than the traditional five-to-ten-year textbook cycle). The hearing also disclosed that the PowerSchool breach — 62 million students' and 9.5 million teachers' data exposed — is the largest breach of children's education data in US history.
 
 **The key design variable is whether AI provides answers or builds thinking.** The evidence base consistently shows that AI tutors designed to give hints and ask guiding questions produce near-equivalent outcomes to traditional instruction; AI that provides complete answers harms independent learning and widens achievement gaps for low-prior-knowledge students. The same technology, with different pedagogical design, produces opposite effects.
 
