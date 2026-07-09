@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-09
 
 ---
 
@@ -31,6 +31,12 @@ The World Economic Forum estimates that 44% of core labor skills will evolve wit
 - **Schwartz et al. (2021)**: Transferable skills led to considerable wage growth among CTE learners studied
 - **Hanushek et al. (2017)**: Landmark 11-country study found vocational learners have an early employment advantage that diminishes with age — workers with fixed technical skills lose career agility over time, suggesting transferable skills are what sustain long-term mobility
 - **US Department of Labor, *Building Better Pathways* report**: Programs designed to build key transferable skills better position participants to advance along a range of career pathways
+
+## A Labor-Economics Mechanism: Codified vs. Tacit Knowledge
+
+[[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) offers a second, independent mechanism — grounded in labor economics rather than cognitive science — for why experience-based judgment resists AI substitution. Drawing on Acemoglu & Autor (2011), the authors argue AI disproportionately substitutes for **codified knowledge** (formal "book-learning," standardized and digitizable information) while it is far less capable of replacing **tacit knowledge** — the idiosyncratic, experience-accumulated judgment that is never fully documented. Young workers supply relatively more codified and less tacit knowledge than experienced workers, which the authors argue is why AI-exposed occupations show sharp employment declines concentrated in the 22-25 age bracket while employment for experienced workers in the identical occupations keeps growing. (source: CanariesintheCoalMine_Nov25.pdf)
+
+This complements rather than duplicates the [[satisficing-and-tolerance-principle]] account above: satisficing describes a cognitive-science mechanism for *how* human judgment works differently from LLM prediction; codified/tacit knowledge describes a labor-economics mechanism for *why the market values* that difference differently by career stage. Together they suggest transferable skills are not merely valuable in the abstract but specifically valuable in a way that *compounds with experience* — which has direct implications for how CTE programs should sequence skill development (see Implications below).
 
 ## Transferable Skills Enable AI Mastery
 
@@ -208,3 +214,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[satisficing-and-tolerance-principle]]
 - [[human-brilliance-satisficing]]
 - [[senate-hearing-ai-k12-education]]
+- [[canaries-coal-mine-brynjolfsson]]

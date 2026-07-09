@@ -735,3 +735,30 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Added source summary row; added new "Policy and Governance" concept-page section with `[[ai-education-policy-and-legislation]]`; added 4 new Key Themes (congressional corroboration of the evidence gap; cognitive surrender's policy-discourse convergence; state-level implementation models; PowerSchool breach as concrete privacy evidence)
 
 **Total pages created**: 2 | **Total pages updated**: 9
+
+---
+
+## 2026-07-09 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/blog/Preparing Students for AI & Data Careers.md` — QuantHub blog (quanthub.com), published July 1, 2026; author Abbie Merker. Update on the 2026 Alabama Data Scholars cohort, previously introduced via congressional testimony in the June 2026 Senate hearing.
+2. `raw/PDF/CanariesintheCoalMine_Nov25.pdf` — "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence," Erik Brynjolfsson, Bharat Chandar & Ruyu Chen (Stanford University / NBER), November 13, 2025. ADP payroll data on 3.5-5 million workers/month through September 2025 — the academic working paper underlying the wiki's existing "Canaries Dashboard" coverage.
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/quanthub-data-scholars-2026-update.md` — 2026 cohort detail: 52 interns/23 organizations; curriculum mapped to 43 internship roles/20 industries/17 skill categories built from actual employer postings; shared Advanced AI Foundations course then Track A (AI & Technology) vs. Track B (Data & Business Analytics); employer skill-demand percentages; rural-access mission
+- `wiki/canaries-coal-mine-brynjolfsson.md` — Six facts: (1) 22-25 year-olds in AI-exposed occupations decline sharply (software developers ~20% by Sept 2025) while other ages grow; (2) overall employment grows but youth growth stagnant in exposed occupations; (3) decline concentrated in automative AI usage, not augmentative (Anthropic Economic Index task classification); (4) 15 log-point decline robust to firm-time fixed effects; (5) adjustment via employment not compensation (wage stickiness); (6) robust across tech-exclusion, non-teleworkable-occupation, pre-2022 placebo, college-share, interest-rate-exposure, and gender robustness checks; codified-vs-tacit-knowledge theoretical mechanism (Acemoglu & Autor 2011); non-teleworkable-occupation finding flagged as a direct empirical challenge to broken-ladder's WFH-attribution thesis
+
+**Pages updated**:
+- `wiki/stanford-del-ai-economic-indicators.md` — Added note identifying `[[canaries-coal-mine-brynjolfsson]]` as the underlying academic paper for the June 2026 research note's Canaries Dashboard; added source and Related pages link
+- `wiki/broken-ladder.md` — Added "A Direct Empirical Challenge: Non-Teleworkable Occupations" section: the Canaries paper's AI-exposure employment decline persists even restricted to non-remote-workable occupations, directly complicating the WFH-attribution thesis; flagged as an open debate per the wiki's contradiction-noting rule; added source and Related pages link
+- `wiki/anthropic-labor-market-index.md` — Added cross-reference to the Canaries paper's 16% relative employment decline figure as independent cross-validation of this page's 14% hiring-rate slowdown finding, using different datasets and methodology; added source and Related pages link
+- `wiki/relational-economy.md` — Added "Direct Occupation-Level Confirmation: Health Aides" section: young health aides' employment growing faster than older workers' — a measured payroll outcome directly confirming the relational economy thesis; noted tension with the hospitality stress test (direct-care vs. guest-service relational occupations); added source and Related pages link
+- `wiki/transferable-skills.md` — Added "A Labor-Economics Mechanism: Codified vs. Tacit Knowledge" section: AI substitutes for codified knowledge more than tacit/experience-based judgment (Acemoglu & Autor 2011), a second independent mechanism alongside the satisficing/Tolerance Principle cognitive-science account; added source and Related pages link
+- `wiki/cte-and-ai.md` — Added QuantHub 2026-cohort detail to the existing Alabama Data Scholars section; added "New Occupation-Level Evidence: The Canaries Paper" section covering the automation/augmentation curriculum-design implication and the codified/tacit-knowledge apprenticeship defense; added both sources and Related pages links
+- `wiki/applied-co-intelligence-model.md` — Added QuantHub 2026-cohort curriculum mechanics as elaboration of the existing Alabama Data Scholars working example; added source and Related pages link
+- `wiki/senate-hearing-ai-k12-education.md` — Added `[[quanthub-data-scholars-2026-update]]` to Related pages
+- `wiki/index.md` — Added 2 new source summary rows; added 5 new Key Themes (automation/augmentation as the mechanism-level youth-employment predictor; the non-teleworkable-occupation challenge to WFH attribution; health aides as the relational economy thesis's clearest confirmation; the codified-vs-tacit-knowledge labor-economics mechanism)
+
+**Total pages created**: 2 | **Total pages updated**: 9

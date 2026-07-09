@@ -2,9 +2,9 @@
 
 **Summary**: Research Note #1 from Stanford Digital Economy Lab (Brynjolfsson et al., June 2026) — three components tracking AI's actual labor market and macroeconomic impact with live ADP data on 4.6 million workers across 730+ occupations. Key finding: automation-type AI usage predicts employment decline for early-career workers; augmentation-type usage does not.
 
-**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`
+**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
 
-**Last updated**: 2026-06-14
+**Last updated**: 2026-07-09
 
 ---
 
@@ -53,6 +53,10 @@ The most significant new contribution of the Canaries Dashboard is decomposing A
 This is the mechanism-level insight the broader debate on AI and labor markets has been missing. It is not AI exposure per se that determines employment outcomes — it is *how* AI is used in an occupation. Automation displaces; augmentation does not. (source: AIEI_RN01_Jun26.pdf)
 
 The automation/augmentation distinction is relevant to the WFH confound debate ([[broken-ladder]]): Lambert & Schindler use total AI exposure measures, which conflate automation and augmentation usage. The Canaries Dashboard's decomposition offers a mechanism handle that pure exposure rankings cannot provide — and one the WFH confound critique does not directly address.
+
+### The Underlying Academic Paper
+
+[[canaries-coal-mine-brynjolfsson]] (November 2025) is the peer-reviewed-style working paper this research note's "Canaries Dashboard" is built on — same lead author (Brynjolfsson), same ADP dataset, earlier and more methodologically detailed. It reports the automation/augmentation finding above as one of six documented facts, adds a firm-time fixed-effects regression showing a 15 log-point relative employment decline for 22-25 year-olds in the most AI-exposed occupations (robust to firm-level confounders), and — critically — reports that the pattern **survives restricting the sample to non-teleworkable occupations**, directly complicating the WFH-attribution argument in [[broken-ladder]]. See [[canaries-coal-mine-brynjolfsson]] for the full six-fact breakdown and the codified-vs-tacit-knowledge theoretical mechanism.
 
 ### Finding 3: Occupation-Level Examples
 
@@ -133,3 +137,4 @@ The capital share signal is consistent with the pattern that would precede a lab
 - [[bcg-ai-reshapes-jobs]]
 - [[brad-smith-ai-jobs-next-generation]]
 - [[transferable-skills]]
+- [[canaries-coal-mine-brynjolfsson]]

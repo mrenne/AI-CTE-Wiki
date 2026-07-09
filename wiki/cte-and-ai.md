@@ -2,9 +2,9 @@
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/blog/Preparing Students for AI & Data Careers.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-07-09
 
 ---
 
@@ -220,6 +220,14 @@ Jones's central structural argument directly extends the [[cte-futures-aci-webin
 
 This is a concrete, congressionally-documented implementation of the abstract curriculum-agility argument already present in [[cte-futures-aci-webinar]] and [[applied-co-intelligence-model]] — evidence that at least one state has operationalized "countervailing force" institutional action at meaningful scale, not just proposed it in a report.
 
+**The 2026 cohort, in detail**: [[quanthub-data-scholars-2026-update]] (July 2026) provides the underlying curriculum mechanics behind Jones's testimony: 52 interns placed across 23 Alabama organizations in the 2026 cohort; the curriculum is mapped to 43 actual internship roles across 20 industries and 17 skill categories, built by analyzing real employer job postings rather than a generic syllabus. Students complete a shared "Advanced AI Foundations" course, then split into **Track A (AI & Technology)** or **Track B (Data & Business Analytics)** based on their internship placement — a concrete, replicable template for the "half technical field, half AI" curriculum structure other CTE programs could adapt.
+
+## New Occupation-Level Evidence: The Canaries Paper
+
+[[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) — using ADP payroll data on millions of workers — adds two occupation-level findings directly relevant to CTE program design. First, the paper's **automation vs. augmentation distinction** is the most actionable operational finding in the wiki's labor-market evidence base: employment declines for young workers are concentrated in occupations where AI usage is automative (task completion with minimal human involvement); occupations where AI usage is augmentative (collaborative task iteration, learning, validation) show no such penalty — sometimes the opposite. This gives CTE AI-literacy curricula a specific design target: teach students to use AI in augmentative modes, not just any AI use.
+
+Second, the paper's **codified-vs-tacit-knowledge mechanism** (Acemoglu & Autor 2011) — AI substitutes for standardized "book-learning" knowledge more readily than for experience-accumulated tacit judgment — gives CTE's apprenticeship and hands-on-training model a specific theoretical defense: pathways emphasizing supervised practical experience over classroom-only credentialing may be structurally better positioned against AI substitution than knowledge-work pathways relying primarily on codifiable expertise. See [[transferable-skills]] for the full mechanism and [[canaries-coal-mine-brynjolfsson]] for the complete six-fact breakdown, including the finding that the AI-exposure divergence persists to age 40 for non-college occupations — a caution against assuming CTE graduates automatically age out of AI-exposure risk the way college-track workers appear to.
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -251,5 +259,7 @@ This is a concrete, congressionally-documented implementation of the abstract cu
 - [[ai-occupational-exposure-index]]
 - [[fostering-ai-ready-building-moving]]
 - [[fostering-ai-ready-cultivating-resources]]
+- [[quanthub-data-scholars-2026-update]]
+- [[canaries-coal-mine-brynjolfsson]]
 - [[fostering-ai-ready-caring-communities]]
 - [[fostering-ai-ready-creating-experiencing]]

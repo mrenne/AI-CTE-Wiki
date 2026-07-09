@@ -75,6 +75,8 @@ The [[senate-hearing-ai-k12-education]] (June 2026) provides the ACI model's cle
 
 QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens the "Technology Is Not Destiny" argument above with an operational specificity the webinar source lacks: "the traditional curriculum refresh rate is typically five to ten years, and in the age of AI, that is generations." His human-in-the-loop response — AI agents draft curriculum, but instructional designers and subject-matter experts validate every unit before students see it — reduced curriculum-development time from roughly 200 hours to about 10 hours of validation per learning hour, a claimed 20x efficiency gain without sacrificing rigor. This is a concrete demonstration of what "countervailing force" institutional action looks like in practice, one state's answer to the same curriculum-cadence problem the [[cte-futures-aci-webinar]] identifies as a structural obstacle. (source: Senate Hearing on Artificial Intelligence and K-12 Education.md)
 
+[[quanthub-data-scholars-2026-update]] (July 2026) fills in the mechanics behind that testimony: the 2026 cohort's curriculum is mapped to 43 real internship roles across 20 industries and 17 skill categories, derived from analyzing actual employer job postings rather than a generic syllabus — the clearest example in the wiki of the ACI model's occupational-context principle operationalized at the curriculum-design level, not just the internship-placement level. Students complete a shared AI-foundations course before splitting into occupation-specific tracks (Track A: AI & Technology; Track B: Data & Business Analytics), directly instantiating the "shared foundation, then specialization" structure the ACI model's three-sphere framework implies but does not itself specify how to build.
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -85,3 +87,4 @@ QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens t
 - [[cte-and-ai]]
 - [[agentivism]]
 - [[senate-hearing-ai-k12-education]]
+- [[quanthub-data-scholars-2026-update]]

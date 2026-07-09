@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-07-09
 
 ---
 
@@ -156,6 +156,14 @@ Stanford Digital Economy Lab's Canaries Dashboard ([[stanford-del-ai-economic-in
 
 Lambert & Schindler's finding remains methodologically sound within its scope — the WFH coefficient is robust and the GenAI coefficient attenuates in joint-treatment designs using total exposure. But the Canaries Dashboard's automation/augmentation decomposition opens a second mechanism channel that the WFH confound critique does not foreclose. The debate is not closed. (source: AIEI_RN01_Jun26.pdf)
 
+## A Direct Empirical Challenge: Non-Teleworkable Occupations
+
+[[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) — the academic working paper underlying the Canaries Dashboard above — runs a robustness check that speaks more directly to this page's central claim than the automation/augmentation decomposition does. The authors restrict their sample to **non-teleworkable occupations only** (bank tellers, travel agents, tax preparers — jobs that cannot be done remotely under any circumstances) and find the AI-exposure-driven employment decline for 22-25 year-olds **still holds**.
+
+This is a genuine tension, not just a complementary mechanism. If Lambert & Schindler are correct that WFH organizational friction — not AI task automation — is the primary driver of the junior-hiring decline, that effect should not appear among occupations where remote work was never an option in the first place. Its persistence in non-teleworkable settings is evidence for an AI-specific channel operating independently of WFH. (source: CanariesintheCoalMine_Nov25.pdf)
+
+The two papers use different designs (Lambert & Schindler: joint-treatment DiD on total exposure measures across four countries; Brynjolfsson et al.: firm-time fixed-effects event study on US ADP data, with the teleworkability check as one robustness test among many) and cover different populations and time windows, so this is not a clean head-to-head refutation. But per the wiki's rule to flag contradictions explicitly: **the non-teleworkable-occupation finding is the most direct empirical challenge to this page's central thesis currently in the wiki**, and it should be weighed alongside — not simply subordinated to — the WFH-attribution argument above.
+
 ## Related pages
 
 - [[anthropic-labor-market-index]]
@@ -170,3 +178,4 @@ Lambert & Schindler's finding remains methodologically sound within its scope �
 - [[ai-economics-scan-2026]]
 - [[nyt-teens-trade-classes]]
 - [[spelhaug-microsoft-elevate]]
+- [[canaries-coal-mine-brynjolfsson]]

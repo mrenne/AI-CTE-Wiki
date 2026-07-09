@@ -108,3 +108,4 @@ Florida was cited as a leading state example on the legislative response side, h
 - [[cte-futures-aci-webinar]]
 - [[transferable-skills]]
 - [[ai-education-policy-and-legislation]]
+- [[quanthub-data-scholars-2026-update]]

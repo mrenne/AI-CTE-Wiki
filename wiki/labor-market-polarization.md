@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-07-09
 
 ---
 
@@ -147,6 +147,8 @@ Lambert & Schindler ([[broken-ladder]], May 2026) introduce a methodological com
 
 **The optimism argument**: If WFH is driving the junior-hiring decline, the organizational frictions are surmountable through better management practice (hybrid onboarding protocols, structured remote mentoring, deliberate junior development practices). If GenAI is the driver, more structural policy interventions would be required. The diagnosis changes the remedy. (source: The Broken Ladder.pdf)
 
+**A direct challenge to the WFH-attribution reading**: [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) restricts its ADP-based analysis to **non-teleworkable occupations only** — bank tellers, travel agents, tax preparers, jobs where remote work was never an option — and still finds a large, statistically significant employment decline for 22-25 year-olds in the most AI-exposed occupations. This complicates the "it's WFH, not AI" reading: the pattern persists in occupations where WFH cannot mechanically be the cause. The same paper reports a headline 16% relative employment decline for AI-exposed early-career workers, robust to firm-time fixed effects, and a placebo test showing the pattern does not appear before late 2022 (including during COVID). See [[broken-ladder]] for the full discussion of this tension. (source: CanariesintheCoalMine_Nov25.pdf)
+
 ## The Pace of AI Diffusion: Constrained by Humans, Not Technology
 
 Brad Smith ([[brad-smith-ai-jobs-next-generation]], 2026) introduces a structural argument about *how fast* AI will actually transform the economy, grounded in a citation from Narayanan & Kapoor (Knight Columbia):
@@ -245,6 +247,7 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[ai-unplugged-murgatroyd]]
 - [[nyt-teens-trade-classes]]
 - [[brad-smith-ai-jobs-next-generation]]
+- [[canaries-coal-mine-brynjolfsson]]
 - [[berwick-employers-ai-education-gap]]
 - [[ai-occupational-exposure-index]]
 - [[fostering-ai-ready-building-moving]]
