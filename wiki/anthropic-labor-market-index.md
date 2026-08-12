@@ -2,9 +2,9 @@
 
 **Summary**: An Anthropic research report (Massenkoff & McCrory, 2026) introducing *observed exposure* — a new metric combining theoretical LLM capability with actual Claude usage data — and finding no detectable unemployment impact so far, but suggestive evidence that hiring of young workers into AI-exposed occupations has slowed by 14%.
 
-**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
+**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-08-12
 
 ---
 
@@ -77,7 +77,7 @@ The paper's main labor market analysis compares unemployment trends for workers 
 
 > "The averaged estimate in the post-ChatGPT era is a **14% drop in the job finding rate** compared to that in 2022 in the exposed occupations, although this is just barely statistically significant."
 
-This echoes a parallel finding from Brynjolfsson et al. (2025), who found a 6–16% fall in employment in exposed occupations among workers aged 22–25, attributed primarily to slowed hiring rather than layoffs. The mechanism: young workers who aren't hired may not appear in unemployment statistics if they remain in school, take different jobs, or exit the labor force — making the impact visible in hiring data but not CPS unemployment counts.
+This echoes a parallel finding from [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen), whose original November 2025 vintage found a 6–16% fall in employment in exposed occupations among workers aged 22–25; the August 2026 update revises this to a **19% "kept-pace" shortfall** as of June 2026, explicitly noting the gap has widened every month since first documented in August 2025. Both papers attribute the effect primarily to slowed hiring rather than layoffs. The mechanism: young workers who aren't hired may not appear in unemployment statistics if they remain in school, take different jobs, or exit the labor force — making the impact visible in hiring data but not CPS unemployment counts.
 
 (There is no such decrease for workers older than 25.)
 

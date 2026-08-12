@@ -42,3 +42,4 @@ This concept page is built on a single news summary of one *PNAS* study, using s
 - [[transferable-skills]]
 - [[agentivism]]
 - [[relational-economy]]
+- [[canaries-coal-mine-brynjolfsson]]

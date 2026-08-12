@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-08-12
 
 ---
 
@@ -163,6 +163,14 @@ Lambert & Schindler's finding remains methodologically sound within its scope �
 This is a genuine tension, not just a complementary mechanism. If Lambert & Schindler are correct that WFH organizational friction — not AI task automation — is the primary driver of the junior-hiring decline, that effect should not appear among occupations where remote work was never an option in the first place. Its persistence in non-teleworkable settings is evidence for an AI-specific channel operating independently of WFH. (source: CanariesintheCoalMine_Nov25.pdf)
 
 The two papers use different designs (Lambert & Schindler: joint-treatment DiD on total exposure measures across four countries; Brynjolfsson et al.: firm-time fixed-effects event study on US ADP data, with the teleworkability check as one robustness test among many) and cover different populations and time windows, so this is not a clean head-to-head refutation. But per the wiki's rule to flag contradictions explicitly: **the non-teleworkable-occupation finding is the most direct empirical challenge to this page's central thesis currently in the wiki**, and it should be weighed alongside — not simply subordinated to — the WFH-attribution argument above.
+
+## August 2026 Update: A Direct Replication of This Page's Own Specification
+
+The August 2026 update to [[canaries-coal-mine-brynjolfsson]] goes further than the non-teleworkable robustness check above: the authors **directly replicate this paper's own state-by-occupation joint-treatment event-study specification** inside the ADP payroll data — same AI-exposure measure (Eloundou et al.), the same Lambert & Schindler work-from-home measure, the same joint-treatment design (equation 8 of the L&S paper), applied to a different dataset.
+
+The result reverses the pattern this page reports above. In the ADP replication, when AI exposure and WFH exposure are entered **jointly**, the **AI-exposure coefficient grows** over the sample period (from −0.64 percentage points per SD in 2022 to −1.52 by 2025) while the WFH coefficient shrinks toward zero and is mostly statistically insignificant — the opposite of the Table above's "WFH coefficient stable (−1.42 to −1.57pp); GenAI attenuates heavily" finding in the Revelio data.
+
+This is a materially different kind of evidence than the non-teleworkable check: it is not a new robustness test on a related question, but the **identical specification run on a different dataset**, producing the **opposite conclusion**. The Canaries authors' own interpretation is that the reversal traces to differences between the underlying data sources — ADP's administrative payroll records versus Revelio's résumé/professional-social-media-derived seniority classifications — rather than a flaw in either paper's methodology. This does not settle the debate in either direction; if anything, it demonstrates the debate is more fundamental than a specification disagreement, since holding the specification fixed and only changing the data source flips the result. Per the wiki's contradiction-noting rule, this is recorded as an open methodological puzzle, not resolved here.
 
 ## Related pages
 

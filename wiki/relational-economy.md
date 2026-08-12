@@ -2,9 +2,9 @@
 
 **Summary**: The economic theory that AI-driven automation will not eliminate work but relocate scarcity — shifting employment and expenditure from commodity production into a "relational sector" where human involvement is inseparable from the value of the good or service.
 
-**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
+**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-08-12
 
 ---
 
@@ -121,7 +121,7 @@ This is a useful stress test for the relational economy thesis: the thesis predi
 
 ## Direct Occupation-Level Confirmation: Health Aides
 
-[[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) provides the thesis's clearest occupation-level confirmation yet, using real ADP payroll data rather than theoretical projection. Among the paper's occupation case studies, health aides — nursing aides, psychiatric aides, and home health aides, a canonical relational-sector occupation grouping — show employment for young workers (22-25) growing *faster* than for older workers, a pattern the paper explicitly contrasts with software developers and customer service representatives, where young-worker employment has declined sharply since 2022. This is a real, measured labor-market outcome, not a structural-change model projection — and it points in exactly the direction the relational economy thesis predicts. (source: CanariesintheCoalMine_Nov25.pdf)
+[[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, updated August 2026, data through June 2026) provides the thesis's clearest occupation-level confirmation yet, using real ADP payroll data rather than theoretical projection. Among the paper's occupation case studies, health aides — nursing aides, psychiatric aides, and home health aides, a canonical relational-sector occupation grouping — show employment for young workers (22-25) growing *faster* than for older workers, a pattern the paper explicitly contrasts with software developers and customer service representatives, where young-worker employment has declined sharply since 2022. This finding is unchanged and reconfirmed across both the November 2025 and August 2026 vintages of the paper — a real, measured labor-market outcome, not a structural-change model projection — and it points in exactly the direction the relational economy thesis predicts. (source: Canaries_August2026.pdf)
 
 The finding sits in tension with the hospitality stress test above: both are relational-sector occupations, but health aides show unambiguous employment growth for young workers while hospitality shows sub-task automation vulnerability with a gendered dimension. The relational economy thesis appears to hold more cleanly for direct-care occupations (constant, irreducible human presence) than for guest-service occupations (which bundle relational and automatable tasks together) — a distinction the thesis's original formulation does not draw but that this occupation-level evidence suggests is real.
 

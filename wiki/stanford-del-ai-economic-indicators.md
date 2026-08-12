@@ -2,9 +2,9 @@
 
 **Summary**: Research Note #1 from Stanford Digital Economy Lab (Brynjolfsson et al., June 2026) — three components tracking AI's actual labor market and macroeconomic impact with live ADP data on 4.6 million workers across 730+ occupations. Key finding: automation-type AI usage predicts employment decline for early-career workers; augmentation-type usage does not.
 
-**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
+**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-08-12
 
 ---
 
@@ -23,6 +23,8 @@ Brynjolfsson's framing: "We are flying blind into one of the most consequential 
 The Canaries Dashboard is the most novel and empirically powerful component. In partnership with ADP Research, Stanford DEL tracks employment outcomes for roughly **25,000 firms, 4.6 million workers, and 730+ occupations** — the largest longitudinal employment sample for this question in the wiki. The "canaries" framing references the historical use of canaries in coal mines to detect invisible hazards: the goal is to identify which workers are showing early-stage employment effects before they appear in aggregate statistics.
 
 The sample is a five-year balanced panel ending April 2026, using ADP payroll records — actual employment data, not surveys. (source: AIEI_RN01_Jun26.pdf)
+
+**A fresher data vintage now exists**: [[canaries-coal-mine-brynjolfsson]]'s August 2026 update extends the underlying academic paper's ADP panel through June 2026 (two months past this dashboard's April cutoff) and revises the headline early-career figure from a 16% relative decline to a **19% "kept-pace" shortfall**, explicitly noting the gap has widened every month since first documented. That page should be treated as the current authoritative vintage of this research program's headline numbers.
 
 ### Finding 1: Aggregate Divergence Is Modest — But Early-Career Is Pronounced
 

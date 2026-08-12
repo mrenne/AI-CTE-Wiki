@@ -787,3 +787,23 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Added 1 new source summary row and 1 new concept-page row; added 2 new Key Themes (the two-thirds-quantitative state of the Career Clusters exposure map; the Cluster Grouping naming inconsistency across the wiki's own CTE Futures/Advance CTE sources)
 
 **Total pages created**: 2 | **Total pages updated**: 7
+
+---
+
+## 2026-08-12 — Update ingestion (1 source, revised version)
+
+**Sources ingested**:
+1. `raw/PDF/Canaries_August2026.pdf` — Brynjolfsson, Chandar & Chen (Stanford/NBER), August 2026 update to "Canaries in the Coal Mine?" (previously ingested as source 45, November 2025 vintage). Extends the ADP payroll panel through June 2026; revises the headline early-career employment figure; adds new mechanism, heterogeneity, and external-validity sections.
+
+**Pages updated** (no new pages — this is a version update to an existing source, per the wiki's ingest workflow):
+- `wiki/canaries-coal-mine-brynjolfsson.md` — Substantially rewritten to reflect the August 2026 vintage: headline figure revised from 16% relative decline to 19% "kept-pace" shortfall (still widening monthly); added "Fact 3" (divergence trajectory/pre-trend discussion), gender/regional/state-adoption-tier heterogeneity, external-validity comparison to CPS/ACS, a new self-reported estimate-drift transparency section, and the LLM-based (not proxied) codified/tacit knowledge measurement. Added the new direct replication of the Lambert & Schindler WFH specification, which reverses inside ADP data. Preserved the health-aides cross-reference to [[relational-economy]] from the prior vintage.
+- `wiki/broken-ladder.md` — Added "August 2026 Update: A Direct Replication of This Page's Own Specification" section: the Canaries update runs Lambert & Schindler's identical joint-treatment specification inside ADP data and finds the AI coefficient grows while the WFH coefficient shrinks — the opposite pattern from L&S's own Revelio-based result; flagged as an unresolved methodological puzzle (same specification, opposite conclusion, different data source) rather than adjudicated; added source and updated Last updated
+- `wiki/stanford-del-ai-economic-indicators.md` — Added note that the Canaries paper's August 2026 update is now the more current data vintage (June 2026 vs. this dashboard's April 2026 cutoff) and supersedes the 16% figure; added source and updated Last updated
+- `wiki/anthropic-labor-market-index.md` — Updated the cross-reference to cite the revised 19% figure alongside the original 6-16% range; added source and updated Last updated
+- `wiki/relational-economy.md` — Updated the health-aides cross-reference to note the finding is unchanged and reconfirmed across both paper vintages; added source and updated Last updated
+- `wiki/transferable-skills.md` — Added detail on the LLM-based codified/tacit measurement and the education-control asymmetry (tacit effect survives, codified effect does not); added source and updated Last updated
+- `wiki/cte-and-ai.md` — Updated the "New Occupation-Level Evidence" section with the revised 19% figure, the complementarity-driven employment gain for experienced workers, and the external-validity caution; added source
+- `wiki/satisficing-and-tolerance-principle.md` — Added reciprocal Related pages link to [[canaries-coal-mine-brynjolfsson]]
+- `wiki/index.md` — Updated the source summary row and three Key Themes entries to reflect the revised 19% figure, the WFH-specification-reversal finding, and the LLM-measured codified/tacit asymmetry
+
+**Total pages created**: 0 | **Total pages updated**: 9
