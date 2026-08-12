@@ -762,3 +762,28 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Added 2 new source summary rows; added 5 new Key Themes (automation/augmentation as the mechanism-level youth-employment predictor; the non-teleworkable-occupation challenge to WFH attribution; health aides as the relational economy thesis's clearest confirmation; the codified-vs-tacit-knowledge labor-economics mechanism)
 
 **Total pages created**: 2 | **Total pages updated**: 9
+
+---
+
+## 2026-08-12 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf` — "Responsive by Design: Integrating Artificial Intelligence Across the National Career Clusters® Framework," Advance CTE (Janeva Wilson, with Dan Hinderliter, Kate Kreamer, and the CTE Futures team: Cameron Sublett, Lauren Mason, Dani Rimbach-Jones, Karina Beltran, Matias Fresard), August 2026. Companion resource to *The Connected Path* (CTE Connects) mapping illustrative AI-use examples across all 16 Career Clusters/6 Cluster Groupings, plus a four-part state implementation strategy.
+
+**Pages created**:
+
+*Source summary*:
+- `wiki/responsive-by-design-career-clusters.md` — Full summary: qualitative (non-AIOE-scored) coverage of all six Cluster Groupings including the two the "Fostering AI-Ready" series has not yet measured; the four state implementation strategies (statewide guidance, educator PD, industry partnerships, cross-sector conversations); a flagged Cluster Grouping naming/structure discrepancy against the February 2026 CTE Futures webinar's account of the framework
+
+*Concept page*:
+- `wiki/career-clusters-financial-business-digital.md` — New concept page: the wiki's first content, however qualitative, on the Financial Services, Management & Entrepreneurship, Marketing & Sales, and Digital Technology Career Clusters; notes what's still missing (no AIOE scores, no named interview subjects, no cluster-specific recommendations) pending a future quantitative report
+
+**Pages updated**:
+- `wiki/ai-occupational-exposure-index.md` — Added "Qualitative coverage of the two remaining groupings" section noting the new source fills the previously-flagged Managing & Connecting/Digital Technology gap qualitatively but not quantitatively; added source and Related pages links
+- `wiki/applied-co-intelligence-model.md` — Added "A Framework Reference Point for a Companion Resource" section: the new report cites the ACI model's AI-mastery definition directly, confirming it as the CTE Futures team's default framing device across their output; added Related pages links
+- `wiki/cte-and-ai.md` — Updated the National Career Clusters Framework description to reflect the new report's six-grouping structure (Investing in the Future, Connecting & Supporting Success replacing Managing & Connecting); added a flagged naming/structure discrepancy note against the February 2026 webinar's crosscutting-Digital-Technology account; added "First Coverage of Financial Services, Business, and Digital Technology Clusters" section; added source and Related pages links; updated Last updated
+- `wiki/fostering-ai-ready-building-moving.md`, `wiki/fostering-ai-ready-cultivating-resources.md`, `wiki/fostering-ai-ready-caring-communities.md`, `wiki/fostering-ai-ready-creating-experiencing.md` — Each added a one-line cross-reference to the new companion resource and a Related pages link
+- `wiki/cte-futures-aci-webinar.md` — Added Related pages link to the new source, which is now the point of contrast for the framework-naming discrepancy first documented on this page
+- `wiki/index.md` — Added 1 new source summary row and 1 new concept-page row; added 2 new Key Themes (the two-thirds-quantitative state of the Career Clusters exposure map; the Cluster Grouping naming inconsistency across the wiki's own CTE Futures/Advance CTE sources)
+
+**Total pages created**: 2 | **Total pages updated**: 7

@@ -59,6 +59,8 @@ The report follows the same four-audience structure as the other three: CTE prov
 
 The report closes by arguing that the enduring human appeal of narrative and hospitality experiences — the reason people watch movies and travel — means AI will function as a production tool rather than a replacement for the underlying human element: "it is the spontaneous conversations with locals that create memorable experiences," and stories are brought to life "through the human artistry of screenwriters, actors, and filmmakers." This conclusion sits in tension with Anglen's framing quoted above, which the report acknowledges but does not resolve.
 
+A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, August 2026), adds brief illustrative AI-use examples for Hospitality/Events/Tourism and Arts/Entertainment/Design consistent with this report's findings, and extends similar qualitative coverage to two clusters this series has not yet measured — see [[career-clusters-financial-business-digital]].
+
 ## Related pages
 
 - [[ai-occupational-exposure-index]]
@@ -66,6 +68,7 @@ The report closes by arguing that the enduring human appeal of narrative and hos
 - [[fostering-ai-ready-building-moving]]
 - [[fostering-ai-ready-cultivating-resources]]
 - [[fostering-ai-ready-caring-communities]]
+- [[responsive-by-design-career-clusters]]
 - [[relational-economy]]
 - [[bcg-ai-reshapes-jobs]]
 - [[apocalypse-no-galloway]]

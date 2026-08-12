@@ -50,6 +50,8 @@ The report follows the same four-audience structure as the other reports in the 
 
 As in the other three reports, the authors conclude that AI is unlikely to fully automate Agriculture or Energy & Natural Resources occupations. Instead, AI is expected to concentrate in decision-support and monitoring roles — helping human workers detect problems earlier (lameness in livestock, poachers approaching a reserve, grid anomalies) — while the underlying physical, judgment-intensive work of farming, land management, and infrastructure maintenance remains human-centered.
 
+A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, August 2026), adds brief illustrative AI-use examples for Agriculture and Energy & Natural Resources consistent with this report's findings, and extends similar qualitative coverage to two clusters this series has not yet measured — see [[career-clusters-financial-business-digital]].
+
 ## Related pages
 
 - [[ai-occupational-exposure-index]]
@@ -57,6 +59,7 @@ As in the other three reports, the authors conclude that AI is unlikely to fully
 - [[fostering-ai-ready-building-moving]]
 - [[fostering-ai-ready-caring-communities]]
 - [[fostering-ai-ready-creating-experiencing]]
+- [[responsive-by-design-career-clusters]]
 - [[transferable-skills]]
 - [[labor-market-polarization]]
 - [[nber-data-centers-local-economies]]

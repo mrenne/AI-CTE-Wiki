@@ -77,6 +77,10 @@ QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens t
 
 [[quanthub-data-scholars-2026-update]] (July 2026) fills in the mechanics behind that testimony: the 2026 cohort's curriculum is mapped to 43 real internship roles across 20 industries and 17 skill categories, derived from analyzing actual employer job postings rather than a generic syllabus — the clearest example in the wiki of the ACI model's occupational-context principle operationalized at the curriculum-design level, not just the internship-placement level. Students complete a shared AI-foundations course before splitting into occupation-specific tracks (Track A: AI & Technology; Track B: Data & Business Analytics), directly instantiating the "shared foundation, then specialization" structure the ACI model's three-sphere framework implies but does not itself specify how to build.
 
+## A Framework Reference Point for a Companion Resource
+
+[[responsive-by-design-career-clusters]] (Advance CTE, August 2026) — a resource mapping AI use examples across all 16 Career Clusters, produced by the same CTE Futures team — cites the ACI model directly for its working definition of AI mastery: "a continuum of skills that begins with AI literacy, moving a learner from basic awareness to the ability to strategically select, critique, and adapt AI tools for their work." This confirms the ACI model has become the CTE Futures team's default framing device for AI mastery across its output, not just the original report and webinar. See [[career-clusters-financial-business-digital]] for the report's coverage of two clusters — Financial Services and Digital Technology — not previously covered anywhere in the wiki.
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -88,3 +92,5 @@ QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens t
 - [[agentivism]]
 - [[senate-hearing-ai-k12-education]]
 - [[quanthub-data-scholars-2026-update]]
+- [[responsive-by-design-career-clusters]]
+- [[career-clusters-financial-business-digital]]

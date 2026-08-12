@@ -53,12 +53,15 @@ Across the three clusters, Advanced Manufacturing's average AIOE sits just sligh
 
 The report frames Gen Z's growing interest in trades-based work as the **"toolbelt generation"** (a term from Te-Ping Chen's April 2024 *Wall Street Journal* article, "How Gen Z Is Becoming the Toolbelt Generation"), and concludes this demographic shift will buoy an already large and AI-resistant Building & Moving workforce. AI will substitute some routine tasks and may fully automate a small number of roles, but the report's central finding is that the vast majority of Building & Moving occupations will persist, with workers combining technical, transferable, and AI literacy skills positioned to thrive.
 
+A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, August 2026), adds brief illustrative AI-use examples for Advanced Manufacturing, Construction, and Supply Chain & Transportation consistent with this report's findings, and extends similar qualitative coverage to two clusters this series has not yet measured — see [[career-clusters-financial-business-digital]].
+
 ## Related pages
 
 - [[ai-occupational-exposure-index]]
 - [[cte-and-ai]]
 - [[fostering-ai-ready-cultivating-resources]]
 - [[fostering-ai-ready-caring-communities]]
+- [[responsive-by-design-career-clusters]]
 - [[fostering-ai-ready-creating-experiencing]]
 - [[nyt-teens-trade-classes]]
 - [[transferable-skills]]

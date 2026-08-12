@@ -2,9 +2,9 @@
 
 **Summary**: The two quantitative frameworks — Felten, Raj & Seamans' AIOE and Acemoglu & Autor's Task Routinization Index — that the ERO/Advance CTE/ACTE "Fostering AI-Ready CTE Pipelines" report series uses to measure AI's occupational exposure across all six Career Cluster Groupings.
 
-**Sources**: `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`
+**Sources**: `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-08-12
 
 ---
 
@@ -45,6 +45,10 @@ Because all four reports use identical methodology, their Figure 1 charts can be
 
 This ordering roughly tracks each grouping's average credential requirement and cognitive-task intensity — consistent with finding #2 above — and gives [[cte-and-ai]]'s "AI Exposure by CTE Cluster" section its first occupation-level empirical grounding, rather than a general impression.
 
+## Qualitative coverage of the two remaining groupings
+
+As of August 2026, [[responsive-by-design-career-clusters]] (Advance CTE) provides the wiki's first content — though not AIOE scores — on the two groupings this series has not yet measured: Financial Services ("Investing in the Future") and Management & Entrepreneurship/Marketing & Sales/Digital Technology ("Connecting & Supporting Success"). See [[career-clusters-financial-business-digital]] for the illustrative examples. The gap noted below remains accurate for *quantitative* AIOE data specifically.
+
 ## Limitations
 
 - AIOE and the Task Routinization Index are both built from O*NET, a survey-based occupational database — they measure *task composition*, not real-world AI deployment or actual displacement rates.
@@ -61,3 +65,5 @@ This ordering roughly tracks each grouping's average credential requirement and 
 - [[fostering-ai-ready-cultivating-resources]]
 - [[fostering-ai-ready-caring-communities]]
 - [[fostering-ai-ready-creating-experiencing]]
+- [[responsive-by-design-career-clusters]]
+- [[career-clusters-financial-business-digital]]

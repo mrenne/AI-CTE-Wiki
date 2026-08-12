@@ -59,6 +59,8 @@ As in the other reports, higher AIOE is interpreted as likely AI *integration* r
 
 The report situates its findings within a generational context: millennials and Gen Z learners are drawn to mission-oriented work, and the "college for all" mentality is waning as students grow skeptical of higher education's value proposition. Because Caring for Communities occupations are service- and mission-oriented, involve a balance of physical and cognitive tasks, and serve an aging population driving structural demand growth in healthcare and education, the report concludes these professions retain "tremendous appeal" and will remain largely relevant even as AI reshapes specific tasks within them. Workers combining technical skill, adaptability, and AI literacy are positioned to thrive.
 
+A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, August 2026), adds brief illustrative AI-use examples for Healthcare & Human Services, Education, and Public Service & Safety consistent with this report's findings, and extends similar qualitative coverage to two clusters this series has not yet measured — see [[career-clusters-financial-business-digital]].
+
 ## Related pages
 
 - [[ai-occupational-exposure-index]]
@@ -66,6 +68,7 @@ The report situates its findings within a generational context: millennials and 
 - [[fostering-ai-ready-building-moving]]
 - [[fostering-ai-ready-cultivating-resources]]
 - [[fostering-ai-ready-creating-experiencing]]
+- [[responsive-by-design-career-clusters]]
 - [[transferable-skills]]
 - [[ai-in-k12-education]]
 - [[khanmigo]]

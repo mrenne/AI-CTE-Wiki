@@ -142,6 +142,7 @@ This webinar adds practitioner texture and policy specifics to the [[applied-co-
 - [[cte-and-ai]]
 - [[agentivism]]
 - [[transferable-skills]]
+- [[responsive-by-design-career-clusters]]
 - [[labor-market-polarization]]
 - [[stanford-ai-index-education-2026]]
 - [[relational-economy]]
