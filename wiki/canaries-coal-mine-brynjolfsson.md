@@ -90,6 +90,11 @@ New in this vintage is a dedicated section comparing the ADP findings to the CPS
 | Tacit-knowledge protective effect survives controlling for education; codified-knowledge penalty does not | [[satisficing-and-tolerance-principle]] (a second, data-driven confirmation that experience-based judgment is not just a proxy for credentials) |
 | Gender heterogeneity: women more exposed at every age | [[labor-market-polarization]] (new equity dimension) |
 | The paper's own estimate for the most-exposed quintile weakened between vintages | [[ai-economy-measurement-2026]] (a concrete, self-reported instance of the measurement instability that source describes generally) |
+| The paper's own external-validity caution (ADP larger than ACS) | [[goldman-sachs-ai-labor-squeeze]] (independent cross-country evidence for the same *direction* of effect, from a different data source and methodology entirely) |
+
+## An Independent Cross-Country Corroboration (August 2026)
+
+[[goldman-sachs-ai-labor-squeeze]] (Goldman Sachs, via CNBC, August 2026) provides the wiki's first non-US, non-academic corroboration of this paper's central pattern: automation-heavy occupations show entry-level hiring headwinds. Goldman's finding — a 2x-6x entry-level exposure multiplier replicated across France, Canada, the US, and Australia — is directionally consistent with this paper's automation-vs-complementarity mechanism, though it uses entirely different data (Goldman's own occupational employment-growth analysis across 800+ occupations and 11 adoption surveys) rather than ADP payroll records. This strengthens the *direction* of this paper's findings at exactly the moment its own external-validity section (see above) raised a caution about *magnitude* generalizability from the US-only ADP sample.
 
 ## Implications for CTE
 
@@ -110,3 +115,4 @@ New in this vintage is a dedicated section comparing the ADP findings to the CPS
 - [[cte-and-ai]]
 - [[ai-economy-measurement-2026]]
 - [[fostering-ai-ready-caring-communities]]
+- [[goldman-sachs-ai-labor-squeeze]]

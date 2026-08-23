@@ -79,6 +79,8 @@ The paper's main labor market analysis compares unemployment trends for workers 
 
 This echoes a parallel finding from [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen), whose original November 2025 vintage found a 6–16% fall in employment in exposed occupations among workers aged 22–25; the August 2026 update revises this to a **19% "kept-pace" shortfall** as of June 2026, explicitly noting the gap has widened every month since first documented in August 2025. Both papers attribute the effect primarily to slowed hiring rather than layoffs. The mechanism: young workers who aren't hired may not appear in unemployment statistics if they remain in school, take different jobs, or exit the labor force — making the impact visible in hiring data but not CPS unemployment counts.
 
+[[goldman-sachs-ai-labor-squeeze]] (August 2026) adds a cross-country replication of this same entry-level concentration pattern: a 10% increase in occupational AI exposure drags entry-level headcount growth by 0.2 to 0.6+ percentage points across the US, Canada, France, and Australia — 2-6x the drag on the broader workforce — using Goldman's own occupational analysis rather than the ADP/Anthropic data underlying this page and [[canaries-coal-mine-brynjolfsson]].
+
 (There is no such decrease for workers older than 25.)
 
 ## Methodological Honesty
@@ -139,3 +141,4 @@ This finding also provides a partial response to the [[broken-ladder]] WFH confo
 - [[broken-ladder]]
 - [[stanford-del-ai-economic-indicators]]
 - [[canaries-coal-mine-brynjolfsson]]
+- [[goldman-sachs-ai-labor-squeeze]]

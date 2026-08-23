@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-08-23
 
 ---
 
@@ -188,6 +188,10 @@ Dr. Jose Bowen (Senior Scholar, AAC&U), interviewed for the [[fostering-ai-ready
 
 This is a specific instance of the general pattern documented elsewhere in the wiki — [[ai-unplugged-murgatroyd]]'s "build, analyze, defend" scaffold and [[hardman-ai-faster-slower]]'s "enter high in the chain" principle both point to the same shift: as AI absorbs first-draft production tasks, the durable human skill becomes *evaluation* of AI output rather than *creation* of the artifact. The [[ai-occupational-exposure-index]] framework gives this shift an occupational-scale empirical basis — occupations with above-average AIOE scores are consistently the ones where technical production skills are most exposed, while critical evaluation and judgment remain the differentiating skill.
 
+## Independent Convergence: A Popular-Press Skills List Matches the Wiki's Framework Almost Exactly
+
+[[safest-college-degrees-forbes]] (August 2026) — a student/parent-facing career-advice piece, not an academic source — lists nine "skills that increase job safety": AI/data literacy, critical thinking, communication, emotional intelligence, adaptability, project/time management, deep domain expertise, collaboration, and ethical judgment. This maps almost one-to-one onto this page's existing framework and the [[ai-mastery-continuum]], and is worth noting specifically *because* it arrives at the same list independently, via BLS occupational projections and popular career-advice consensus rather than academic labor-economics or cognitive-science research. It also cites NACE's Job Outlook 2025 survey of 237 employers finding **nearly 90% name critical thinking as essential** while reporting graduates arrive underprepared in it — an employer-survey number that corroborates [[berwick-employers-ai-education-gap]]'s "prompt engineering is the floor" employer standard from an independent source.
+
 ## The CTE Challenge
 
 Most CTE programs over-focus on technical skill development because learners must pass industry exams and earn credentials. The integration of transferable skills into technical curricula is a persistent challenge — educators must navigate the tension between teaching immediate job-ready tasks and fostering broader adaptability. The [[applied-co-intelligence-model]] provides a framework for doing both simultaneously by embedding transferable skill development into AI-integrated capstone projects.
@@ -212,6 +216,7 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[fostering-ai-ready-caring-communities]]
 - [[brad-smith-ai-jobs-next-generation]]
 - [[berwick-employers-ai-education-gap]]
+- [[safest-college-degrees-forbes]]
 - [[spelhaug-microsoft-elevate]]
 - [[satisficing-and-tolerance-principle]]
 - [[human-brilliance-satisficing]]

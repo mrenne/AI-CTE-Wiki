@@ -807,3 +807,31 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Updated the source summary row and three Key Themes entries to reflect the revised 19% figure, the WFH-specification-reversal finding, and the LLM-measured codified/tacit asymmetry
 
 **Total pages created**: 0 | **Total pages updated**: 9
+
+---
+
+## 2026-08-23 — Ingestion (3 sources)
+
+**Sources ingested**:
+1. `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md` — CNBC (Jenny Lee, Aug 19, 2026) summarizing a Goldman Sachs research note: cross-country occupational employment analysis (US, Germany, Australia, Canada, France, UK) combined with 11 AI-adoption surveys.
+2. `raw/misc/The College Degrees Considered Safest From AI Disruption.md` — Forbes (Sarah Hernholm, Aug 17, 2026): 15 "AI-resistant" college majors, BLS-projection-sourced, plus a durable-skills framework.
+3. `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md` — Pew Research Center (Colleen McClain, Aug 18, 2026): multi-year (2021-2026) nationally representative survey on AI sentiment and job-loss belief, broken out by age.
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/goldman-sachs-ai-labor-squeeze.md` — Cross-country occupational evidence: call centers 27-39% below trend across US/Canada/Germany; entry-level workers bear a 2-6x AI-exposure hiring-growth drag versus the broader workforce; 15-20% AI adoption across developed economies. Framed as the wiki's first non-US, non-academic corroboration of its ADP/Anthropic labor-market evidence base.
+- `wiki/safest-college-degrees-forbes.md` — 15 "safe" majors (nursing, computer science, accounting, civil/mechanical/electrical engineering, physical therapy, cybersecurity, data science, K-12 education, finance, healthcare administration, HR management, construction management, social work) with BLS wage/growth data; recent-grad unemployment at 5.6% vs 4.2% overall (NY Fed, Q2 2026); nine-skill durable-skills framework converging with the wiki's existing transferable-skills page.
+- `wiki/pew-young-adults-ai-anxiety.md` — Multi-year AI sentiment trend: 52% of US adults more concerned than excited about AI (up from 37% in 2021); adults under 30 the only age group whose concern is still rising (31%→55%, 2021-2026); 71% now believe AI will reduce jobs (up from 64% in 2024), with under-30s converging with/exceeding older cohorts on this view.
+
+**Pages updated**:
+- `wiki/canaries-coal-mine-brynjolfsson.md` — Added "An Independent Cross-Country Corroboration" section citing the Goldman findings as directional confirmation of the automation mechanism outside the US; added source and Related pages link
+- `wiki/anthropic-labor-market-index.md` — Added Goldman cross-country entry-level multiplier as corroboration of the 14% hiring-rate finding; added source and Related pages link
+- `wiki/broken-ladder.md` — Added the Forbes 5.6%-vs-4.2% recent-grad unemployment statistic as a precise, federally sourced figure for the page's central empirical claim; added the Pew attitudinal-confirmation section adjacent to the existing Gallup/Lumina behavioral evidence; added all three sources and Related pages links; updated Last updated
+- `wiki/ai-economy-measurement-2026.md` — Added "A New Corroborating Signal from Outside the US Data Ecosystem" section noting Goldman's cross-country replication as evidence the directional finding isn't a single-country data artifact; added source and Related pages links; updated Last updated
+- `wiki/nyt-teens-trade-classes.md` — Added "Attitudinal Confirmation from a National Survey" section pairing this page's behavioral evidence with Pew's stated-attitude data; added source and Related pages links; updated Last updated
+- `wiki/transferable-skills.md` — Added "Independent Convergence" section noting the Forbes durable-skills list matches this page's framework almost exactly, plus the NACE 90%-critical-thinking employer-survey figure; added source and Related pages link; updated Last updated
+- `wiki/cte-and-ai.md` — Added "Three Independent August 2026 Corroborations" section synthesizing all three new sources against the page's existing CTE labor-market claims; added sources and Related pages links; updated Last updated
+- `wiki/index.md` — Added 3 new source summary rows; added 3 new Key Themes (international replication of the entry-level exposure penalty; the college wage-security-premium inversion now has a precise federal statistic; stated attitude now confirms revealed behavior on young-adult AI anxiety)
+
+**Total pages created**: 3 | **Total pages updated**: 7

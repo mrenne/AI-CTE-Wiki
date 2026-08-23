@@ -2,9 +2,9 @@
 
 **Summary**: A July 2026 New York Times piece by Ben Casselman surveying why economists cannot yet agree on AI's real effect on jobs, wages, or productivity — government statistics are outdated and underfunded, private data sources conflict with each other, and non-AI shocks (COVID, interest rates, immigration policy) make attribution nearly impossible.
 
-**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`
+**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-08-23
 
 ---
 
@@ -40,6 +40,10 @@ This piece functions as an epistemic caveat layered over the wiki's growing labo
 - [[bcg-ai-reshapes-jobs]] and [[ai-occupational-exposure-index]] — both use AI-exposure measures of the type the article says can flip sign depending on methodology
 - [[ai-economics-scan-2026]] — Bryan Alexander's scan reaches the same "still early days, signals contradictory" conclusion via a different route (news/signal aggregation rather than a measurement-methodology critique)
 
+## A New Corroborating Signal from Outside the US Data Ecosystem
+
+[[goldman-sachs-ai-labor-squeeze]] (Goldman Sachs, August 2026) is relevant to this page in a specific way: it is the first source in the wiki's evidence base to test the pattern documented in ADP/Anthropic US data ([[canaries-coal-mine-brynjolfsson]], [[anthropic-labor-market-index]]) against **entirely independent, cross-country data** (Goldman's own occupational analysis across the US, Germany, Australia, Canada, France, and the UK). The direction of the finding replicates — entry-level, automation-exposed occupations show hiring headwinds in every country studied — even though the measurement-methodology critique this page documents (exposure indices can flip sign depending on which measure is used) should, in principle, make such cross-country replication difficult if the underlying signal weren't real. This doesn't resolve the magnitude disputes this page documents, but it is evidence that the *directional* finding is not an artifact of any single country's data infrastructure or a single exposure-measurement choice.
+
 ## Implications for CTE
 
 1. **Occupational exposure indices (AIOE, Task Routinization) used throughout the wiki's CTE sources carry real methodological uncertainty.** The [[ai-occupational-exposure-index]] cluster-grouping rankings should be read as directional evidence, not precise forecasts — the underlying measurement technology is contested even among economists.
@@ -55,3 +59,5 @@ This piece functions as an epistemic caveat layered over the wiki's growing labo
 - [[ai-occupational-exposure-index]]
 - [[labor-market-polarization]]
 - [[ai-token-costs-throttling]]
+- [[goldman-sachs-ai-labor-squeeze]]
+- [[canaries-coal-mine-brynjolfsson]]
