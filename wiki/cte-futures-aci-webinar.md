@@ -2,9 +2,9 @@
 
 **Summary**: A February 2026 webinar from CTE Futures, ACTE, and Advance CTE presenting the Applied Co-Intelligence framework, with practitioner voices on implementation obstacles and key policy signals including the National Career Clusters Framework update.
 
-**Sources**: `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
+**Sources**: `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`
 
-**Last updated**: 2026-05-27
+**Last updated**: 2026-08-28
 
 ---
 
@@ -132,6 +132,10 @@ This webinar adds practitioner texture and policy specifics to the [[applied-co-
 | AI failure modes in occupational contexts | [[agentivism]], [[transferable-skills]] |
 | Incumbent worker demand signal | [[cte-and-ai]], [[labor-market-polarization]] |
 
+## Implementation Made Concrete (August 2026)
+
+[[aci-three-cte-programs]] documents the specific programs this webinar discussed only in general implementation-challenge terms: named colleges (Walters State, TCAP Upper Cumberland, Jackson State), named workforce partners, and directly-observed outcomes rather than proposed strategy. The CLNA-as-implementation-vehicle mechanism discussed here finds an informal echo in Jackson State's AI Summit — a different but structurally similar mechanism for sustaining continuous industry alignment around AI curriculum.
+
 ---
 
 ## Related pages
@@ -142,6 +146,7 @@ This webinar adds practitioner texture and policy specifics to the [[applied-co-
 - [[cte-and-ai]]
 - [[agentivism]]
 - [[transferable-skills]]
+- [[aci-three-cte-programs]]
 - [[responsive-by-design-career-clusters]]
 - [[labor-market-polarization]]
 - [[stanford-ai-index-education-2026]]

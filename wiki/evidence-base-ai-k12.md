@@ -200,6 +200,7 @@ This report is the most comprehensive causal evidence base for claims made acros
 - The general-purpose AI harm findings provide empirical grounding for [[agentivism]]'s propositions (P2, P3, P4)
 - The educator AI findings add a new dimension to [[ai-tutoring]] and [[khanmigo]]
 - The equity and widening-gap findings deepen [[cte-and-ai]]'s equity section
+- [[one-click-away-khanmigo-rct]] (August 2026) is the first source in the wiki's evidence base to test this report's tutoring-design conclusions in a two-year, 18-school public-school RCT rather than a shorter lab or single-semester study — reaching a consistent conclusion (engagement, not access or even design philosophy, is the binding constraint) at far larger scale
 
 ## Related pages
 
@@ -217,6 +218,7 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[illusion-of-understanding]]
 - [[middle-path-ai-literacy-nurenberg]]
 - [[building-ai-companions]]
+- [[one-click-away-khanmigo-rct]]
 - [[hardman-ai-faster-slower]]
 - [[hardman-cognitive-offloading-paradox]]
 - [[senate-hearing-ai-k12-education]]

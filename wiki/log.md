@@ -835,3 +835,30 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Added 3 new source summary rows; added 3 new Key Themes (international replication of the entry-level exposure penalty; the college wage-security-premium inversion now has a precise federal statistic; stated attitude now confirms revealed behavior on young-adult AI anxiety)
 
 **Total pages created**: 3 | **Total pages updated**: 7
+
+---
+
+## 2026-08-28 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/PDF/One Click Away.pdf` — Oreopoulos & Low (NBER Working Paper 35620, August 2026): the largest and longest randomized controlled trial of an AI tutor (Khanmigo) in public schools to date — two years, 18 Tennessee middle schools, 53 randomized clusters, message-level engagement data matched to exercise logs.
+2. `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md` — CTE Futures blog (Cameron Sublett, August 27, 2026): first real-world implementation case studies of the Applied Co-Intelligence model at three Tennessee institutions.
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/one-click-away-khanmigo-rct.md` — Full summary: Khanmigo's achievement effect (0.06-0.08 SD/year) statistically indistinguishable from Khan Academy without AI assistance; engagement (not access) is the binding constraint — median student engaged the tutor substantively in only ~1 of 7 messages; the rigorous causal confirmation of the wiki's existing "Khanmigo non-event" narrative; mechanism analysis tying the finding to [[agentivism]] and [[building-ai-companions]]; cost-effectiveness ($15/student/year) attributed to structured practice, not conversational AI
+- `wiki/aci-three-cte-programs.md` — Full summary: Walters State (agriculture, AI-literacy gains without sacrificing subject-matter learning), TCAP Upper Cumberland (welding, AI feedback triggering unplanned cross-departmental collaboration), Jackson State (three-pronged institution-wide rollout with a public AI Summit); flagged evidentiary caveat (no comparison-group designs, CTE Futures' own promotional content); drawn contrast against the Khanmigo RCT's engagement-optional design
+
+**Pages updated**:
+- `wiki/khanmigo.md` — Added "The Causal Confirmation: A Two-Year Randomized Trial" section; added source and Related pages link; updated Last updated
+- `wiki/sal-khan-khanmigo-limits.md` — Added "The Randomized-Trial Confirmation" section connecting DiCerbo's qualitative account to the RCT's quantified engagement data; added source and Related pages link; updated Last updated
+- `wiki/ai-tutoring.md` — Added "The Largest Field RCT of an AI Tutor: Engagement as the Binding Margin" section reframing the "does AI tutoring work" question as two separable claims; added source and Related pages link; updated Last updated
+- `wiki/agentivism.md` — Added paragraph citing the RCT as field-scale quantified confirmation of the epistemic-monitoring mechanism; added source and Related pages link; updated Last updated
+- `wiki/evidence-base-ai-k12.md` — Added cross-reference noting the RCT tests this report's tutoring-design conclusions at far larger scale; added Related pages link
+- `wiki/applied-co-intelligence-model.md` — Added "Three Real-World Implementation Case Studies" section plus the Khanmigo-RCT contrast; added both sources and Related pages links; updated Last updated
+- `wiki/cte-futures-aci-webinar.md` — Added "Implementation Made Concrete" section connecting the CLNA mechanism to Jackson State's AI Summit; added source and Related pages link; updated Last updated
+- `wiki/cte-and-ai.md` — Added "Real-World ACI Implementation, and a Contrasting AI-Tutoring RCT" section; added both sources and Related pages links; updated Last updated
+- `wiki/index.md` — Added 2 new source summary rows, 2 new concept-page rows; added 2 new Key Themes (the Khanmigo non-event's field-RCT causal confirmation; the engagement-optional vs. engagement-embedded AI design contrast)
+
+**Total pages created**: 2 | **Total pages updated**: 9

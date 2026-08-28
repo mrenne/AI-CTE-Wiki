@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 Chalkbeat article in which Sal Khan reflects on Khanmigo's disappointing real-world adoption and revises his expectations for AI's role in education.
 
-**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-04-27
+**Last updated**: 2026-08-28
 
 ---
 
@@ -47,6 +47,10 @@ Khan's 2023 TED Talk predicted AI would give "every student on the planet an art
 
 Khan Academy overhauled its product to embed Khanmigo directly within practice exercises rather than offering it as a standalone resource. The stated rationale: "students were not seeking out Khanmigo's help as much as we had hoped." A separate study found that when teachers used Khan Academy for academic practice, classes made slightly faster gains — though lower-performing students saw little improvement. This was before Khanmigo.
 
+## The Randomized-Trial Confirmation (August 2026)
+
+[[one-click-away-khanmigo-rct]] (Oreopoulos & Low, NBER) supplies the causal, large-scale evidence for the pattern this article reports anecdotally. Its two-year RCT across 18 Tennessee middle schools finds Khanmigo's achievement effect statistically indistinguishable from Khan Academy's effect without any AI tutor, and its message-level data show precisely the "students aren't great at asking questions well" pattern DiCerbo describes here: the median student sent Khanmigo no messages on two-thirds of practice days, and only about 1 in 7 messages actually sent contained a mathematical question or reasoning step. Khan's own back-of-classroom analogy in this article — "some will [seek help]; most won't" — is now a directly measured statistic rather than an intuition.
+
 ## Connections
 
 The limitations Khan describes map directly onto what [[agentivism]] identifies as the core problem of AI-era learning: AI-assisted performance (completing work with AI support) does not translate to durable capability if students are not actively engaged in epistemic monitoring and reconstructive internalization. The [[applied-co-intelligence-report]] explicitly cites DiCerbo and uses the same Khan Academy experience as motivation for the [[applied-co-intelligence-model]]'s integrated approach.
@@ -60,3 +64,4 @@ The limitations Khan describes map directly onto what [[agentivism]] identifies 
 - [[applied-co-intelligence-report]]
 - [[evidence-base-ai-k12]]
 - [[building-ai-companions]]
+- [[one-click-away-khanmigo-rct]]

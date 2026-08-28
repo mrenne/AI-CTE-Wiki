@@ -2,9 +2,9 @@
 
 **Summary**: Khan Academy's AI-powered tutoring chatbot, built on GPT-4, designed to guide students toward answers through Socratic dialogue — but which has struggled to achieve meaningful adoption among the students who need it most.
 
-**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Building AI Companions.pdf`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-05-24
+**Last updated**: 2026-08-28
 
 ---
 
@@ -39,6 +39,12 @@ Results on a closed-book exam: general-purpose AI students scored *worse* than t
 
 This validates Khanmigo's pedagogical design — refusing to give direct answers and guiding students toward reasoning — as the educationally correct approach. The problem with Khanmigo was not its philosophy but its adoption: students found the guided approach frustrating precisely *because* it required cognitive work. The fact that students prefer the AI experience that teaches them less is not a quirk of Khanmigo; it appears to be a general human tendency confirmed across multiple studies.
 
+## The Causal Confirmation: A Two-Year Randomized Trial (August 2026)
+
+[[one-click-away-khanmigo-rct]] (Oreopoulos & Low, NBER, August 2026) provides the rigorous, large-scale evidence behind everything above. Across 18 Tennessee middle schools and two full school years, Khanmigo raised math achievement by 0.06-0.08 SD per year — but this effect is **statistically indistinguishable from Khan Academy's effect without any AI tutor at all**. Message-level records matched to exercise logs, available for the first time in the wiki's evidence base, show exactly why: 96% of students tried Khanmigo at least once, but the median student sent it no messages on two-thirds of the days they practiced, engaged it in only 17% of sessions where they'd made a mistake, and when they did message it, only about 1 in 7 messages contained an actual mathematical question or reasoning step — the rest were bare answers, button-clicks, or low-effort replies.
+
+This is the precise, quantified version of the "non-event" this page has documented anecdotally: the paper's own conclusion — "the limited dialogue we document is thus less a defect of the AI tutor than a lack of interest in attention and learning" — is a direct, data-backed restatement of DiCerbo's "students aren't great at asking questions well." The achievement gains the program did produce are attributable to structured, individually-placed practice (the platform's non-AI implementation technology), not to conversational tutoring.
+
 ## Product Redesign (2026)
 
 Khan Academy overhauled its product to embed Khanmigo directly within practice exercises rather than offering it as a standalone tool. The rationale: "students were not seeking out Khanmigo's help as much as we had hoped." This shift — from passive resource to embedded scaffold — aligns with the [[applied-co-intelligence-model]]'s argument that AI must be integrated into structured tasks, not offered as an optional add-on.
@@ -72,3 +78,4 @@ This matches the ICAP cognitive engagement hierarchy (Interactive > Constructive
 - [[evidence-base-ai-k12]]
 - [[building-ai-companions]]
 - [[cognitive-debt]]
+- [[one-click-away-khanmigo-rct]]

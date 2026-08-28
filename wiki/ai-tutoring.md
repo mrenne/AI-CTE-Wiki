@@ -2,9 +2,9 @@
 
 **Summary**: The use of AI systems to provide personalized, interactive instruction to students — an approach that has shown limited real-world adoption despite technical promise, and which raises fundamental questions about whether AI-assisted interaction constitutes genuine learning.
 
-**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/Building AI Companions.pdf`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/Building AI Companions.pdf`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-05-24
+**Last updated**: 2026-08-28
 
 ---
 
@@ -67,6 +67,12 @@ The same paper proposes three necessary foundations for AI companions that teach
 ...may feel they understand material, or produce correct answers, without having developed durable capability. The AI does the cognitive work; the student receives the output.
 
 The Khanmigo failure — students not seeking out help — is actually the more optimistic failure mode. The more concerning failure mode is students who engage with AI tutoring but passively accept AI explanations, experiencing what Agentivism calls "metacognitive laziness": stronger surface performance with no corresponding knowledge gain.
+
+## The Largest Field RCT of an AI Tutor: Engagement as the Binding Margin
+
+[[one-click-away-khanmigo-rct]] (Oreopoulos & Low, NBER, August 2026) is the largest and longest randomized controlled trial of an AI tutor in a public school setting in the wiki's evidence base — two years, 18 middle schools, mandatory (not opt-in) delivery. It reaches a distinctive conclusion that neither the "AI tutoring works" nor the "AI tutoring fails" framing fully captures: the program produced real, cost-effective achievement gains (0.06-0.08 SD/year at ~$15/student/year), but those gains are statistically indistinguishable from what the same platform produces *without* AI assistance, because the AI tutor itself went largely unused. 96% of students tried it once; the median student engaged with it in only 14% of exercise sessions and sent genuinely mathematical messages (rather than bare answers or button-clicks) in only about 1 in 7 interactions.
+
+This reframes the wiki's ongoing "does AI tutoring work" question as a compound claim with two independently testable parts: whether AI-assisted practice environments produce learning (yes, robustly, across this study and the broader CAL literature it cites), and whether the *conversational AI tutor specifically* adds a detectable increment on top of structured, adaptive practice (not detected, in this deployment). The paper's interpretation places the binding constraint squarely on the student-engagement margin rather than model capability — directly consistent with [[agentivism]]'s claim that AI presence alone, without epistemic monitoring initiated by the learner, does not translate into stronger learning.
 
 ## The Crutch Effect: Causal Evidence
 
@@ -165,3 +171,4 @@ The difference between beneficial and harmful AI interaction in these contexts a
 - [[ai-agents-k12-meta-analysis]]
 - [[building-ai-companions]]
 - [[illusion-of-understanding]]
+- [[one-click-away-khanmigo-rct]]

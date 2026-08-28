@@ -2,9 +2,9 @@
 
 **Summary**: A pedagogical framework for CTE that integrates AI Mastery with Technical Skills and Transferable Skills within a specific occupational context — an extension of Ethan Mollick's co-intelligence concept designed for hands-on, applied learning environments.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-08-28
 
 ---
 
@@ -81,6 +81,12 @@ QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens t
 
 [[responsive-by-design-career-clusters]] (Advance CTE, August 2026) — a resource mapping AI use examples across all 16 Career Clusters, produced by the same CTE Futures team — cites the ACI model directly for its working definition of AI mastery: "a continuum of skills that begins with AI literacy, moving a learner from basic awareness to the ability to strategically select, critique, and adapt AI tools for their work." This confirms the ACI model has become the CTE Futures team's default framing device for AI mastery across its output, not just the original report and webinar. See [[career-clusters-financial-business-digital]] for the report's coverage of two clusters — Financial Services and Digital Technology — not previously covered anywhere in the wiki.
 
+## Three Real-World Implementation Case Studies (August 2026)
+
+[[aci-three-cte-programs]] (CTE Futures blog, August 2026) documents the model's first directly-observed classroom implementations: Walters State Community College (agriculture/soil science — AI literacy gains without sacrificing subject-matter learning), TCAP Upper Cumberland (AI-enabled welding feedback producing unplanned cross-departmental collaboration), and Jackson State Community College (a three-pronged, institution-wide rollout culminating in a public AI Summit). These are the first ACI case studies with concrete classroom outcomes rather than proposed frameworks or aspirational implementation plans — though none uses a comparison-group design, so they document *what happened*, not causally validated effectiveness.
+
+A notable contrast: [[one-click-away-khanmigo-rct]] (NBER, August 2026), a rigorously randomized two-year trial, found that a generic AI tutor deployed *outside* occupational context produced no detectable incremental learning effect because students rarely engaged it substantively. The ACI case studies, by contrast, embed AI engagement directly into assessed occupational tasks (a soil-science scenario question; an automatic weld-quality feedback system) rather than relying on student-initiated help-seeking — consistent with, though not a rigorous test of, this model's central design claim that occupational grounding is what makes AI mastery, technical skill, and transferable skill development mutually reinforcing rather than competing for classroom time.
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -94,3 +100,5 @@ QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens t
 - [[quanthub-data-scholars-2026-update]]
 - [[responsive-by-design-career-clusters]]
 - [[career-clusters-financial-business-digital]]
+- [[aci-three-cte-programs]]
+- [[one-click-away-khanmigo-rct]]
