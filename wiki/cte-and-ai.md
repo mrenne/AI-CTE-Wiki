@@ -8,6 +8,8 @@
 
 ---
 
+> **Synthesis page**: the entry-level hiring evidence referenced throughout this page is consolidated in [[entry-level-labor-market]].
+
 ## What is CTE?
 
 Career and Technical Education (CTE) prepares learners for high-skill, high-demand careers through applied learning, hands-on technical skills, and industry-aligned credentials. It spans middle school through community college and serves a wide range of occupational fields. The National Career Clusters Framework (updated by Advance CTE in fall 2024) organizes CTE into Career Clusters grouped into six modernized **Cluster Groupings**: Building & Moving, Cultivating Resources, Caring for Communities, Creating & Experiencing, Investing in the Future, and Connecting & Supporting Success (source: Responsive_By_Design_August_26_FINAL.pdf).
@@ -137,7 +139,7 @@ BCG Henderson Institute's six-segment analysis (April 2026) provides the stronge
 
 **The entry-level concentration finding** is the key risk to monitor: BCG's Divergent segment (12%) shows that within professional roles, AI automates junior tasks first while senior roles persist. The 14% young-worker hiring slowdown from [[anthropic-labor-market-index]] is the labor market consequence. CTE students entering knowledge-adjacent roles may find their entry-level starting points compressed precisely when they need them most. This makes the quality of CTE program-to-career transitions especially important to track.
 
-**A methodological caveat on the attribution**: Lambert & Schindler ([[broken-ladder]], May 2026) challenge whether this entry-level decline is primarily AI-driven. Using 243 million hires across four countries (2017–2025), they find that WFH exposure and GenAI exposure have a 0.77 Spearman rank correlation across occupations — and in joint-treatment specifications, the WFH coefficient is stable while the GenAI coefficient attenuates to near-zero. The decline in junior hiring may be primarily a consequence of remote work's organizational frictions (harder supervision, slower on-the-job learning) rather than task automation per se. Crucially for CTE: electricians and construction workers sit at the *bottom* of both WFH and GenAI exposure rankings — doubly insulated from both post-pandemic shocks. The CTE protected-sector thesis gains structural confirmation from an unexpected direction. (source: The Broken Ladder.pdf)
+**A methodological caveat on the attribution**: Lambert & Schindler ([[broken-ladder]], May 2026) challenge whether this entry-level decline is primarily AI-driven. Using 243 million hires across four countries (2017–2025), they find that WFH exposure and GenAI exposure have a 0.77 Spearman rank correlation across occupations — and in joint-treatment specifications, the WFH coefficient is stable while the GenAI coefficient attenuates to near-zero. The decline in junior hiring may be primarily a consequence of remote work's organizational frictions (harder supervision, slower on-the-job learning) rather than task automation per se. Crucially for CTE: electricians and construction workers sit at the *bottom* of both WFH and GenAI exposure rankings — doubly insulated from both post-pandemic shocks. The CTE protected-sector thesis gains structural confirmation from an unexpected direction. (source: The Broken Ladder.pdf) **Later update**: two subsequent replications of this joint-treatment specification — in ADP payroll data ([[canaries-coal-mine-brynjolfsson]], Aug 2026) and Census graduate records ([[graduating-into-disruption-census]], Sep 2026) — found the AI effect survives while the WFH effect does not, so the attribution caveat is now contested rather than settled (source: Canaries_August2026.pdf; Gradiating into Disruption.pdf).
 
 See [[ai-labor-disruption-segments]] for the full six-segment framework and [[bcg-ai-reshapes-jobs]] for the source summary.
 
@@ -303,3 +305,4 @@ Three implications for CTE:
 - [[fostering-ai-ready-creating-experiencing]]
 - [[graduating-into-disruption-census]]
 - [[no-country-young-grads-burning-glass]]
+- [[entry-level-labor-market]]

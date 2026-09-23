@@ -8,6 +8,8 @@
 
 ---
 
+> **Synthesis page**: this paper's place in the wider entry-level evidence base, including the replications that challenge it, is summarized in [[entry-level-labor-market]].
+
 ## The Central Claim
 
 A growing post-ChatGPT literature attributes the sharp decline in early-career hiring since 2022 to generative AI — arguing that GenAI substitutes for the cognitive and analytical tasks firms historically delegated to junior workers. Lambert & Schindler argue this verdict is premature.
@@ -202,3 +204,4 @@ This makes Census LEHD data the **second independent dataset**, after ADP, in wh
 - [[goldman-sachs-ai-labor-squeeze]]
 - [[graduating-into-disruption-census]]
 - [[no-country-young-grads-burning-glass]]
+- [[entry-level-labor-market]]

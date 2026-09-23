@@ -2,9 +2,9 @@
 
 **Summary**: Research Note #1 from Stanford Digital Economy Lab (Brynjolfsson et al., June 2026) — three components tracking AI's actual labor market and macroeconomic impact with live ADP data on 4.6 million workers across 730+ occupations. Key finding: automation-type AI usage predicts employment decline for early-career workers; augmentation-type usage does not.
 
-**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
+**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-09-23
 
 ---
 
@@ -78,7 +78,7 @@ Home health aides — a core CTE pipeline in the Healthcare & Human Services clu
 The Canaries Dashboard explicitly situates itself within the existing empirical debate:
 
 - **Brynjolfsson/Chandar/Chen**: the early-career employment decline in AI-exposed occupations (original finding)
-- **Lambert & Schindler ([[broken-ladder]], May 2026)**: WFH and GenAI exposure correlate at 0.77; in joint-treatment specifications, WFH is robust while GenAI attenuates to near-zero
+- **Lambert & Schindler ([[broken-ladder]], May 2026)**: WFH and GenAI exposure correlate at 0.77; in joint-treatment specifications, WFH is robust while GenAI attenuates to near-zero. *Later replications of that specification in ADP data ([[canaries-coal-mine-brynjolfsson]], Aug 2026) and Census data ([[graduating-into-disruption-census]], Sep 2026) reverse this result; the debate remains open.*
 - **Budget Lab at Yale**: no aggregate employment effect from AI
 - **Johnston & Makridis**: sector-level employment increases in some AI-adopting sectors
 
@@ -140,3 +140,5 @@ The capital share signal is consistent with the pattern that would precede a lab
 - [[brad-smith-ai-jobs-next-generation]]
 - [[transferable-skills]]
 - [[canaries-coal-mine-brynjolfsson]]
+- [[graduating-into-disruption-census]]
+- [[entry-level-labor-market]]

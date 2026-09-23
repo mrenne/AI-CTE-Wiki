@@ -98,3 +98,4 @@ BCG explicitly notes what this analysis does *not* do:
 - [[ai-job-apocalypse-klein]]
 - [[apocalypse-no-galloway]]
 - [[ai-economics-scan-2026]]
+- [[entry-level-labor-market]]

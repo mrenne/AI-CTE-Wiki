@@ -14,7 +14,7 @@ Forbes contributor piece by Sarah Hernholm (August 17, 2026), aimed at students 
 
 ## The headline statistic
 
-**Recent-graduate unemployment reached 5.6% in Q2 2026** (Federal Reserve Bank of New York), surpassing the overall workforce rate of 4.2% — a **reversal of the historical norm** in which a college degree reliably conferred more job security than the general labor market. This is a new, citable, precisely-dated figure for the wiki's broken-ladder evidence thread — more specific than the "8-11 percentage point decline in junior-hire share" language already in [[broken-ladder]], and a good complement to the "80% drop in entry-level hiring" and "9 million jobs displaced by 2030" figures the article also cites from Forbes' own reporting and the World Economic Forum's Future of Jobs Report 2025.
+**Recent-graduate unemployment reached 5.6% in Q2 2026** (Federal Reserve Bank of New York), above the overall workforce rate of 4.2%. **Caution on interpretation**: this compares young graduates with workers of *all* ages, and young workers always have higher unemployment than the workforce as a whole, so it does not by itself show that a degree has become a job-security liability. Age-matched data in [[no-country-young-grads-burning-glass]] show 20–24-year-old bachelor's holders still below high-school-only peers — the degree's unemployment advantage has **narrowed to its smallest margin in 30 years**, not reversed (source: No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf). This is a new, citable, precisely-dated figure for the wiki's broken-ladder evidence thread — more specific than the "8-11 percentage point decline in junior-hire share" language already in [[broken-ladder]], and a good complement to the "80% drop in entry-level hiring" and "9 million jobs displaced by 2030" figures the article also cites from Forbes' own reporting and the World Economic Forum's Future of Jobs Report 2025.
 
 ## What makes a degree "safe" — the article's framework
 
@@ -56,7 +56,7 @@ The article's nine "skills that increase job safety" — AI/data literacy, criti
 
 1. **This is the first source in the wiki to translate labor-market exposure findings directly into a student/parent-facing "major selection" framework** — a bridge between the wiki's academic evidence base ([[ai-occupational-exposure-index]], [[canaries-coal-mine-brynjolfsson]]) and the practical decision CTE counselors and career-pathway advisors actually need to support.
 2. **Six of the fifteen "safe" degrees are direct CTE-pipeline occupations** (nursing, civil/mechanical/electrical engineering, construction management, and — with a 2-year/technical-credential pathway rather than a 4-year degree in many states — cybersecurity), giving CTE program marketing a specific, externally validated (BLS-sourced) list to point to.
-3. **The reversal of the college-wage-premium norm (5.6% recent-grad unemployment vs. 4.2% overall) is a concrete new statistic for the CTE-vs-four-year-degree argument** already present in [[nyt-teens-trade-classes]] and [[broken-ladder]] — it corroborates the College ROI Collapse narrative documented in student interviews with a specific, dated federal statistic.
+3. **The erosion of the degree's job-security advantage (5.6% recent-grad unemployment vs. 4.2% overall; the age-matched gap at a 30-year low per [[no-country-young-grads-burning-glass]]) is a concrete statistic for the CTE-vs-four-year-degree argument** already present in [[nyt-teens-trade-classes]] and [[broken-ladder]] — it corroborates the College ROI Collapse narrative documented in student interviews with a specific, dated federal statistic.
 4. **The article's own caution — "no degree is completely safe... not even computer science" — is a useful counter to any CTE messaging that oversells trade/technical pathways as automation-proof.** The safest framing, consistent with the wiki's [[applied-co-intelligence-model]], is judgment/trust/hands-on-skill plus continuous AI-literacy upskilling, not any single credential.
 
 ## Corroboration and Context (September 2026)
@@ -78,3 +78,4 @@ Two sources put this article's recent-grad unemployment figure in context. [[no-
 - [[fostering-ai-ready-caring-communities]]
 - [[graduating-into-disruption-census]]
 - [[no-country-young-grads-burning-glass]]
+- [[entry-level-labor-market]]

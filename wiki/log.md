@@ -891,3 +891,22 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 **Contradiction flagged**: Burning Glass's "Graduate Glut" driver vs. Census finding that supply in the most-exposed majors was absorbed until ChatGPT (noted on both new pages and `labor-market-polarization.md`; not resolved).
 
 **Total pages created**: 2 | **Total pages updated**: 9
+
+---
+
+## 2026-09-23 — Lint and fixes; new synthesis page
+
+**Lint run** (75 pages): no broken links, no orphans, all pages indexed, filenames compliant. Findings reported to the user: 2 contradictions, 4 outdated claims, 3 missing concept pages, 13 pages lacking inline citations, 44 pages with a UTF-8 BOM (cosmetic).
+
+**Fixes applied (lint items 1–4)**:
+1. *Degree-advantage "inversion" claim corrected* — the 5.6% vs. 4.2% comparison mixes age groups; age-matched Burning Glass data show the degree's unemployment advantage narrowed to a 30-year low, not reversed. Updated `wiki/safest-college-degrees-forbes.md` (two places, added source), the `wiki/index.md` Key Theme, and `README.md`.
+2. *Broken Ladder summaries brought current* — added notes that the ADP (Aug 2026) and Census (Sep 2026) replications reversed Lambert & Schindler's result, in the `wiki/index.md` row, `wiki/cte-and-ai.md`, `wiki/stanford-del-ai-economic-indicators.md` (added sources), and `README.md`.
+3. *"Zero high-quality U.S. K-12 causal studies" qualified* as "at the time of review," noting that the Khanmigo RCT has since partly filled the gap, in the `wiki/index.md` row, `wiki/ai-tutoring.md`, and `wiki/ai-agents-k12-meta-analysis.md`.
+4. *Senate hearing testimony* — added a dated "Later update" note and a comparison-table qualifier in `wiki/senate-hearing-ai-k12-education.md` (testimony concerned long-term effects, so it is partly, not fully, superseded).
+
+**Pages created**:
+- `wiki/entry-level-labor-market.md` — Synthesis page (lint item 7): evidence table across nine sources, what is settled, what is contested (AI vs. WFH, magnitude, Graduate Glut contradiction, "inversion," persistence), five mechanisms, behavioral responses, CTE implications
+
+**Pages updated for the synthesis page**: synthesis pointers added at the top of `labor-market-polarization`, `cte-and-ai`, `broken-ladder`; Related-pages links added to those plus `canaries-coal-mine-brynjolfsson`, `graduating-into-disruption-census`, `no-country-young-grads-burning-glass`, `anthropic-labor-market-index`, `stanford-del-ai-economic-indicators`, `goldman-sachs-ai-labor-squeeze`, `bcg-ai-reshapes-jobs`, `safest-college-degrees-forbes`; `wiki/index.md` row added under Labor Market Analysis.
+
+**Total pages created**: 1 | **Total pages updated**: 17

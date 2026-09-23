@@ -47,3 +47,4 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 - [[cte-and-ai]]
 - [[bcg-ai-reshapes-jobs]]
 - [[graduating-into-disruption-census]]
+- [[entry-level-labor-market]]

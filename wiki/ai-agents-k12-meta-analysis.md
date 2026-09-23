@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 meta-analysis (Liu et al.) synthesizing 34 experimental studies and 73 effect sizes on AI agent effectiveness in K-12 cognitive learning — finding a significant moderate overall effect (g = 0.404), but with effectiveness that varies sharply by grade level (upper-primary strongest; high school near-zero) and subject (language/literacy strong; natural science negative).
 
-**Sources**: `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`
+**Sources**: `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-05-12
+**Last updated**: 2026-09-23
 
 ---
 
@@ -18,7 +18,7 @@
 
 **AI types coded**: Intelligent Tutoring Systems (ITS), AI Educational Robots, Generative AI Agents, Conversational AI Agents.
 
-This study complements the [[evidence-base-ai-k12]] report (Stanford SCALE, 2026), which found zero high-quality U.S. K–12 causal studies. The Liu et al. meta-analysis provides the broadest available quantitative synthesis — but with a very different profile: predominantly Asian contexts, quasi-experimental designs, and structured AI interventions rather than general-purpose chatbots.
+This study complements the [[evidence-base-ai-k12]] report (Stanford SCALE, 2026), which found zero high-quality U.S. K–12 causal studies at the time of its review (a gap since partly filled by [[one-click-away-khanmigo-rct]], a two-year RCT in Tennessee middle schools — source: One Click Away.pdf). The Liu et al. meta-analysis provides the broadest available quantitative synthesis — but with a very different profile: predominantly Asian contexts, quasi-experimental designs, and structured AI interventions rather than general-purpose chatbots.
 
 ---
 
@@ -189,3 +189,4 @@ The grade-level finding adds an important new dimension: the benefit of any AI e
 - [[cte-and-ai]]
 - [[cognitive-debt]]
 - [[khanmigo]]
+- [[one-click-away-khanmigo-rct]]

@@ -8,6 +8,8 @@
 
 ---
 
+> **Synthesis page**: for a single consolidated view of the early-career evidence (eight sources, the AI-vs-WFH debate, magnitudes, mechanisms, and CTE implications), see [[entry-level-labor-market]].
+
 ## Overview
 
 Labor market polarization refers to the "hollowing out" of middle-skill employment — jobs requiring education beyond high school but not a four-year degree — as technology automates the routine tasks that form the core of those occupations. The phenomenon is well-documented across decades of US labor market data and is directly relevant to [[cte-and-ai]] because CTE primarily prepares middle-skill workers.
@@ -268,3 +270,4 @@ For polarization, the Census finding is notable: AI pressure on *high*-skill ent
 - [[fostering-ai-ready-creating-experiencing]]
 - [[graduating-into-disruption-census]]
 - [[no-country-young-grads-burning-glass]]
+- [[entry-level-labor-market]]

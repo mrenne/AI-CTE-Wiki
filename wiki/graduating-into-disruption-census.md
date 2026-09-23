@@ -144,3 +144,4 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 - [[agentivism]]
 - [[building-ai-companions]]
 - [[ai-occupational-exposure-index]]
+- [[entry-level-labor-market]]

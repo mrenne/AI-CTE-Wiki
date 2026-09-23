@@ -2,9 +2,9 @@
 
 **Summary**: A June 16, 2026 hearing of the Senate Health, Education, Labor and Pensions subcommittee (chaired by Sen. Tommy Tuberville, ranking member Sen. Lisa Blunt Rochester) examining AI's impact on K-12 education. Witnesses Joshua Jones (CEO, QuantHub), Erin Mote (CEO, InnovateEDU / Ed Safe AI Alliance), and Cindy Marten (Delaware Secretary of Education, former US Deputy Secretary of Education) testified on cognitive-surrender risk, the absence of long-term causal research, and concrete state-level policy frameworks (Delaware's AI Assurance Lab, Alabama's Data Scholars program).
 
-**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md` (C-SPAN, event date June 16, 2026; auto-generated closed-captioning transcript)
+**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md` (C-SPAN, event date June 16, 2026; auto-generated closed-captioning transcript), `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-09-23
 
 ---
 
@@ -23,6 +23,8 @@ This transcript was compiled from uncorrected closed captioning and contains rea
 ### No Causal Evidence on Long-Term Effects
 
 Erin Mote, under direct questioning from Sen. Tuberville: "there is currently no high-quality causal studies on the long-term effects of A.I. on student learning, equity, or social emotional development... What we have is a number of studies that are short-term and tool based." This independently corroborates [[evidence-base-ai-k12]]'s Stanford SCALE finding (818 papers reviewed, only 20 causal, zero high-quality US K-12 student studies) — via congressional testimony rather than academic synthesis, adding a second, differently-sourced confirmation of the same evidence gap. (source: Senate Hearing on Artificial Intelligence and K-12 Education.md)
+
+**Later update (August 2026)**: Two months after this testimony, [[one-click-away-khanmigo-rct]] reported a two-year, 18-school randomized trial of an AI tutor in Tennessee public middle schools — a high-quality causal U.S. K-12 study of student learning. It does not fully contradict Mote's statement, which concerned *long-term* effects and also equity and social-emotional development; two years is still short-term by that standard. But the claim that no high-quality causal U.S. K-12 evidence exists at all is no longer accurate (source: One Click Away.pdf).
 
 ### Cognitive Surrender
 
@@ -80,7 +82,7 @@ Florida was cited as a leading state example on the legislative response side, h
 
 | Hearing finding | Connects to |
 |---|---|
-| No causal long-term studies exist | [[evidence-base-ai-k12]] (independent congressional-testimony corroboration) |
+| No causal long-term studies exist | [[evidence-base-ai-k12]] (independent congressional-testimony corroboration); partly superseded by [[one-click-away-khanmigo-rct]] (Aug 2026, two-year RCT) |
 | "Cognitive surrender" terminology | [[middle-path-ai-literacy-nurenberg]] (same term, now in federal policy discourse), [[ai-sycophancy]] |
 | 80% error-acceptance rate under AI sycophancy | [[ai-sycophancy]], [[illusion-of-understanding]] (71.4% of low-quality answers rated "useful" — a structurally similar finding) |
 | PowerSchool breach; district cybersecurity incidents | [[ai-privacy-and-institutional-adoption]] |
@@ -109,3 +111,4 @@ Florida was cited as a leading state example on the legislative response side, h
 - [[transferable-skills]]
 - [[ai-education-policy-and-legislation]]
 - [[quanthub-data-scholars-2026-update]]
+- [[one-click-away-khanmigo-rct]]

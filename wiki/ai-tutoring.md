@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/Building AI Companions.pdf`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-09-23
 
 ---
 
@@ -22,7 +22,7 @@ The theoretical case for AI tutoring is strong:
 
 ## The Reality: Evidence is Limited
 
-The [[evidence-base-ai-k12]] report (Stanford SCALE, 2026) reviewed 818 papers and found only 20 with strong causal evidence — and zero high-quality causal studies of student learning in U.S. K–12 settings (source: The Evidence Base on AI in K-12 Report.pdf). The most prominent real-world deployment, [[khanmigo]], has largely underperformed:
+The [[evidence-base-ai-k12]] report (Stanford SCALE, 2026) reviewed 818 papers and found only 20 with strong causal evidence — and zero high-quality causal studies of student learning in U.S. K–12 settings at the time of review (source: The Evidence Base on AI in K-12 Report.pdf). That gap has since been partly filled by [[one-click-away-khanmigo-rct]], a two-year randomized trial in 18 Tennessee middle schools (source: One Click Away.pdf). The most prominent real-world deployment, [[khanmigo]], has largely underperformed:
 
 - Most students don't proactively seek out AI tutoring when given the option
 - Students struggle to formulate useful questions

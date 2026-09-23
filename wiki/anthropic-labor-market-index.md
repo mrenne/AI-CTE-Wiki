@@ -142,3 +142,4 @@ This finding also provides a partial response to the [[broken-ladder]] WFH confo
 - [[stanford-del-ai-economic-indicators]]
 - [[canaries-coal-mine-brynjolfsson]]
 - [[goldman-sachs-ai-labor-squeeze]]
+- [[entry-level-labor-market]]

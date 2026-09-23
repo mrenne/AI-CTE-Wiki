@@ -123,3 +123,4 @@ It also extends this paper's findings in one important way. Fact 6 here says adj
 - [[fostering-ai-ready-caring-communities]]
 - [[goldman-sachs-ai-labor-squeeze]]
 - [[graduating-into-disruption-census]]
+- [[entry-level-labor-market]]
