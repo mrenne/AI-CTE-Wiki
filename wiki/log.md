@@ -910,3 +910,17 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 **Pages updated for the synthesis page**: synthesis pointers added at the top of `labor-market-polarization`, `cte-and-ai`, `broken-ladder`; Related-pages links added to those plus `canaries-coal-mine-brynjolfsson`, `graduating-into-disruption-census`, `no-country-young-grads-burning-glass`, `anthropic-labor-market-index`, `stanford-del-ai-economic-indicators`, `goldman-sachs-ai-labor-squeeze`, `bcg-ai-reshapes-jobs`, `safest-college-degrees-forbes`; `wiki/index.md` row added under Labor Market Analysis.
 
 **Total pages created**: 1 | **Total pages updated**: 17
+
+---
+
+## 2026-09-23 — Lint fix: inline citations (lint item 10)
+
+Added inline `(source: filename)` citations to the 13 pages that relied only on their Sources header: `aci-three-cte-programs`, `one-click-away-khanmigo-rct`, `sal-khan-khanmigo-limits`, `your-brain-on-chatgpt`, `apocalypse-no-galloway`, `pew-young-adults-ai-anxiety`, `ai-economics-scan-2026`, `ai-agents-k12-meta-analysis`, `career-clusters-financial-business-digital`, `cte-futures-aci-webinar`, `fostering-ai-ready-caring-communities`, `fostering-ai-ready-creating-experiencing`, `responsive-by-design-career-clusters`.
+
+**Method**: each paragraph, list, table, and quote was reviewed and attributed to the raw file it draws from (224 citations in total). Claims drawn from a *different* source than the page's own were cited to that source (e.g., Anthropic's 14% figure on the Galloway page; the Stanford SCALE finding on the meta-analysis page). The wiki's own synthesis and commentary paragraphs were deliberately left uncited, since they are interpretation rather than sourced claims. A run of adjacent list items from one source carries a single citation on its last item. Wording was not changed. All 18 cited filenames were verified to exist in `raw/`.
+
+**Headers**: where a page now cites a source not listed in its **Sources** line, that source was added (13 pages); Last updated set to 2026-09-23.
+
+**Lint result after fix**: 0 pages without inline citations; no broken links; no orphans.
+
+**Total pages created**: 0 | **Total pages updated**: 13
