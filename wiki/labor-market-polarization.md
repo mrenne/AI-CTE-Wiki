@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-09-23
 
 ---
 
@@ -226,6 +226,18 @@ CTE is specifically designed to serve the workers most vulnerable to polarizatio
 
 The [[applied-co-intelligence-model]] argues that the antidote to polarization is not simply adding AI skills to CTE curricula but integrating them with the transferable skills — critical thinking, ethical reasoning, communication, collaboration — that allow workers to adapt as their technical tasks evolve.
 
+## Entry-Level Disruption at the Point of Graduation (2025–2026)
+
+Two new sources bracket the entry-level story.
+
+**The early framing (July 2025).** [[no-country-young-grads-burning-glass]] documented the paradox of a thriving white-collar economy that no longer needed new graduates: unemployment for 20–24-year-old bachelor's holders rose from 5.2% to 6.2%, the degree/no-degree unemployment gap hit a 30-year low, and 52% of the Class of 2023 were underemployed a year out. Its "Expertise Upheaval" framework distinguishes **Growth Roles**, where AI erodes the junior rung and creates a "Flipped Pyramid," from **Mastery Roles**, where AI may open entry to less-experienced workers (source: No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf).
+
+**The causal test (September 2026).** [[graduating-into-disruption-census]] finds that graduates in the most AI-exposed decile of majors lost 5 points of initial employment and about 13% of initial earnings after ChatGPT — comparable to graduating into a recession — with half the earnings loss coming from displacement into retail and food service. Majors in deciles 7–9 largely recover within two years; the top decile does not (source: Gradiating into Disruption.pdf).
+
+**⚠ Contradiction**: Burning Glass treats a growing "Graduate Glut" as a structural driver; the Census paper finds graduate supply in the most-exposed majors was fully absorbed until ChatGPT and does not explain the break. The sources differ in scope (all young grads vs. the most-exposed decile), so this is flagged rather than resolved.
+
+For polarization, the Census finding is notable: AI pressure on *high*-skill entry pushes graduates *down* the wage distribution into low-wage service work — a different direction from the classic middle-hollowing pattern, and a new source of competition at the bottom tier.
+
 ## Related pages
 
 - [[cte-and-ai]]
@@ -254,3 +266,5 @@ The [[applied-co-intelligence-model]] argues that the antidote to polarization i
 - [[fostering-ai-ready-cultivating-resources]]
 - [[fostering-ai-ready-caring-communities]]
 - [[fostering-ai-ready-creating-experiencing]]
+- [[graduating-into-disruption-census]]
+- [[no-country-young-grads-burning-glass]]

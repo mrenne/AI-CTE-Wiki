@@ -2,9 +2,9 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
+**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-09-23
 
 ---
 
@@ -169,6 +169,10 @@ The Kosmyna study that grounds this concept is a preprint with a small sample (5
 
 The concept is theoretically well-grounded but empirically nascent.
 
+## A Labor-Market Consequence: Eroding Educational Signals (September 2026)
+
+[[graduating-into-disruption-census]] proposes a mechanism linking this page's concern to hiring. If AI raises measured performance (grades, assignments, work samples) without building the underlying skill, those signals become less informative to employers — and new graduates, who have little else to show, bear the cost. The authors cite studies finding AI availability raises grades most in homework-heavy, AI-exposed courses, and secondary-school evidence that unrestricted AI raises assignment performance while lowering later learning (source: Gradiating into Disruption.pdf). This is the first labor-economics source in the wiki to connect the learning-performance gap to labor-market outcomes. The authors present it as a plausible channel, not an established one.
+
 ## Related pages
 
 - [[your-brain-on-chatgpt]]
@@ -187,3 +191,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[ai-unplugged-murgatroyd]]
 - [[hardman-cognitive-offloading-paradox]]
 - [[spelhaug-microsoft-elevate]]
+- [[graduating-into-disruption-census]]

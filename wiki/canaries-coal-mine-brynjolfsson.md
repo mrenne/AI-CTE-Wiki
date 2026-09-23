@@ -2,9 +2,9 @@
 
 **Summary**: A Stanford/NBER working paper by Erik Brynjolfsson, Bharat Chandar, and Ruyu Chen using high-frequency ADP payroll data (now through June 2026) to document six facts about AI's labor-market effects: early-career workers (22–25) in AI-exposed occupations now stand 19% below where they'd be had they kept pace with less-exposed peers — a gap that has widened every month since first documented in August 2025 — concentrated in occupations where AI automates rather than augments work, and robust across most (not all) alternative explanations including work-from-home amenability.
 
-**Sources**: `raw/PDF/Canaries_August2026.pdf` (Brynjolfsson, Chandar & Chen, Stanford Digital Economy Lab / NBER, August 2026 — updates and extends the August 2025 original with data through June 2026); `raw/PDF/CanariesintheCoalMine_Nov25.pdf` (November 2025 version, superseded by this update but retained as a prior data vintage)
+**Sources**: `raw/PDF/Canaries_August2026.pdf` (Brynjolfsson, Chandar & Chen, Stanford Digital Economy Lab / NBER, August 2026 — updates and extends the August 2025 original with data through June 2026); `raw/PDF/CanariesintheCoalMine_Nov25.pdf` (November 2025 version, superseded by this update but retained as a prior data vintage), `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-09-23
 
 ---
 
@@ -103,6 +103,12 @@ New in this vintage is a dedicated section comparing the ADP findings to the CPS
 3. **The codified/tacit mechanism now has direct, LLM-measured support from job descriptions rather than an occupational proxy** — strengthening (not just repeating) the wiki's existing defense of CTE's apprenticeship and hands-on-training model, with the added nuance that the *tacit* side of the mechanism is the more robust one (survives education controls), while the codified-knowledge penalty is entangled with education itself.
 4. **A caution on how far to generalize the headline number**: the paper's own external-validity section shows the ADP-observed magnitude is larger than what shows up in the ACS, even though the direction agrees. CTE program planning should treat 19% as an upper-bound, ADP-sample-specific estimate rather than a national-economy figure.
 
+## Independent Confirmation in Census Graduate Data (September 2026)
+
+[[graduating-into-disruption-census]] reaches a directionally consistent result using entirely different data (Census PSEO/LEHD administrative records on 6.7M bachelor's graduates) and a different exposure assignment (by college major, fixed before graduation). Graduates in the most AI-exposed decile of majors saw a 5-point drop in initial employment and a 13% drop in initial earnings after ChatGPT, and the result survives the Lambert & Schindler WFH specification — the same outcome this paper's August 2026 replication found in ADP data (source: Gradiating into Disruption.pdf).
+
+It also extends this paper's findings in one important way. Fact 6 here says adjustment happens through employment, not base pay. The Census paper, which can follow graduates *across* employers and sectors, finds a large earnings effect — about half of it from graduates sorting into lower-paying sectors like retail and food service. The two are compatible: within-job pay is sticky, but the *jobs* new entrants land in are worse (source: Gradiating into Disruption.pdf).
+
 ## Related pages
 
 - [[stanford-del-ai-economic-indicators]]
@@ -116,3 +122,4 @@ New in this vintage is a dedicated section comparing the ADP findings to the CPS
 - [[ai-economy-measurement-2026]]
 - [[fostering-ai-ready-caring-communities]]
 - [[goldman-sachs-ai-labor-squeeze]]
+- [[graduating-into-disruption-census]]

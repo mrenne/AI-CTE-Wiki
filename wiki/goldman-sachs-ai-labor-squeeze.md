@@ -2,9 +2,9 @@
 
 **Summary**: A CNBC report (August 2026) on a Goldman Sachs research note finding AI-related hiring headwinds across developed economies — call-center employment down 27-39% below trend across the US, Canada, and Germany, entry-level workers bearing 2-6x the drag on hiring growth that the broader workforce experiences — the wiki's first cross-country, investment-bank-sourced corroboration of its US-only ADP/Anthropic labor-market findings.
 
-**Sources**: `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`
+**Sources**: `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-09-23
 
 ---
 
@@ -32,6 +32,10 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 2. **Call centers are the most extreme case documented anywhere in the wiki** — a 27-39% below-trend decline is a larger effect than any single-occupation figure previously in the evidence base, and gives CTE programs a concrete example of what "automation-type AI usage" (the [[canaries-coal-mine-brynjolfsson]] mechanism) looks like in realized employment data.
 3. **15-20% AI adoption in developed economies means the labor-market effects documented so far are early-stage, not mature.** This reinforces the wiki's recurring caution (see [[ai-economy-measurement-2026]]) against reading current employment data as a ceiling on AI's eventual labor-market impact.
 
+## A Domestic Causal Complement (September 2026)
+
+[[graduating-into-disruption-census]] provides U.S. administrative-data evidence consistent with Goldman's entry-level multiplier: effects on new graduates are concentrated at the top of the exposure distribution and operate mostly at labor-market entry — through delayed employment and sorting into lower-paying sectors — rather than through layoffs of incumbents (source: Gradiating into Disruption.pdf).
+
 ## Related pages
 
 - [[canaries-coal-mine-brynjolfsson]]
@@ -42,3 +46,4 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 - [[labor-market-polarization]]
 - [[cte-and-ai]]
 - [[bcg-ai-reshapes-jobs]]
+- [[graduating-into-disruption-census]]

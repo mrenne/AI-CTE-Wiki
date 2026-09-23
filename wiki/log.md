@@ -862,3 +862,32 @@ A fourth candidate file, `raw/misc/Dept of Labor AI Literacy Framework.md`, was 
 - `wiki/index.md` — Added 2 new source summary rows, 2 new concept-page rows; added 2 new Key Themes (the Khanmigo non-event's field-RCT causal confirmation; the engagement-optional vs. engagement-embedded AI design contrast)
 
 **Total pages created**: 2 | **Total pages updated**: 9
+
+---
+
+## 2026-09-23 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/PDF/Gradiating into Disruption.pdf` — Orr, Tucker & Warren (U.S. Census Bureau, CES Working Paper 26-56, September 2026): event-study DiD on 6.7M bachelor's graduates (PSEO linked to LEHD) with AI exposure assigned by college major; most-exposed decile lost 5pp initial employment and ~13% initial earnings post-ChatGPT; half the earnings loss via sectoral downgrading into retail/food service; robust to WFH and graduate-supply explanations
+2. `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf` — Levanon, Sigelman et al. (Burning Glass Institute, July 2025): descriptive report on deteriorating young-graduate outcomes; "Expertise Upheaval" framework (Growth vs. Mastery Roles, "Flipped Pyramid"); four interlocking forces (AI, lean staffing, risk aversion, Graduate Glut)
+
+**Pages created**:
+
+*Source summaries*:
+- `wiki/graduating-into-disruption-census.md` — Full summary: data/design, six main findings with horizon table, alternative explanations tested (WFH, oversupply, self-employment/grad school, monetary policy), literature reconciliation, three mechanisms including grade-signal erosion, limitations, CTE implications
+- `wiki/no-country-young-grads-burning-glass.md` — Full summary: core paradox and headline statistics, four interlocking forces, explicit contradiction section (Graduate Glut vs. Census supply analysis; attribution debate), CTE implications
+
+**Pages updated**:
+- `wiki/broken-ladder.md` — Added "A Third Test, in Census Administrative Data" section: second independent dataset where the AI effect survives the L&S WFH specification
+- `wiki/canaries-coal-mine-brynjolfsson.md` — Added "Independent Confirmation in Census Graduate Data" section; reconciles Fact 6 (no base-pay effect) with Census earnings effect via sectoral sorting
+- `wiki/labor-market-polarization.md` — Added "Entry-Level Disruption at the Point of Graduation" section with flagged Graduate Glut contradiction
+- `wiki/cte-and-ai.md` — Added "The Bachelor's Pipeline Under Strain" section with three CTE implications
+- `wiki/columbia-cs-ai-disruption.md` — Added causal labor-market evidence for CS majors
+- `wiki/safest-college-degrees-forbes.md` — Added corroboration/context section (concentration-of-exposure refinement)
+- `wiki/cognitive-debt.md` — Added grade-signal erosion as a labor-market consequence
+- `wiki/goldman-sachs-ai-labor-squeeze.md` — Added domestic causal complement section
+- `wiki/index.md` — Added 2 source summary rows, 2 Labor Market Analysis rows, 2 Key Themes
+
+**Contradiction flagged**: Burning Glass's "Graduate Glut" driver vs. Census finding that supply in the most-exposed majors was absorbed until ChatGPT (noted on both new pages and `labor-market-polarization.md`; not resolved).
+
+**Total pages created**: 2 | **Total pages updated**: 9

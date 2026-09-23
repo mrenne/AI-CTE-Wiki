@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-09-23
 
 ---
 
@@ -176,6 +176,12 @@ The result reverses the pattern this page reports above. In the ADP replication,
 
 This is a materially different kind of evidence than the non-teleworkable check: it is not a new robustness test on a related question, but the **identical specification run on a different dataset**, producing the **opposite conclusion**. The Canaries authors' own interpretation is that the reversal traces to differences between the underlying data sources — ADP's administrative payroll records versus Revelio's résumé/professional-social-media-derived seniority classifications — rather than a flaw in either paper's methodology. This does not settle the debate in either direction; if anything, it demonstrates the debate is more fundamental than a specification disagreement, since holding the specification fixed and only changing the data source flips the result. Per the wiki's contradiction-noting rule, this is recorded as an open methodological puzzle, not resolved here.
 
+## A Third Test, in Census Administrative Data (September 2026)
+
+[[graduating-into-disruption-census]] (Orr, Tucker & Warren, U.S. Census Bureau) assigns AI exposure by **college major** rather than by occupation, and tests this page's WFH explanation in two ways: a continuous major-by-year WFH control, and a replication of the Lambert & Schindler joint-treatment specification. WFH and AI exposure correlate even more tightly at the major level (0.88) than at the occupation level (0.77). Even so, post-ChatGPT employment coefficients are "nearly identical" to baseline, and the earnings gap relative to the long-run average survives (source: Gradiating into Disruption.pdf).
+
+This makes Census LEHD data the **second independent dataset**, after ADP, in which the AI effect survives the WFH critique. The authors are careful to say collinearity limits how cleanly the two shocks can be separated, so this sharpens rather than closes the debate. The earlier [[no-country-young-grads-burning-glass]] report (July 2025) had already proposed pandemic-era lean staffing and employer risk aversion as co-drivers alongside AI — a "multiplicative" framing compatible with both sides of this debate (source: No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf).
+
 ## Related pages
 
 - [[anthropic-labor-market-index]]
@@ -194,3 +200,5 @@ This is a materially different kind of evidence than the non-teleworkable check:
 - [[safest-college-degrees-forbes]]
 - [[pew-young-adults-ai-anxiety]]
 - [[goldman-sachs-ai-labor-squeeze]]
+- [[graduating-into-disruption-census]]
+- [[no-country-young-grads-burning-glass]]

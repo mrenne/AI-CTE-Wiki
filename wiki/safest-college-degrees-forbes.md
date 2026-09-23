@@ -2,9 +2,9 @@
 
 **Summary**: A Forbes contributor piece (August 2026) naming 15 college majors considered relatively AI-resistant — nursing, computer science, accounting, civil/mechanical/electrical engineering, physical therapy, cybersecurity, data science, K-12 education, finance, healthcare administration, HR management, construction management, and social work — built on BLS growth projections and an "AI-Resistant Careers Index," alongside a durable-skills list nearly identical to the wiki's existing transferable-skills framework.
 
-**Sources**: `raw/misc/The College Degrees Considered Safest From AI Disruption.md`
+**Sources**: `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-09-23
 
 ---
 
@@ -59,6 +59,10 @@ The article's nine "skills that increase job safety" — AI/data literacy, criti
 3. **The reversal of the college-wage-premium norm (5.6% recent-grad unemployment vs. 4.2% overall) is a concrete new statistic for the CTE-vs-four-year-degree argument** already present in [[nyt-teens-trade-classes]] and [[broken-ladder]] — it corroborates the College ROI Collapse narrative documented in student interviews with a specific, dated federal statistic.
 4. **The article's own caution — "no degree is completely safe... not even computer science" — is a useful counter to any CTE messaging that oversells trade/technical pathways as automation-proof.** The safest framing, consistent with the wiki's [[applied-co-intelligence-model]], is judgment/trust/hands-on-skill plus continuous AI-literacy upskilling, not any single credential.
 
+## Corroboration and Context (September 2026)
+
+Two sources put this article's recent-grad unemployment figure in context. [[no-country-young-grads-burning-glass]] (July 2025) had earlier documented young-graduate unemployment rising to 6.2% and 52% underemployment one year after graduation (source: No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf). [[graduating-into-disruption-census]] (September 2026) shows the damage is concentrated by major: the most AI-exposed decile lost about 13% of initial earnings, while majors in the least-exposed decile saw above-average earnings growth (source: Gradiating into Disruption.pdf). The Census paper also adds a refinement relevant to "safe degree" lists: what predicts harm is the **share of a major's jobs in the most-exposed occupations**, not its average exposure.
+
 ## Related pages
 
 - [[transferable-skills]]
@@ -72,3 +76,5 @@ The article's nine "skills that increase job safety" — AI/data literacy, criti
 - [[bcg-ai-reshapes-jobs]]
 - [[fostering-ai-ready-building-moving]]
 - [[fostering-ai-ready-caring-communities]]
+- [[graduating-into-disruption-census]]
+- [[no-country-young-grads-burning-glass]]
