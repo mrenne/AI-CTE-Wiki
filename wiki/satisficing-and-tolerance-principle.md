@@ -2,7 +2,7 @@
 
 **Summary**: A concept page defining two related cognitive-science ideas — Herbert Simon's "satisficing" (reaching a good-enough conclusion from minimal data rather than exhaustively optimizing) and the Tolerance Principle (a mathematical threshold explaining how humans make that intuitive leap, in both language and social-convention learning) — that together offer a mechanism-level account of how human judgment differs structurally from LLM prediction.
 
-**Sources**: `raw/blog/The secret to human 'brilliance' that AI just can't match.md`
+**Sources**: `raw/blog/The secret to human ‘brilliance’ that AI just can’t match.md`
 
 **Last updated**: 2026-07-07
 
@@ -12,13 +12,13 @@
 
 Coined by Nobel laureate economist Herbert Simon, satisficing describes how people actually make decisions in the real world: gathering information only up to the point where an intuitive, confident-enough conclusion becomes possible, rather than exhaustively collecting and optimizing over all available data. Simon developed the concept as a description of bounded rationality — decision-making under real constraints of time, attention, and information availability, as opposed to the idealized fully-informed optimizer of classical economic theory.
 
-Guilbeault's framing (source: The secret to human 'brilliance' that AI just can't match.md): "the vast majority of the time, people are making decisions under circumstances where they have very little data and are unable to get the data they would need in order to really develop a high confidence in the outcome." This is not framed as a failure mode — historically, people built cities, established trade routes, and constructed financial markets long before anyone had a complete map of the relevant systems.
+Guilbeault's framing (source: The secret to human ‘brilliance’ that AI just can’t match.md): "the vast majority of the time, people are making decisions under circumstances where they have very little data and are unable to get the data they would need in order to really develop a high confidence in the outcome." This is not framed as a failure mode — historically, people built cities, established trade routes, and constructed financial markets long before anyone had a complete map of the relevant systems.
 
 ## The Tolerance Principle
 
 The Tolerance Principle is a precise equation, originally developed in linguistics, that calculates how much exposure data is required before a learner (originally: a child learning grammar) makes the cognitive leap from noticing scattered examples to inferring a general rule. It explains, for instance, how toddlers absorb grammatical rules from overheard conversation without ever encountering a formal grammar textbook — well before they could plausibly generalize from exhaustive evidence.
 
-Guilbeault, Caplan, and Yang's *PNAS* contribution extends the Tolerance Principle beyond language acquisition to **social convention learning** in adults. Across two controlled experimental games (the Name Game and the Mind Reading Game), the Tolerance Principle out-predicted three competing models of human learning behavior — participants reliably reached group consensus on arbitrary naming conventions in a consistent 20–30 rounds regardless of group size, and a planted dissenting minority could overturn established consensus once it reached roughly 25% of the group. (source: The secret to human 'brilliance' that AI just can't match.md)
+Guilbeault, Caplan, and Yang's *PNAS* contribution extends the Tolerance Principle beyond language acquisition to **social convention learning** in adults. Across two controlled experimental games (the Name Game and the Mind Reading Game), the Tolerance Principle out-predicted three competing models of human learning behavior — participants reliably reached group consensus on arbitrary naming conventions in a consistent 20–30 rounds regardless of group size, and a planted dissenting minority could overturn established consensus once it reached roughly 25% of the group. (source: The secret to human ‘brilliance’ that AI just can’t match.md)
 
 ## Why This Matters for AI Comparisons
 

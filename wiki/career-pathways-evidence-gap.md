@@ -61,7 +61,7 @@ Rep. Suzanne Bonamici (D-Ore.) argued at ALI's June 2026 congressional briefing 
 
 1. **CTE has a positive, policy-moving outcome finding.** Higher on-time graduation and postsecondary enrollment among pathway completers is useful evidence for CTE's value, with the causal caveat above.
 2. **The earnings question is unanswered because of plumbing, not research design.** Programs cannot show wage returns without data systems linking K-12 records to workforce records. That gap matters more as AI reshapes which jobs pay ([[entry-level-labor-market]]).
-3. **Work-based learning needs common definitions before it can be evaluated.** As the wiki increasingly points to work-based learning as a replacement for the disappearing junior rung ([[ai-labor-demand-41-countries]], [[entry-level-labor-market]]), the finding that 10 states define and track it 10 different ways is a practical barrier to knowing what works.
+3. **Work-based learning needs common definitions before it can be evaluated** (see [[work-based-learning]]). As the wiki increasingly points to work-based learning as a replacement for the disappearing junior rung ([[ai-labor-demand-41-countries]], [[entry-level-labor-market]]), the finding that 10 states define and track it 10 different ways is a practical barrier to knowing what works.
 
 ---
 
@@ -77,3 +77,4 @@ Rep. Suzanne Bonamici (D-Ore.) argued at ALI's June 2026 congressional briefing 
 - [[entry-level-labor-market]]
 - [[ai-labor-demand-41-countries]]
 - [[responsive-by-design-career-clusters]]
+- [[work-based-learning]]

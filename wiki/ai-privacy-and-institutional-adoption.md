@@ -25,12 +25,12 @@ Routing student submissions, grades, and curriculum materials through third-part
 Local SLM deployment eliminates this problem: all data stays within the institution's secure network. The [[small-models-big-support]] framework was designed around this as a non-negotiable constraint (source: SmallLLMs.pdf).
 
 ### 3. Infrastructure and the Digital Divide
-The [[applied-co-intelligence-report]] identifies a persistent digital divide as a structural barrier: "A private school might offer a full semester of prompt engineering, while many rural or low-income districts still lack reliable Wi-Fi or basic computing infrastructure" (source: Applied-Co-Intelligence PDF). Federal data confirms geographic and resource gaps significantly impact access to advanced technologies.
+The [[applied-co-intelligence-report]] identifies a persistent digital divide as a structural barrier: "A private school might offer a full semester of prompt engineering, while many rural or low-income districts still lack reliable Wi-Fi or basic computing infrastructure" (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf). Federal data confirms geographic and resource gaps significantly impact access to advanced technologies.
 
 SLMs reduce infrastructure requirements (standard PCs instead of GPU servers) but do not eliminate them — connectivity and basic computing remain prerequisites.
 
 ### 4. Policy Patchwork
-In the absence of federal AI law, institutions face a fragmented landscape: some ban AI entirely, others have no policy, most operate without clear guidance. In a 2025 Tennessee survey, 85% of CTE coordinators believed AI would significantly change their fields; only 15% had clear guidance on how to prepare (source: Applied-Co-Intelligence PDF).
+In the absence of federal AI law, institutions face a fragmented landscape: some ban AI entirely, others have no policy, most operate without clear guidance. In a 2025 Tennessee survey, 85% of CTE coordinators believed AI would significantly change their fields; only 15% had clear guidance on how to prepare (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf).
 
 The result is what the ACI report calls a "Wild West scenario" — individual instructor judgment substituting for institutional strategy, creating inequitable and incoherent student experiences.
 
@@ -41,7 +41,7 @@ Many faculty distrust AI as a cost-cutting tool disguised as pedagogical innovat
 
 These barriers compound each other and fall unevenly. Well-resourced institutions can absorb API costs, hire AI staff, negotiate favorable vendor agreements, and develop coherent policy frameworks. Rural, low-income, and under-resourced institutions cannot. As the ACI report warns:
 
-> "Until all three of these structural barriers — policy, leadership, and access — are addressed, the promise of AI will exacerbate, not close, existing opportunity gaps." (source: Applied-Co-Intelligence PDF)
+> "Until all three of these structural barriers — policy, leadership, and access — are addressed, the promise of AI will exacerbate, not close, existing opportunity gaps." (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Emerging Responses
 
@@ -69,7 +69,7 @@ Dr. Stephen Murgatroyd ([[ai-unplugged-murgatroyd]], 2026) provides the most spe
 - Many powerful AI tools require payment: "Even $20/month is a huge amount of money if you don't have it." Murgatroyd estimates his own annual AI/technology/software costs at ~$5,000 — and notes most teachers neither have that money nor should be expected to pay it
 - As AI companies move toward profitability, tool costs will increase: "Some of them haven't made any money so far" — meaning the access gap will likely widen, not close, as commercial AI matures
 
-The Canadian figures likely understate the severity of the access problem in lower-income countries. The concentration in indigenous and rural northern communities is not incidental — it reflects historical patterns of infrastructure underinvestment that AI adoption inherits rather than remedies. (source: New Book Podcast: AI Unplugged.md)
+The Canadian figures likely understate the severity of the access problem in lower-income countries. The concentration in indigenous and rural northern communities is not incidental — it reflects historical patterns of infrastructure underinvestment that AI adoption inherits rather than remedies. (source: New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md)
 
 ## Western Cultural Bias and Indigenous Data Sovereignty
 
@@ -81,7 +81,7 @@ This is not primarily a hallucination problem — it is a training data represen
 
 His proposed structural response is **data sovereignty**: locally deployed AI systems built on locally controlled data, rather than cloud-based systems trained on predominantly Western corpora. He is advising an indigenous LMS provider in British Columbia whose systems use local, personal sovereign data — addressing both the privacy concern and the cultural accuracy problem simultaneously.
 
-**Case study — Treaty 8 school, northern Alberta**: A northern Alberta indigenous school in Treaty 8 territory cannot find teachers or educational assistants. AI is being used as a necessity, not a luxury enhancement. They are co-designing learning supports with students and teachers in Cree language, based on indigenous storytelling, with indigenous cultural resources attached. This reframes the equity conversation: for communities that colonial resource allocation has left without human educational capacity, locally designed AI is not a risk to be managed but the only available infrastructure. (source: New Book Podcast: AI Unplugged.md)
+**Case study — Treaty 8 school, northern Alberta**: A northern Alberta indigenous school in Treaty 8 territory cannot find teachers or educational assistants. AI is being used as a necessity, not a luxury enhancement. They are co-designing learning supports with students and teachers in Cree language, based on indigenous storytelling, with indigenous cultural resources attached. This reframes the equity conversation: for communities that colonial resource allocation has left without human educational capacity, locally designed AI is not a risk to be managed but the only available infrastructure. (source: New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md)
 
 The data sovereignty argument reinforces the [[small-language-models]] case for local deployment — but extends it beyond privacy and cost to cultural self-determination. Open-weight models under institutional control, trained on locally relevant data, are the technical mechanism; indigenous and community governance of that data is the institutional requirement.
 

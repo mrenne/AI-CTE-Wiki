@@ -2,7 +2,7 @@
 
 **Summary**: A 2026 YouTube video by futurist Sinead Bovell arguing that the "learn, work, retire" era is ending — replaced by a skills-based, entrepreneurial workforce defined by task unbundling, lifelong learning, and the rise of independent contracts.
 
-**Sources**: `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`
+**Sources**: `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`
 
 **Last updated**: 2026-06-10
 
@@ -25,7 +25,7 @@ Bovell's central analytical contribution is the concept of **task unbundling**: 
 
 Her worked example: a financial analyst whose ten daily tasks include weekly financial reports, cash flow flagging, variance analysis, and client-facing strategy presentations. If AI handles six of those ten tasks effectively, what happens to the role?
 
-The answer is not elimination — it's evolution. The remaining four tasks (which AI cannot yet handle well) become the core of a new, higher-level role: **financial strategist**. The person still works; the work looks different. Job titles stop tracking what people actually do. (source: The Job Market Is Going Away.md)
+The answer is not elimination — it's evolution. The remaining four tasks (which AI cannot yet handle well) become the core of a new, higher-level role: **financial strategist**. The person still works; the work looks different. Job titles stop tracking what people actually do. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 This is a more granular and narrative articulation of what the [[bcg-ai-reshapes-jobs]] taxonomy formalizes as the "Divergent" segment — roles where AI automates junior/routine tasks while senior judgment-and-strategy work persists and becomes the core of the redefined role.
 
@@ -44,7 +44,7 @@ The key insight is that the dominant skill set within any role shifts as AI take
 
 > "The skills that made you dominant before AI may not be the same skills that make you dominant after AI."
 
-This is not a claim that technical skills become worthless — it's a claim that the configuration of skills required for competitive differentiation changes as AI automates the most procedural layer. The skills left are precisely [[transferable-skills]]: communication, critical thinking, judgment, ethical reasoning, and problem-framing. (source: The Job Market Is Going Away.md)
+This is not a claim that technical skills become worthless — it's a claim that the configuration of skills required for competitive differentiation changes as AI automates the most procedural layer. The skills left are precisely [[transferable-skills]]: communication, critical thinking, judgment, ethical reasoning, and problem-framing. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ---
 
@@ -61,7 +61,7 @@ The result is what Bovell calls the **independence era**:
 - Workers must continually update their skills to remain competitive across shifting client needs
 - Lifelong learning becomes a structural economic requirement, not a career preference
 
-This is a specific structural prediction that complements the [[relational-economy]] thesis: not only do relational sectors grow, but the *form* of work across the economy shifts from employment to independent contracting — making the skills that allow you to market, demonstrate, and continuously develop your capabilities more important than any single technical credential. (source: The Job Market Is Going Away.md)
+This is a specific structural prediction that complements the [[relational-economy]] thesis: not only do relational sectors grow, but the *form* of work across the economy shifts from employment to independent contracting — making the skills that allow you to market, demonstrate, and continuously develop your capabilities more important than any single technical credential. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ---
 
@@ -77,7 +77,7 @@ Bovell separates long-run equilibrium from medium-term transition risk — a dis
 
 This is the honest acknowledgment missing from optimistic takes: historical structural transitions have sometimes produced extended unemployment between the destruction of old work and the creation of new work. If the AI transition compresses that timeline, or if the new work requires skill profiles that displaced workers can't acquire rapidly, the social cost could be severe.
 
-Her policy implication: the answer must be developed **now** — before the transition peaks. Health insurance decoupled from employment, portable benefits, and active skill-development infrastructure are prerequisites for a participatory (rather than exclusionary) transition. (source: The Job Market Is Going Away.md)
+Her policy implication: the answer must be developed **now** — before the transition peaks. Health insurance decoupled from employment, portable benefits, and active skill-development infrastructure are prerequisites for a participatory (rather than exclusionary) transition. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 This aligns with the [[anthropic-labor-market-index]] finding of a 14% hiring slowdown for workers aged 22–25 entering AI-exposed occupations — early evidence of the transition risk manifesting at the entry point of the labor market.
 
@@ -97,7 +97,7 @@ This is a stronger structural critique than most labor-market sources in the wik
 
 > "Everybody should be skilled and empowered to participate in how work is going to evolve and have a say in how it gets shaped. Not just some far out UBI type of strategy today."
 
-The critique extends to cognitive labor: "It's our cognitive data and our cognitive labor that AI is being trained on. So everybody should be able to take part in the prosperity that AI is generating today." (source: The Job Market Is Going Away.md)
+The critique extends to cognitive labor: "It's our cognitive data and our cognitive labor that AI is being trained on. So everybody should be able to take part in the prosperity that AI is generating today." (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ---
 
@@ -135,7 +135,7 @@ Bovell documents an early example of genuinely new work emerging from AI:
 
 Her example: a person who builds automated workflows for a venture capital firm — pulling financial spreadsheets, building decks, routing to the right VP, triggering invoices from accounting when thresholds are hit. This is a role that requires understanding both the business logic and the AI tooling, without being either a traditional software engineer or a traditional analyst. New work for new tasks.
 
-This supports the long-run argument against mass unemployment: the AI era is already generating occupational categories that didn't exist, at the very moment it's reshaping existing ones. (source: The Job Market Is Going Away.md)
+This supports the long-run argument against mass unemployment: the AI era is already generating occupational categories that didn't exist, at the very moment it's reshaping existing ones. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ---
 

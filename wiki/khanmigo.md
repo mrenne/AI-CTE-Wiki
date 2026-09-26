@@ -14,7 +14,7 @@ Khanmigo is an AI tutoring chatbot developed by Khan Academy using OpenAI's GPT-
 
 ## Adoption and Reception
 
-Despite Sal Khan's high-profile 2023 TED Talk predicting an AI-driven "biggest positive transformation that education has ever seen," Khanmigo has largely been "a non-event" for most students (source: The education of Sal Khan.md):
+Despite Sal Khan's high-profile 2023 TED Talk predicting an AI-driven "biggest positive transformation that education has ever seen," Khanmigo has largely been "a non-event" for most students (source: The education of Sal Khan and the limits of his chatbot.md):
 
 - Most students don't proactively seek out AI tutoring when given the option
 - Students find it frustrating — it withholds direct answers and sometimes makes mistakes

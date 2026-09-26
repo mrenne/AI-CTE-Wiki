@@ -108,7 +108,7 @@ Just days after this report was published, the CEO of one of the largest AI infr
 
 Meta simultaneously announced $115 million for "America's Workforce Academy" — free data center construction training with NCCER credentials, launching in Louisiana, Ohio, Indiana, and Texas in 2026. The program's predecessor (Level-Up fiber installation training) attracted 35,000 applications in its first week ([[meta-workforce-academy]]).
 
-The Bay Area students making their trade pivot in June 2026 are doing so in the same moment that the CEO of a $600B-infrastructure-committing tech company is explicitly naming "hundreds of thousands of skilled tradespeople" as the workforce need. Student risk arbitrage and executive labor demand forecasts have converged on the same answer. (source: Mark Zuckerberg Says America Needs...md)
+The Bay Area students making their trade pivot in June 2026 are doing so in the same moment that the CEO of a $600B-infrastructure-committing tech company is explicitly naming "hundreds of thousands of skilled tradespeople" as the workforce need. Student risk arbitrage and executive labor demand forecasts have converged on the same answer. (source: Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md)
 
 ---
 

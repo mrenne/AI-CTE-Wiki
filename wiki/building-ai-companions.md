@@ -167,7 +167,7 @@ This validates the paper's three-foundation framework from the learner's side. T
 - **Cognitive partnership** = treating AI as an intellectual collaborator you think *with* and actively evaluate → more vigilance, more strategic delegation, better learning
 - **Social anthropomorphism** = treating AI as a trusted peer/friend whose outputs you accept → less critical scrutiny, reduced epistemic monitoring
 
-The distinction matters for Responsible Design (Foundation 3): institutions should explicitly frame AI as a cognitive tool requiring active evaluation — not as a tutor, mentor, or companion who can be trusted passively. The persona design choices that maximize engagement (warm, named, relational AI tutors) may be precisely the design choices that reduce the vigilance needed for Zone 3 learning. (source: The "Cognitive Offloading" Paradox.md)
+The distinction matters for Responsible Design (Foundation 3): institutions should explicitly frame AI as a cognitive tool requiring active evaluation — not as a tutor, mentor, or companion who can be trusted passively. The persona design choices that maximize engagement (warm, named, relational AI tutors) may be precisely the design choices that reduce the vigilance needed for Zone 3 learning. (source: The _Cognitive Offloading_ Paradox.md)
 
 ## Workplace-Scale Validation: The Five-Effects Taxonomy
 
@@ -179,7 +179,7 @@ The distinction matters for Responsible Design (Foundation 3): institutions shou
 
 **Effect 4's quality drag mechanism is the workplace analog to the learning-performance paradox.** Hardman: "Generic AI confidently reproduces the most common version of whatever you ask for — weak on depth, context, and judgement." This is not a different phenomenon from the paradox; it is the same AI-optimization artifact operating in the production domain rather than the learning domain. AI optimized for output produces output at the expense of depth.
 
-**Effect 5 (better) corroborates the high-chain design goal.** Hardman's evidence for genuine quality improvement — EduPlanner multi-agent systems with domain-specific rubrics, ARCHED human-centred ID framework, knowledge-enhanced GPT-4 with stepwise self-critique — all share the property this paper identifies: scaffolded, domain-specific, architecturally designed AI targeting the high-value stages of the work chain. Prompt guardrails on a general-purpose model do not appear in Effect 5. (source: AI is making you faster AND slower.md)
+**Effect 5 (better) corroborates the high-chain design goal.** Hardman's evidence for genuine quality improvement — EduPlanner multi-agent systems with domain-specific rubrics, ARCHED human-centred ID framework, knowledge-enhanced GPT-4 with stepwise self-critique — all share the property this paper identifies: scaffolded, domain-specific, architecturally designed AI targeting the high-value stages of the work chain. Prompt guardrails on a general-purpose model do not appear in Effect 5. (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ---
 

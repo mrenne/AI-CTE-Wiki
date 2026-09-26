@@ -110,3 +110,4 @@ Other free AI training resources mentioned: Anthropic Academy, Google AI Pro stu
 - [[brad-smith-ai-jobs-next-generation]]
 - [[broken-ladder]]
 - [[relational-economy]]
+- [[work-based-learning]]

@@ -141,3 +141,4 @@ The core result holds across many checks (source: HowDoesAIChangeLaborDemand.pdf
 - [[cte-and-ai]]
 - [[applied-co-intelligence-model]]
 - [[fostering-ai-ready-building-moving]]
+- [[work-based-learning]]

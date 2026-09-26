@@ -2,7 +2,7 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
 **Last updated**: 2026-09-26
 
@@ -24,7 +24,7 @@ Developed by Acemoglu and Autor (2011), the task-polarization framework holds th
 
 Result: rising wages and employment for high-skill workers; stagnant wages for low-skill workers; declining employment for middle-skill workers.
 
-## Historical Evidence (source: Applied-Co-Intelligence PDF)
+## Historical Evidence (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 - Between 1940–1980, new work for non-college workers concentrated in middle-skill occupations: construction, transportation, production, clerical, and sales
 - Between 1980–2018, new work for non-college workers shifted to lower-paid personal services
@@ -47,7 +47,7 @@ David Autor's four analytical frameworks summarized in the [[applied-co-intellig
 
 ## Automation Risk Indices: Contradictory Signals
 
-Several indices attempt to quantify occupation-level automation risk; they frequently contradict each other (source: Applied-Co-Intelligence PDF):
+Several indices attempt to quantify occupation-level automation risk; they frequently contradict each other (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf):
 
 - **Frey & Osborne (2017) Probability of Computerization Index**: widely cited; 47% of occupations at high risk — widely criticized as methodologically flawed and alarmist
 - **Autor et al. Task Routinization Index**: measures routine/non-routine task composition; well-grounded theoretically but may not capture current AI capabilities
@@ -119,7 +119,7 @@ The worked example: a financial analyst with ten daily tasks. If AI handles six 
 
 This is the task-polarization framework made concrete: the routine/procedural tasks within any role get automated first; the judgment, communication, and contextual tasks remain and grow in relative importance. BCG's "Divergent" segment ([[ai-labor-disruption-segments]]) formalizes exactly this pattern — junior tasks automated while senior judgment roles persist.
 
-The implication for the learn-work-retire model: fixed job titles become unreliable anchors. A role description that is accurate today may not describe what the worker actually does in three years. The workforce reorganizes around **skills rather than job titles** — an observation with direct implications for how CTE programs design credentials. A credential tied to a specific technical task has a shorter shelf-life than a credential tied to a durable skill configuration. (source: The Job Market Is Going Away.md)
+The implication for the learn-work-retire model: fixed job titles become unreliable anchors. A role description that is accurate today may not describe what the worker actually does in three years. The workforce reorganizes around **skills rather than job titles** — an observation with direct implications for how CTE programs design credentials. A credential tied to a specific technical task has a shorter shelf-life than a credential tied to a durable skill configuration. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ## The Independence Era: Structural Shift in Work's Form
 
@@ -131,7 +131,7 @@ The projected pattern: workers offer their skills to multiple clients simultaneo
 
 This is structurally consistent with the [[relational-economy]] argument — the expanding sector of the economy is one where workers provide human presence, judgment, and relationship, not fungible cognitive output. But it adds a form dimension: not just *what* work becomes economically valuable, but *how* it is organized. Lifelong skill development stops being a career strategy and becomes a structural economic requirement for participation.
 
-Bovell flags the power asymmetry risk: in an independent-contract economy without deliberate policy intervention, workers have no bargaining power, no benefits structure, and no protection against being treated as "dispensable short-term pieces of labor." The transition can be participatory or exclusionary — the difference depends on policy choices made now. (source: The Job Market Is Going Away.md)
+Bovell flags the power asymmetry risk: in an independent-contract economy without deliberate policy intervention, workers have no bargaining power, no benefits structure, and no protection against being treated as "dispensable short-term pieces of labor." The transition can be participatory or exclusionary — the difference depends on policy choices made now. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ## The WFH Confound: Rethinking the Entry-Level Hiring Decline
 
@@ -149,7 +149,7 @@ Lambert & Schindler ([[broken-ladder]], May 2026) introduce a methodological com
 
 **The optimism argument**: If WFH is driving the junior-hiring decline, the organizational frictions are surmountable through better management practice (hybrid onboarding protocols, structured remote mentoring, deliberate junior development practices). If GenAI is the driver, more structural policy interventions would be required. The diagnosis changes the remedy. (source: The Broken Ladder.pdf)
 
-**A direct challenge to the WFH-attribution reading**: [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) restricts its ADP-based analysis to **non-teleworkable occupations only** — bank tellers, travel agents, tax preparers, jobs where remote work was never an option — and still finds a large, statistically significant employment decline for 22-25 year-olds in the most AI-exposed occupations. This complicates the "it's WFH, not AI" reading: the pattern persists in occupations where WFH cannot mechanically be the cause. The same paper reports a headline 16% relative employment decline for AI-exposed early-career workers, robust to firm-time fixed effects, and a placebo test showing the pattern does not appear before late 2022 (including during COVID). See [[broken-ladder]] for the full discussion of this tension. (source: CanariesintheCoalMine_Nov25.pdf)
+**A direct challenge to the WFH-attribution reading**: [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) restricts its ADP-based analysis to **non-teleworkable occupations only** — bank tellers, travel agents, tax preparers, jobs where remote work was never an option — and still finds a large, statistically significant employment decline for 22-25 year-olds in the most AI-exposed occupations. This complicates the "it's WFH, not AI" reading: the pattern persists in occupations where WFH cannot mechanically be the cause. The same paper's November 2025 version reported a headline 16% relative employment decline for AI-exposed early-career workers (the August 2026 update reports a widening 19% "kept-pace" shortfall; source: Canaries_August2026.pdf), robust to firm-time fixed effects, and a placebo test showing the pattern does not appear before late 2022 (including during COVID). See [[broken-ladder]] for the full discussion of this tension. (source: CanariesintheCoalMine_Nov25.pdf)
 
 ## The Pace of AI Diffusion: Constrained by Humans, Not Technology
 
@@ -185,7 +185,7 @@ An early signal of how employers are responding to the entry-level pipeline disr
 
 > "One of the interesting developments is that the large accounting companies like Deloitte are now hiring direct from high school because they'd rather train a young person than let them go to university or college. Shopify is also doing the same thing."
 
-This is a practitioner-level observation rather than published research, but it is structurally consistent with the entry-level analysis across this wiki. If AI is automating the procedural tasks that junior university-trained workers historically performed, the economic case for paying graduate wage premiums weakens — while the case for hiring motivated young workers and training them in firm-specific tools and workflows grows stronger. This is the [[sinead-bovell-job-market]] skills-over-credentials argument applied to large employers rather than independent contractors: the shift is not confined to gig work. (source: New Book Podcast: AI Unplugged.md)
+This is a practitioner-level observation rather than published research, but it is structurally consistent with the entry-level analysis across this wiki. If AI is automating the procedural tasks that junior university-trained workers historically performed, the economic case for paying graduate wage premiums weakens — while the case for hiring motivated young workers and training them in firm-specific tools and workflows grows stronger. This is the [[sinead-bovell-job-market]] skills-over-credentials argument applied to large employers rather than independent contractors: the shift is not confined to gig work. (source: New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md)
 
 ## The Canaries Dashboard: Live Employment Data Through April 2026
 

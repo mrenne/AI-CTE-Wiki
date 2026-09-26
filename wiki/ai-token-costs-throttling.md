@@ -2,7 +2,7 @@
 
 **Summary**: A July 2026 404 Media investigation, based on leaked internal communications from Atlassian, Adobe, Amazon, Citi, GitHub, and others, documenting that enterprise AI spending has spiraled out of control — with companies now restricting employee access to the most capable models and rationing token usage, the opposite of the "unlimited AI adoption" narrative common elsewhere in the wiki's sources.
 
-**Sources**: `raw/misc/Companies Are Throttling Employees' AI Use Because It's Too Expensive.md`
+**Sources**: `raw/misc/Companies Are Throttling Employees’ AI Use Because It’s Too Expensive.md`
 
 **Last updated**: 2026-07-02
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-Joseph Cox's reporting, based on leaked Slack messages, internal dashboards, and emails from at least six companies, documents a specific and concrete friction point that is largely absent from the wiki's other AI-adoption sources: **cost**. The proximate trigger is GitHub's shift from flat-fee Copilot subscriptions to usage-based billing in June 2026, which rippled through enterprise AI budgets industry-wide. (source: Companies Are Throttling Employees' AI Use Because It's Too Expensive.md)
+Joseph Cox's reporting, based on leaked Slack messages, internal dashboards, and emails from at least six companies, documents a specific and concrete friction point that is largely absent from the wiki's other AI-adoption sources: **cost**. The proximate trigger is GitHub's shift from flat-fee Copilot subscriptions to usage-based billing in June 2026, which rippled through enterprise AI budgets industry-wide. (source: Companies Are Throttling Employees’ AI Use Because It’s Too Expensive.md)
 
 ## The Numbers
 
@@ -22,7 +22,7 @@ Joseph Cox's reporting, based on leaked Slack messages, internal dashboards, and
 
 ## The Accenture Irony
 
-Accenture reportedly told its consulting clients to adopt AI as fast as possible, and is now separately reported (per leaked internal audio) positioning itself as the solution to the token-cost crisis it helped create — pivoting to "think about token economics" as a new consulting service line. Much of the token usage Accenture is now flagging as wasteful, per the article, is not sophisticated engineering work but employees converting PDFs into presentation slides. Accenture continues using AI internally for trivial applications (e.g., a World Cup prediction tool) even while advising clients to economize. (source: Companies Are Throttling Employees' AI Use Because It's Too Expensive.md)
+Accenture reportedly told its consulting clients to adopt AI as fast as possible, and is now separately reported (per leaked internal audio) positioning itself as the solution to the token-cost crisis it helped create — pivoting to "think about token economics" as a new consulting service line. Much of the token usage Accenture is now flagging as wasteful, per the article, is not sophisticated engineering work but employees converting PDFs into presentation slides. Accenture continues using AI internally for trivial applications (e.g., a World Cup prediction tool) even while advising clients to economize. (source: Companies Are Throttling Employees’ AI Use Because It’s Too Expensive.md)
 
 ## What This Complicates in the Wiki
 

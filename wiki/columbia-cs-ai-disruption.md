@@ -2,7 +2,7 @@
 
 **Summary**: A May 2026 Columbia Spectator investigation into how AI is reshaping computer science education at Columbia — enrollment patterns, teaching restructuring, equity concerns, and student experience — offering ground-level evidence of AI's impact on a flagship CS program.
 
-**Sources**: `raw/blog/'The reality, for better or worse'_ Columbia computer science students and faculty grapple with AI's disruption of the field.md`, `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
 **Last updated**: 2026-09-23
 
@@ -16,11 +16,11 @@ This is not a research study — it is journalism. Its value in this wiki is as 
 
 ## Enrollment Patterns
 
-CS has grown dramatically at Columbia in recent years (source: Columbia CS article):
+CS has grown dramatically at Columbia in recent years (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 - CS accounts for ~11% of Columbia College degrees, ~32% of SEAS degrees, ~12% of General Studies degrees (2024)
 - At Barnard, CS is now the second most popular major (up from third); degrees awarded have grown fivefold since 2016
 
-But a shift is appearing (source: Columbia CS article):
+But a shift is appearing (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 - **Total CS majors across schools fell 4.5%** in 2024-25 (393 → 375), driven by declines at Columbia College and General Studies, even as SEAS grew slightly
 - Faculty report that students are still taking CS classes but "majoring in other things" — treating technical skills as a baseline rather than a major field of study
 - The surge in CS popularity was driven by its "apparent promise of a secure, well-paid career path"; generative AI has "compromised the sense of stability that once defined the field"
@@ -29,7 +29,7 @@ But a shift is appearing (source: Columbia CS article):
 
 ## The "Code Monkey" Problem
 
-Faculty are explicit about which CS jobs are at risk (source: Columbia CS article):
+Faculty are explicit about which CS jobs are at risk (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 
 > "A lot of people thought, 'Oh, it's a guaranteed path to a stable income. You get a six-figure job right out of your undergrad.' Now, companies may see AI as a way to reduce demand for entry-level programmers, especially in what he calls 'code monkey jobs,' roles where a large number of employees are 'just writing out code nine-to-five.'" — Daniel Bauer, senior lecturer, Columbia CS
 
@@ -39,7 +39,7 @@ Chris Murphy (senior lecturer) describes the current moment as the convergence o
 
 ## How Students Are Actually Using AI
 
-Murphy surveyed students in his introductory classes. The results complicate the "students just submit AI homework" narrative (source: Columbia CS article):
+Murphy surveyed students in his introductory classes. The results complicate the "students just submit AI homework" narrative (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 
 > Around 60-70% of students who reported using AI said they used it to:
 > - Have concepts explained
@@ -55,7 +55,7 @@ One student at a Big Tech internship noted her intern class was the first to com
 
 ## Teaching Is Being Restructured
 
-The CS faculty response to AI has been to shift assessment toward in-person, harder-to-game formats (source: Columbia CS article):
+The CS faculty response to AI has been to shift assessment toward in-person, harder-to-game formats (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 
 - Homework once accounted for 60-70% of CS grades; that breakdown has **flipped**, with exams and quizzes now the majority
 - Murphy shifted after his TAs called his belief that students weren't using AI "naïve"
@@ -67,7 +67,7 @@ Students also worry the shift toward exams pulls focus away from applied, projec
 
 ## The Department's Curricular Response
 
-Columbia SEAS is making coordinated, department-wide changes (source: Columbia CS article):
+Columbia SEAS is making coordinated, department-wide changes (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 
 - A working group has been **redesigning the introductory and intermediate programming sequence** to integrate generative AI as both subject and tool
 - Goal: students should be able to **"read, verify, and reason about code, whether they or a model wrote it"**
@@ -83,7 +83,7 @@ This Socratic AI approach maps directly onto the [[evidence-base-ai-k12]] findin
 
 ## Emerging Skills: Context Engineering and Vibe Coding
 
-Students are developing new AI-specific skills ahead of formal curriculum (source: Columbia CS article):
+Students are developing new AI-specific skills ahead of formal curriculum (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 
 **Vibe coding**: Prompting AI to write code for a task or project — widespread enough that Columbia's Application Development Initiative (ADI) ran a dedicated workshop. The gap between what students were doing and what was being taught was visible enough that student clubs stepped in.
 
@@ -93,7 +93,7 @@ Key shift in how students define competence: "The shift has kind of gone towards
 
 ## Equity Concerns: Access and Prior Exposure
 
-Two distinct equity issues are surfacing (source: Columbia CS article):
+Two distinct equity issues are surfacing (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 
 **1. Paid vs. free AI access**: Premium AI models (paid tiers of ChatGPT, Claude) can cost over $100/month and produce measurably better code outputs than free tiers. Faculty: "The equity issues I worry about are students who have access to paid versions of things versus free versions of things."
 
@@ -105,7 +105,7 @@ This directly extends [[ai-privacy-and-institutional-adoption]]'s access concern
 
 ## Social Isolation
 
-A less-discussed consequence is emerging (source: Columbia CS article):
+A less-discussed consequence is emerging (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md):
 
 - Students in CS clubs report that as AI answers questions they would previously have asked each other, it is **isolating people** from peer learning communities
 - One student has not attended office hours "in at least a year" — replacing that interaction with AI

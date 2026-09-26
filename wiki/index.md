@@ -92,12 +92,13 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[relational-economy]] | Post-commodity economy thesis: structural change and mimetic desire predict employment growth in human-essential sectors |
 | [[ai-occupational-exposure-index]] | Concept page: the AIOE (Felten et al. 2021) and Task Routinization Index (Acemoglu & Autor 2011) methodology shared across all four "Fostering AI-Ready CTE Pipelines" reports; cross-cluster-grouping comparison table |
 | [[career-clusters-financial-business-digital]] | Concept page: the wiki's first (qualitative) coverage of Financial Services, Management & Entrepreneurship, Marketing & Sales, and Digital Technology clusters, drawn from [[responsive-by-design-career-clusters]] |
+| [[work-based-learning]] | Concept page: internships, apprenticeships, and employer-embedded training as the proposed answer to AI eroding the entry-level training ground — models (Alabama Data Scholars, Meta academy), the design problem AI creates inside WBL, and the thin outcome evidence |
 
 ### Labor Market Analysis
 
 | Page | Description |
 |------|-------------|
-| [[entry-level-labor-market]] | Synthesis page: the early-career hiring decline across eight sources — what is settled (entry-concentrated, non-linear, international), what is contested (AI vs. WFH, magnitude, oversupply, persistence), five mechanisms, CTE implications |
+| [[entry-level-labor-market]] | Synthesis page: the early-career hiring decline across eight sources — what most sources agree on (entry-concentrated, non-linear, international), what is contested (AI vs. WFH, magnitude, oversupply, persistence), five mechanisms, CTE implications |
 | [[ai-labor-demand-41-countries]] | Adoption-based source summary: seniority recomposition within occupations; labor-saving / labor-expanding / scale-effect model; 41-country meta-analysis |
 | [[cesifo-recent-grads-unemployment]] | Counter-signal source summary: no unusual recent-grad unemployment in summer 2026; flagged contradiction and outcome-based reconciliation |
 | [[bcg-ai-reshapes-jobs]] | BCG source summary: six-segment taxonomy, demand expandability, entry-level concentration, CEO imperatives |

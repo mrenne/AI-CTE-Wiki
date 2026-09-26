@@ -2,7 +2,7 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
 **Last updated**: 2026-09-23
 
@@ -112,13 +112,13 @@ The mechanism that prevents cognitive debt in Zone 3: **partnership orientation*
 
 This does not contradict the Kosmyna study — it contextualizes it. The EEG evidence documents what Zone 2 produces when AI is used without design (no structure for what to delegate or how to redirect freed capacity). Zone 3 is the design condition that prevents debt accumulation: large enough delegation to genuinely free cognitive capacity, combined with a deliberate structure for investing that capacity in higher-order reflection.
 
-The practical implication: **Zone 2 should be actively avoided** in educational AI design, not just Zone 1 failure modes. Scattered AI assists — the default for students with unstructured AI access — are demonstrably worse than no AI at all. The fix is not restriction; it is structured Zone 3 design. (source: The "Cognitive Offloading" Paradox.md)
+The practical implication: **Zone 2 should be actively avoided** in educational AI design, not just Zone 1 failure modes. Scattered AI assists — the default for students with unstructured AI access — are demonstrably worse than no AI at all. The fix is not restriction; it is structured Zone 3 design. (source: The _Cognitive Offloading_ Paradox.md)
 
 ## Relational Debt: An Extension
 
 Ezra Klein ([[ai-job-apocalypse-klein]]) raises a parallel concern that extends cognitive debt into the social domain: **relational skills may be deteriorating at the same moment they become most economically valuable**.
 
-Data on young people's social engagement (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+Data on young people's social engagement (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 - Time with friends: ~12 hours/week in 2003 → ~5 hours/week in 2024
 - High school seniors who have been on a date: 80% in 2000 → 46% in 2024
 - Gen Z reporting no sex in the past year: ~25%

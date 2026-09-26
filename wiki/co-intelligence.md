@@ -24,7 +24,7 @@ The framework encourages:
 
 ## Relevance to CTE: Gaps and Extensions
 
-The [[applied-co-intelligence-report]] builds directly on Mollick's framework but identifies important gaps when applied to CTE contexts. Mollick's original model is primarily designed for **knowledge workers** — those doing abstract, cognitive, desk-based work. CTE learners are builders, caregivers, operators, and technicians in hands-on, occupation-specific environments (source: Applied-Co-Intelligence PDF).
+The [[applied-co-intelligence-report]] builds directly on Mollick's framework but identifies important gaps when applied to CTE contexts. Mollick's original model is primarily designed for **knowledge workers** — those doing abstract, cognitive, desk-based work. CTE learners are builders, caregivers, operators, and technicians in hands-on, occupation-specific environments (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf).
 
 Specific gaps:
 1. The original framework overlooks the depth and specificity of technical skill development required in CTE (e.g., HVAC diagnostic procedures require mastery that general AI prompting cannot substitute for)

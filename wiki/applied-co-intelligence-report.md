@@ -28,7 +28,7 @@ Emerging frontiers: agentic AI (systems that plan, reason, and act toward goals)
 
 ## Chapter 2: AI and the Future of Work
 
-Drawing on David Autor's (2022) four-framework summary, the report maps the intellectual history of how economists think about technology and labor (source: Applied-Co-Intelligence PDF):
+Drawing on David Autor's (2022) four-framework summary, the report maps the intellectual history of how economists think about technology and labor (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf):
 
 | Framework | Core Idea | Limitation |
 |-----------|-----------|------------|
@@ -53,7 +53,7 @@ AI is a **general-purpose technology** — comparable to electricity in scope, n
 - Generative AI disproportionately affects cognitive/white-collar work; Indeed Hiring Lab analysis suggests AI can perform ~70% of management tasks at "good or excellent" level
 - CTE has built-in institutional agility: industry advisory boards, employer-aligned curriculum, direct occupational pathways
 - The AI infrastructure boom (data centers, power grids) creates substantial demand for electricians, HVAC technicians, plumbers, and construction workers — core CTE pipelines that are inherently automation-resistant
-- CTE learners are 3x more likely than non-CTE peers to report confidence in their future (source: American College Learner Freedom, Progress and Flourishing survey)
+- CTE learners are 3x more likely than non-CTE peers to report confidence in their future (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf, citing the American College Learner Freedom, Progress and Flourishing survey)
 - Domain expertise makes workers *better* AI users: "The best users of AI tools in the workplace are people with training and expertise in the field"
 
 ### AI Exposure by CTE Cluster (AIOE data)
@@ -95,7 +95,7 @@ The report illustrates Applied Co-Intelligence through a CNA student named Maya,
 
 ## Key Quotes
 
-> "The goal of this work is not simply to train learners to use AI. It is to equip them with the uniquely human skills to critique, direct, and collaborate with AI, ensuring that as our tools get smarter, we get wiser." (source: Applied-Co-Intelligence PDF)
+> "The goal of this work is not simply to train learners to use AI. It is to equip them with the uniquely human skills to critique, direct, and collaborate with AI, ensuring that as our tools get smarter, we get wiser." (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 > "The future does not belong to AI dabblers." — Lisa Gevelder, Grow with Google
 

@@ -12,7 +12,7 @@
 
 The AI Mastery Continuum is one of the three spheres of the [[applied-co-intelligence-model]]. It describes how a CTE learner progresses from generic AI awareness to occupation-specific AI command. The continuum has two dimensions: the four stages (X-axis) and depth of application from Generic to Systems-Level (Y-axis). As a learner advances along the stages, their ability to apply AI in meaningful, job-specific ways deepens.
 
-The continuum is presented as a theoretical framework intended for researchers to test and refine, not a fixed standard (source: Applied-Co-Intelligence PDF).
+The continuum is presented as a theoretical framework intended for researchers to test and refine, not a fixed standard (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf).
 
 ## The Four Levels
 
@@ -65,7 +65,7 @@ The key insight shared by both frameworks: passive AI use (Literacy) produces no
 
 ## Stand-Alone vs. Integrated Delivery
 
-The report argues against stand-alone "AI 101" courses in favor of embedding AI skills within existing technical and capstone courses. The reasoning (source: Applied-Co-Intelligence PDF):
+The report argues against stand-alone "AI 101" courses in favor of embedding AI skills within existing technical and capstone courses. The reasoning (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf):
 
 1. AI use cases vary by CTE cluster — generative AI dominates Arts/Design/Marketing while machine learning and sensor technology dominate Agriculture and Construction
 2. Domain expertise is what separates a novice AI user from an expert co-intelligent partner — an automotive student can judge an AI diagnostic tool only by comparing its output against their own technical knowledge

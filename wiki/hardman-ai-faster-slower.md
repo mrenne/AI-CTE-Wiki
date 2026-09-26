@@ -12,7 +12,7 @@
 
 Dr. Philippa Hardman is an instructional designer and L&D researcher (cited by Murgatroyd in [[ai-unplugged-murgatroyd]] as essential reading on deploying AI for learning). This post synthesizes Demirer, Musolff & Yang (2026) — the largest workplace AI study in the wiki, tracking 100,000+ GitHub developers across three generations of AI coding tools (autocomplete → "sync" agents → "async" agents) across the entire software production chain, from first line of code to shipped release.
 
-Hardman's contribution is applying this coding data to L&D by analogy, backed by parallel L&D evidence where it exists. This is the first source in the wiki grounded in large-scale *workplace* productivity data rather than educational experiments or economic theory. (source: AI is making you faster AND slower.md)
+Hardman's contribution is applying this coding data to L&D by analogy, backed by parallel L&D evidence where it exists. This is the first source in the wiki grounded in large-scale *workplace* productivity data rather than educational experiments or economic theory. (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ---
 
@@ -47,7 +47,7 @@ Fast production creates a new kind of bottleneck. AI generates more, more verbos
 
 > "The upstream got cheaper; the downstream got heavier. That's the trade." (He et al., 2026 — "Speed at the Cost of Quality: How Cursor AI Increases Short-Term Velocity and Long-Term Complexity")
 
-In L&D: without modular, tagged, governed content architecture, fast generation multiplies assets and multiplies the mess — and that cleanup lands on the same human stakeholders, reviewers, and line managers who were already the weak link. (source: AI is making you faster AND slower.md)
+In L&D: without modular, tagged, governed content architecture, fast generation multiplies assets and multiplies the mess — and that cleanup lands on the same human stakeholders, reviewers, and line managers who were already the weak link. (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ### Effect 4: Lower Average Quality
 
@@ -62,7 +62,7 @@ Evidence:
 
 The mechanism: AI confidently reproduces common practice, not best practice. The result is a flood of "technically-fine, faintly hollow content" that overwhelms human reviewers, making the quality problem harder to catch precisely because there's so much more content to review.
 
-**Key distinction from the educational evidence**: This is the *workplace* analog to what [[building-ai-companions]] calls the learning-performance paradox and what [[cognitive-debt]] describes neurologically. The mechanism is identical — AI optimized for output quality produces fast, plausible output at the cost of depth — but operating at the organizational level rather than the individual cognitive level. (source: AI is making you faster AND slower.md)
+**Key distinction from the educational evidence**: This is the *workplace* analog to what [[building-ai-companions]] calls the learning-performance paradox and what [[cognitive-debt]] describes neurologically. The mechanism is identical — AI optimized for output quality produces fast, plausible output at the cost of depth — but operating at the organizational level rather than the individual cognitive level. (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ### Effect 5: Better (When Aimed High)
 
@@ -75,7 +75,7 @@ Evidence from educational AI design:
 - ARCHED (2025) framework: human-centred AI-assisted ID, with educators as primary decision-makers, improves quality without undermining professional judgement
 - Knowledge-enhanced GPT-4 with stepwise self-critique against human criteria: gains in lesson-plan coherence and pedagogical soundness
 
-The catch: *better* and *worse* don't come from different tools. They are the same tool, aimed at different parts of the chain. "Point AI at the cheap upstream task — crank out more modules — and you get tidy, generic, common-not-best-practice. Point the same AI at diagnosis, feedback, reinforcement, and judgement — and quality goes up." (source: AI is making you faster AND slower.md)
+The catch: *better* and *worse* don't come from different tools. They are the same tool, aimed at different parts of the chain. "Point AI at the cheap upstream task — crank out more modules — and you get tidy, generic, common-not-best-practice. Point the same AI at diagnosis, feedback, reinforcement, and judgement — and quality goes up." (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ---
 
@@ -87,7 +87,7 @@ The most strategic finding in this source, drawn directly from Demirer et al.:
 
 For L&D and educational AI, this reframes the entire deployment question. The move is not "generate more content, faster" — that's pouring water into the widest part of a funnel that narrows to nothing. The move is to aim AI at the higher layers, nearer to behaviour change: diagnosis, feedback, coaching, reinforcement, application support.
 
-This principle directly validates [[building-ai-companions]]' architectural argument: prompt-level guardrails on a general-purpose content generator enter low in the chain and drain their gains through every human review stage. A purpose-built learning AI (metacognitive calibration, adaptive learner modeling, Socratic scaffolding) enters high — at the stages where behavior change actually lives. (source: AI is making you faster AND slower.md)
+This principle directly validates [[building-ai-companions]]' architectural argument: prompt-level guardrails on a general-purpose content generator enter low in the chain and drain their gains through every human review stage. A purpose-built learning AI (metacognitive calibration, adaptive learner modeling, Socratic scaffolding) enters high — at the stages where behavior change actually lives. (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ---
 
@@ -99,7 +99,7 @@ Kropp et al. (2026), cited by Hardman: **"AI buddy/coach/mentor" framing makes r
 
 This is a distinct mechanism from [[ai-sycophancy]]. Sycophancy is in the AI's outputs — it validates and agrees. Anthropomorphism reduces the human's critical scrutiny of those outputs — people reviewing work from a "colleague" apply less skepticism than people reviewing output from a tool. They compound each other: a sycophantic AI whose outputs receive reduced human scrutiny because it is framed as a trusted peer produces the maximum reduction in epistemic monitoring.
 
-The framing choice — "AI tool" vs. "AI teammate" — measurably affects review quality in real organizations. (source: AI is making you faster AND slower.md)
+The framing choice — "AI tool" vs. "AI teammate" — measurably affects review quality in real organizations. (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ---
 

@@ -955,3 +955,24 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Contradiction flagged**: CESifo's null recent-grad unemployment result (including by AI exposure) vs. Canaries, Census, and the 41-country study (noted on `cesifo-recent-grads-unemployment`, `entry-level-labor-market`, `canaries-coal-mine-brynjolfsson`, `graduating-into-disruption-census`; not resolved).
 
 **Total pages created**: 3 | **Total pages updated**: 11
+
+---
+
+## 2026-09-26 — Lint and fixes; new work-based learning page
+
+**Lint run** (77 content pages): no broken links, no orphans, all pages indexed, every page has inline citations. Findings: filename mismatches in citations, an undercounted README, overstated entry-level claims, stale Canaries figures, and carried-over items (ai-in-k12-education missing the Khanmigo RCT, missing concept pages, BOMs).
+
+**Fixes applied**:
+1. *Citation filenames matched to `raw/`* — 44 citations on 16 pages used straight apostrophes where the raw filenames use curly ones (six files). While verifying, found 94 more citations on 26 pages using abbreviated names (e.g., "Applied-Co-Intelligence PDF", "Columbia CS article", "The education of Sal Khan.md"); these were expanded to exact filenames, inside `(source: …)` citations only. A survey cited as if it were a raw file (American College Learner Freedom, Progress and Flourishing) is now cited via the ACI report that reports it (`applied-co-intelligence-report`, `cte-and-ai`). All `(source: …)` citations now match a `raw/` filename.
+   - Note on an earlier log entry: the entry recording `raw/Why the 'Middle Path' of AI Literacy…` as unreadable reflects the file's original name and location at the time; it was later ingested as `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md` (see the following entry). No correction needed; noted here because the lint flagged the old path.
+2. *README counts corrected* — the wiki has 77 content pages, not 75; a page-count filter had excluded `anthropic-labor-market-index` and `ai-occupational-exposure-index`. Sources restated as 58 source documents (57 distinct works; the Canaries paper is present in two versions). **Counting rule going forward**: pages = all `wiki/*.md` except `index.md` and `log.md`; sources = files in `raw/`.
+4. *Entry-level "settled" claims softened* — `entry-level-labor-market` section retitled "What most sources agree on," with a September 2026 qualifier on point 1 citing the 41-country and CESifo findings; matching `index.md` wording updated.
+5. *README "hiring decline is real"* reworded to "widely documented in hiring and employment data, though not (yet) in graduate unemployment."
+6. *Stale Canaries 16% figure* labeled as the November 2025 version with the August 2026 19% figure added (README, `labor-market-polarization`). `anthropic-labor-market-index` already stated both and was left unchanged.
+
+**Pages created**:
+- `wiki/work-based-learning.md` — Concept page: definition and continuum, why AI raises the stakes (five mechanisms), models table, the design problem AI creates inside WBL, the evidence problem, CTE implications
+
+**Pages updated for the new page**: pointers in `entry-level-labor-market`, `career-pathways-evidence-gap`, `cte-and-ai`; Related-pages links in those plus `quanthub-data-scholars-2026-update`, `meta-workforce-academy`, `cems-augmented-leadership`, `no-country-young-grads-burning-glass`, `ai-labor-demand-41-countries`, `berwick-employers-ai-education-gap`, `ai-education-policy-and-legislation`; `index.md` row under CTE and Workforce.
+
+**Total pages created**: 1 | **Total pages updated**: 38 content pages plus index.md (mostly citation-filename corrections)

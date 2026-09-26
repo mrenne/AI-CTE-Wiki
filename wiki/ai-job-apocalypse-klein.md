@@ -2,7 +2,7 @@
 
 **Summary**: A 2026 NYT opinion piece by Ezra Klein synthesizing the relational economy thesis (Imas), the Jevons Paradox applied to AI (accountants after VisiCalc), and his own observation that better AI increases demand for human collaboration — while warning that partial displacement is politically harder to address than mass unemployment, and that relational skills are deteriorating precisely when they matter most.
 
-**Sources**: `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`
+**Sources**: `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`
 
 **Last updated**: 2026-05-04
 
@@ -16,12 +16,12 @@ The piece draws directly on [[what-will-be-scarce]] (Imas, 2026) and brings in t
 
 ## The Gap Between Fear and Data
 
-Klein opens with the public mood (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+Klein opens with the public mood (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 - Quinnipiac poll (March 2026): **70% of Americans** think AI will lead to fewer job opportunities, up from 56% a year earlier
 - 30% worry for their own jobs
 - AI CEO quotes: Dario Amodei (Anthropic) says up to half of all entry-level white-collar jobs will dissolve within five years; Mustafa Suleyman (Microsoft AI) says most white-collar work will be "fully automated" within 12–18 months
 
-But the macrodata doesn't match the predictions (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+But the macrodata doesn't match the predictions (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 - US unemployment: **4.3% in March 2026** vs. 4.4% in March 2020 (pre-pandemic)
 - Average hourly earnings are stable
 - Despite Claude Code being "a marvel," demand for software engineers is booming
@@ -30,7 +30,7 @@ Klein's interpretation: "These tech companies might be unwinding a hiring binge 
 
 ## The Relational Economy Argument
 
-Klein summarizes and endorses Imas's thesis from [[what-will-be-scarce]] (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+Klein summarizes and endorses Imas's thesis from [[what-will-be-scarce]] (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 
 > "People are looking at the economy as it exists and asking which tasks A.I. can do; they should be asking which jobs people won't want A.I. doing, or which services A.I. will make us want more of."
 
@@ -42,7 +42,7 @@ As the rich get richer, they want more from humans, not less: "clothing with a s
 
 ## The Jevons Paradox: AI as Latent Demand Releaser
 
-Klein introduces the **Jevons Paradox** as a second mechanism alongside the relational sector thesis (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+Klein introduces the **Jevons Paradox** as a second mechanism alongside the relational sector thesis (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 
 **The VisiCalc case**: In 1979, the first electronic spreadsheet could do in minutes what teams of accountants took days to do. Mass bookkeeper unemployment was predicted. Instead, the number of accountants **quadrupled** over the next 40 years. Eldar Maksymov (ASU): "The spreadsheet didn't replace the accountant. It unleashed latent demand for financial intelligence that had been there all along, waiting for costs to fall far enough to be satisfied."
 
@@ -54,7 +54,7 @@ Applied to AI: the sectors most exposed to AI disruption may expand overall as c
 
 ## Klein's Personal Observation: AI as Human-Contact Amplifier
 
-Klein offers a first-person account that cuts against the substitution story (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+Klein offers a first-person account that cuts against the substitution story (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 
 Using Ethan Mollick's test — "Is it better than your best available human?" — Klein watched AI surpass his best available person in many domains over the past year. He expected this to reduce his reliance on human collaborators. The opposite happened:
 
@@ -66,7 +66,7 @@ Klein also notes that all the "enthusiastic AI adopters" he knows are **working 
 
 ## The Illusion of Efficiency Warning
 
-Klein's most important caution about AI productivity (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+Klein's most important caution about AI productivity (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 
 > "Studies differ on whether A.I. is making people more productive or simply giving them (and their bosses) the illusion of productivity. Slowly reading a difficult book is far better than rapidly absorbing summaries of 12 books; struggling through a first draft will lead you to more new ideas than editing five A.I.-written drafts. It's my belief that the feeling of efficiency should be mistrusted."
 
@@ -78,7 +78,7 @@ Despite endorsing the optimistic economic view, Klein raises two concerns the op
 
 ### 1. Partial Displacement Is Politically Harder Than Mass Displacement
 
-A world where AI displaces 8 million workers may be harder to address than one where it displaces 80 million (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md). Mass unemployment forces wholesale economic restructuring — COVID produced unprecedented income support that made lockdown unexpectedly prosperous for many workers. But targeted dislocation tends to produce blame, minimal insurance, and inadequate retraining:
+A world where AI displaces 8 million workers may be harder to address than one where it displaces 80 million (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md). Mass unemployment forces wholesale economic restructuring — COVID produced unprecedented income support that made lockdown unexpectedly prosperous for many workers. But targeted dislocation tends to produce blame, minimal insurance, and inadequate retraining:
 
 > "The best estimates of job loss from competition with China put it around two million jobs. That's small in the context of the entire U.S. economy, where roughly five million people are hired each month. But it was devastating for particular communities, and we did very, very little to help them."
 
@@ -86,7 +86,7 @@ If AI eliminates entry-level programming jobs or marketing roles without produci
 
 ### 2. Relational Skills Are Deteriorating While Becoming More Valuable
 
-The relational economy depends on human capacity for deep relationship — precisely what trends suggest is declining in younger cohorts (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+The relational economy depends on human capacity for deep relationship — precisely what trends suggest is declining in younger cohorts (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 
 - High school seniors' time with friends: ~12 hours/week in 2003 → ~5 hours/week in 2024
 - High school seniors who have been on a date: 80% in 2000 → 46% in 2024

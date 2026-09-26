@@ -2,7 +2,7 @@
 
 **Summary**: The economic theory that AI-driven automation will not eliminate work but relocate scarcity — shifting employment and expenditure from commodity production into a "relational sector" where human involvement is inseparable from the value of the good or service.
 
-**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
+**Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
 
 **Last updated**: 2026-08-12
 
@@ -75,11 +75,11 @@ In the standard economic critique, Baumol's cost disease is a problem: the stagn
 
 ## The Jevons Paradox Connection
 
-A parallel mechanism operates through **latent demand release** — what Ezra Klein calls the Jevons Paradox applied to AI (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+A parallel mechanism operates through **latent demand release** — what Ezra Klein calls the Jevons Paradox applied to AI (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 
 When VisiCalc (the first electronic spreadsheet) was released in 1979, it could do in minutes what teams of accountants took days to do. Predictions of mass unemployment for bookkeepers followed. Instead, the number of accountants quadrupled over the next 40 years. The spreadsheet didn't replace the accountant; it "unleashed latent demand for financial intelligence that had been there all along, waiting for costs to fall far enough to be satisfied." (Eldar Maksymov, ASU)
 
-Jevons originally observed this with coal: Watt's more efficient steam engine didn't reduce coal use; it made coal cheap enough to use for more things, tripling demand. The same pattern has repeated across major technological transitions: "In every major occupational group that adopted computers heavily, employment grew faster than in groups that did not." (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md)
+Jevons originally observed this with coal: Watt's more efficient steam engine didn't reduce coal use; it made coal cheap enough to use for more things, tripling demand. The same pattern has repeated across major technological transitions: "In every major occupational group that adopted computers heavily, employment grew faster than in groups that did not." (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md)
 
 Applied to AI: if the relational sector has enormous latent demand that was previously priced out, AI-driven cost reductions in commodity sectors may release purchasing power that flows toward more human contact, not less.
 
@@ -103,7 +103,7 @@ Important caveats from Imas (source: What will be scarce_.md):
 
 ## The Counterargument: Skills Atrophy
 
-Klein raises a critical challenge to the relational economy thesis: **relational skills may be deteriorating at the same moment they become most economically valuable** (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md):
+Klein raises a critical challenge to the relational economy thesis: **relational skills may be deteriorating at the same moment they become most economically valuable** (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md):
 
 - High school seniors spending time with friends: ~12 hours/week in 2003 → ~5 hours/week in 2024
 - High school seniors who report going on a date: 80% in 2000 → 46% in 2024
@@ -111,7 +111,7 @@ Klein raises a critical challenge to the relational economy thesis: **relational
 
 If AI is accelerating this social withdrawal by offering a digital simulacrum of relationships — responsive, frictionless, never demanding — it may be degrading the capacity for the deep human connection that the relational economy requires. See also [[cognitive-debt]] for the parallel argument about how AI use degrades cognitive capability before it becomes economically necessary.
 
-> "If Imas is right — and I think he is — our ability to relate, sensitively and deeply, to other human beings will be a central and valuable skill. That, I fear, is the exact skill we are breaking down in the young." (source: Why the A.I. Job Apocalypse (Probably) Won't Happen.md)
+> "If Imas is right — and I think he is — our ability to relate, sensitively and deeply, to other human beings will be a central and valuable skill. That, I fear, is the exact skill we are breaking down in the young." (source: Why the A.I. Job Apocalypse (Probably) Won’t Happen.md)
 
 ## A Contested Case Within the Relational Sector: Hospitality's Gendered Exposure
 
@@ -147,7 +147,7 @@ This is structurally complementary to the relational economy prediction:
 - Independent contracting is the natural form for relational work: a nurse, a coach, a therapist, or a skilled tradesperson can offer their skills to multiple clients or contexts without requiring institutional employment
 - Lifelong learning — Bovell's structural requirement for an entrepreneurial workforce — is precisely the posture the relational economy requires: human workers whose advantage over AI compounds as their relational skill and contextual judgment deepen
 
-The risk Bovell identifies is that the transition from employment to independent contracting could strip workers of benefits, bargaining power, and economic security unless policy deliberately rebuilds those protections outside of the employment relationship. The relational economy thesis predicts *where* labor demand will grow; the independence era thesis describes the *institutional form* that growth may take — and the structural vulnerabilities that form creates. (source: The Job Market Is Going Away.md)
+The risk Bovell identifies is that the transition from employment to independent contracting could strip workers of benefits, bargaining power, and economic security unless policy deliberately rebuilds those protections outside of the employment relationship. The relational economy thesis predicts *where* labor demand will grow; the independence era thesis describes the *institutional form* that growth may take — and the structural vulnerabilities that form creates. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ## The Infrastructure Economy as Relational Economy Complement
 

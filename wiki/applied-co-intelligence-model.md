@@ -15,7 +15,7 @@ The Applied Co-Intelligence (ACI) model was proposed in the [[applied-co-intelli
 ## The Three Spheres
 
 ### 1. Technical Skills
-Occupation-specific, procedural, credential-bearing skills — electrical wiring, medical coding, network configuration, welding. These are the entry ticket to a profession and the skills CTE programs are historically built around. In the age of AI, these skills are increasingly susceptible to automation. The ACI model does not eliminate technical skills but reframes their purpose: they become the **context** through which AI mastery and human transferable skills are applied (source: Applied-Co-Intelligence PDF).
+Occupation-specific, procedural, credential-bearing skills — electrical wiring, medical coding, network configuration, welding. These are the entry ticket to a profession and the skills CTE programs are historically built around. In the age of AI, these skills are increasingly susceptible to automation. The ACI model does not eliminate technical skills but reframes their purpose: they become the **context** through which AI mastery and human transferable skills are applied (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf).
 
 ### 2. Transferable Skills
 The durable, human-centered competencies Jamie Merisotis calls "human work": critical thinking, ethical reasoning, empathy, problem-solving, collaboration. See [[transferable-skills]]. These enable learners to guide and audit AI, manage ambiguity, and handle the complex, unpredictable human elements of any job. As AI handles more technical tasks, these become the primary differentiator.
@@ -49,9 +49,9 @@ The ACI model and [[agentivism]] are convergent frameworks. Agentivism provides 
 
 ## Stand-Alone vs. Integrated Implementation
 
-The report explicitly argues against stand-alone AI certification programs as the primary vehicle for building co-intelligence in CTE. AI is not a subject to be learned in a vacuum — it is a tool to be mastered in the context of doing the work. An integrated approach teaches learners how to *think with AI* in their chosen profession (source: Applied-Co-Intelligence PDF).
+The report explicitly argues against stand-alone AI certification programs as the primary vehicle for building co-intelligence in CTE. AI is not a subject to be learned in a vacuum — it is a tool to be mastered in the context of doing the work. An integrated approach teaches learners how to *think with AI* in their chosen profession (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf).
 
-Tom Pigg (Jackson State Community College) reinforces this from the practitioner side: incumbent workers are actively requesting AI education, but standalone AI courses fail them. Students and workers must encounter AI within their occupational context to understand where it helps, where it fails, and what human judgment is actually doing (source: Preparing CTE Learners for an AI-Driven Workforce webinar).
+Tom Pigg (Jackson State Community College) reinforces this from the practitioner side: incumbent workers are actively requesting AI education, but standalone AI courses fail them. Students and workers must encounter AI within their occupational context to understand where it helps, where it fails, and what human judgment is actually doing (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md).
 
 ## Technology Is Not Destiny
 
@@ -61,13 +61,13 @@ The [[cte-futures-aci-webinar]] (February 2026) situates the ACI model within a 
 
 Acemoglu and Johnson argue that AI's effects on workers are not fixed by the technology itself — they depend on which institutions and stakeholders make choices about how AI is deployed. Historically, labor market outcomes favorable to workers have required deliberate institutional action against default patterns of technological adoption. The ACI model positions CTE institutions as that countervailing actor: rather than waiting for AI to reshape work and responding afterward, CTE programs that implement the ACI framework are actively shaping the conditions under which workers encounter AI.
 
-This framing also implies a caution: without deliberate countervailing action, AI's default trajectory in the workforce favors those who already hold power — employers who can deploy AI to reduce headcount, or high-skill workers who capture AI productivity gains. CTE's historically underserved populations are the most exposed to the default trajectory. (source: Preparing CTE Learners for an AI-Driven Workforce webinar)
+This framing also implies a caution: without deliberate countervailing action, AI's default trajectory in the workforce favors those who already hold power — employers who can deploy AI to reduce headcount, or high-skill workers who capture AI productivity gains. CTE's historically underserved populations are the most exposed to the default trajectory. (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md)
 
 ## CLNA as Implementation Vehicle
 
 A concrete policy mechanism for ACI implementation surfaces in the webinar: the **Comprehensive Local Needs Assessment (CLNA)**, required under the Perkins V federal funding framework. The CLNA mandates that CTE programs assess workforce needs, engage employers, and document gaps.
 
-Rather than building new institutional structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. The CLNA creates an already-authorized mechanism for ongoing AI curriculum alignment — the gap is not authority, it is practice. Programs currently treating the CLNA as a compliance exercise would need to reframe it as the primary vehicle for real-time industry-alignment work (source: Preparing CTE Learners for an AI-Driven Workforce webinar).
+Rather than building new institutional structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. The CLNA creates an already-authorized mechanism for ongoing AI curriculum alignment — the gap is not authority, it is practice. Programs currently treating the CLNA as a compliance exercise would need to reframe it as the primary vehicle for real-time industry-alignment work (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md).
 
 ## A Working Example: Alabama's Data Scholars Program
 

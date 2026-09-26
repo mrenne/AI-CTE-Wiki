@@ -56,3 +56,4 @@ This source deepens rather than contradicts [[senate-hearing-ai-k12-education]]'
 - [[applied-co-intelligence-model]]
 - [[cems-augmented-leadership]]
 - [[ai-privacy-and-institutional-adoption]]
+- [[work-based-learning]]

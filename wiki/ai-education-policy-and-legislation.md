@@ -71,3 +71,4 @@ These are advocacy proposals, not enacted policy. Nebraska's first dedicated CTE
 - [[cte-futures-aci-webinar]]
 - [[applied-co-intelligence-model]]
 - [[career-pathways-evidence-gap]]
+- [[work-based-learning]]

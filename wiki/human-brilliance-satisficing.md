@@ -2,7 +2,7 @@
 
 **Summary**: A June 2026 Stanford GSB news piece summarizing Douglas Guilbeault, Spencer Caplan, and Charles Yang's *PNAS* research showing that humans learn social conventions the same way children learn grammar — through "satisficing" on minimal data via the Tolerance Principle — a sparse-data, intuitive-leap mechanism fundamentally different from the data-maximalist prediction approach LLMs use.
 
-**Sources**: `raw/blog/The secret to human 'brilliance' that AI just can't match.md`
+**Sources**: `raw/blog/The secret to human ‘brilliance’ that AI just can’t match.md`
 
 **Last updated**: 2026-07-07
 
@@ -10,11 +10,11 @@
 
 ## Overview
 
-Douglas Guilbeault (Stanford Graduate School of Business) rejects the premise, common to both AI boosters and AI doomers, that human cognition is a slower, noisier version of what LLMs do — gathering data and computing the statistically optimal prediction. His research, published with Spencer Caplan (CUNY Graduate Center) and Charles Yang (University of Pennsylvania) in *PNAS*, argues instead that human intelligence is built around doing the *opposite*: reaching confident conclusions from deliberately minimal data. (source: The secret to human 'brilliance' that AI just can't match.md)
+Douglas Guilbeault (Stanford Graduate School of Business) rejects the premise, common to both AI boosters and AI doomers, that human cognition is a slower, noisier version of what LLMs do — gathering data and computing the statistically optimal prediction. His research, published with Spencer Caplan (CUNY Graduate Center) and Charles Yang (University of Pennsylvania) in *PNAS*, argues instead that human intelligence is built around doing the *opposite*: reaching confident conclusions from deliberately minimal data. (source: The secret to human ‘brilliance’ that AI just can’t match.md)
 
 ## Satisficing and the Tolerance Principle
 
-**Satisficing** is Herbert Simon's term (he won the Nobel Prize in economics partly for this concept) for how people actually make decisions: gathering information only up to the point where an intuitive leap to a "good enough" conclusion becomes possible, rather than exhaustively optimizing. Guilbeault: "the vast majority of the time, people are making decisions under circumstances where they have very little data and are unable to get the data they would need in order to really develop a high confidence in the outcome." (source: The secret to human 'brilliance' that AI just can't match.md)
+**Satisficing** is Herbert Simon's term (he won the Nobel Prize in economics partly for this concept) for how people actually make decisions: gathering information only up to the point where an intuitive leap to a "good enough" conclusion becomes possible, rather than exhaustively optimizing. Guilbeault: "the vast majority of the time, people are making decisions under circumstances where they have very little data and are unable to get the data they would need in order to really develop a high confidence in the outcome." (source: The secret to human ‘brilliance’ that AI just can’t match.md)
 
 The **Tolerance Principle** is a precise mathematical formula, originally developed by linguists to explain how toddlers infer grammar rules from a relatively small number of overheard sentences — without ever reading a grammar textbook. Guilbeault, Caplan, and Yang's contribution is showing the same threshold equation predicts how *adults* learn social conventions, not just how children learn language.
 
@@ -25,11 +25,11 @@ Two controlled games tested the theory against three competing models of human l
 - **The Name Game**: Groups of 24, 48, or 96 participants were shown a face and asked to name it, with rewards for consensus (no communication allowed). Consensus consistently emerged in 20–30 rounds regardless of group size. A follow-up planting a dissenting minority found that consensus could be overturned once opposition reached 25% of the group.
 - **The Mind Reading Game**: Participants predicted whether another person would choose red or blue amid contradictory signals ("noise").
 
-In both games, the Tolerance Principle out-predicted the three alternative models of human learning behavior tested. (source: The secret to human 'brilliance' that AI just can't match.md)
+In both games, the Tolerance Principle out-predicted the three alternative models of human learning behavior tested. (source: The secret to human ‘brilliance’ that AI just can’t match.md)
 
 ## The Contrast With LLMs
 
-Guilbeault's argument is not that AI is "bad at prediction" — he concedes AI may match or exceed humans on well-defined, testable problems. His claim is narrower and more specific: LLMs and human cognition are optimizing for *structurally different things*. LLMs are built on the premise that more data plus more computation produces better predictions. Human social cognition — per this research — is built on doing the intuitive leap *despite* radically incomplete data, because in real social and physical environments, the data needed for a data-maximalist approach is usually unavailable. Guilbeault frames this as a design feature, not a limitation to be engineered away: "these intuitive and imaginative leaps, from confusion to understanding... are what distinguish human intelligence from machines." (source: The secret to human 'brilliance' that AI just can't match.md)
+Guilbeault's argument is not that AI is "bad at prediction" — he concedes AI may match or exceed humans on well-defined, testable problems. His claim is narrower and more specific: LLMs and human cognition are optimizing for *structurally different things*. LLMs are built on the premise that more data plus more computation produces better predictions. Human social cognition — per this research — is built on doing the intuitive leap *despite* radically incomplete data, because in real social and physical environments, the data needed for a data-maximalist approach is usually unavailable. Guilbeault frames this as a design feature, not a limitation to be engineered away: "these intuitive and imaginative leaps, from confusion to understanding... are what distinguish human intelligence from machines." (source: The secret to human ‘brilliance’ that AI just can’t match.md)
 
 ## Relationship to the Wiki's Existing Evidence Base
 

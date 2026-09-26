@@ -32,9 +32,9 @@ Since late 2022, workers at the start of their careers in AI-exposed fields have
 
 ---
 
-## What is settled
+## What most sources agree on
 
-**1. The effect is concentrated at entry, not among incumbents.** Canaries finds the decline works through reduced hiring while separations fall (source: Canaries_August2026.pdf). Anthropic finds no unemployment effect but a hiring slowdown (source: Labor market impacts of AI A new measure and early evidence.md). The Census paper finds adjustment "importantly at labor market entry" (source: Gradiating into Disruption.pdf). The ladder isn't being pulled up under people already on it. Its bottom rung is narrowing.
+**1. The effect is concentrated at entry, not among incumbents.** Canaries finds the decline works through reduced hiring while separations fall (source: Canaries_August2026.pdf). Anthropic finds no unemployment effect but a hiring slowdown (source: Labor market impacts of AI A new measure and early evidence.md). The Census paper finds adjustment "importantly at labor market entry" (source: Gradiating into Disruption.pdf). The ladder isn't being pulled up under people already on it. Its bottom rung is narrowing. **Qualifier (September 2026)**: two newer sources complicate this. At AI-adopting firms the junior *share* falls mainly because senior employment grows, while the fall in junior employment is not statistically significant (source: HowDoesAIChangeLaborDemand.pdf). And recent-graduate unemployment in summer 2026 was within its normal range, including by AI exposure (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md). The entry-level effect is clearest in hiring into exposed occupations and in first-job quality, not in joblessness. See the September 2026 section below.
 
 **2. The aggregate economy looks fine, and that doesn't contradict the entry-level signal.** Overall ADP employment grew about 6% from November 2022 to June 2026 (source: Canaries_August2026.pdf), and white-collar sectors posted record revenues while employment stalled (source: No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf). The Census paper shows why both can be true: exposed graduates stay attached to the labor market, but start later and in worse jobs. "Modest employment or unemployment effects can coexist with substantial deterioration" in job quality (source: Gradiating into Disruption.pdf).
 
@@ -104,7 +104,7 @@ The Census paper finds most exposed graduates recover within two years, but the 
 ## Implications for CTE
 
 1. **The protected zone is real but defined by the job's tasks, not by the credential.** Low-exposure fields (skilled trades, hands-on healthcare, personal services) sit at the bottom of both the AI and WFH exposure rankings (source: The Broken Ladder.pdf), and young health aides' employment is growing faster than older workers' (source: Canaries_August2026.pdf). But CTE IT and Digital Technology pathways feed directly into the most-exposed decile ([[graduating-into-disruption-census]]). Pathway-level exposure analysis ([[ai-occupational-exposure-index]]) matters more than a blanket "CTE is safe" claim.
-2. **Replace the disappearing junior rung.** If firms train fewer juniors, work-based learning, apprenticeships, and employer-embedded programs ([[meta-workforce-academy]], [[berwick-employers-ai-education-gap]], [[quanthub-data-scholars-2026-update]]) become the place where early expertise is built.
+2. **Replace the disappearing junior rung** (see [[work-based-learning]]). If firms train fewer juniors, work-based learning, apprenticeships, and employer-embedded programs ([[meta-workforce-academy]], [[berwick-employers-ai-education-gap]], [[quanthub-data-scholars-2026-update]]) become the place where early expertise is built.
 3. **Hard-to-fake credentials gain value.** As grades lose signal value, industry certifications, performance assessments, and portfolios defended in person (see [[middle-path-ai-literacy-nurenberg]], [[ai-unplugged-murgatroyd]]) are the kinds of evidence employers can still trust.
 4. **Teach AI as augmentation, not automation.** Only automation-type use predicts the decline in young workers' employment. Programs built on the [[applied-co-intelligence-model]] teach students to direct and check AI inside their occupation, the complementary use pattern that the evidence associates with stable or rising employment.
 5. **Advise students honestly.** The college-for-all default has lost part of its labor-market guarantee in AI-exposed fields, but the degree's advantage has narrowed, not inverted. Career advising should present both facts.
@@ -146,3 +146,4 @@ The Census paper finds most exposed graduates recover within two years, but the 
 - [[ai-labor-demand-41-countries]]
 - [[cesifo-recent-grads-unemployment]]
 - [[career-pathways-evidence-gap]]
+- [[work-based-learning]]

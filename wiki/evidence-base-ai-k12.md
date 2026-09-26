@@ -104,7 +104,7 @@ A practical implication for school leaders that goes beyond the research evidenc
 
 The research literature confirms the unreliability premise — detection tools produce significant false positive rates, especially for non-native English speakers and students who have adopted direct, clear writing styles. Murgatroyd adds a legal liability angle: false accusation of academic misconduct based on faulty detection tools creates actionable discrimination claims that institutions are beginning to lose in court.
 
-The correct response is assessment redesign, not better detection: design assessments so that AI substitution is either irrelevant (oral defense, live demonstration, process artifacts) or self-evidently traceable (portfolios with revision history, defended presentations). This aligns directly with the "build, analyze, defend" scaffold described below. (source: New Book Podcast: AI Unplugged.md)
+The correct response is assessment redesign, not better detection: design assessments so that AI substitution is either irrelevant (oral defense, live demonstration, process artifacts) or self-evidently traceable (portfolios with revision history, defended presentations). This aligns directly with the "build, analyze, defend" scaffold described below. (source: New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md)
 
 ## Assessment Redesign: "Build → Analyze → Defend"
 
@@ -118,7 +118,7 @@ The most concrete practitioner-level assessment scaffold in the wiki comes from 
 
 This scaffold is structurally isomorphic to the [[agentivism]] framework: Build = delegated agency; Analyze = epistemic monitoring; Defend = reconstructive internalization and transfer under reduced support. It is also the mechanism that renders AI detection moot — oral defense requires the student to demonstrate independent understanding regardless of how the written artifact was produced.
 
-Murgatroyd's portfolio assessment model extends this: students build portfolios comprising oral work, video, poetry, images, and peer presentations, then present them publicly. "We're showing them what a rich learning portfolio looks like. We're modeling the behavior we think should be seen in classrooms." He frames learning as "a 50-year apprenticeship" — embedding lifelong skill development as the design goal rather than credential completion at a specific moment. (source: New Book Podcast: AI Unplugged.md)
+Murgatroyd's portfolio assessment model extends this: students build portfolios comprising oral work, video, poetry, images, and peer presentations, then present them publicly. "We're showing them what a rich learning portfolio looks like. We're modeling the behavior we think should be seen in classrooms." He frames learning as "a 50-year apprenticeship" — embedding lifelong skill development as the design goal rather than credential completion at a specific moment. (source: New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md)
 
 ## What the Evidence Doesn't Tell Us
 
@@ -164,7 +164,7 @@ Critically: partnership orientation with AI simultaneously activated both **vigi
 
 **The Xu et al. (2026) performance-capability gap**: Across 35 studies, AI-assisted performance g=0.751 vs. independent performance g=0.369. The gap is large and consistent — directly supporting Principle 6 (assess without scaffolding). Students who look capable with AI may be operating entirely in Zone 2.
 
-The practical implication: the design question is not "restrict AI or allow it" but "Zone 2 or Zone 3." Zone 2 is the default and it should be actively designed against. Zone 3 requires structure: whole-category delegation, learner-first sequencing, verification built into workflow, and unassisted assessment. (source: The "Cognitive Offloading" Paradox.md)
+The practical implication: the design question is not "restrict AI or allow it" but "Zone 2 or Zone 3." Zone 2 is the default and it should be actively designed against. Zone 3 requires structure: whole-category delegation, learner-first sequencing, verification built into workflow, and unassisted assessment. (source: The _Cognitive Offloading_ Paradox.md)
 
 ## Organizational Evidence: The Productivity Funnel
 
@@ -183,7 +183,7 @@ Every human-dependent stage between production and finished output absorbs the g
 
 These numbers should temper predictions about how quickly AI tools will transform learning and work. The 95% no-return finding in organizations that have made deliberate AI investments with dedicated resources far exceeds the "extremely limited" evidence problem in K–12 — they reflect active deployment failures, not just a lack of research.
 
-**The "enter high in the chain" principle** (Demirer et al., drawn from Hardman) is the strategic implication this evidence base points toward: AI aimed at lower-value, upstream tasks (generating more content, producing first drafts) drains its gains through every human-review stage that remains. AI aimed at higher-value stages — where the consequential cognitive work lives — has fewer human stages left to drain the gain. In educational terms: AI for assessment feedback, metacognitive calibration, and teacher coaching (all of which show positive evidence above) enters higher in the chain than AI for content generation or practice-problem supply. (source: AI is making you faster AND slower.md)
+**The "enter high in the chain" principle** (Demirer et al., drawn from Hardman) is the strategic implication this evidence base points toward: AI aimed at lower-value, upstream tasks (generating more content, producing first drafts) drains its gains through every human-review stage that remains. AI aimed at higher-value stages — where the consequential cognitive work lives — has fewer human stages left to drain the gain. In educational terms: AI for assessment feedback, metacognitive calibration, and teacher coaching (all of which show positive evidence above) enters higher in the chain than AI for content generation or practice-problem supply. (source: AI is making you faster AND slower, better AND worse at your job.md)
 
 ## Independent Corroboration: Congressional Testimony
 

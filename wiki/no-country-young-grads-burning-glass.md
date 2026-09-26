@@ -101,3 +101,4 @@ The two claims differ in scope — Burning Glass describes all young graduates o
 - [[berwick-employers-ai-education-gap]]
 - [[goldman-sachs-ai-labor-squeeze]]
 - [[entry-level-labor-market]]
+- [[work-based-learning]]

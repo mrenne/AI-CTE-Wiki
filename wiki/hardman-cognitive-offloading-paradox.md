@@ -23,7 +23,7 @@ Before Wang & Zhang, the evidence pointed one direction. Hardman summarizes the 
 - **Favero et al. (2025)**: Cognitive offloading undermines learning outcomes *unless* freed mental effort is redirected to other meaningful tasks
 - **Lodge & Loble (2026)**: Cognitive offloading isn't inherently harmful — what matters is whether the freed-up cognitive capacity gets productively reinvested
 
-The field was moving from "AI is bad for learning" toward a harder question: *when* is it bad, and when might it help? The empirical evidence to answer that question across a large, cross-cultural sample didn't exist until Wang & Zhang. (source: The "Cognitive Offloading" Paradox.md)
+The field was moving from "AI is bad for learning" toward a harder question: *when* is it bad, and when might it help? The empirical evidence to answer that question across a large, cross-cultural sample didn't exist until Wang & Zhang. (source: The _Cognitive Offloading_ Paradox.md)
 
 ---
 
@@ -47,7 +47,7 @@ And both pathways independently predicted **transformative learning**:
 
 Transformative learning here means deep shifts in perspective — students questioning long-held assumptions, fundamentally changing how they understood their subjects, and re-evaluating how they think. Not surface task completion. Not satisfaction scores. Structural cognitive change.
 
-The pattern was consistent across all three regions (some variation in path strength). (source: The "Cognitive Offloading" Paradox.md)
+The pattern was consistent across all three regions (some variation in path strength). (source: The _Cognitive Offloading_ Paradox.md)
 
 ### The U-Curve: Three Zones
 
@@ -80,7 +80,7 @@ Two conditions are required:
 1. Learners delegate **enough** to AI to genuinely free cognitive capacity
 2. That freed capacity gets **deliberately invested** in higher-order work — questioning assumptions, critiquing frameworks, constructing original arguments
 
-Designing those two conditions is not a technology challenge — it is a learning design challenge. (source: The "Cognitive Offloading" Paradox.md)
+Designing those two conditions is not a technology challenge — it is a learning design challenge. (source: The _Cognitive Offloading_ Paradox.md)
 
 ---
 
@@ -110,7 +110,7 @@ The productive struggle of correcting one's own mistakes is what builds the skil
 **Principle 6: Always assess without scaffolding.**
 Without at least one unassisted assessment at the same difficulty level, the measurement reflects the human-AI system, not the learner. The performance-capability gap is quantified by **Xu et al. (2026)**: across 35 studies, AI-assisted performance g=0.751 vs. independent performance g=0.369. The gap is large and consistent.
 
-> "If scores hold when AI is switched off, you built competence. If they drop, you built dependency." — Hardman (source: The "Cognitive Offloading" Paradox.md)
+> "If scores hold when AI is switched off, you built competence. If they drop, you built dependency." — Hardman (source: The _Cognitive Offloading_ Paradox.md)
 
 ---
 
@@ -123,7 +123,7 @@ The implication for how to read the evidence base:
 - "AI helps learning" studies (where they exist) = Zone 3 conditions designed
 - Design is the variable; the same tool in Zone 2 vs. Zone 3 produces opposite outcomes
 
-This is consistent with the [[building-ai-companions]] core argument: AI for work vs. AI for learning aren't different tools — they're the same tool deployed differently, and design determines which effect dominates. (source: The "Cognitive Offloading" Paradox.md)
+This is consistent with the [[building-ai-companions]] core argument: AI for work vs. AI for learning aren't different tools — they're the same tool deployed differently, and design determines which effect dominates. (source: The _Cognitive Offloading_ Paradox.md)
 
 ---
 

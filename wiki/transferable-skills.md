@@ -2,7 +2,7 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won't Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here's What's Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human 'brilliance' that AI just can't match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human ‘brilliance’ that AI just can’t match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`
 
 **Last updated**: 2026-08-23
 
@@ -14,7 +14,7 @@ Transferable skills are foundational human competencies that enable workers to a
 
 Jamie Merisotis (President, Lumina Foundation; author of *Human Work in the Age of Smart Machines*, 2020) calls these capabilities "human work" — the things smart machines cannot replicate:
 
-> "Thinking critically, reasoning ethically, interacting interpersonally, and serving others with empathy." (source: Applied-Co-Intelligence PDF)
+> "Thinking critically, reasoning ethically, interacting interpersonally, and serving others with empathy." (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Why They Matter More in the AI Era
 
@@ -24,7 +24,7 @@ As AI automates routine technical tasks, the primary differentiator between work
 - **Dr. Katie Graham** (Nebraska State CTE Director): "AI can do all the 'stuff', but if you don't have a human who can understand it and then communicate it effectively, everything else fails."
 - **Lisa Gevelder** (Grow with Google): "The difference between school and work is that all work is teamwork."
 
-The World Economic Forum estimates that 44% of core labor skills will evolve within a few years — with creative thinking, data literacy, executive function, and lifelong learning becoming newly critical (source: Applied-Co-Intelligence PDF).
+The World Economic Forum estimates that 44% of core labor skills will evolve within a few years — with creative thinking, data literacy, executive function, and lifelong learning becoming newly critical (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf).
 
 ## Research Evidence
 
@@ -64,7 +64,7 @@ Notably, all three witnesses explicitly rejected teaching students specific prom
 
 ## A Cognitive-Science Mechanism: Satisficing
 
-Most of this page's argument for why transferable skills retain value rests on labor economics and employer testimony. Stanford GSB research on [[satisficing-and-tolerance-principle|satisficing and the Tolerance Principle]] (Guilbeault, Caplan & Yang, 2026) offers a complementary cognitive-science mechanism. Human judgment appears to work by reaching confident conclusions from deliberately minimal data — an intuitive-leap strategy validated experimentally in social-convention learning — rather than the data-maximalist, exhaustive-computation approach LLMs use. If this is accurate, judgment-under-uncertainty is not a vague "soft skill" placeholder but a specific, identifiable cognitive process suited to exactly the sparse, ambiguous conditions real work presents — and not one that necessarily erodes as AI's raw data access and compute scale up. (source: The secret to human 'brilliance' that AI just can't match.md — treat this connection as a plausible theoretical bridge, not an established empirical finding; see [[human-brilliance-satisficing]] for caveats.)
+Most of this page's argument for why transferable skills retain value rests on labor economics and employer testimony. Stanford GSB research on [[satisficing-and-tolerance-principle|satisficing and the Tolerance Principle]] (Guilbeault, Caplan & Yang, 2026) offers a complementary cognitive-science mechanism. Human judgment appears to work by reaching confident conclusions from deliberately minimal data — an intuitive-leap strategy validated experimentally in social-convention learning — rather than the data-maximalist, exhaustive-computation approach LLMs use. If this is accurate, judgment-under-uncertainty is not a vague "soft skill" placeholder but a specific, identifiable cognitive process suited to exactly the sparse, ambiguous conditions real work presents — and not one that necessarily erodes as AI's raw data access and compute scale up. (source: The secret to human ‘brilliance’ that AI just can’t match.md — treat this connection as a plausible theoretical bridge, not an established empirical finding; see [[human-brilliance-satisficing]] for caveats.)
 
 ## AI-Assisted Development of Social Transferable Skills
 
@@ -121,7 +121,7 @@ Bovell also introduces the **AI-as-intern** frame as a practical description of 
 
 > "You can think of AI in your role like an intern. If you were to give an intern instructions, you would have to frame the problem properly... evaluate its work, give it feedback."
 
-Managing an intern requires exactly the skills the ACI model and BCG framework identify as automation-resistant: communication, critical judgment, problem framing, and ability to evaluate quality. This frame is useful precisely because it grounds abstract competency claims in a social relationship workers already understand. (source: The Job Market Is Going Away.md)
+Managing an intern requires exactly the skills the ACI model and BCG framework identify as automation-resistant: communication, critical judgment, problem framing, and ability to evaluate quality. This frame is useful precisely because it grounds abstract competency claims in a social relationship workers already understand. (source: The Job Market Is Going Away (Here’s What’s Replacing It).md)
 
 ## The Five Cs: A Convergent Industry Framework
 
