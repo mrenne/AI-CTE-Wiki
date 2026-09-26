@@ -2,9 +2,9 @@
 
 **Summary**: Synthesis page for the wiki's densest evidence thread: the decline in early-career hiring and job quality in AI-exposed fields since late 2022. It brings together eight labor-market sources, sets out what is settled and what is contested (especially the AI-versus-work-from-home attribution debate), and draws out the implications for CTE.
 
-**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
+**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-26
 
 ---
 
@@ -27,6 +27,8 @@ Since late 2022, workers at the start of their careers in AI-exposed fields have
 | [[goldman-sachs-ai-labor-squeeze]] (Aug 2026) | 800+ occupations, multi-country | Entry-level workers bear 2–6x the AI-exposure hiring drag of the wider workforce, across developed economies (source: Goldman studied where AI is squeezing labor markets. Here's what it found.md) |
 | [[safest-college-degrees-forbes]] (Aug 2026) | NY Fed | Recent-grad unemployment 5.6% vs. 4.2% overall, Q2 2026 (an all-ages comparison; see caution below) (source: The College Degrees Considered Safest From AI Disruption.md) |
 | [[graduating-into-disruption-census]] (Sep 2026) | Census PSEO/LEHD, 6.7M graduates | Most-exposed decile of majors: −5 pp initial employment, about −13% initial earnings (recession-scale); half the earnings loss from sorting into retail and food service (source: Gradiating into Disruption.pdf) |
+| [[ai-labor-demand-41-countries]] (Sep 2026) | Revelio, 1.25B postings, 154M records, 41 countries; firm AI *adoption* | Junior share −1.9 pp at adopting firms, driven by senior growth (+6.7%) more than junior cuts; 23 of 31 countries; no significant total-employment fall (source: HowDoesAIChangeLaborDemand.pdf) |
+| [[cesifo-recent-grads-unemployment]] (Sep 2026) | CPS microdata, 22–25-year-old grads | Summer 2026 recent-grad unemployment 7.3%, within the 2022–24 range; no significant gap vs. peers or by AI exposure (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md) |
 
 ---
 
@@ -107,6 +109,14 @@ The Census paper finds most exposed graduates recover within two years, but the 
 4. **Teach AI as augmentation, not automation.** Only automation-type use predicts the decline in young workers' employment. Programs built on the [[applied-co-intelligence-model]] teach students to direct and check AI inside their occupation, the complementary use pattern that the evidence associates with stable or rising employment.
 5. **Advise students honestly.** The college-for-all default has lost part of its labor-market guarantee in AI-exposed fields, but the degree's advantage has narrowed, not inverted. Career advising should present both facts.
 
+## September 2026 Additions: Recomposition, and an Unemployment Counter-Signal
+
+**A top-loaded ladder, not only a cut bottom rung.** [[ai-labor-demand-41-countries]] (Chandar & Klein Teeselink) measures actual AI *adoption* across 41 countries. At adopting firms the junior share of employment falls 1.9 points, but mainly because **senior employment rises 6.7%**; the fall in junior employment (−2.5%) is not statistically significant. Total employment rises slightly, and no country shows a significant fall. The shift is concentrated in highly AI-exposed firms and appears in 23 of 31 countries (source: HowDoesAIChangeLaborDemand.pdf). This refines "What is settled" point 1: the entry-level squeeze works through firms growing their senior ranks around AI as much as through fewer junior hires. The authors add a caution that bears on the whole debate: comparisons of adopters with non-adopters can differ in *sign* from economy-wide employment change (source: HowDoesAIChangeLaborDemand.pdf).
+
+**⚠ Contradiction: recent-grad unemployment is normal.** [[cesifo-recent-grads-unemployment]] (Fairlie & Wu, via Ars Technica) finds summer 2026 unemployment for 22–25-year-old graduates at 7.3%, within the 2022–2024 range, with no statistically significant difference versus non-college peers, older graduates, or by AI exposure: "no evidence of any significant, widespread displacement" (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md). Much of the apparent conflict is about *outcome*: unemployment can stay flat while exposed graduates start in worse jobs (Census) and firms shift toward seniors (41-country study). But CESifo's null result by AI exposure is a direct test that did not find the pattern, so the disagreement is flagged, not resolved. The authors expect the classes of 2027 and later may be more affected (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md).
+
+**The evidence behind CTE's alternative routes is thin too.** [[career-pathways-evidence-gap]] notes that 10 states define and track work-based learning 10 different ways, and that the strongest CTE outcome study (Nebraska/South Dakota) couldn't measure earnings because education and workforce records aren't linked (source: Career pathways are growing but evidence isn’t.md). The routes this page recommends as replacements for the junior rung are themselves under-evaluated.
+
 ---
 
 ## Related pages
@@ -133,3 +143,6 @@ The Census paper finds most exposed graduates recover within two years, but the 
 - [[columbia-cs-ai-disruption]]
 - [[ai-occupational-exposure-index]]
 - [[applied-co-intelligence-model]]
+- [[ai-labor-demand-41-countries]]
+- [[cesifo-recent-grads-unemployment]]
+- [[career-pathways-evidence-gap]]

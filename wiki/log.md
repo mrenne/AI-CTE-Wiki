@@ -924,3 +924,34 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Lint result after fix**: 0 pages without inline citations; no broken links; no orphans.
 
 **Total pages created**: 0 | **Total pages updated**: 13
+
+---
+
+## 2026-09-26 — Ingestion (3 sources)
+
+**Sources ingested**:
+1. `raw/PDF/HowDoesAIChangeLaborDemand.pdf` — Chandar & Klein Teeselink (Stanford/KCL, September 20, 2026): instrumented matched event study of firm AI adoption across 41 countries (Revelio: 1.25B postings, 154M records). Junior share −1.9pp at adopting foreign affiliates, driven by senior growth (+6.7%) rather than junior cuts (−2.5%, not significant); total employment +3.3% (marginal); 23 of 31 countries negative; model shows adopter-vs-non-adopter and aggregate effects can differ in sign
+2. `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md` — Ars Technica (Orland, September 25, 2026) on Fairlie & Wu (CESifo): summer 2026 recent-grad unemployment 7.3%, within the 2022–24 range; no significant differences vs. comparison groups or by AI exposure. Secondhand summary; the paper itself not ingested
+3. `raw/misc/Career pathways are growing but evidence isn’t.md` — Fast Company op-ed (Schapiro, Alliance for Learning Innovation, August 19, 2026): career-connected learning evidence gap; Nebraska/South Dakota REL Central CTE study; three federal recommendations. Advocacy source
+
+**Pages created**:
+- `wiki/ai-labor-demand-41-countries.md` — Full summary: adoption-based design, three-force model, pooled findings table, cross-country and heterogeneity results, robustness, limitations (LinkedIn under-represents trades), CTE implications
+- `wiki/cesifo-recent-grads-unemployment.md` — Summary with explicit contradiction section and outcome-based reconciliation; NY Fed 5.6% vs. CESifo 7.3% explained as season/definition differences
+- `wiki/career-pathways-evidence-gap.md` — Summary: work-based learning measurement inconsistency, Nebraska study and its earnings-data wall (with causal caveat), ALI recommendations, links to Census PSEO linkage
+
+**Pages updated**:
+- `wiki/entry-level-labor-market.md` — Two evidence-table rows; new "September 2026 Additions" section (top-loaded ladder refinement; flagged CESifo contradiction; thin evidence on alternative routes)
+- `wiki/canaries-coal-mine-brynjolfsson.md` — Companion adoption study (shared author noted) and unemployment counter-signal
+- `wiki/broken-ladder.md` — Adoption-based design on the same Revelio data; matching absorbs remote-work scope
+- `wiki/graduating-into-disruption-census.md` — Reconciliation with CESifo; within-occupation junior shift in computer/math
+- `wiki/labor-market-polarization.md` — Seniority recomposition within occupations
+- `wiki/goldman-sachs-ai-labor-squeeze.md` — Cross-country evidence extended to 41 countries
+- `wiki/ai-economy-measurement-2026.md` — Continuing disagreement plus the adopter-vs-aggregate framework
+- `wiki/cte-and-ai.md` — Three-bullet September 2026 section
+- `wiki/cte-futures-aci-webinar.md` — Evidence-gap obstacle made concrete
+- `wiki/ai-education-policy-and-legislation.md` — ALI federal R&D/data proposals; Nebraska appropriation
+- `wiki/index.md` — 3 source summary rows, 3 concept rows, 2 Key Themes
+
+**Contradiction flagged**: CESifo's null recent-grad unemployment result (including by AI exposure) vs. Canaries, Census, and the 41-country study (noted on `cesifo-recent-grads-unemployment`, `entry-level-labor-market`, `canaries-coal-mine-brynjolfsson`, `graduating-into-disruption-census`; not resolved).
+
+**Total pages created**: 3 | **Total pages updated**: 11

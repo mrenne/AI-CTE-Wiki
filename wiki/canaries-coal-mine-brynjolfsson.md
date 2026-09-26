@@ -2,9 +2,9 @@
 
 **Summary**: A Stanford/NBER working paper by Erik Brynjolfsson, Bharat Chandar, and Ruyu Chen using high-frequency ADP payroll data (now through June 2026) to document six facts about AI's labor-market effects: early-career workers (22–25) in AI-exposed occupations now stand 19% below where they'd be had they kept pace with less-exposed peers — a gap that has widened every month since first documented in August 2025 — concentrated in occupations where AI automates rather than augments work, and robust across most (not all) alternative explanations including work-from-home amenability.
 
-**Sources**: `raw/PDF/Canaries_August2026.pdf` (Brynjolfsson, Chandar & Chen, Stanford Digital Economy Lab / NBER, August 2026 — updates and extends the August 2025 original with data through June 2026); `raw/PDF/CanariesintheCoalMine_Nov25.pdf` (November 2025 version, superseded by this update but retained as a prior data vintage), `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/PDF/Canaries_August2026.pdf` (Brynjolfsson, Chandar & Chen, Stanford Digital Economy Lab / NBER, August 2026 — updates and extends the August 2025 original with data through June 2026); `raw/PDF/CanariesintheCoalMine_Nov25.pdf` (November 2025 version, superseded by this update but retained as a prior data vintage), `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-26
 
 ---
 
@@ -109,6 +109,12 @@ New in this vintage is a dedicated section comparing the ADP findings to the CPS
 
 It also extends this paper's findings in one important way. Fact 6 here says adjustment happens through employment, not base pay. The Census paper, which can follow graduates *across* employers and sectors, finds a large earnings effect — about half of it from graduates sorting into lower-paying sectors like retail and food service. The two are compatible: within-job pay is sticky, but the *jobs* new entrants land in are worse (source: Gradiating into Disruption.pdf).
 
+## September 2026: A Companion Adoption Study and an Unemployment Counter-Signal
+
+[[ai-labor-demand-41-countries]], co-authored by this paper's Bharat Chandar, moves from AI *exposure* to firm-level AI *adoption* across 41 countries in Revelio data. It finds the same direction, a shift away from juniors at adopting firms, with a new detail: the shift is driven more by **senior growth (+6.7%) than junior cuts** (−2.5%, not significant), and total employment does not fall (source: HowDoesAIChangeLaborDemand.pdf). This fits Fact 1 (no economy-wide displacement) and Fact 4 (a narrowing entry point, not layoffs). Because the two papers share an author, they are not fully independent confirmation.
+
+[[cesifo-recent-grads-unemployment]] cuts the other way: CPS data show summer 2026 recent-graduate unemployment within its normal range, with no significant AI-exposure gradient (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md). Ars Technica attributes the difference partly to measurement: ADP tracks jobs within specific occupations, while unemployment reflects overall labor demand (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md). See [[entry-level-labor-market]].
+
 ## Related pages
 
 - [[stanford-del-ai-economic-indicators]]
@@ -124,3 +130,5 @@ It also extends this paper's findings in one important way. Fact 6 here says adj
 - [[goldman-sachs-ai-labor-squeeze]]
 - [[graduating-into-disruption-census]]
 - [[entry-level-labor-market]]
+- [[ai-labor-demand-41-countries]]
+- [[cesifo-recent-grads-unemployment]]

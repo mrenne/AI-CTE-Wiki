@@ -2,9 +2,9 @@
 
 **Summary**: A concept page tracking concrete governmental and legislative instruments — state-level guidance frameworks, procurement standards, and proposed federal/state legislation — addressing AI in K-12 education, as distinct from the wiki's research findings and practitioner accounts.
 
-**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
+**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-09-26
 
 ---
 
@@ -54,6 +54,15 @@ Despite differing institutional vantage points (a state secretary of education, 
 
 This page is built entirely from a single congressional hearing's testimony, which is advocacy-inflected by design (witnesses are there to make a case, not to present neutral synthesis) and transcribed via imperfect auto-captioning (see the source-quality caveat in [[senate-hearing-ai-k12-education]]). Numeric claims cited in testimony without an academic source (e.g., the 4.5pp/10pp learning-gains figures, the screen-reading-effectiveness claim) are flagged as needing independent verification, not treated as established findings. This page should be expanded as additional policy-focused sources are ingested.
 
+## Federal Education R&D and Data Infrastructure Proposals (September 2026)
+
+[[career-pathways-evidence-gap]] (Alliance for Learning Innovation) sets out three federal recommendations for career-connected learning (source: Career pathways are growing but evidence isn’t.md):
+1. statewide preschool-through-workforce longitudinal data systems, on the Kentucky and Colorado model;
+2. an ARPA-inspired Education and Workforce R&D Center, or an IES Career-Connected Learning Panel modeled on the National Reading Panel;
+3. coordinated funding across NSF, Labor, Commerce, and Defense, building on the DOL/Commerce/BLS AI Workforce Research Hub.
+
+These are advocacy proposals, not enacted policy. Nebraska's first dedicated CTE appropriation, prompted by a federally funded evaluation, is an enacted example of evidence moving state policy (source: Career pathways are growing but evidence isn’t.md).
+
 ## Related pages
 
 - [[senate-hearing-ai-k12-education]]
@@ -61,3 +70,4 @@ This page is built entirely from a single congressional hearing's testimony, whi
 - [[ai-privacy-and-institutional-adoption]]
 - [[cte-futures-aci-webinar]]
 - [[applied-co-intelligence-model]]
+- [[career-pathways-evidence-gap]]

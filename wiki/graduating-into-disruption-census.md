@@ -2,9 +2,9 @@
 
 **Summary**: A September 2026 U.S. Census Bureau working paper (Orr, Tucker & Warren, CES 26-56) linking 6.7 million bachelor's graduates to administrative earnings records. Graduates in the most AI-exposed decile of majors saw a 5-percentage-point drop in initial employment and a 13% drop in initial earnings after ChatGPT — recession-scale — with about half the earnings loss coming from displacement into lower-paying sectors like retail and food service. The result is robust to the work-from-home confound and to graduate-supply explanations.
 
-**Sources**: `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-26
 
 ---
 
@@ -124,6 +124,12 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 3. **What matters is how concentrated a field's exposure is, not its average.** For pathway design, the useful question is "what share of this pathway's destination jobs are in the most-automatable occupations?" — a sharper version of the exposure analysis in [[ai-occupational-exposure-index]].
 4. **Credentials that verify skill directly will gain value as grades lose signal.** Industry credentials, performance assessments, and work-based learning — CTE's native assessment modes — are the kind of hard-to-fake signals the paper's third mechanism implies employers will need.
 
+## September 2026: Reconciling with an Unemployment Null and an Adoption Study
+
+[[cesifo-recent-grads-unemployment]] finds no unusual rise in summer 2026 unemployment among recent graduates, including by AI exposure (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md). This page's own finding explains much of the gap: exposed graduates "remain strongly attached to the labor market" and adjust by starting in lower-paying sectors, so unemployment can stay flat while earnings fall (source: Gradiating into Disruption.pdf). The two differ in data (CPS vs. LEHD), outcome (unemployment vs. initial employment and earnings), and granularity (this paper isolates the top exposure decile). CESifo's null by exposure is still a genuine counterpoint.
+
+[[ai-labor-demand-41-countries]] finds the junior share falling *within* computer and mathematical occupations at AI-adopting firms (−3.3 points), consistent with CS-adjacent majors being hit hardest here (source: HowDoesAIChangeLaborDemand.pdf).
+
 ---
 
 ## Related pages
@@ -145,3 +151,5 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 - [[building-ai-companions]]
 - [[ai-occupational-exposure-index]]
 - [[entry-level-labor-market]]
+- [[cesifo-recent-grads-unemployment]]
+- [[ai-labor-demand-41-countries]]

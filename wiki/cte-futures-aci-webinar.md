@@ -2,9 +2,9 @@
 
 **Summary**: A February 2026 webinar from CTE Futures, ACTE, and Advance CTE presenting the Applied Co-Intelligence framework, with practitioner voices on implementation obstacles and key policy signals including the National Career Clusters Framework update.
 
-**Sources**: `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`
+**Sources**: `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Career pathways are growing but evidence isn’t.md`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-26
 
 ---
 
@@ -136,6 +136,10 @@ This webinar adds practitioner texture and policy specifics to the [[applied-co-
 
 [[aci-three-cte-programs]] documents the specific programs this webinar discussed only in general implementation-challenge terms: named colleges (Walters State, TCAP Upper Cumberland, Jackson State), named workforce partners, and directly-observed outcomes rather than proposed strategy. The CLNA-as-implementation-vehicle mechanism discussed here finds an informal echo in Jackson State's AI Summit — a different but structurally similar mechanism for sustaining continuous industry alignment around AI curriculum. (source: Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md)
 
+## The Evidence Gap, Made Concrete (September 2026)
+
+The webinar's fourth obstacle, no longitudinal evidence on CTE wage outcomes, has a documented real-world instance in [[career-pathways-evidence-gap]]. A federally funded evaluation of Nebraska and South Dakota CTE pathways set out to measure earnings and couldn't, because no infrastructure links education records to workforce data (source: Career pathways are growing but evidence isn’t.md).
+
 ---
 
 ## Related pages
@@ -151,3 +155,4 @@ This webinar adds practitioner texture and policy specifics to the [[applied-co-
 - [[labor-market-polarization]]
 - [[stanford-ai-index-education-2026]]
 - [[relational-economy]]
+- [[career-pathways-evidence-gap]]

@@ -2,9 +2,9 @@
 
 **Summary**: A CNBC report (August 2026) on a Goldman Sachs research note finding AI-related hiring headwinds across developed economies — call-center employment down 27-39% below trend across the US, Canada, and Germany, entry-level workers bearing 2-6x the drag on hiring growth that the broader workforce experiences — the wiki's first cross-country, investment-bank-sourced corroboration of its US-only ADP/Anthropic labor-market findings.
 
-**Sources**: `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-26
 
 ---
 
@@ -36,6 +36,10 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 
 [[graduating-into-disruption-census]] provides U.S. administrative-data evidence consistent with Goldman's entry-level multiplier: effects on new graduates are concentrated at the top of the exposure distribution and operate mostly at labor-market entry — through delayed employment and sorting into lower-paying sectors — rather than through layoffs of incumbents (source: Gradiating into Disruption.pdf).
 
+## Extended to 41 Countries (September 2026)
+
+[[ai-labor-demand-41-countries]] extends the cross-country evidence from Goldman's six developed economies to 41 countries, including middle-income economies. At AI-adopting firms the junior share fell in 23 of 31 estimable countries, significantly in the US, UK, Spain, Poland, Brazil, Mexico, and Saudi Arabia, with junior losses somewhat deeper in richer, more digitized economies and shallower where labor regulation is more rigid (source: HowDoesAIChangeLaborDemand.pdf).
+
 ## Related pages
 
 - [[canaries-coal-mine-brynjolfsson]]
@@ -48,3 +52,4 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 - [[bcg-ai-reshapes-jobs]]
 - [[graduating-into-disruption-census]]
 - [[entry-level-labor-market]]
+- [[ai-labor-demand-41-countries]]

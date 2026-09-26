@@ -2,9 +2,9 @@
 
 **Summary**: A July 2026 New York Times piece by Ben Casselman surveying why economists cannot yet agree on AI's real effect on jobs, wages, or productivity — government statistics are outdated and underfunded, private data sources conflict with each other, and non-AI shocks (COVID, interest rates, immigration policy) make attribution nearly impossible.
 
-**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`
+**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-09-26
 
 ---
 
@@ -50,6 +50,10 @@ This piece functions as an epistemic caveat layered over the wiki's growing labo
 2. **CTE data literacy should include measurement skepticism.** If professional economists cannot agree on which direction AI is pushing employment, CTE programs teaching data analysis or business intelligence should model that same epistemic humility rather than presenting single-source AI-impact statistics as settled fact.
 3. **Policy timing risk is real for CTE funding decisions.** Goldschlag's warning that "by the time the data is clear, it could be too late for policymakers to figure out how to respond" applies directly to CTE program funding and curriculum decisions — waiting for definitive data before adapting programs carries its own risk.
 
+## September 2026: The Disagreement Continues, With a Framework
+
+Two September 2026 sources sharpen this page's theme. [[cesifo-recent-grads-unemployment]] finds recent-graduate unemployment normal in CPS survey data, while ADP-based work finds large employment shortfalls in exposed occupations. Ars Technica attributes this partly to what each dataset measures (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md). [[ai-labor-demand-41-countries]] supplies a theoretical reason studies can conflict: comparisons of AI adopters with non-adopters and economy-wide employment changes "can have opposite signs," because adopters can grow by taking market share even as aggregate employment falls (source: HowDoesAIChangeLaborDemand.pdf). Its model also helps explain why firm surveys (most firms report no AI employment effect) can coexist with sector-level shifts (source: HowDoesAIChangeLaborDemand.pdf).
+
 ## Related pages
 
 - [[ai-economics-scan-2026]]
@@ -61,3 +65,5 @@ This piece functions as an epistemic caveat layered over the wiki's growing labo
 - [[ai-token-costs-throttling]]
 - [[goldman-sachs-ai-labor-squeeze]]
 - [[canaries-coal-mine-brynjolfsson]]
+- [[ai-labor-demand-41-countries]]
+- [[cesifo-recent-grads-unemployment]]

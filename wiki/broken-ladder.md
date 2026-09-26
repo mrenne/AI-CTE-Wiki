@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-09-26
 
 ---
 
@@ -184,6 +184,10 @@ This is a materially different kind of evidence than the non-teleworkable check:
 
 This makes Census LEHD data the **second independent dataset**, after ADP, in which the AI effect survives the WFH critique. The authors are careful to say collinearity limits how cleanly the two shocks can be separated, so this sharpens rather than closes the debate. The earlier [[no-country-young-grads-burning-glass]] report (July 2025) had already proposed pandemic-era lean staffing and employer risk aversion as co-drivers alongside AI — a "multiplicative" framing compatible with both sides of this debate (source: No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf).
 
+## September 2026: An Adoption-Based Design on the Same Revelio Data
+
+[[ai-labor-demand-41-countries]] uses the same Revelio data source as this paper, but compares firms that actually adopted AI with matched non-adopters and instruments adoption with peer adoption near the parent's headquarters. Because matching is within country and sector on baseline AI exposure, the authors note it also controls for factors that track exposure, including "the scope for remote work," citing this paper (source: HowDoesAIChangeLaborDemand.pdf). It still finds a 1.9-point fall in the junior share at adopters, in 23 of 31 countries (source: HowDoesAIChangeLaborDemand.pdf). This is a third, methodologically distinct result pointing to an AI-linked junior shift, alongside the ADP and Census replications above.
+
 ## Related pages
 
 - [[anthropic-labor-market-index]]
@@ -205,3 +209,4 @@ This makes Census LEHD data the **second independent dataset**, after ADP, in wh
 - [[graduating-into-disruption-census]]
 - [[no-country-young-grads-burning-glass]]
 - [[entry-level-labor-market]]
+- [[ai-labor-demand-41-countries]]
