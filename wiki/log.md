@@ -976,3 +976,27 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Pages updated for the new page**: pointers in `entry-level-labor-market`, `career-pathways-evidence-gap`, `cte-and-ai`; Related-pages links in those plus `quanthub-data-scholars-2026-update`, `meta-workforce-academy`, `cems-augmented-leadership`, `no-country-young-grads-burning-glass`, `ai-labor-demand-41-countries`, `berwick-employers-ai-education-gap`, `ai-education-policy-and-legislation`; `index.md` row under CTE and Workforce.
 
 **Total pages created**: 1 | **Total pages updated**: 38 content pages plus index.md (mostly citation-filename corrections)
+
+---
+
+## 2026-10-18 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/blog/How employment is changing at Anthropic.md` — Wilmers, Catipon, Massenkoff & McCrory (Anthropic Institute, October 16, 2026): internal case study of AI's effect on work at Anthropic. Junior share of technical hires 27%→9% (staff 21%→14%); agent hours 6x employee hours; code commits per engineer 5x; agents idle ~80% awaiting humans; meta-work 10%→22%; hiring shifts to autonomy/judgment; employer practices and their limits. Interested single-firm source. (The first clip of this file was truncated at 601 bytes; the user re-saved it in full before ingestion.)
+
+**Pages created**:
+- `wiki/employment-at-anthropic.md` — Full summary with explicit interested-source and single-firm caveats; labor demand table; productivity (with adoption-selection caveat); attention bottleneck; what stays human; hiring shifts; employer practices and their stated limit; relationship table; CTE implications
+
+**Pages updated**:
+- `wiki/entry-level-labor-market.md` — Evidence-table row; "October 2026: A Single-Firm View from the Frontier" section
+- `wiki/ai-labor-demand-41-countries.md` — Single-firm illustration of the seniority shift and labor-expanding channel
+- `wiki/anthropic-labor-market-index.md` — Same authors' internal study vs. this paper's tentative economy-wide finding
+- `wiki/hardman-ai-faster-slower.md` — Human-review bottleneck measured inside an AI-native firm
+- `wiki/transferable-skills.md` — Hiring scorecards shifting to autonomy and judgment
+- `wiki/work-based-learning.md` — Training-ground problem in the employer's own words
+- `wiki/cems-augmented-leadership.md` — Expertise gap inside Anthropic
+- `wiki/cte-and-ai.md` — Clerical-light growth, hiring for judgment, skill erosion
+- `wiki/ai-education-policy-and-legislation.md` — Employer practices and their limits; retraining/income-support call
+- `wiki/index.md` — 1 source summary row, 1 concept row, 1 Key Theme
+
+**Total pages created**: 1 | **Total pages updated**: 10

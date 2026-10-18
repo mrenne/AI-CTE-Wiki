@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 report from CEMS — The Global Alliance in Management Education (33 business schools, 70+ corporate partners) — synthesizing interviews with corporate and academic leaders into ten workplace takeaways and thirty role-specific insights on AI-age leadership, business education, and early-career work. Not K-12/CTE-specific, but its findings on cognitive offloading, the widening early-career expertise gap, and "copilot not autopilot" closely corroborate the wiki's existing K-12 and CTE evidence base from the corporate/graduate-education side.
 
-**Sources**: `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`
+**Sources**: `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-10-18
 
 ---
 
@@ -71,6 +71,10 @@ CEMS is a graduate business-education alliance, not a CTE or K-12 organization, 
 2. **The oral/process-based assessment convergence strengthens the case for CTE programs already using demonstration-based assessment.** CTE's traditional emphasis on skills demonstration and practical exams is, per this report and [[middle-path-ai-literacy-nurenberg]]/[[ai-unplugged-murgatroyd]], structurally well-suited to the AI era relative to essay- or homework-based assessment models that other fields are now scrambling to redesign.
 3. **"Copilot not autopilot" and cognitive-offloading language is now dominant across sectors** — K-12 research ([[illusion-of-understanding]]), corporate leadership development (this report), and CTE-specific frameworks ([[applied-co-intelligence-model]]) have converged on nearly identical framing, suggesting this is now a stable cross-sector consensus term rather than a niche academic concept.
 
+## The Expertise Gap Inside Anthropic (October 2026)
+
+[[employment-at-anthropic]] reports the same expertise-gap mechanism from inside an AI developer: employees "continually automating their own tasks away" and becoming "increasingly removed from the object-level work that originally built their skills," alongside a fall in the junior share of technical hires from 27% to 9% (source: How employment is changing at Anthropic.md).
+
 ## Related pages
 
 - [[agentivism]]
@@ -84,3 +88,4 @@ CEMS is a graduate business-education alliance, not a CTE or K-12 organization, 
 - [[ai-token-costs-throttling]]
 - [[co-intelligence]]
 - [[work-based-learning]]
+- [[employment-at-anthropic]]

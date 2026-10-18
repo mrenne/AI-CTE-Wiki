@@ -2,9 +2,9 @@
 
 **Summary**: Concept page for work-based learning (WBL): internships, apprenticeships, co-ops, and employer-embedded training. Across the wiki's labor-market evidence it has become the most frequently proposed answer to AI eroding the entry-level "training ground." This page gathers what the wiki's sources say about why WBL matters more in the AI era, the models in the evidence base, the design problem AI creates *inside* WBL, and how thin the evidence on WBL's effectiveness still is.
 
-**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/Preparing Students for AI & Data Careers.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
+**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/Preparing Students for AI & Data Careers.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-18
 
 ---
 
@@ -71,6 +71,10 @@ The case for WBL in the AI era therefore rests on a strong *mechanism*: entry-le
 3. **Measure it.** Programs and states adopting WBL should use common definitions and link outcomes to workforce data. Without that, WBL's expansion will repeat the pattern in [[career-pathways-evidence-gap]]: growth without evidence.
 4. **Favor verifiable credentials.** Pair placements with industry credentials (NCCER, the Alabama model) and supervisor-assessed performance, the hard-to-fake signals that gain value as grades lose it.
 
+## The Training-Ground Problem, Reported by an AI Company About Itself (October 2026)
+
+[[employment-at-anthropic]] states the design problem above in the employer's own words: as Anthropic employees automate their tasks, in some roles "they are increasingly removed from the object-level work that originally built their skills" (source: How employment is changing at Anthropic.md). Its junior technical hiring share fell from 27% to 9%, and its redeployment practices, by the authors' own account, do nothing for people "not hired to begin with" (source: How employment is changing at Anthropic.md). Even at the most AI-intensive employer, the junior training rung is the part that disappears, which strengthens the case for building it elsewhere.
+
 ---
 
 ## Related pages
@@ -96,3 +100,4 @@ The case for WBL in the AI era therefore rests on a strong *mechanism*: entry-le
 - [[agentivism]]
 - [[your-brain-on-chatgpt]]
 - [[ai-education-policy-and-legislation]]
+- [[employment-at-anthropic]]

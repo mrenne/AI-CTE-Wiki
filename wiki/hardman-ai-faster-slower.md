@@ -2,9 +2,9 @@
 
 **Summary**: A June 2026 Substack post by Dr. Philippa Hardman synthesizing a new MIT/Wharton study of 100,000+ GitHub developers (Demirer, Musolff & Yang, 2026) into a five-effects taxonomy for AI's actual workplace impact — naming the productivity funnel, the quality drag mechanism, and the "enter high in the chain" strategic principle.
 
-**Sources**: `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`
+**Sources**: `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-10-18
 
 ---
 
@@ -126,6 +126,10 @@ Hardman's recommendations, roughly ordered by leverage:
 | Educator-facing AI shows more consistent positive evidence ([[evidence-base-ai-k12]]) | Validated: Effect 5 (better) only appears with scaffolded, domain-specific, high-chain deployment |
 | AI won't automatically transform outcomes ([[ai-unplugged-murgatroyd]], [[stanford-ai-index-education-2026]]) | Hard numbers: 95% no return, 80% failure rate, 60% abandonment without data foundation |
 
+## The Bottleneck, Measured Inside an AI-Native Firm (October 2026)
+
+[[employment-at-anthropic]] observes this page's human-review bottleneck directly. Interactive Claude sessions at Anthropic spend about 80% of their time idle, waiting for human input, and reading all agent output would take even non-technical staff over half their work week (source: How employment is changing at Anthropic.md). Employees responded with "meta-work," building tools to manage agents, which rose from 10% to 22% of sessions (source: How employment is changing at Anthropic.md). The report itself cites the GitHub study summarized here as a caution that more code doesn't necessarily mean more business impact (source: How employment is changing at Anthropic.md).
+
 ---
 
 ## Related pages
@@ -141,3 +145,4 @@ Hardman's recommendations, roughly ordered by leverage:
 - [[ai-unplugged-murgatroyd]]
 - [[illusion-of-understanding]]
 - [[cte-and-ai]]
+- [[employment-at-anthropic]]

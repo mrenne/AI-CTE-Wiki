@@ -2,9 +2,9 @@
 
 **Summary**: A concept page tracking concrete governmental and legislative instruments — state-level guidance frameworks, procurement standards, and proposed federal/state legislation — addressing AI in K-12 education, as distinct from the wiki's research findings and practitioner accounts.
 
-**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`
+**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-18
 
 ---
 
@@ -63,6 +63,10 @@ This page is built entirely from a single congressional hearing's testimony, whi
 
 These are advocacy proposals, not enacted policy. Nebraska's first dedicated CTE appropriation, prompted by a federally funded evaluation, is an enacted example of evidence moving state policy (source: Career pathways are growing but evidence isn’t.md).
 
+## Employer Practices and Their Limits (October 2026)
+
+[[employment-at-anthropic]] describes three employer-side responses to AI disruption at Anthropic: broad stock ownership, an early warning system for at-risk roles, and internal redeployment. It concedes they "will not benefit those not hired to begin with," and calls for "farsighted government policy around retraining and income support" (source: How employment is changing at Anthropic.md). These are a company's own practices and recommendations, not enacted public policy.
+
 ## Related pages
 
 - [[senate-hearing-ai-k12-education]]
@@ -72,3 +76,4 @@ These are advocacy proposals, not enacted policy. Nebraska's first dedicated CTE
 - [[applied-co-intelligence-model]]
 - [[career-pathways-evidence-gap]]
 - [[work-based-learning]]
+- [[employment-at-anthropic]]

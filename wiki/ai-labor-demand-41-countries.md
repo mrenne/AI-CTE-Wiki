@@ -2,9 +2,9 @@
 
 **Summary**: A September 2026 working paper (Chandar & Klein Teeselink, Stanford/King's College London) that measures actual company AI adoption from 1.25 billion job postings and 154 million employment records across 41 countries. Adopting firms shift their workforce from juniors to seniors: the junior share falls 1.9 points, driven mainly by 6.7% senior growth rather than junior cuts. The shift appears in 23 of 31 countries, with no significant fall in total employment anywhere. AI so far *recomposes* workforces more than it *resizes* them.
 
-**Sources**: `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-18
 
 ---
 
@@ -125,6 +125,10 @@ The core result holds across many checks (source: HowDoesAIChangeLaborDemand.pdf
 3. **This paper cannot speak to the trades.** Its LinkedIn data under-represents construction and manual work, so it neither confirms nor challenges the "CTE trades are insulated" thesis. That evidence still comes from exposure-based sources such as [[fostering-ai-ready-building-moving]].
 4. **Senior workers moving *toward* AI-exposed work** supports teaching AI as a tool that experienced practitioners direct ([[applied-co-intelligence-model]]). The workers who gain are those with enough domain judgment to use it.
 
+## A Single-Firm Illustration (October 2026)
+
+[[employment-at-anthropic]] shows the same seniority shift inside one heavy AI adopter, at a much steeper rate: the junior share of technical hires fell from 27% to 9% while technical hiring still grew in absolute terms (source: How employment is changing at Anthropic.md). It also documents the "labor expanding" channel this paper's model describes. Non-engineers took up coding (agent coding sessions rose from 2 to 90 a month), and a writing team moved into prompting and model evaluation (source: How employment is changing at Anthropic.md). It is a single, interested case study, not a matched comparison.
+
 ---
 
 ## Related pages
@@ -142,3 +146,4 @@ The core result holds across many checks (source: HowDoesAIChangeLaborDemand.pdf
 - [[applied-co-intelligence-model]]
 - [[fostering-ai-ready-building-moving]]
 - [[work-based-learning]]
+- [[employment-at-anthropic]]
