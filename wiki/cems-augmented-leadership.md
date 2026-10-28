@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 report from CEMS — The Global Alliance in Management Education (33 business schools, 70+ corporate partners) — synthesizing interviews with corporate and academic leaders into ten workplace takeaways and thirty role-specific insights on AI-age leadership, business education, and early-career work. Not K-12/CTE-specific, but its findings on cognitive offloading, the widening early-career expertise gap, and "copilot not autopilot" closely corroborate the wiki's existing K-12 and CTE evidence base from the corporate/graduate-education side.
 
-**Sources**: `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/blog/How employment is changing at Anthropic.md`
+**Sources**: `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -75,6 +75,10 @@ CEMS is a graduate business-education alliance, not a CTE or K-12 organization, 
 
 [[employment-at-anthropic]] reports the same expertise-gap mechanism from inside an AI developer: employees "continually automating their own tasks away" and becoming "increasingly removed from the object-level work that originally built their skills," alongside a fall in the junior share of technical hires from 27% to 9% (source: How employment is changing at Anthropic.md).
 
+## A Survey-Based Echo: "Experience Debt" (October 2026)
+
+[[experience-debt-dayforce]] reports a Dayforce survey framing the expertise gap described here as "experience debt": 68% say organizations are losing important skills or expertise without fully realizing it, and 73% say those capabilities are harder to rebuild (source: Is your organisation at risk of 'experience debt' from AI_.md).
+
 ## Related pages
 
 - [[agentivism]]
@@ -89,3 +93,4 @@ CEMS is a graduate business-education alliance, not a CTE or K-12 organization, 
 - [[co-intelligence]]
 - [[work-based-learning]]
 - [[employment-at-anthropic]]
+- [[experience-debt-dayforce]]

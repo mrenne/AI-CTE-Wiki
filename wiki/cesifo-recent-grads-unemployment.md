@@ -2,9 +2,9 @@
 
 **Summary**: An Ars Technica report (September 2026) on a CESifo working paper (Fairlie & Wu) finding that summer 2026 unemployment among recent US college graduates, 7.3%, was within the normal 2022–2024 range and not significantly different from non-college peers, older graduates, or less AI-exposed groups. It is the wiki's clearest counter-signal to the entry-level disruption thesis, though it measures unemployment, a different outcome from the studies it appears to contradict.
 
-**Sources**: `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-28
 
 ---
 
@@ -57,6 +57,10 @@ On its face this conflicts with [[canaries-coal-mine-brynjolfsson]] (19% employm
 2. **Job quality, not joblessness, is the outcome to watch.** For career advising, the relevant risk for exposed fields is underemployment and slower starts ([[no-country-young-grads-burning-glass]], [[graduating-into-disruption-census]]), not headline unemployment.
 3. **The class of 2027 is the next test.** The authors expect effects may appear later if workplace AI intensity keeps rising. The wiki should re-check this when 2027 data arrive.
 
+## A Possible Explanation: Displacement Waits for Recessions (October 2026)
+
+[[goldman-ai-displacement-cyclical]] offers a reason recent-graduate unemployment could stay normal even if AI is reducing labor demand. Historically, "automation-related labor disruption is limited when the overall economy is healthy but accelerates during cyclical slowdowns," and Goldman attributes the limited impact so far partly to the economy's resilience in 2026 (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). If so, the CESifo authors' caution that later graduating classes "might be more affected" could depend as much on the business cycle as on rising AI use.
+
 ---
 
 ## Related pages
@@ -70,3 +74,4 @@ On its face this conflicts with [[canaries-coal-mine-brynjolfsson]] (19% employm
 - [[no-country-young-grads-burning-glass]]
 - [[anthropic-labor-market-index]]
 - [[cte-and-ai]]
+- [[goldman-ai-displacement-cyclical]]

@@ -2,9 +2,9 @@
 
 **Summary**: A CNBC report (August 2026) on a Goldman Sachs research note finding AI-related hiring headwinds across developed economies — call-center employment down 27-39% below trend across the US, Canada, and Germany, entry-level workers bearing 2-6x the drag on hiring growth that the broader workforce experiences — the wiki's first cross-country, investment-bank-sourced corroboration of its US-only ADP/Anthropic labor-market findings.
 
-**Sources**: `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-28
 
 ---
 
@@ -40,6 +40,10 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 
 [[ai-labor-demand-41-countries]] extends the cross-country evidence from Goldman's six developed economies to 41 countries, including middle-income economies. At AI-adopting firms the junior share fell in 23 of 31 estimable countries, significantly in the US, UK, Spain, Poland, Brazil, Mexico, and Saudi Arabia, with junior losses somewhat deeper in richer, more digitized economies and shallower where labor regulation is more rigid (source: HowDoesAIChangeLaborDemand.pdf).
 
+## Goldman's Follow-Up: Displacement Will Track the Business Cycle (October 2026)
+
+[[goldman-ai-displacement-cyclical]] reports a later Goldman note by Joseph Briggs that forecasts up to 9% of US workers displaced during the AI transition, while arguing the timing follows the business cycle: technology-driven job losses are "limited when the overall economy is healthy but accelerate during cyclical slowdowns" (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). Current data show only "a modest labor market headwind": job growth in AI-exposed industries about 10,000 below trend, offset by AI-related construction hiring, with 23% of US establishments having embedded AI (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). The headwinds documented on this page may therefore be the expansion-phase version of a larger recession-phase effect.
+
 ## Related pages
 
 - [[canaries-coal-mine-brynjolfsson]]
@@ -53,3 +57,4 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 - [[graduating-into-disruption-census]]
 - [[entry-level-labor-market]]
 - [[ai-labor-demand-41-countries]]
+- [[goldman-ai-displacement-cyclical]]

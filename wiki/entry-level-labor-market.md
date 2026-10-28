@@ -2,9 +2,9 @@
 
 **Summary**: Synthesis page for the wiki's densest evidence thread: the decline in early-career hiring and job quality in AI-exposed fields since late 2022. It brings together eight labor-market sources, sets out what is settled and what is contested (especially the AI-versus-work-from-home attribution debate), and draws out the implications for CTE.
 
-**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`
+**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -30,6 +30,7 @@ Since late 2022, workers at the start of their careers in AI-exposed fields have
 | [[ai-labor-demand-41-countries]] (Sep 2026) | Revelio, 1.25B postings, 154M records, 41 countries; firm AI *adoption* | Junior share −1.9 pp at adopting firms, driven by senior growth (+6.7%) more than junior cuts; 23 of 31 countries; no significant total-employment fall (source: HowDoesAIChangeLaborDemand.pdf) |
 | [[cesifo-recent-grads-unemployment]] (Sep 2026) | CPS microdata, 22–25-year-old grads | Summer 2026 recent-grad unemployment 7.3%, within the 2022–24 range; no significant gap vs. peers or by AI exposure (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md) |
 | [[employment-at-anthropic]] (Oct 2026) | Anthropic internal data, one AI-native firm (interested source) | Junior share of technical hires 27% → 9%; agent hours 6x employee hours; hiring shifts to autonomy and judgment (source: How employment is changing at Anthropic.md) |
+| [[goldman-ai-displacement-cyclical]] (Oct 2026) | Goldman Sachs note via Fortune; historical occupation data | Forecast: up to 9% of workers displaced over the AI transition, concentrated in recessions; current headwind modest (AI-exposed industries ~10,000 below trend) (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md) |
 
 ---
 
@@ -122,6 +123,12 @@ The Census paper finds most exposed graduates recover within two years, but the 
 
 [[employment-at-anthropic]] gives the most detailed firm-level picture yet. At Anthropic the junior share of technical *hires* fell from 27% to 9%, and the junior share of technical staff from 21% to 14%, as employee-directed AI agents came to outwork employees 6 to 1 (source: How employment is changing at Anthropic.md). Hiring managers increasingly score candidates on autonomy and judgment rather than domain expertise, and the authors acknowledge their own redeployment and early-warning practices do nothing for "those not hired to begin with" (source: How employment is changing at Anthropic.md). It is one unusual AI-native company studying itself, so it illustrates the mechanism rather than measuring an economy-wide effect, and it does not resolve the [[cesifo-recent-grads-unemployment]] contradiction.
 
+## October 2026: The Recession Test and "Experience Debt"
+
+**Persistence may hinge on the next downturn.** [[goldman-ai-displacement-cyclical]] finds that historically, technology-driven displacement is small in healthy economies and concentrated in recessions; the share of Americans in routine jobs fell in steps in the 1980s, 2001, 2008, and 2020 downturns and never recovered (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). Goldman forecasts up to 9% of workers displaced over the AI transition, while noting the economy's 2026 resilience has given firms "less incentive" to cut labor (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). This offers an explanation for the [[cesifo-recent-grads-unemployment]] null and adds a new "contested" question: whether today's hiring-channel adjustment turns into layoffs when the cycle turns. In past displacement, separations rose more than hiring fell (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md), the opposite of the current pattern in [[canaries-coal-mine-brynjolfsson]].
+
+**The training-ground problem gets a name.** A Dayforce survey of nearly 7,000 respondents ([[experience-debt-dayforce]]) calls the loss of learning-by-doing "experience debt": 65% say their people are losing the ability to do tasks AI now does, and 54% say knowledge is concentrating in fewer people (source: Is your organisation at risk of 'experience debt' from AI_.md). This is self-reported perception from an interested vendor, but it matches the mechanism behind proposed mechanism 3 above.
+
 ---
 
 ## Related pages
@@ -153,3 +160,5 @@ The Census paper finds most exposed graduates recover within two years, but the 
 - [[career-pathways-evidence-gap]]
 - [[work-based-learning]]
 - [[employment-at-anthropic]]
+- [[goldman-ai-displacement-cyclical]]
+- [[experience-debt-dayforce]]

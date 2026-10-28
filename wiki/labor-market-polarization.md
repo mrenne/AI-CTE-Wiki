@@ -2,9 +2,9 @@
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/blog/The economics of AI in spring 2026.md`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/PDF/The Broken Ladder.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-28
 
 ---
 
@@ -244,6 +244,10 @@ For polarization, the Census finding is notable: AI pressure on *high*-skill ent
 
 [[ai-labor-demand-41-countries]] adds a dimension to the polarization story: at AI-adopting firms, occupation shares barely move (under half a point in 21 of 22 groups), but **seniority within occupations shifts sharply**. The junior share falls 4.9 points in legal, 3.3 in computer/math, and 3.2 in business/finance, while seniors move *toward* AI-exposed work (source: HowDoesAIChangeLaborDemand.pdf). AI's first-order effect is on the *experience* dimension of the labor market more than on the occupational one. Meanwhile [[cesifo-recent-grads-unemployment]] finds no rise in recent-graduate unemployment through summer 2026 (source: AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md). See [[entry-level-labor-market]] for how these fit together.
 
+## Routine Jobs Disappear in Recessions (October 2026)
+
+[[goldman-ai-displacement-cyclical]] supplies the cyclical timing behind task polarization. The share of Americans in routine jobs (clerks, secretaries, machine operators, mechanics) "has remained stable during expansions but declined sharply during downturns," dropping in steps in the early-1980s, 2001, 2008, and 2020 recessions without recovering (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). Goldman expects AI-related displacement to follow the same pattern and "amplify the broader business cycle" (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md).
+
 ## Related pages
 
 - [[cte-and-ai]]
@@ -277,3 +281,4 @@ For polarization, the Census finding is notable: AI pressure on *high*-skill ent
 - [[entry-level-labor-market]]
 - [[ai-labor-demand-41-countries]]
 - [[cesifo-recent-grads-unemployment]]
+- [[goldman-ai-displacement-cyclical]]

@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 NBER working paper using shift-share instrumental variables to causally identify how data center construction affects local employment, income, house prices, and electricity prices across 3,100+ US counties from 1995–2020.
 
-**Sources**: `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`
+**Sources**: `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
 
-**Last updated**: 2026-06-14
+**Last updated**: 2026-10-28
 
 ---
 
@@ -108,6 +108,10 @@ This paper provides three things the wiki previously lacked:
 
 3. **An equity dimension**: electricity and housing costs are new additions to this wiki's equity analysis. The standard equity framing in [[labor-market-polarization]] focuses on who gets the income gains; this paper quantifies costs that fall broadly, including on the communities CTE serves.
 
+## AI Construction Offsets AI-Exposed Losses (October 2026)
+
+[[goldman-ai-displacement-cyclical]] reports that job growth in the most AI-exposed industries ran about 10,000 below its long-run trend over three months in 2026, "roughly offset by hiring for AI-related construction" (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). This is national-level confirmation that AI infrastructure construction, the local effect this paper documents, is currently a meaningful labor-market counterweight.
+
 ## Related pages
 
 - [[cte-and-ai]]
@@ -118,3 +122,4 @@ This paper provides three things the wiki previously lacked:
 - [[ai-labor-disruption-segments]]
 - [[anthropic-labor-market-index]]
 - [[transferable-skills]]
+- [[goldman-ai-displacement-cyclical]]

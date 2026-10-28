@@ -1000,3 +1000,33 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 - `wiki/index.md` — 1 source summary row, 1 concept row, 1 Key Theme
 
 **Total pages created**: 1 | **Total pages updated**: 10
+
+---
+
+## 2026-10-28 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md` — Fortune (October 23, 2026, archived) on a Goldman Sachs note by Joseph Briggs: up to 9% of US workers displaced over the AI transition (15% productivity assumption), concentrated in recessions; routine-job share falls in recession steps; 25 past occupations lost 25% of employment over five years, mainly via separations; current headwind modest. Secondhand account of a forecast
+2. `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md` — HCA Magazine (Tilo, October 27, 2026) on Dayforce's 17th Pulse of Talent survey (~7,000 respondents, six countries): "experience debt"; 65% losing ability to do tasks AI now does; 68% losing skills unaware; 27% have time to develop. Self-reported, vendor source, respondents unspecified
+
+**Pages created**:
+- `wiki/goldman-ai-displacement-cyclical.md` — Forecast and derivation, cyclical-timing finding, 25-occupation history, flagged layoffs-vs-hiring tension with Canaries, why impact is limited so far, Amodei's Jevons shift, relationship table, CTE implications
+- `wiki/experience-debt-dayforce.md` — Concept and survey findings with caveats, cross-source mechanism table, experience debt vs. cognitive debt distinction, CTE implications
+
+**Pages updated**:
+- `wiki/goldman-sachs-ai-labor-squeeze.md` — Goldman's cyclical follow-up
+- `wiki/entry-level-labor-market.md` — Evidence-table row; "October 2026: The Recession Test and Experience Debt" section
+- `wiki/cesifo-recent-grads-unemployment.md` — Recession timing as an explanation for the unemployment null
+- `wiki/canaries-coal-mine-brynjolfsson.md` — Flagged tension: historical displacement via separations vs. current hiring channel
+- `wiki/labor-market-polarization.md` — Routine jobs disappear in recession steps
+- `wiki/ai-economy-measurement-2026.md` — Gross job losses vs. unemployment
+- `wiki/ai-job-apocalypse-klein.md` — Amodei turns to the Jevons paradox
+- `wiki/nber-data-centers-local-economies.md` — AI construction hiring offsets AI-exposed losses nationally
+- `wiki/work-based-learning.md`, `wiki/cems-augmented-leadership.md`, `wiki/cognitive-debt.md` — Experience debt cross-references (cognitive-debt page marks it as a parallel concept, not corroboration)
+- `wiki/employment-at-anthropic.md` — Experience debt; Amodei's public framing alongside the internal data
+- `wiki/cte-and-ai.md` — Recession test and experience debt
+- `wiki/index.md` — 2 source summary rows, 2 concept rows, 2 Key Themes
+
+**Tension flagged**: Goldman's historical finding that displacement runs through separations vs. Canaries' finding that current AI effects run through reduced hiring (noted on `goldman-ai-displacement-cyclical`, `canaries-coal-mine-brynjolfsson`, `entry-level-labor-market`; reconciliation offered as the wiki's inference, not resolved).
+
+**Total pages created**: 2 | **Total pages updated**: 14

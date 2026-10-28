@@ -2,9 +2,9 @@
 
 **Summary**: An October 2026 Anthropic Institute report (Wilmers, Catipon, Massenkoff & McCrory) on how deep AI-agent adoption has reshaped work inside Anthropic. The junior share of technical hires fell from 27% to 9%. Agent hours outnumber employee hours 6 to 1. Output per person rose sharply, human attention became the bottleneck, and hiring managers now prize autonomy and judgment over domain expertise. It is the wiki's most detailed single-firm case study, and an interested source, since it is Anthropic studying itself.
 
-**Sources**: `raw/blog/How employment is changing at Anthropic.md`
+**Sources**: `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -119,6 +119,11 @@ The authors highlight three Anthropic practices (source: How employment is chang
 3. **Protect the object-level work that builds skill.** If even Anthropic's employees are drifting away from the work that built their expertise, CTE programs and placements must deliberately give students hands-on practice before delegation (see [[work-based-learning]]).
 4. **The employer playbook doesn't reach new entrants.** Redeployment and early-warning systems help incumbents; the authors themselves say they do nothing for those never hired. Pathways into first jobs remain a public and educational responsibility ([[ai-education-policy-and-legislation]]).
 
+## Later Context (October 2026)
+
+- **Experience debt.** [[experience-debt-dayforce]] gives a name, from a cross-company survey, to this report's admission that employees are "removed from the object-level work that originally built their skills": 65% of Dayforce's respondents say their people are losing the ability to do tasks AI now does (source: Is your organisation at risk of 'experience debt' from AI_.md).
+- **Amodei's changed tone.** [[goldman-ai-displacement-cyclical]] reports that Anthropic CEO Dario Amodei moved from warning about losing half of entry-level white-collar jobs (2025) to invoking the Jevons paradox (May 2026) (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). This report's internal data, showing the junior share of technical hires falling from 27% to 9%, sit alongside that more optimistic public framing.
+
 ---
 
 ## Related pages
@@ -138,3 +143,5 @@ The authors highlight three Anthropic practices (source: How employment is chang
 - [[applied-co-intelligence-model]]
 - [[ai-education-policy-and-legislation]]
 - [[cte-and-ai]]
+- [[experience-debt-dayforce]]
+- [[goldman-ai-displacement-cyclical]]

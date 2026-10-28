@@ -2,9 +2,9 @@
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
-**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/Agentivism.pdf`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -173,6 +173,10 @@ The concept is theoretically well-grounded but empirically nascent.
 
 [[graduating-into-disruption-census]] proposes a mechanism linking this page's concern to hiring. If AI raises measured performance (grades, assignments, work samples) without building the underlying skill, those signals become less informative to employers — and new graduates, who have little else to show, bear the cost. The authors cite studies finding AI availability raises grades most in homework-heavy, AI-exposed courses, and secondary-school evidence that unrestricted AI raises assignment performance while lowering later learning (source: Gradiating into Disruption.pdf). This is the first labor-economics source in the wiki to connect the learning-performance gap to labor-market outcomes. The authors present it as a plausible channel, not an established one.
 
+## An Organizational Analogue: "Experience Debt" (October 2026)
+
+[[experience-debt-dayforce]] describes "experience debt," the future capability cost when AI removes the learning-by-doing that builds expertise; 65% of Dayforce's survey respondents say their people are losing the ability to do tasks AI now does for them (source: Is your organisation at risk of 'experience debt' from AI_.md). It shares cognitive debt's structure (short-term gain, deferred capability cost) at the level of organizations. But it is a self-reported survey perception, not a measured neurological effect, so it is a parallel concept rather than corroborating evidence.
+
 ## Related pages
 
 - [[your-brain-on-chatgpt]]
@@ -192,3 +196,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[hardman-cognitive-offloading-paradox]]
 - [[spelhaug-microsoft-elevate]]
 - [[graduating-into-disruption-census]]
+- [[experience-debt-dayforce]]

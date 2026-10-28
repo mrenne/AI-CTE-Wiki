@@ -2,9 +2,9 @@
 
 **Summary**: A 2026 NYT opinion piece by Ezra Klein synthesizing the relational economy thesis (Imas), the Jevons Paradox applied to AI (accountants after VisiCalc), and his own observation that better AI increases demand for human collaboration — while warning that partial displacement is politically harder to address than mass unemployment, and that relational skills are deteriorating precisely when they matter most.
 
-**Sources**: `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`
+**Sources**: `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
 
-**Last updated**: 2026-05-04
+**Last updated**: 2026-10-28
 
 ---
 
@@ -110,6 +110,10 @@ The [[apocalypse-no-galloway]] piece (Scott Galloway, May 8, 2026) directly corr
 
 The two pieces form a converging argument: Klein through economic mechanism, Galloway through observed employment data — both reaching similar conclusions while both flagging distributional harm as the real risk scenario.
 
+## Amodei Turns to the Jevons Paradox (2026)
+
+[[goldman-ai-displacement-cyclical]] reports that Anthropic CEO Dario Amodei, who in 2025 warned AI could eliminate half of entry-level white-collar jobs, invoked the Jevons paradox in May 2026: "If you automate 90% of the job, then everyone does the 10% of the job... And the 10% kind of expands to be 100% of what people do." He kept a caveat that AI "is moving faster than all these previous technologies," so "big disruption" remains possible (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). Goldman's accompanying note still forecasts up to 9% of workers displaced during the transition, concentrated in recessions (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md).
+
 ## Related pages
 
 - [[relational-economy]]
@@ -122,3 +126,4 @@ The two pieces form a converging argument: Klein through economic mechanism, Gal
 - [[ai-economics-scan-2026]]
 - [[apocalypse-no-galloway]]
 - [[bcg-ai-reshapes-jobs]]
+- [[goldman-ai-displacement-cyclical]]
