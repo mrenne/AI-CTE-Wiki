@@ -64,3 +64,4 @@ A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, Aug
 - [[labor-market-polarization]]
 - [[nber-data-centers-local-economies]]
 - [[perkins-v-and-clna]]
+- [[education-to-workforce-data-systems]]

@@ -78,3 +78,4 @@ These are advocacy proposals, not enacted policy. Nebraska's first dedicated CTE
 - [[work-based-learning]]
 - [[employment-at-anthropic]]
 - [[perkins-v-and-clna]]
+- [[education-to-workforce-data-systems]]

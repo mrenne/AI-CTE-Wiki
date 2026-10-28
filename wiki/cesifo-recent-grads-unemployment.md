@@ -75,3 +75,4 @@ On its face this conflicts with [[canaries-coal-mine-brynjolfsson]] (19% employm
 - [[anthropic-labor-market-index]]
 - [[cte-and-ai]]
 - [[goldman-ai-displacement-cyclical]]
+- [[education-to-workforce-data-systems]]

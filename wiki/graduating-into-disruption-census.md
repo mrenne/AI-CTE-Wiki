@@ -154,3 +154,4 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 - [[cesifo-recent-grads-unemployment]]
 - [[ai-labor-demand-41-countries]]
 - [[learning-performance-paradox]]
+- [[education-to-workforce-data-systems]]

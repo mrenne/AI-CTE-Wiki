@@ -1078,3 +1078,14 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Pages updated** (related link to the new page): senate-hearing-ai-k12-education, cte-futures-aci-webinar, applied-co-intelligence-model, applied-co-intelligence-report, aci-three-cte-programs, the four fostering-ai-ready pages, responsive-by-design-career-clusters, ai-education-policy-and-legislation, career-pathways-evidence-gap, cte-and-ai; `wiki/index.md` (concept row); `README.md` (page count 82 → 83)
 
 **Total pages created**: 1 | **Total pages updated**: 16
+
+---
+
+## 2026-10-28 — New concept page: education-to-workforce data systems
+
+**Pages created**:
+- `wiki/education-to-workforce-data-systems.md` — Definition (preschool-through-workforce longitudinal data systems); what linkage enables (Census PSEO/LEHD, 6.7M graduates, job-quality finding invisible to unemployment surveys); what its absence costs (Nebraska earnings question, Bellwether/Britebound 10-state work-based-learning finding, Kentucky/Colorado models); the wider measurement problem (BLS lag, shrinking federal capacity, unrepresentative private data, SOC codes); table of which dataset sees what (PSEO/LEHD, ADP, CPS, Revelio) and how this explains the CESifo-vs-Census gap; proposals (ALI, Senate data bill, Perkins V); caveats, including that no wiki source covers the privacy and governance of record linkage (marked as needing a source); CTE implications (wiki inference)
+
+**Pages updated** (related link to the new page): career-pathways-evidence-gap, graduating-into-disruption-census, ai-economy-measurement-2026, cesifo-recent-grads-unemployment, stanford-del-ai-economic-indicators, perkins-v-and-clna (also inline link from its outcome-data implication), work-based-learning, ai-education-policy-and-legislation, fostering-ai-ready-cultivating-resources, entry-level-labor-market, cte-and-ai; `wiki/index.md` (concept row); `README.md` (page count 83 → 84)
+
+**Total pages created**: 1 | **Total pages updated**: 13

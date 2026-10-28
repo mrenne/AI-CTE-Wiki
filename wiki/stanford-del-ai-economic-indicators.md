@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -142,3 +142,4 @@ The capital share signal is consistent with the pattern that would precede a lab
 - [[canaries-coal-mine-brynjolfsson]]
 - [[graduating-into-disruption-census]]
 - [[entry-level-labor-market]]
+- [[education-to-workforce-data-systems]]

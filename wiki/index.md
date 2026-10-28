@@ -98,6 +98,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[work-based-learning]] | Concept page: internships, apprenticeships, and employer-embedded training as the proposed answer to AI eroding the entry-level training ground — models (Alabama Data Scholars, Meta academy), the design problem AI creates inside WBL, and the thin outcome evidence |
 | [[learning-performance-paradox]] | Concept page: AI raises short-term performance while weakening durable learning — definition, work AI vs. learning AI, classroom evidence (and where the Khanmigo trial doesn't fit), workplace and hiring-signal analogs, CTE implications |
 | [[perkins-v-and-clna]] | Concept page: Perkins V (federal CTE funding law) and its Comprehensive Local Needs Assessment — what the sources say it requires, the CTE field's case for using it as the AI-alignment vehicle, Perkins-funded AI capacity in Tennessee, Title II/IV, and the missing outcome evidence |
+| [[education-to-workforce-data-systems]] | Concept page: linking education records to employment and earnings — what linkage enables (Census PSEO/LEHD), what its absence costs (Nebraska earnings question, 10 states tracking work-based learning 10 ways), the wider AI-measurement data problem, which dataset sees what, federal proposals |
 | [[experience-debt-dayforce]] | Source summary: experience debt as the organization-level name for AI eroding learning-by-doing; parallels cognitive debt |
 
 ### Labor Market Analysis

@@ -162,3 +162,4 @@ The Census paper finds most exposed graduates recover within two years, but the 
 - [[employment-at-anthropic]]
 - [[goldman-ai-displacement-cyclical]]
 - [[experience-debt-dayforce]]
+- [[education-to-workforce-data-systems]]

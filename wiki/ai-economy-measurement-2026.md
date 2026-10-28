@@ -72,3 +72,4 @@ Two September 2026 sources sharpen this page's theme. [[cesifo-recent-grads-unem
 - [[ai-labor-demand-41-countries]]
 - [[cesifo-recent-grads-unemployment]]
 - [[goldman-ai-displacement-cyclical]]
+- [[education-to-workforce-data-systems]]

@@ -64,7 +64,7 @@ These are the wiki's inferences, not claims made by the sources.
 1. **The CLNA's labor-market step is where new AI evidence belongs.** The wiki holds occupation-level sources that could feed it: the [[stanford-del-ai-economic-indicators]] Canaries dashboard, the [[anthropic-labor-market-index]], and the [[entry-level-labor-market]] synthesis. The entry-level evidence suggests looking past total occupation headcount to hiring of new entrants, which can fall while an occupation grows ([[bcg-ai-reshapes-jobs]]).
 2. **Disaggregation is the equity check.** Disaggregated indicators are where AI-driven stratification would show up, for example if AI-tool access or work-based-learning placements split along income lines.
 3. **Employer consultation should ask about tools and tasks, not just job titles.** The webinar's point that employers use AI tools educators have never heard of suggests consultation should cover how work is changing inside occupations ([[cte-and-ai]], [[work-based-learning]]).
-4. **Outcome data is the missing half.** A needs assessment says what to build; it cannot say whether it worked. Linking CLNA decisions to graduate employment and earnings data would address the evidence gap above.
+4. **Outcome data is the missing half.** A needs assessment says what to build; it cannot say whether it worked. Linking CLNA decisions to graduate employment and earnings data would address the evidence gap above (see [[education-to-workforce-data-systems]]).
 
 ## Related pages
 
@@ -85,3 +85,4 @@ These are the wiki's inferences, not claims made by the sources.
 - [[stanford-del-ai-economic-indicators]]
 - [[anthropic-labor-market-index]]
 - [[cte-and-ai]]
+- [[education-to-workforce-data-systems]]
