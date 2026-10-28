@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-10-28
 
 ---
 
@@ -91,3 +91,4 @@ He frames the goal as protecting "human agency and the dignity of work and human
 - [[applied-co-intelligence-model]]
 - [[your-brain-on-chatgpt]]
 - [[labor-market-polarization]]
+- [[ai-literacy]]

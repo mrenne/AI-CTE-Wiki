@@ -223,3 +223,4 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[hardman-cognitive-offloading-paradox]]
 - [[senate-hearing-ai-k12-education]]
 - [[learning-performance-paradox]]
+- [[ai-literacy]]

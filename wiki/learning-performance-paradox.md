@@ -86,3 +86,4 @@ These are the wiki's inferences from the sources above, not claims made by them.
 - [[applied-co-intelligence-model]]
 - [[ai-mastery-continuum]]
 - [[cte-and-ai]]
+- [[ai-literacy]]

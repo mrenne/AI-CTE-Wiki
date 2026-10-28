@@ -1,10 +1,10 @@
-﻿# AI Labor Disruption Segments
+# AI Labor Disruption Segments
 
 **Summary**: BCG Henderson Institute's six-category framework for classifying all US jobs by their exposure to AI — the most granular occupational taxonomy currently available, distinguishing between roles that will be amplified, rebalanced, diverged, substituted, enabled, or left with limited AI exposure.
 
-**Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`
+**Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-10-28
 
 ---
 
@@ -26,7 +26,7 @@ The result is six distinct segments, not a spectrum. A role's landing point depe
 
 **What happens**: AI dramatically increases individual productivity; demand expands to absorb gains; headcount holds or grows despite efficiency improvement.
 
-**Canonical example**: Software engineers. Coding AI doubled output per engineer; cost per software feature fell; businesses purchased more software; engineering headcount increased post-ChatGPT. The Jevons Paradox operating as theory predicts.
+**Canonical example**: Software engineers. Coding AI doubled output per engineer; cost per software feature fell; businesses purchased more software; engineering headcount increased post-ChatGPT. The Jevons Paradox operating as theory predicts. *Qualification (October 2026)*: total headcount rose, but entry-level hiring into software fell sharply; for new entrants software looks more Divergent than Amplified (wiki inference; see [[bcg-ai-reshapes-jobs]] and the section below).
 
 **Worker experience**: Highest upside. Skills compound with AI. "AI fluency" becomes a force multiplier for already-skilled workers.
 
@@ -125,6 +125,18 @@ The segment a role lands in is not determined solely by automation potential. Tw
 
 This is why BCG's framework is more useful for workforce planning than automation-potential-only analyses. See [[bcg-ai-reshapes-jobs]] for the full methodology. The Jevons Paradox connection is analyzed in [[apocalypse-no-galloway]] and [[ai-job-apocalypse-klein]].
 
+## Newer Evidence on the Divergent Pattern (2026)
+
+BCG's Divergent segment was a projection in April 2026. Three later sources measure the pattern it describes, junior roles shrinking while senior roles hold or grow:
+
+| Source | Finding | Fit with Divergent |
+|---|---|---|
+| [[ai-labor-demand-41-countries]] (Sep 2026) | At AI-adopting firms the junior share of employment falls 1.9 points, mainly because senior employment grows 6.7%; within occupations the junior share fell in 16 of 22 groups, most in legal (−4.9 points), computer and math (−3.3), and business and financial operations (−3.2) (source: HowDoesAIChangeLaborDemand.pdf) | Direct: senior growth plus junior squeeze, in the same fields as BCG's examples (legal associates, analysts) |
+| [[employment-at-anthropic]] (Oct 2026) | Junior share of technical hires fell from 27% to 9% as AI agents took on more work (source: How employment is changing at Anthropic.md) | A single AI-native firm showing the pattern inside one company |
+| [[graduating-into-disruption-census]] (Sep 2026) | Graduates of the most AI-exposed majors lost about 5 points of initial employment and 13% of initial earnings (source: Gradiating into Disruption.pdf) | The pipeline cost: new entrants start lower |
+
+Two refinements to BCG's framing. First, the 41-country study finds junior employment *barely falls* at adopting firms; the junior share drops mostly because senior hiring grows (source: HowDoesAIChangeLaborDemand.pdf). Divergence can come from the top as well as the bottom. Second, the same occupation can sit in different segments for different workers: software may be Amplified for experienced engineers and Divergent for new entrants (wiki inference). See [[entry-level-labor-market]] for the full evidence.
+
 ## Related pages
 
 - [[bcg-ai-reshapes-jobs]]
@@ -136,3 +148,7 @@ This is why BCG's framework is more useful for workforce planning than automatio
 - [[applied-co-intelligence-model]]
 - [[ai-job-apocalypse-klein]]
 - [[apocalypse-no-galloway]]
+- [[ai-labor-demand-41-countries]]
+- [[employment-at-anthropic]]
+- [[graduating-into-disruption-census]]
+- [[entry-level-labor-market]]

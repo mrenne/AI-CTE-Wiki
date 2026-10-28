@@ -1,10 +1,10 @@
-﻿# Stanford HAI AI Index 2026: Chapter 7 — Education
+# Stanford HAI AI Index 2026: Chapter 7 — Education
 
 **Summary**: Stanford HAI's AI Index 2026 Chapter 7 provides the most comprehensive quantitative snapshot of AI in education as of 2026 — covering CS enrollment shifts, student AI use rates, K-12 policy gaps, global comparisons, and AI skill diffusion in the workforce.
 
 **Sources**: `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -59,7 +59,7 @@ Notably, the new **CSTA K-12 Computer Science Standards** (expected summer 2026)
 
 The international picture reveals significant variation in AI education policy commitment:
 
-- **China and UAE** mandated AI education for all students at the K-12 level in 2025–2026
+- **China and UAE** mandated AI education starting in the 2025–26 school year (the chapter describes China's requirement as beginning in Beijing, Guangdong, and Hangzhou)
 - **India** leads all countries in LinkedIn AI skill penetration — approximately 3x the global average
 - **United States** is at approximately 2x the global average — behind India but above most countries
 
@@ -116,3 +116,4 @@ This employer-led ecosystem is not yet coordinated or widespread. It is a collec
 - [[ai-labor-disruption-segments]]
 - [[small-language-models]]
 - [[berwick-employers-ai-education-gap]]
+- [[ai-literacy]]

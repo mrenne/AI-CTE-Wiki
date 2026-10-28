@@ -1089,3 +1089,22 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Pages updated** (related link to the new page): career-pathways-evidence-gap, graduating-into-disruption-census, ai-economy-measurement-2026, cesifo-recent-grads-unemployment, stanford-del-ai-economic-indicators, perkins-v-and-clna (also inline link from its outcome-data implication), work-based-learning, ai-education-policy-and-legislation, fostering-ai-ready-cultivating-resources, entry-level-labor-market, cte-and-ai; `wiki/index.md` (concept row); `README.md` (page count 83 → 84)
 
 **Total pages created**: 1 | **Total pages updated**: 13
+
+---
+
+## 2026-10-28 — Lint fixes and new concept page: AI literacy
+
+**Lint fixes applied** (items 1-3 of the second 2026-10-28 lint):
+1. `wiki/labor-market-polarization.md`, `wiki/ai-labor-disruption-segments.md` — Software "headcount rose" example qualified (entry-level hiring into software fell), pointing to the BCG update
+2. `wiki/anthropic-labor-market-index.md` — Canaries 16% figure noted as revised to 19% in the August 2026 update
+3. `wiki/ai-mastery-continuum.md` — New section "Workplace Evidence for the Upper Levels": Anthropic meta-work (10% → 22%), standing instructions, hiring for judgment and creative AI use, human review as bottleneck; IBM prompt-engineering quote; single-firm caveat. `wiki/ai-labor-disruption-segments.md` — New section "Newer Evidence on the Divergent Pattern": 41-country study, Anthropic, Census table; refinement that divergence comes mainly from senior growth (wiki inference on Amplified-vs-Divergent split by experience)
+
+**Pages created**:
+- `wiki/ai-literacy.md` — Stanford three-way distinction; six-definition comparison table; consensus (critical evaluation, not prompting tactics, knowing failure modes); disagreements (floor vs. goal, stand-alone vs. embedded, understanding vs. use); evidence (no studies per Stanford SCALE; Walters State cohort comparison and Nurenberg practitioner account; students evaluate answers at chance); providers (schools, employers) and equity; why literacy may not be enough; CTE implications (wiki inference)
+
+**Checked against raw sources while writing**:
+- Stanford AI Index: China/UAE mandates start in 2025-26; the chapter body describes China's requirement as beginning in Beijing, Guangdong, and Hangzhou. `wiki/stanford-ai-index-education-2026.md` said "for all students at the K-12 level"; corrected to match. Teacher training: the report says there are "no state-level standards for programs or funding"
+
+**Pages updated** (related link to the new page): stanford-ai-index-education-2026, middle-path-ai-literacy-nurenberg, senate-hearing-ai-k12-education, berwick-employers-ai-education-gap, sinead-bovell-job-market, transferable-skills, cte-futures-aci-webinar, aci-three-cte-programs, quanthub-data-scholars-2026-update, evidence-base-ai-k12, applied-co-intelligence-model, ai-in-k12-education, cte-and-ai, spelhaug-microsoft-elevate, columbia-cs-ai-disruption, learning-performance-paradox; `wiki/index.md` (concept row); `README.md` (page count 84 → 85)
+
+**Total pages created**: 1 | **Total pages updated**: 21

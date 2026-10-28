@@ -4,7 +4,7 @@
 
 **Sources**: `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-10-28
 
 ---
 
@@ -169,3 +169,4 @@ This supports the long-run argument against mass unemployment: the AI era is alr
 - [[agentivism]]
 - [[cognitive-debt]]
 - [[brad-smith-ai-jobs-next-generation]]
+- [[ai-literacy]]

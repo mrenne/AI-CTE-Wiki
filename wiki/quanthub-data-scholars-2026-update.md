@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/Preparing Students for AI & Data Careers.md`
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-10-28
 
 ---
 
@@ -57,3 +57,4 @@ This source deepens rather than contradicts [[senate-hearing-ai-k12-education]]'
 - [[cems-augmented-leadership]]
 - [[ai-privacy-and-institutional-adoption]]
 - [[work-based-learning]]
+- [[ai-literacy]]

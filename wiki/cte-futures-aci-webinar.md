@@ -156,3 +156,4 @@ The webinar's fourth obstacle, no longitudinal evidence on CTE wage outcomes, ha
 - [[stanford-ai-index-education-2026]]
 - [[relational-economy]]
 - [[career-pathways-evidence-gap]]
+- [[ai-literacy]]

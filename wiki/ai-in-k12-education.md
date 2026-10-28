@@ -143,3 +143,4 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[spelhaug-microsoft-elevate]]
 - [[one-click-away-khanmigo-rct]]
 - [[learning-performance-paradox]]
+- [[ai-literacy]]

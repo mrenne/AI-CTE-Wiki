@@ -1,10 +1,10 @@
-﻿# AI Mastery Continuum
+# AI Mastery Continuum
 
 **Summary**: A four-level developmental framework from the Applied Co-Intelligence report for tracking a CTE learner's progression from basic AI awareness to the ability to critique, adapt, and innovate with AI tools within an occupational context.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-04-25
+**Last updated**: 2026-10-28
 
 ---
 
@@ -70,6 +70,18 @@ The report argues against stand-alone "AI 101" courses in favor of embedding AI 
 1. AI use cases vary by CTE cluster — generative AI dominates Arts/Design/Marketing while machine learning and sensor technology dominate Agriculture and Construction
 2. Domain expertise is what separates a novice AI user from an expert co-intelligent partner — an automotive student can judge an AI diagnostic tool only by comparing its output against their own technical knowledge
 
+## Workplace Evidence for the Upper Levels (October 2026)
+
+The continuum was built for CTE classrooms, and its Agency and Mastery levels were defined before the wiki had workplace data on what advanced AI use looks like. [[employment-at-anthropic]] supplies some, from one AI-native firm (source: How employment is changing at Anthropic.md):
+
+- **Directing AI rather than doing the task.** Work on building tools, writing specs, reviewing agents, and monitoring pipelines rose from 10% to 22% of employees' AI sessions between fall 2025 and spring 2026, and written standing instructions for agents grew from a few hundred to 8,500 in a year. This resembles Agency (selecting and configuring tools with judgment) and Mastery (adapting and building on AI systems).
+- **Hiring for judgment.** Hiring-manager comments on candidates' creative use of AI tripled for technical roles and quadrupled for non-technical roles between 2024 and 2026; for technical hires, comments on autonomy and judgment rose while discussion of domain expertise shrank.
+- **Human review is the bottleneck.** AI agents spend about 80% of their time waiting for human input. The scarce skill is evaluating and directing AI output, which is the critical acumen the continuum places at Fluency and above.
+
+Employer sources point the same way from the other end. IBM's global chief impact officer: "It is not enough to understand prompt engineering. That's very basic and that's where a lot of people are right now" (source: Employers step in to fill the AI education gap.md; see [[berwick-employers-ai-education-gap]]).
+
+*Caveat*: Anthropic is an unusual, AI-native company studying itself, and its work is mostly software and knowledge work rather than the physical and relational occupations most CTE programs serve. The parallel to the continuum is the wiki's inference. See also [[ai-literacy]].
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -77,3 +89,6 @@ The report argues against stand-alone "AI 101" courses in favor of embedding AI 
 - [[agentivism]]
 - [[cte-and-ai]]
 - [[transferable-skills]]
+- [[employment-at-anthropic]]
+- [[berwick-employers-ai-education-gap]]
+- [[ai-literacy]]

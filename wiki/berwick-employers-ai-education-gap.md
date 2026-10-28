@@ -4,7 +4,7 @@
 
 **Sources**: `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-06-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -111,3 +111,4 @@ Other free AI training resources mentioned: Anthropic Academy, Google AI Pro stu
 - [[broken-ladder]]
 - [[relational-economy]]
 - [[work-based-learning]]
+- [[ai-literacy]]

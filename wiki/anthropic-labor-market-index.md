@@ -1,10 +1,10 @@
-﻿# Anthropic Labor Market Index
+# Anthropic Labor Market Index
 
 **Summary**: An Anthropic research report (Massenkoff & McCrory, 2026) introducing *observed exposure* — a new metric combining theoretical LLM capability with actual Claude usage data — and finding no detectable unemployment impact so far, but suggestive evidence that hiring of young workers into AI-exposed occupations has slowed by 14%.
 
 **Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/PDF/The Broken Ladder.pdf`
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -127,7 +127,7 @@ Stanford Digital Economy Lab's Canaries Dashboard (Brynjolfsson et al., June 202
 
 This finding also provides a partial response to the [[broken-ladder]] WFH confound concern: Lambert & Schindler's critique applies to total exposure measures that conflate automation and augmentation. The automation/augmentation decomposition is a different analytical handle that the WFH confound argument does not directly address. (source: AIEI_RN01_Jun26.pdf)
 
-**The underlying academic paper**: [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) is the working paper the Canaries Dashboard research note above is built on. It reports a directly comparable but distinct figure — a **16% relative employment decline** for 22-25 year-olds in the most AI-exposed occupations (versus this page's 14% hiring-rate slowdown) — using a firm-time fixed-effects design on ADP payroll data rather than this paper's Claude-usage-based observed-exposure measure. The two studies use different datasets, different outcome variables (hiring rate vs. headcount), and different methodologies, yet converge on the same early-career-specific pattern — a meaningful cross-validation from largely independent data sources.
+**The underlying academic paper**: [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) is the working paper the Canaries Dashboard research note above is built on. It reports a directly comparable but distinct figure — a **16% relative employment decline** for 22-25 year-olds in the most AI-exposed occupations (revised to 19% in the paper's August 2026 update; see [[canaries-coal-mine-brynjolfsson]]) (versus this page's 14% hiring-rate slowdown) — using a firm-time fixed-effects design on ADP payroll data rather than this paper's Claude-usage-based observed-exposure measure. The two studies use different datasets, different outcome variables (hiring rate vs. headcount), and different methodologies, yet converge on the same early-career-specific pattern — a meaningful cross-validation from largely independent data sources.
 
 ## Same Authors, Inside Anthropic (October 2026)
 

@@ -1,4 +1,4 @@
-﻿# Labor Market Polarization
+# Labor Market Polarization
 
 **Summary**: The documented trend in which technological change eliminates middle-skill jobs while expanding both high-skill/high-wage and low-skill/low-wage employment — a phenomenon that AI is accelerating and potentially extending to previously "non-routine" cognitive work.
 
@@ -93,7 +93,7 @@ BCG Henderson Institute (April 2026) offers the most operationally specific occu
 
 **Only 12%** (Substituted segment) face genuine headcount contraction — roles where AI replaces the core function AND demand is bounded (call center reps, routine data entry). This is a dramatically more optimistic figure than the Frey & Osborne "47% at risk" estimate.
 
-**A critical split within high-automation roles**: Software engineers (high automation, expandable demand) are Amplified — headcount rose after ChatGPT. Call center reps (high automation, bounded demand) are Substituted. The same automation exposure produces opposite employment outcomes depending on demand structure. This is the Jevons Paradox operating as an empirical fact, not a theoretical claim.
+**A critical split within high-automation roles**: Software engineers (high automation, expandable demand) are Amplified — total headcount rose after ChatGPT, although hiring of juniors into software fell sharply over the same period (see the October 2026 update on [[bcg-ai-reshapes-jobs]]). Call center reps (high automation, bounded demand) are Substituted. The same automation exposure produces opposite employment outcomes depending on demand structure. This is the Jevons Paradox operating as an empirical fact, not a theoretical claim.
 
 **The entry-level concentration mechanism**: BCG's Divergent segment (12%) reveals the most consequential near-term pattern — AI automates junior tasks first, while senior roles persist. This creates a hiring pipeline problem: fewer entry-level positions means fewer workers building the experience base needed to reach senior roles. BCG's phrase: "AI fluency may become an increasingly important complement to tenure." This is the mechanism behind the [[anthropic-labor-market-index]] finding of a 14% hiring slowdown for workers aged 22–25. (source: ai-will-reshape-more-jobs-than-it-replaces.pdf)
 

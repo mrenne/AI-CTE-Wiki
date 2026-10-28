@@ -1,10 +1,10 @@
-﻿# The Middle Path of AI Literacy (Nurenberg, 2026)
+# The Middle Path of AI Literacy (Nurenberg, 2026)
 
 **Summary**: A first-person practitioner account by a high school English teacher who used AI itself as the curriculum object — having students discover AI's failures through direct comparison — and replaced AI bans with AI audits requiring students to demonstrate critical evaluation of every tool they used.
 
 **Sources**: `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-10-28
 
 ---
 
@@ -120,3 +120,4 @@ The Nurenberg piece is the only practitioner-level account in the wiki of a sust
 - [[cte-and-ai]]
 - [[stanford-ai-index-education-2026]]
 - [[senate-hearing-ai-k12-education]]
+- [[ai-literacy]]
