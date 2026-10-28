@@ -1,10 +1,10 @@
-﻿# BCG: AI Will Reshape More Jobs Than It Replaces
+# BCG: AI Will Reshape More Jobs Than It Replaces
 
 **Summary**: BCG Henderson Institute (April 2026) provides the most granular occupational taxonomy of AI's labor market impact to date — a six-segment framework applied to 165 million US jobs — finding that 50–55% of roles will be substantially reshaped within 2–3 years, while only 10–15% face elimination in 4–5 years.
 
-**Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`
+**Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-05-13
+**Last updated**: 2026-10-28
 
 ---
 
@@ -41,6 +41,14 @@ BCG's most analytically distinctive contribution is applying the **Jevons Parado
 - **Call center reps (Substituted)**: AI automates calls; cost per call falls; but total customer service demand does not expand proportionally; headcount contracts
 
 The key question for any role is: *is there unmet demand that lower costs can unlock?* (source: ai-will-reshape-more-jobs-than-it-replaces.pdf)
+
+**Update (October 2026): total headcount and entry-level hiring are moving in different directions.** BCG's software example measures total employment. Later sources show that hiring of juniors into the same field fell sharply even as the field grew:
+
+- Recent graduates in computer science and related majors saw the largest declines in starting employment and pay (source: Gradiating into Disruption.pdf; see [[graduating-into-disruption-census]]).
+- At AI-adopting firms across 41 countries, computer and math occupations grew overall while their junior share fell 3.3 points (source: HowDoesAIChangeLaborDemand.pdf; see [[ai-labor-demand-41-countries]]).
+- At Anthropic, the junior share of technical hires fell from 27% to 9% (source: How employment is changing at Anthropic.md; see [[employment-at-anthropic]]).
+
+These findings do not contradict BCG's headcount claim, but they qualify it: an "Amplified" occupation can expand while its entry point narrows. In BCG's own terms, software engineering may behave as Amplified for experienced workers and Divergent for new entrants (wiki inference, not BCG's claim). See [[entry-level-labor-market]].
 
 This is the mechanism Jevons identified for coal in the 1860s and is the analytical basis for the optimistic scenarios in [[apocalypse-no-galloway]] and [[ai-job-apocalypse-klein]].
 
@@ -99,3 +107,6 @@ BCG explicitly notes what this analysis does *not* do:
 - [[apocalypse-no-galloway]]
 - [[ai-economics-scan-2026]]
 - [[entry-level-labor-market]]
+- [[graduating-into-disruption-census]]
+- [[ai-labor-demand-41-countries]]
+- [[employment-at-anthropic]]

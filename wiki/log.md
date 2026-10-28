@@ -1,4 +1,4 @@
-﻿# Wiki Log
+# Wiki Log
 
 Append-only record of all operations.
 
@@ -1030,3 +1030,19 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Tension flagged**: Goldman's historical finding that displacement runs through separations vs. Canaries' finding that current AI effects run through reduced hiring (noted on `goldman-ai-displacement-cyclical`, `canaries-coal-mine-brynjolfsson`, `entry-level-labor-market`; reconciliation offered as the wiki's inference, not resolved).
 
 **Total pages created**: 2 | **Total pages updated**: 14
+
+---
+
+## 2026-10-28 — Lint fixes and new concept page
+
+**Lint fixes applied** (items 1-3 of the 2026-10-28 lint):
+1. `wiki/bcg-ai-reshapes-jobs.md` — Dated update qualifying the "software headcount rose" example: total headcount grew while entry-level hiring into software fell (Census graduate study, 41-country study, Anthropic). Framed as a qualification, not a contradiction; the Amplified-for-seniors / Divergent-for-entrants reading is marked as wiki inference. `README.md` — matching clause added to the "Only 12% of US jobs" paragraph
+2. `wiki/entry-level-labor-market.md` and `wiki/index.md` — "eight sources" corrected to "thirteen" (matches the evidence table)
+3. `wiki/ai-in-k12-education.md` — Khanmigo RCT added to The Evidence Gap (first large US K-12 randomized trial) and to Lessons from Khanmigo; source header and related links updated
+
+**Pages created**:
+- `wiki/learning-performance-paradox.md` — Concept page: definition, work AI vs. learning AI, evidence table (Bastani, Fischer, Kosmyna, Socratic-chatbot studies, prompt guardrails), where the evidence is less clean (Khanmigo RCT shows help-avoidance rather than over-reliance; Zone 3 design), workplace/hiring-signal/organizational analogs, relation to cognitive debt, agentivism, illusion of understanding, CTE implications (marked as wiki inference)
+
+**Pages updated** (related link to the new page): building-ai-companions, cognitive-debt, agentivism, ai-tutoring, evidence-base-ai-k12, graduating-into-disruption-census, one-click-away-khanmigo-rct, khanmigo, hardman-ai-faster-slower, experience-debt-dayforce, work-based-learning, illusion-of-understanding, cte-and-ai, ai-in-k12-education; `wiki/index.md` (concept row); `README.md` (page count 81 → 82)
+
+**Total pages created**: 1 | **Total pages updated**: 18

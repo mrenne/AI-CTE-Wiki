@@ -1,4 +1,4 @@
-﻿# CTE and AI
+# CTE and AI
 
 **Summary**: An overview of the opportunities and risks that AI poses for Career and Technical Education, the learners it serves, and the programs designed to prepare them for the workforce.
 
@@ -333,3 +333,4 @@ It is Anthropic studying itself, so it is an illustrative, interested source.
 - [[employment-at-anthropic]]
 - [[goldman-ai-displacement-cyclical]]
 - [[experience-debt-dayforce]]
+- [[learning-performance-paradox]]

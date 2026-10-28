@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/One Click Away.pdf` (Oreopoulos & Low, NBER Working Paper 35620, August 2026), `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/blog/The education of Sal Khan and the limits of his chatbot.md`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -67,3 +67,4 @@ The design cannot isolate the AI tutor's marginal contribution from the rest of 
 - [[applied-co-intelligence-model]]
 - [[aci-three-cte-programs]]
 - [[ai-agents-k12-meta-analysis]]
+- [[learning-performance-paradox]]

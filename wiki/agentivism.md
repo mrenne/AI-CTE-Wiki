@@ -1,10 +1,10 @@
-﻿# Agentivism
+# Agentivism
 
 **Summary**: A 2026 learning theory by Yan and Gašević that defines learning in the AI era as durable human capability growth through selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced AI support.
 
 **Sources**: `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/PDF/Building AI Companions.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/blog/The secret to human ‘brilliance’ that AI just can’t match.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-10-28
 
 ---
 
@@ -151,3 +151,4 @@ Nurenberg's [[middle-path-ai-literacy-nurenberg]] classroom account provides a c
 - [[cems-augmented-leadership]]
 - [[satisficing-and-tolerance-principle]]
 - [[human-brilliance-satisficing]]
+- [[learning-performance-paradox]]

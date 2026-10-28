@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Sixty-one source documents ingested so far (60 distinct works, with the Canaries paper in two versions), producing 81 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Sixty-one source documents ingested so far (60 distinct works, with the Canaries paper in two versions), producing 82 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 
@@ -38,7 +38,7 @@ Sixty-one source documents ingested so far (60 distinct works, with the Canaries
 
 ### On labor markets
 
-**Only 12% of US jobs face true substitution.** BCG Henderson Institute's 2026 analysis of 165 million US jobs across 1,500 occupational roles finds only 12% (the "Substituted" segment) face genuine headcount contraction — roles where AI replaces the core function *and* demand is bounded. The widely-cited Frey & Osborne figure of 47% at risk ignored demand expandability: when AI lowers the cost of a service, demand may expand to absorb the productivity gain (Jevons Paradox). Software engineering is the canonical case — coding AI doubled output per engineer, software got cheaper, and headcount *rose* after ChatGPT.
+**Only 12% of US jobs face true substitution.** BCG Henderson Institute's 2026 analysis of 165 million US jobs across 1,500 occupational roles finds only 12% (the "Substituted" segment) face genuine headcount contraction — roles where AI replaces the core function *and* demand is bounded. The widely-cited Frey & Osborne figure of 47% at risk ignored demand expandability: when AI lowers the cost of a service, demand may expand to absorb the productivity gain (Jevons Paradox). Software engineering is the canonical case — coding AI doubled output per engineer, software got cheaper, and total headcount *rose* after ChatGPT. Later sources qualify this: hiring of juniors into software fell sharply even as the field grew, so an occupation can expand while its entry point narrows.
 
 **The disruption is hitting educated white-collar workers first, not CTE-track workers.** Anthropic's observed-exposure data shows that the most AI-exposed workers are on average 47% higher-paid and four times more likely to hold graduate degrees than zero-exposure workers. BCG's "Limited-Exposure" segment (34% of US jobs) — defined by physical presence, sustained human interaction, and contextual judgment in variable settings — maps almost exactly onto CTE pipelines: healthcare, skilled trades, early childhood education, construction, personal services.
 

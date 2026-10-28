@@ -1,10 +1,10 @@
-﻿# The Evidence Base on AI in K–12 Education
+# The Evidence Base on AI in K–12 Education
 
 **Summary**: A 2026 systematic review by Stanford SCALE of 818 papers on AI in K–12 education — only 20 meet the bar for strong causal evidence, and zero are high-quality causal studies of student learning in U.S. K–12 settings.
 
 **Sources**: `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-10-28
 
 ---
 
@@ -222,3 +222,4 @@ This report is the most comprehensive causal evidence base for claims made acros
 - [[hardman-ai-faster-slower]]
 - [[hardman-cognitive-offloading-paradox]]
 - [[senate-hearing-ai-k12-education]]
+- [[learning-performance-paradox]]

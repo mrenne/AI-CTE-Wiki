@@ -1,10 +1,10 @@
-﻿# AI Tutoring
+# AI Tutoring
 
 **Summary**: The use of AI systems to provide personalized, interactive instruction to students — an approach that has shown limited real-world adoption despite technical promise, and which raises fundamental questions about whether AI-assisted interaction constitutes genuine learning.
 
 **Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Agentivism.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/misc/Meta-analysis on the influence of AI agents on K-12 student cognitive performance.md`, `raw/PDF/Building AI Companions.pdf`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -172,3 +172,4 @@ The difference between beneficial and harmful AI interaction in these contexts a
 - [[building-ai-companions]]
 - [[illusion-of-understanding]]
 - [[one-click-away-khanmigo-rct]]
+- [[learning-performance-paradox]]

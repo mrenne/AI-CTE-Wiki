@@ -1,10 +1,10 @@
-﻿# Khanmigo
+# Khanmigo
 
 **Summary**: Khan Academy's AI-powered tutoring chatbot, built on GPT-4, designed to guide students toward answers through Socratic dialogue — but which has struggled to achieve meaningful adoption among the students who need it most.
 
 **Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Building AI Companions.pdf`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-10-28
 
 ---
 
@@ -79,3 +79,4 @@ This matches the ICAP cognitive engagement hierarchy (Interactive > Constructive
 - [[building-ai-companions]]
 - [[cognitive-debt]]
 - [[one-click-away-khanmigo-rct]]
+- [[learning-performance-paradox]]

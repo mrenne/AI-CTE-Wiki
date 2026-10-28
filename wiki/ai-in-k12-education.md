@@ -1,10 +1,10 @@
-﻿# AI in K-12 Education
+# AI in K-12 Education
 
 **Summary**: An overview of how generative AI is — and isn't — reshaping K-12 schools, with a focus on tutoring, academic integrity, teacher roles, and the early evidence base.
 
-**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-10-28
 
 ---
 
@@ -32,6 +32,8 @@ The [[evidence-base-ai-k12]] report and the [[applied-co-intelligence-report]] b
 
 **A new causal finding that fills part of this gap**: Abdelghani et al. (2026) studied 63 French middle-schoolers (ages 14–15) completing science tasks with ChatGPT. Students could not discriminate good from bad prompts or evaluate answer quality — both at chance level. 71.4% of expert-assessed low-quality answers were rated as "useful." Only 14 of 63 asked any follow-up question. Average task success: M = 0.51, at chance. The study coins the mechanism the "[[illusion-of-understanding]]" — AI fluency is perceptually indistinguishable from accuracy, preventing the metacognitive signals that would normally trigger self-correction. (source: The Illusion of Understanding.pdf)
 
+**The first large US K-12 randomized trial (August 2026)**: the Stanford review's "zero high-quality causal student studies in U.S. K–12" is no longer quite true. Oreopoulos & Low ran a two-year randomized trial of [[khanmigo]] in 18 Tennessee middle schools ([[one-click-away-khanmigo-rct]]). Math scores rose about 0.06–0.08 SD per year, but by about as much as Khan Academy practice predicts *without* the AI tutor. Access was not the problem: 96% of students messaged the tutor at least once. Engagement was: the median student messaged it on only a third of practice days, and only 14.5% of messages contained real mathematical reasoning. The authors conclude that making AI effective for learning "appears to be as much a behavioral challenge as a technological one" (source: One Click Away.pdf). This confirms, at scale, the tutoring-theory disappointment described below.
+
 The National Science Foundation, Spencer Foundation, and US Department of Education have begun investing in this research agenda, but the field remains data-poor (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf). The rapid evolution of AI systems also creates a structural tension: long-term studies risk measuring yesterday's tools (source: The Evidence Base on AI in K-12 Report.pdf).
 
 ## Three Theories of AI's Impact
@@ -50,6 +52,7 @@ The [[khanmigo]] experience provides the clearest real-world test of the tutorin
 - AI as a passive, optional resource will not be sought by students who most need it
 - Embedding AI in structured tasks (as Khan Academy redesigned in 2026) is more effective than standalone availability
 - "Caring adult" relationships — teacher presence and investment — remain irreplaceable for meaningful learning
+- Even when use is built into mandatory class time, students rarely ask the tutor for help; the measured gains track structured, correctly leveled practice rather than conversation with the AI (source: One Click Away.pdf; see [[one-click-away-khanmigo-rct]])
 
 ## Small Language Models: A More Viable Path for Schools?
 
@@ -138,3 +141,5 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[ai-unplugged-murgatroyd]]
 - [[berwick-employers-ai-education-gap]]
 - [[spelhaug-microsoft-elevate]]
+- [[one-click-away-khanmigo-rct]]
+- [[learning-performance-paradox]]

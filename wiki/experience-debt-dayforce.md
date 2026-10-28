@@ -90,3 +90,4 @@ AI can remove repetitive work, but in doing so it can also remove "the repetitio
 - [[your-brain-on-chatgpt]]
 - [[transferable-skills]]
 - [[cte-and-ai]]
+- [[learning-performance-paradox]]

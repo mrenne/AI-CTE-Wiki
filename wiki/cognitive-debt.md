@@ -1,4 +1,4 @@
-﻿# Cognitive Debt
+# Cognitive Debt
 
 **Summary**: The accumulation of long-term cognitive costs — diminished critical inquiry, reduced creativity, narrowed thinking, impaired recall — resulting from habitual reliance on AI tools that defer the effortful cognitive processes required for durable learning and independent thought.
 
@@ -197,3 +197,4 @@ The concept is theoretically well-grounded but empirically nascent.
 - [[spelhaug-microsoft-elevate]]
 - [[graduating-into-disruption-census]]
 - [[experience-debt-dayforce]]
+- [[learning-performance-paradox]]

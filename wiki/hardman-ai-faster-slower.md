@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -146,3 +146,4 @@ Hardman's recommendations, roughly ordered by leverage:
 - [[illusion-of-understanding]]
 - [[cte-and-ai]]
 - [[employment-at-anthropic]]
+- [[learning-performance-paradox]]

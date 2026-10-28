@@ -1,10 +1,10 @@
-﻿# Building AI Companions That Prioritise Learning over Performance
+# Building AI Companions That Prioritise Learning over Performance
 
 **Summary**: A 2026 position paper by Khosravi, Gašević, Yan et al. that names the "learning-performance paradox," establishes a three-foundation framework for educational AI design (Pedagogical, Adaptive, Responsible), and documents what five deployed tutoring systems reveal about the gap between the tutoring systems that feel best and those that teach best.
 
 **Sources**: `raw/PDF/Building AI Companions.pdf`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/blog/The _Cognitive Offloading_ Paradox.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-10-28
 
 ---
 
@@ -211,3 +211,4 @@ This paper is the most comprehensive design synthesis in the wiki on what AI tut
 - [[middle-path-ai-literacy-nurenberg]]
 - [[hardman-ai-faster-slower]]
 - [[hardman-cognitive-offloading-paradox]]
+- [[learning-performance-paradox]]
