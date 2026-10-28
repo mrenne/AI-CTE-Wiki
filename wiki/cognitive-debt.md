@@ -22,7 +22,7 @@ The [[your-brain-on-chatgpt]] study provides both behavioral and neurological ev
 
 **Behavioral evidence**:
 - After three sessions of ChatGPT-assisted essay writing (over 4 months), participants asked to write without tools showed weaker performance than participants with *no prior essay writing experience at all*
-- 78% failed to quote anything from their essay; only 11% produced a correct quote
+- In that Session 4 switch, 78% (7 of 9) failed to quote anything from their essay and only 11% (1 of 9) produced a correct quote. This is distinct from the 83% figure cited elsewhere in the wiki, which is the full ChatGPT group's failure rate in Session 1 (15 of 18) (source: Your Brain on ChatGPT.pdf)
 - Writing converged on narrower sets of ideas — participants reproduced AI-typical perspectives without critically engaging with topics
 
 **Neurological evidence (EEG)**:

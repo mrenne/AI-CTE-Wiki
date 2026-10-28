@@ -1,10 +1,10 @@
-﻿# Your Brain on ChatGPT
+# Your Brain on ChatGPT
 
 **Summary**: An MIT Media Lab study using EEG brain monitoring during essay writing tasks that finds LLM use produces measurably weaker neural connectivity, near-total failure to encode memory of one's own writing, and — after repeated use — a state of "cognitive debt" that impairs independent cognition even after AI is removed.
 
 **Sources**: `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -38,9 +38,9 @@ The most consistent behavioral finding was **quoting ability**: immediately afte
 
 | Condition | Session 1 quoting difficulty | Correct quotes in Session 1 |
 |-----------|-----------------------------|-----------------------------|
-| LLM group | **83%** could not quote | **0%** correct |
-| Search Engine group | Minority | Near-perfect by Session 2 |
-| Brain-only group | Minority | Near-perfect by Session 2 |
+| LLM group | **83%** (15/18) could not quote | **0%** (0/18) correct |
+| Search Engine group | 11% (2/18) could not quote | 83% (15/18) correct; near-perfect by Session 2 |
+| Brain-only group | 11% (2/18) could not quote | 89% (16/18) correct; near-perfect by Session 2 |
 
 (source: Your Brain on ChatGPT.pdf)
 
@@ -67,8 +67,11 @@ Session 4, in which groups switched conditions, produced the study's most striki
 ### LLM-to-Brain (previous ChatGPT users write without tools)
 
 After three sessions of ChatGPT use, participants asked to write without tools showed:
-- **78%** failed to quote anything from their essay
-- Only **11%** produced a correct quote
+- **78%** (7 of 9 reassigned participants) failed to quote anything from their essay
+- Only **11%** (1 of 9) produced a correct quote
+- The reverse group (Brain-only participants switched to ChatGPT) showed the mirror image: 11% failed to quote, 78% quoted correctly (source: Your Brain on ChatGPT.pdf)
+
+**Two different quoting figures.** The wiki cites both 83% and 78% from this study. They are not in conflict: 83% (15/18) is the full LLM group's failure rate in Session 1, immediately after first writing with ChatGPT; 78% (7/9) is the Session 4 failure rate among the smaller subgroup who had used ChatGPT for three sessions and then wrote without it (source: Your Brain on ChatGPT.pdf).
 - Brain connectivity was **weaker than the Brain-only group's Session 1 baseline** — lower even than participants with no prior essay-writing practice
 - Writing focused on a narrower set of ideas, lacking critical engagement with topic nuances
 - Essays scored high by AI judge but showed reduced distinctiveness from default ChatGPT outputs (source: Your Brain on ChatGPT.pdf)
@@ -105,7 +108,7 @@ This maps directly onto [[agentivism]]'s Proposition P6 (repeated low-friction A
 
 ## Relationship to Other Sources
 
-This study is the full version of the Kosmyna et al. (2025) citation in [[evidence-base-ai-k12]]. The recall finding (83% of LLM essay writers couldn't quote their own essays) and the essay writing/brain activity findings cited there now have full mechanistic explanation from EEG data. (source: The Evidence Base on AI in K-12 Report.pdf; Your Brain on ChatGPT.pdf)
+This study is the full version of the Kosmyna et al. (2025) citation in [[evidence-base-ai-k12]]. The recall finding (83% of LLM essay writers couldn't quote their own essays in Session 1) and the essay writing/brain activity findings cited there now have full mechanistic explanation from EEG data. (source: The Evidence Base on AI in K-12 Report.pdf; Your Brain on ChatGPT.pdf)
 
 The cognitive debt finding in Session 4 provides neurological evidence for [[agentivism]]'s P4 and P6, and a direct empirical basis for the "crutch effect" described in [[ai-tutoring]] (Fischer et al.'s 17% performance drop after removing AI access).
 

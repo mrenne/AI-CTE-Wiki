@@ -1046,3 +1046,18 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Pages updated** (related link to the new page): building-ai-companions, cognitive-debt, agentivism, ai-tutoring, evidence-base-ai-k12, graduating-into-disruption-census, one-click-away-khanmigo-rct, khanmigo, hardman-ai-faster-slower, experience-debt-dayforce, work-based-learning, illusion-of-understanding, cte-and-ai, ai-in-k12-education; `wiki/index.md` (concept row); `README.md` (page count 81 → 82)
 
 **Total pages created**: 1 | **Total pages updated**: 18
+
+---
+
+## 2026-10-28 — Kosmyna quoting-figure discrepancy resolved
+
+**Checked against**: `raw/PDF/Your Brain on ChatGPT.pdf` (pp. 31-32, 46-47, 147, 150)
+
+**Finding**: Not a contradiction. The 83% figure is the full LLM group's Session 1 rate of being unable to quote their essay (15/18; 0/18 quoted correctly; Search Engine and Brain-only groups 2/18 each unable). The 78% figure is Session 4: the 9 participants reassigned from ChatGPT to no tools, 7 of whom failed to quote anything (1/9 quoted correctly; the reverse-switch group showed 11% and 78%). Pages cited one or the other without saying which session or sample.
+
+**Pages updated**:
+- `wiki/your-brain-on-chatgpt.md` — Session 1 table filled with exact counts (replacing "Minority"); Session 4 counts added; explicit note reconciling 83% vs. 78%
+- `wiki/cognitive-debt.md` — Session 4 counts and pointer to the Session 1 figure
+- `wiki/evidence-base-ai-k12.md`, `wiki/ai-tutoring.md`, `wiki/agentivism.md` — "first session" and counts added to the 83% / 78% claims, with citations to the study PDF
+
+**Total pages updated**: 5
