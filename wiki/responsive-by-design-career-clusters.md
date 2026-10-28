@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -65,3 +65,4 @@ In this report, Digital Technology appears as one of three ordinary clusters *wi
 - [[fostering-ai-ready-creating-experiencing]]
 - [[cte-futures-aci-webinar]]
 - [[cte-and-ai]]
+- [[perkins-v-and-clna]]

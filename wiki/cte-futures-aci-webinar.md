@@ -4,7 +4,7 @@
 
 **Sources**: `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Career pathways are growing but evidence isn’t.md`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-28
 
 ---
 
@@ -58,7 +58,7 @@ This is a structural signal from the national CTE policy apparatus: AI and digit
 
 A concrete policy mechanism surfaces in the webinar: the **Comprehensive Local Needs Assessment (CLNA)** — required under the Perkins V federal funding framework — is identified as the existing vehicle for bridging the provider/employer alignment gap. (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md)
 
-The CLNA requires CTE programs to assess workforce needs, engage employers, and document gaps. Rather than building new structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. Practitioners note that most programs currently treat the CLNA as a compliance exercise rather than a strategic tool; reframing it as the vehicle for ongoing AI curriculum alignment would require no new authority — only changed practice. (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md)
+The CLNA requires CTE programs to assess workforce needs, engage employers, and document gaps. Rather than building new structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. The view that most programs currently treat the CLNA as a compliance exercise rather than a strategic tool does not appear in the webinar transcript and needs verification. That reframing it as the vehicle for ongoing AI curriculum alignment would require no new authority, only changed practice, is the wiki's inference from the panelists' framing; the Fostering AI-Ready reports, by contrast, say the mandate should be "leveraged and improved" (see [[perkins-v-and-clna]]). (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md)
 
 ---
 

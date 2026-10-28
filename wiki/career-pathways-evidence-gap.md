@@ -4,7 +4,7 @@
 
 **Sources**: `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-10-28
 
 ---
 
@@ -78,3 +78,4 @@ Rep. Suzanne Bonamici (D-Ore.) argued at ALI's June 2026 congressional briefing 
 - [[ai-labor-demand-41-countries]]
 - [[responsive-by-design-career-clusters]]
 - [[work-based-learning]]
+- [[perkins-v-and-clna]]

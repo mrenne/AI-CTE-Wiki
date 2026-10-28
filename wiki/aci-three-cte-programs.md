@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md` (Cameron Sublett, CTE Futures, August 27, 2026), `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -58,3 +58,4 @@ This is not a controlled comparison — the two sources measure completely diffe
 - [[cte-and-ai]]
 - [[fostering-ai-ready-building-moving]]
 - [[ai-mastery-continuum]]
+- [[perkins-v-and-clna]]

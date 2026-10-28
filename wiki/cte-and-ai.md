@@ -334,3 +334,4 @@ It is Anthropic studying itself, so it is an illustrative, interested source.
 - [[goldman-ai-displacement-cyclical]]
 - [[experience-debt-dayforce]]
 - [[learning-performance-paradox]]
+- [[perkins-v-and-clna]]

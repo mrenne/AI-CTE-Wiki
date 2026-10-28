@@ -1,10 +1,10 @@
-﻿# Applied Co-Intelligence Report
+# Applied Co-Intelligence Report
 
 **Summary**: A February 2026 policy and practice report from CTE Futures proposing the Applied Co-Intelligence model — a framework for preparing CTE learners by integrating AI Mastery with technical and transferable skills within occupational contexts.
 
 **Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-10-28
 
 ---
 
@@ -127,3 +127,4 @@ A February 23, 2026 webinar ([[cte-futures-aci-webinar]]) presenting the report 
 - [[bcg-ai-reshapes-jobs]]
 - [[stanford-ai-index-education-2026]]
 - [[ai-occupational-exposure-index]]
+- [[perkins-v-and-clna]]

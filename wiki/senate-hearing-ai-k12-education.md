@@ -4,7 +4,7 @@
 
 **Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md` (C-SPAN, event date June 16, 2026; auto-generated closed-captioning transcript), `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-28
 
 ---
 
@@ -96,7 +96,7 @@ Florida was cited as a leading state example on the legislative response side, h
 
 1. **Alabama's Data Scholars model is a directly replicable CTE workforce-pipeline pattern** — paid internships tied to state curriculum standards, industry-recognized credentials earned before graduation, and continuous employer feedback loops keeping curriculum aligned with actual labor demand. This is a concrete implementation example for the abstractions in [[applied-co-intelligence-model]] and [[cte-futures-aci-webinar]].
 2. **The curriculum-refresh-cadence problem is a CTE-specific structural challenge.** CTE curriculum, tied to industry-recognized credentials and employer-validated skill standards, faces the same "five-to-ten-year refresh cycle in a semester-cycle world" problem Jones describes — arguably more acutely than general academic curriculum, since CTE credentials must track live employer skill demand.
-3. **Federal funding mechanisms (Perkins V, Title II, Title IV) were repeatedly named across witnesses** as the existing levers for supporting AI-literacy professional development and workforce pipeline programs — reinforcing the [[cte-futures-aci-webinar]] argument that CLNA and existing Perkins V mechanisms, not new standalone AI legislation, are the practical implementation path.
+3. **Witnesses named existing federal funding streams, Title II and Title IV, as the levers for educator AI training** (Erin Mote and Cindy Marten) (source: Senate Hearing on Artificial Intelligence and K-12 Education.md). Perkins V was not named in the transcript. The emphasis on existing funding streams over new AI-specific programs is consistent with the [[cte-futures-aci-webinar]] argument that the Perkins V CLNA is the practical implementation path for CTE (see [[perkins-v-and-clna]]).
 
 ## Related pages
 

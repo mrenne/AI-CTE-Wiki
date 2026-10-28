@@ -4,7 +4,7 @@
 
 **Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-10-18
+**Last updated**: 2026-10-28
 
 ---
 
@@ -77,3 +77,4 @@ These are advocacy proposals, not enacted policy. Nebraska's first dedicated CTE
 - [[career-pathways-evidence-gap]]
 - [[work-based-learning]]
 - [[employment-at-anthropic]]
+- [[perkins-v-and-clna]]

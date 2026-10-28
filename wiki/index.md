@@ -97,6 +97,7 @@ A structured knowledge base on generative AI and its impact on K-12 education, w
 | [[career-clusters-financial-business-digital]] | Concept page: the wiki's first (qualitative) coverage of Financial Services, Management & Entrepreneurship, Marketing & Sales, and Digital Technology clusters, drawn from [[responsive-by-design-career-clusters]] |
 | [[work-based-learning]] | Concept page: internships, apprenticeships, and employer-embedded training as the proposed answer to AI eroding the entry-level training ground — models (Alabama Data Scholars, Meta academy), the design problem AI creates inside WBL, and the thin outcome evidence |
 | [[learning-performance-paradox]] | Concept page: AI raises short-term performance while weakening durable learning — definition, work AI vs. learning AI, classroom evidence (and where the Khanmigo trial doesn't fit), workplace and hiring-signal analogs, CTE implications |
+| [[perkins-v-and-clna]] | Concept page: Perkins V (federal CTE funding law) and its Comprehensive Local Needs Assessment — what the sources say it requires, the CTE field's case for using it as the AI-alignment vehicle, Perkins-funded AI capacity in Tennessee, Title II/IV, and the missing outcome evidence |
 | [[experience-debt-dayforce]] | Source summary: experience debt as the organization-level name for AI eroding learning-by-doing; parallels cognitive debt |
 
 ### Labor Market Analysis

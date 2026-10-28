@@ -1061,3 +1061,20 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 - `wiki/evidence-base-ai-k12.md`, `wiki/ai-tutoring.md`, `wiki/agentivism.md` — "first session" and counts added to the 83% / 78% claims, with citations to the study PDF
 
 **Total pages updated**: 5
+
+---
+
+## 2026-10-28 — New concept page: Perkins V / CLNA (with source corrections)
+
+**Pages created**:
+- `wiki/perkins-v-and-clna.md` — Perkins history (1984, IV, V), funding, federal role, what the CLNA requires per the sources, the CTE field's case for using the CLNA for AI alignment (ACI report, webinar, all four Fostering reports, including "leveraged and improved"), Tennessee Perkins READI fellowship and coordinator survey, Title II/IV as the K-12 levers, caveats, CTE implications (marked as wiki inference)
+
+**Checked against raw sources while writing; corrections made**:
+1. `wiki/senate-hearing-ai-k12-education.md` — Implication 3 said witnesses "repeatedly named" Perkins V. The transcript names only Title II and Title IV (Mote, Marten); Perkins does not appear. Corrected
+2. `wiki/cte-futures-aci-webinar.md`, `wiki/applied-co-intelligence-model.md` — The claim that practitioners treat the CLNA as a "compliance exercise" (and the "not authority, practice" framing) is not in the webinar transcript. Marked as needing verification / wiki inference rather than deleted
+
+**Discrepancy noted (not resolved)**: annual Perkins V funding is "over $1 billion" in the ACI report and the Cultivating Resources report, but "billions of dollars" in the Caring for Communities and Creating & Experiencing reports. Flagged on the new page as needing verification.
+
+**Pages updated** (related link to the new page): senate-hearing-ai-k12-education, cte-futures-aci-webinar, applied-co-intelligence-model, applied-co-intelligence-report, aci-three-cte-programs, the four fostering-ai-ready pages, responsive-by-design-career-clusters, ai-education-policy-and-legislation, career-pathways-evidence-gap, cte-and-ai; `wiki/index.md` (concept row); `README.md` (page count 82 → 83)
+
+**Total pages created**: 1 | **Total pages updated**: 16

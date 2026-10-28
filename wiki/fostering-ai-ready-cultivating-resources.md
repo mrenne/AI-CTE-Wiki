@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`
 
-**Last updated**: 2026-07-02
+**Last updated**: 2026-10-28
 
 ---
 
@@ -63,3 +63,4 @@ A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, Aug
 - [[transferable-skills]]
 - [[labor-market-polarization]]
 - [[nber-data-centers-local-economies]]
+- [[perkins-v-and-clna]]

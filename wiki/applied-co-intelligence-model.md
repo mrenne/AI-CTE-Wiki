@@ -1,10 +1,10 @@
-﻿# Applied Co-Intelligence Model
+# Applied Co-Intelligence Model
 
 **Summary**: A pedagogical framework for CTE that integrates AI Mastery with Technical Skills and Transferable Skills within a specific occupational context — an extension of Ethan Mollick's co-intelligence concept designed for hands-on, applied learning environments.
 
 **Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-08-28
+**Last updated**: 2026-10-28
 
 ---
 
@@ -67,7 +67,7 @@ This framing also implies a caution: without deliberate countervailing action, A
 
 A concrete policy mechanism for ACI implementation surfaces in the webinar: the **Comprehensive Local Needs Assessment (CLNA)**, required under the Perkins V federal funding framework. The CLNA mandates that CTE programs assess workforce needs, engage employers, and document gaps.
 
-Rather than building new institutional structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. The CLNA creates an already-authorized mechanism for ongoing AI curriculum alignment — the gap is not authority, it is practice. Programs currently treating the CLNA as a compliance exercise would need to reframe it as the primary vehicle for real-time industry-alignment work (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md).
+Rather than building new institutional structures to accomplish the continuous employer-partnership work the ACI model requires, programs can repurpose this existing mandate. The CLNA creates an already-authorized mechanism for ongoing AI curriculum alignment — the gap is not authority, it is practice. Programs currently treating the CLNA as a compliance exercise would need to reframe it as the primary vehicle for real-time industry-alignment work. (The "compliance exercise" characterization and the "not authority, practice" framing are not stated in the webinar transcript; they need verification. See [[perkins-v-and-clna]].) (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md).
 
 ## A Working Example: Alabama's Data Scholars Program
 
