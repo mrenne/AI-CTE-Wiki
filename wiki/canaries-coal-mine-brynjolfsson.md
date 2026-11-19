@@ -2,9 +2,9 @@
 
 **Summary**: A Stanford/NBER working paper by Erik Brynjolfsson, Bharat Chandar, and Ruyu Chen using high-frequency ADP payroll data (now through June 2026) to document six facts about AI's labor-market effects: early-career workers (22–25) in AI-exposed occupations now stand 19% below where they'd be had they kept pace with less-exposed peers — a gap that has widened every month since first documented in August 2025 — concentrated in occupations where AI automates rather than augments work, and robust across most (not all) alternative explanations including work-from-home amenability.
 
-**Sources**: `raw/PDF/Canaries_August2026.pdf` (Brynjolfsson, Chandar & Chen, Stanford Digital Economy Lab / NBER, August 2026 — updates and extends the August 2025 original with data through June 2026); `raw/PDF/CanariesintheCoalMine_Nov25.pdf` (November 2025 version, superseded by this update but retained as a prior data vintage), `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
+**Sources**: `raw/PDF/Canaries_August2026.pdf` (Brynjolfsson, Chandar & Chen, Stanford Digital Economy Lab / NBER, August 2026 — updates and extends the August 2025 original with data through June 2026); `raw/PDF/CanariesintheCoalMine_Nov25.pdf` (November 2025 version, superseded by this update but retained as a prior data vintage), `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/PDF/AIEI_MU_Nov26.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -118,6 +118,10 @@ It also extends this paper's findings in one important way. Fact 6 here says adj
 ## ⚠ Tension: Historical Displacement Ran Through Layoffs (October 2026)
 
 [[goldman-ai-displacement-cyclical]] studied 25 occupations hit hard by past technology and found most job losses came from **separations rather than reduced hiring**: separation rates rose in 19 of 25 occupations, hiring rates fell in 13 (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). Fact 4 here finds the opposite for AI so far: reduced hiring, with separations falling. One way to reconcile them, an inference this wiki draws rather than either source, is timing. Goldman finds displacement concentrates in recessions (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md), so the current hiring-channel adjustment may be the expansion-phase form of an effect whose layoff phase hasn't arrived.
+
+## The Dashboard Through October 2026 (November 2026)
+
+The Stanford dashboard built on this paper's ADP data reports that employment of 22- to 25-year-olds in the most AI-exposed jobs was 4.2% below a year earlier in October 2026, and has been below its year-earlier level every month since October 2023 (source: AIEI_MU_Nov26.pdf; see [[stanford-del-ai-economic-indicators]]). The decline is continuing past this paper's June 2026 data cutoff. The dashboard measures year-over-year change, not this paper's "kept-pace" shortfall, so the two numbers are not directly comparable.
 
 ## Related pages
 

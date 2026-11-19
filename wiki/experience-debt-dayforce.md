@@ -2,9 +2,9 @@
 
 **Summary**: An HCA Magazine report (October 2026) on Dayforce's 17th annual Pulse of Talent survey of nearly 7,000 respondents in six countries. It introduces "experience debt," the future capability cost when AI removes the learning-by-doing that builds expertise. Two-thirds of respondents say their people are losing the ability to do tasks AI now does for them. The idea names, at the scale of a whole organization, the training-ground erosion the wiki documents elsewhere; the evidence is self-reported perception from an interested vendor.
 
-**Sources**: `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
+**Sources**: `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`, `raw/misc/AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -75,6 +75,10 @@ AI can remove repetitive work, but in doing so it can also remove "the repetitio
 2. **Placements need protected learning time.** With only 27% of workers reporting time to develop skills, internships and apprenticeships risk becoming pure production. Programs should negotiate explicit development time with employer partners.
 3. **Sequence before delegating.** The same principle the wiki draws from [[your-brain-on-chatgpt]] and [[agentivism]] applies: students should build competence on tasks before AI takes them over.
 
+## The Fast Version: AI Rebounding (November 2026)
+
+[[ai-rebounding-boomerang-employees]] describes the same capability problem on a shorter timescale. Firms that cut experienced staff for AI found they had removed the "contextual intelligence" that makes AI productive; Joseph Fuller (Harvard Business School): "The more you know about important processes, the more value you can extract from the AI" (source: AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md). Experience debt is the slow version (expertise not built); rebounding is the fast version (expertise removed, then rehired). Both sources are vendor surveys of self-reported perceptions.
+
 ---
 
 ## Related pages
@@ -91,3 +95,4 @@ AI can remove repetitive work, but in doing so it can also remove "the repetitio
 - [[transferable-skills]]
 - [[cte-and-ai]]
 - [[learning-performance-paradox]]
+- [[ai-rebounding-boomerang-employees]]

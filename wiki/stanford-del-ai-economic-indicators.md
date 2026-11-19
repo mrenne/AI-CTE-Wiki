@@ -1,10 +1,10 @@
-# Stanford DEL AI Economic Indicators: June 2026 Update
+# Stanford DEL AI Economic Indicators (June 2026 Note and Monthly Updates)
 
-**Summary**: Research Note #1 from Stanford Digital Economy Lab (Brynjolfsson et al., June 2026) — three components tracking AI's actual labor market and macroeconomic impact with live ADP data on 4.6 million workers across 730+ occupations. Key finding: automation-type AI usage predicts employment decline for early-career workers; augmentation-type usage does not.
+**Summary**: Covers the series' June 2026 research note and its November 2026 monthly update (data through October 2026, below). Research Note #1 from Stanford Digital Economy Lab (Brynjolfsson et al., June 2026) — three components tracking AI's actual labor market and macroeconomic impact with live ADP data on 4.6 million workers across 730+ occupations. Key finding: automation-type AI usage predicts employment decline for early-career workers; augmentation-type usage does not.
 
-**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/AIEI_MU_Nov26.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -127,6 +127,45 @@ The capital share signal is consistent with the pattern that would precede a lab
 | No decisive AI economic takeoff yet ([[brad-smith-ai-jobs-next-generation]], [[labor-market-polarization]]) | TFP neutral in Takeoff Tracker; capital share rising; decisive productivity transformation not yet visible in aggregate data |
 | AI diffusion constrained by institutional change ([[labor-market-polarization]]) | Adoption Monitor: workplace reversals; firms' text generation adoption plateauing; physical AI lags behind digital AI |
 
+## November 2026 Monthly Update (data through October 2026)
+
+The November update is a one-page dashboard rather than a research note (source: AIEI_MU_Nov26.pdf). Its headline figures:
+
+| Component | November reading | Earlier readings |
+|---|---|---|
+| **Canaries Dashboard**: employment change from a year earlier, ages 22–25, most AI-exposed jobs | **−4.2%** (October 2026) | −3.5% one month earlier; −3.3% six months earlier |
+| **Adoption Monitor**: employed US adults using generative AI for their job | **45%** (May 2026 survey) | 43% three months earlier; 35% a year earlier |
+| **GDP-B Surplus Observer** (new): what 127 million US users would need to be paid to give up generative AI | **$183B a year** (July 2026) | $172B four months earlier; $116B a year earlier |
+| **Transformation Tracker** (formerly Takeoff Tracker): macro indicators well above pre-2020 trends | **3 of 12** (September 2026) | Unchanged |
+
+(source: AIEI_MU_Nov26.pdf)
+
+**The age split.** Over the past year, employment fell for every age group under 35 and rose slightly for those 35 and older in ADP's sample of firms: down 2.2% for ages 22–34 and up 0.4% for ages 35+. For 22- to 25-year-olds, employment in the two most AI-exposed groups of jobs fell nearly 4%, and it has been below its year-earlier level every month since October 2023 (source: AIEI_MU_Nov26.pdf).
+
+**No economy-wide transformation yet.** GDP and productivity are growing at their usual pace. The three indicators above trend all measure capital: IT's share of business equipment, software and R&D's share of business capital, and capital's share of national income (41.7% in 2024) (source: AIEI_MU_Nov26.pdf). This matches the June note's finding of strong signals only in capital share and IP equipment investment.
+
+**A new measure of value outside GDP.** The GDP-B Surplus Observer estimates consumer value from free and low-cost AI tools, which "add little to GDP even when people value them highly" (source: AIEI_MU_Nov26.pdf). It offers one answer to why the productivity statistics look ordinary while use keeps growing ([[ai-economy-measurement-2026]]).
+
+**The authors' caveats.** The pattern "alone does not show AI caused these declines"; exposure "may differ from actual AI adoption"; and ADP data "is not a measure of economy-wide employment, but it is an early-warning signal" (source: AIEI_MU_Nov26.pdf).
+
+### ⚠ Figures that do not line up
+
+1. **April 2026 early-career figure.** The June note reported **−4.2%** year-over-year for 22–25-year-olds in the most AI-exposed jobs as of April 2026 (source: AIEI_RN01_Jun26.pdf). The November update gives **−3.3%** for six months earlier, which is also April 2026 (source: AIEI_MU_Nov26.pdf). The difference may reflect data revision or a change in grouping (the November text refers to "the two most AI-exposed groups of jobs"); neither document explains it. Not resolved.
+2. **Dates inside the update.** The headline figure is labeled October 2026, while the chart is labeled October 2022 to September 2026 (source: AIEI_MU_Nov26.pdf). Minor.
+
+### Adoption figures in the wiki measure different things
+
+The 45% figure is the highest adoption estimate in the wiki. It is not a contradiction of the others, which measure different populations:
+
+| Figure | What it counts | Source |
+|---|---|---|
+| 45% (May 2026) | Employed US adults who use generative AI for their job (Bick, Blandin & Deming survey) | AIEI_MU_Nov26.pdf |
+| 31.3% (Q1 2026) | US AI usage in Microsoft's AI Diffusion Report | [[brad-smith-ai-jobs-next-generation]] |
+| 15–20% | Developed-market AI adoption, Goldman's combination of 11 surveys | [[goldman-sachs-ai-labor-squeeze]] |
+| 23% | US establishments with AI built into regular workflows | [[goldman-ai-displacement-cyclical]] |
+
+Individual workers adopt faster than organizations build AI into their workflows, so worker-use figures run well above firm figures (wiki inference).
+
 ---
 
 ## Related pages
@@ -143,3 +182,6 @@ The capital share signal is consistent with the pattern that would precede a lab
 - [[graduating-into-disruption-census]]
 - [[entry-level-labor-market]]
 - [[education-to-workforce-data-systems]]
+- [[ai-economy-measurement-2026]]
+- [[goldman-sachs-ai-labor-squeeze]]
+- [[goldman-ai-displacement-cyclical]]

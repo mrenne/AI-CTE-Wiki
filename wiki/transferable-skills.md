@@ -2,9 +2,9 @@
 
 **Summary**: Durable, human-centered competencies — critical thinking, ethical reasoning, empathy, collaboration, problem-solving — that AI cannot yet replicate and that research shows are increasingly critical to long-term career mobility.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human ‘brilliance’ that AI just can’t match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/blog/How employment is changing at Anthropic.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/blog/The secret to human ‘brilliance’ that AI just can’t match.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -200,6 +200,10 @@ Most CTE programs over-focus on technical skill development because learners mus
 
 [[employment-at-anthropic]] analyzed hiring-manager scorecards for thousands of Anthropic hires since 2024. For technical candidates, the biggest increases were in comments on **autonomy and judgment**, while discussion of domain expertise shrank. For non-technical candidates, customer and mission orientation rose and execution skills fell (source: How employment is changing at Anthropic.md). Meeting time also rose 20%, and employees called face-to-face coordination indispensable (source: How employment is changing at Anthropic.md). This is direct evidence, from an interested single-firm source, that the competencies this page describes gain weight as AI absorbs execution.
 
+## Workers' Own Priorities After AI Layoffs (November 2026)
+
+In SHL's survey of US workers ([[ai-rebounding-boomerang-employees]]), respondents report teaching themselves AI tools (44%), developing industry-specific skills that AI can't easily replicate (42.6%), working on interpersonal and leadership skills (40%), and honing creative and strategic thinking (38%). Harvard's Joseph Fuller names adaptability as the most important skill (source: AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md). The list closely matches this page's framework; it is self-reported intention, not evidence of what pays off.
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -228,3 +232,4 @@ Most CTE programs over-focus on technical skill development because learners mus
 - [[canaries-coal-mine-brynjolfsson]]
 - [[employment-at-anthropic]]
 - [[ai-literacy]]
+- [[ai-rebounding-boomerang-employees]]

@@ -1108,3 +1108,27 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Pages updated** (related link to the new page): stanford-ai-index-education-2026, middle-path-ai-literacy-nurenberg, senate-hearing-ai-k12-education, berwick-employers-ai-education-gap, sinead-bovell-job-market, transferable-skills, cte-futures-aci-webinar, aci-three-cte-programs, quanthub-data-scholars-2026-update, evidence-base-ai-k12, applied-co-intelligence-model, ai-in-k12-education, cte-and-ai, spelhaug-microsoft-elevate, columbia-cs-ai-disruption, learning-performance-paradox; `wiki/index.md` (concept row); `README.md` (page count 84 → 85)
 
 **Total pages created**: 1 | **Total pages updated**: 21
+
+---
+
+## 2026-11-19 — Ingestion (2 sources)
+
+**Sources ingested**:
+1. `raw/PDF/AIEI_MU_Nov26.pdf` — Stanford Digital Economy Lab, *AI Economic Indicators* monthly update, November 2026 (data through October 2026), one page. Canaries −4.2% YoY for 22–25 in most AI-exposed jobs (−3.5% one month, −3.3% six months earlier); under-35 −2.2%, 35+ +0.4%; Adoption Monitor 45% of employed adults use gen AI for work; new GDP-B Surplus Observer ($183B); Transformation Tracker (renamed from Takeoff Tracker) 3 of 12 indicators above trend, all capital
+2. `raw/misc/AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md` — CNBC Make It (Caldwell, October 30, 2026) on SHL's vendor-commissioned survey (Propeller Insights, 1,000+ US and UK workers, June–July 2026): nearly 1 in 5 US workers say they were laid off or replaced by AI and asked back; Orgvue 32% of firms rehired; Challenger ~40% of May 2026 cuts AI-attributed; Fuller's "contextual intelligence". Secondhand, self-reported, self-attributed
+
+**Pages created**:
+- `wiki/ai-rebounding-boomerang-employees.md` — Source caveats, findings, contextual-intelligence explanation, worker skill priorities, relationship table (tensions with Goldman flagged), CTE implications
+
+**Pages updated**:
+- `wiki/stanford-del-ai-economic-indicators.md` — Retitled to cover the series; new "November 2026 Monthly Update" section (per user's choice: section on the existing page, not a new page); flagged April-2026 figure mismatch (June note −4.2% vs. November update −3.3% for the same month) and the chart-date inconsistency; adoption-figures comparison table (45% / 31.3% / 15–20% / 23%)
+- `wiki/entry-level-labor-market.md` — Evidence-table row (now fourteen sources); "November 2026" section
+- `wiki/canaries-coal-mine-brynjolfsson.md` — Dashboard reading through October 2026; not comparable to kept-pace shortfall
+- `wiki/ai-economy-measurement-2026.md` — Rising use with ordinary macro statistics; GDP-B value measure
+- `wiki/goldman-ai-displacement-cyclical.md` — Tension: scale and permanence of AI layoffs
+- `wiki/experience-debt-dayforce.md`, `wiki/transferable-skills.md`, `wiki/cte-and-ai.md` — Rebounding cross-references
+- `wiki/index.md` — Source and concept rows, updated DEL row, entry-level count, Key Theme; `README.md` — counts and new paragraph
+
+**Correction to an earlier lint report**: the 2026-10-28 lint listed a "Census BTOS 19.8% of firms" adoption figure. No such figure exists in the wiki; it was an error in the report and is not used in the new comparison table.
+
+**Total pages created**: 1 | **Total pages updated**: 10

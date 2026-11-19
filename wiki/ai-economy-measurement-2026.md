@@ -2,9 +2,9 @@
 
 **Summary**: A July 2026 New York Times piece by Ben Casselman surveying why economists cannot yet agree on AI's real effect on jobs, wages, or productivity — government statistics are outdated and underfunded, private data sources conflict with each other, and non-AI shocks (COVID, interest rates, immigration policy) make attribution nearly impossible.
 
-**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
+**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/PDF/AIEI_MU_Nov26.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -57,6 +57,10 @@ Two September 2026 sources sharpen this page's theme. [[cesifo-recent-grads-unem
 ## Gross Job Losses vs. the Unemployment Rate (October 2026)
 
 [[goldman-ai-displacement-cyclical]] explains why its displacement forecast uses gross job losses rather than unemployment: "the jobless rate hides people," since some displaced workers find jobs quickly and others "exit the labor force" (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). Historically, each 1% technology-driven productivity gain raised gross job losses by 0.5–0.6 points but unemployment by only 0.3–0.4 points at its peak, fading to zero within two years (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). That is another reason unemployment-based measures (like CESifo's) can look calm while other measures show disruption.
+
+## November 2026: Rising Use, Ordinary Statistics, and a Value Measure Outside GDP
+
+Stanford's November dashboard shows the measurement gap this page describes. Worker use of generative AI reached 45% (May 2026), up from 35% a year earlier, yet GDP and productivity "are growing at their usual pace," and only 3 of 12 macro indicators sit clearly above pre-2020 trends (source: AIEI_MU_Nov26.pdf). Its new GDP-B Surplus Observer estimates that US users would need $183B a year to give up generative AI, value that free and low-cost tools add to people's lives without adding much to GDP (source: AIEI_MU_Nov26.pdf). The adoption figures in the wiki now range from 15% to 45% depending on what is counted; see the comparison table on [[stanford-del-ai-economic-indicators]].
 
 ## Related pages
 

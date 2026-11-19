@@ -2,9 +2,9 @@
 
 **Summary**: A Fortune report (October 2026) on a Goldman Sachs research note by economist Joseph Briggs. It forecasts that up to 9% of US workers could be displaced during the AI transition, but argues the timing will follow the business cycle: historically, technology-driven job losses are small in healthy economies and concentrated in recessions. This offers a strong explanation for why AI's labor effects look modest so far, and points to the next downturn as the real test.
 
-**Sources**: `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -81,6 +81,13 @@ Current readings (source: AI could displace one in 11 workers, Goldman says, but
 3. **AI infrastructure construction is a real, if temporary, counterweight.** AI-related construction hiring currently offsets losses in AI-exposed industries, reinforcing the trades evidence in [[nber-data-centers-local-economies]], with the caveat that construction jobs peak and then fall ([[meta-workforce-academy]]).
 4. **Watch layoffs as the signal.** Briggs treats AI-attributed layoffs as the real-time guide. CTE planners tracking AI risk should watch layoff and separation data alongside hiring data.
 
+## ⚠ Tension: AI Layoffs That Reverse (November 2026)
+
+[[ai-rebounding-boomerang-employees]] reports a vendor survey (SHL) in which nearly 1 in 5 US workers say they were laid off or replaced by AI and then asked to return, and Orgvue research finding that 32% of organizations that cut staff for AI had to rehire (source: AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md). Two tensions with this page:
+
+1. **Scale.** A figure that high sits uneasily with this page's finding that AI's current labor-market headwind is modest. The survey relies on respondents' own attribution of their layoffs to AI, so the wiki treats it as a perception measure.
+2. **Permanence.** This page finds that routine jobs lost in past technology shifts did not come back. Rehiring suggests some AI layoffs so far were premature rather than permanent. The two operate on different timescales (occupations over years vs. individual reversals over months), so this is noted, not resolved.
+
 ---
 
 ## Related pages
@@ -99,3 +106,4 @@ Current readings (source: AI could displace one in 11 workers, Goldman says, but
 - [[apocalypse-no-galloway]]
 - [[bcg-ai-reshapes-jobs]]
 - [[cte-and-ai]]
+- [[ai-rebounding-boomerang-employees]]
