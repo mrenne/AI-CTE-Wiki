@@ -4,7 +4,7 @@
 
 **Sources**: `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-11-19
 
 ---
 
@@ -157,3 +157,5 @@ His proposed new role for school leaders: from "leader of learning and manager o
 - [[stanford-ai-index-education-2026]]
 - [[sinead-bovell-job-market]]
 - [[ai-in-k12-education]]
+- [[ai-literacy]]
+- [[entry-level-labor-market]]

@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -69,3 +69,5 @@ A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, Aug
 - [[meta-workforce-academy]]
 - [[nber-data-centers-local-economies]]
 - [[perkins-v-and-clna]]
+- [[ai-literacy]]
+- [[work-based-learning]]

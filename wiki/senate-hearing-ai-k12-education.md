@@ -4,7 +4,7 @@
 
 **Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md` (C-SPAN, event date June 16, 2026; auto-generated closed-captioning transcript), `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -113,3 +113,4 @@ Florida was cited as a leading state example on the legislative response side, h
 - [[quanthub-data-scholars-2026-update]]
 - [[one-click-away-khanmigo-rct]]
 - [[ai-literacy]]
+- [[work-based-learning]]

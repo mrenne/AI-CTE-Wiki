@@ -1149,3 +1149,13 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Pages updated**: related link to the new page on bcg-ai-reshapes-jobs (also a pointer to the contested-example note), ai-labor-disruption-segments, ai-job-apocalypse-klein, apocalypse-no-galloway, brad-smith-ai-jobs-next-generation, goldman-ai-displacement-cyclical, goldman-sachs-ai-labor-squeeze, relational-economy, labor-market-polarization, employment-at-anthropic, cte-and-ai, entry-level-labor-market; `wiki/index.md` (concept row); `README.md` (page count 86 → 87)
 
 **Total pages created**: 1 | **Total pages updated**: 16
+
+---
+
+## 2026-11-19 — Lint fixes (items 1-3 of the third 2026-11-19 lint)
+
+1. `wiki/stanford-del-ai-economic-indicators.md` — "largest longitudinal employment sample in the wiki" dated to June 2026; names the two larger later datasets (Census 6.7M graduates; 41-country 154M records)
+2. `wiki/ai-in-k12-education.md` — Section retitled from "The Largest Employer-Led AI Education Program in the Wiki" to "A Large-Scale Employer-Led AI Education Program"; added IBM SkillsBuild comparison (22M reached toward 30M vs. Elevate's ~20M goal; budget comparison not possible from wiki sources)
+3. Related links added from 20 pages that discuss a topic with its own concept page but did not link it: ai-literacy (11 pages), entry-level-labor-market (5), work-based-learning (4), learning-performance-paradox (2), perkins-v-and-clna (1), education-to-workforce-data-systems (1). Related-pages links only; inline text unchanged
+
+**Total pages updated**: 22

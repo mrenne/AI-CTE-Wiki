@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -155,3 +155,4 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 - [[ai-labor-demand-41-countries]]
 - [[learning-performance-paradox]]
 - [[education-to-workforce-data-systems]]
+- [[work-based-learning]]

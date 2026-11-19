@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -167,3 +167,4 @@ The illusion of understanding has specific implications for CTE practice:
 - [[building-ai-companions]]
 - [[cems-augmented-leadership]]
 - [[learning-performance-paradox]]
+- [[ai-literacy]]

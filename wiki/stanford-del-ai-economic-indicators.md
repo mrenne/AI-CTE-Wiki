@@ -20,7 +20,7 @@ Brynjolfsson's framing: "We are flying blind into one of the most consequential 
 
 ### Design
 
-The Canaries Dashboard is the most novel and empirically powerful component. In partnership with ADP Research, Stanford DEL tracks employment outcomes for roughly **25,000 firms, 4.6 million workers, and 730+ occupations** — the largest longitudinal employment sample for this question in the wiki. The "canaries" framing references the historical use of canaries in coal mines to detect invisible hazards: the goal is to identify which workers are showing early-stage employment effects before they appear in aggregate statistics.
+The Canaries Dashboard is the most novel and empirically powerful component. In partnership with ADP Research, Stanford DEL tracks employment outcomes for roughly **25,000 firms, 4.6 million workers, and 730+ occupations** — the largest longitudinal employment sample for this question in the wiki when this note was ingested (June 2026). Two later sources are larger: the Census graduate study's 6.7 million graduates linked to wage records ([[graduating-into-disruption-census]]) and the 41-country study's 154 million employment records ([[ai-labor-demand-41-countries]]). The "canaries" framing references the historical use of canaries in coal mines to detect invisible hazards: the goal is to identify which workers are showing early-stage employment effects before they appear in aggregate statistics.
 
 The sample is a five-year balanced panel ending April 2026, using ADP payroll records — actual employment data, not surveys. (source: AIEI_RN01_Jun26.pdf)
 
@@ -187,3 +187,4 @@ Individual workers adopt faster than organizations build AI into their workflows
 - [[ai-economy-measurement-2026]]
 - [[goldman-sachs-ai-labor-squeeze]]
 - [[goldman-ai-displacement-cyclical]]
+- [[ai-labor-demand-41-countries]]

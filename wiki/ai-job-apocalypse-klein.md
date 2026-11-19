@@ -128,3 +128,4 @@ The two pieces form a converging argument: Klein through economic mechanism, Gal
 - [[bcg-ai-reshapes-jobs]]
 - [[goldman-ai-displacement-cyclical]]
 - [[jevons-paradox]]
+- [[ai-literacy]]

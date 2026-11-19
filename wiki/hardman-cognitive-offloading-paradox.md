@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/The _Cognitive Offloading_ Paradox.md`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-11-19
 
 ---
 
@@ -154,3 +154,4 @@ This is consistent with the [[building-ai-companions]] core argument: AI for wor
 - [[middle-path-ai-literacy-nurenberg]]
 - [[ai-tutoring]]
 - [[khanmigo]]
+- [[learning-performance-paradox]]

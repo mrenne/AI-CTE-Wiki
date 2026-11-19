@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -112,9 +112,11 @@ The employer quality standard is direct: IBM's chief impact officer at SXSW Lond
 
 The equity implication is critical: if employer-led programmes become the primary AI literacy infrastructure, access will concentrate among students near large tech employers and their partner institutions. Students in under-resourced districts — already behind on AI literacy per the [[stanford-ai-index-education-2026]] policy gap findings — face a second structural disadvantage if the response to that gap flows through corporate partnerships rather than public school systems. The London AI Campus is "selected sixth-form students from the borough's state schools" — a curated cohort, not universal provision. (source: Employers step in to fill the AI education gap.md)
 
-**Microsoft Elevate: The Largest Employer-Led AI Education Program in the Wiki**
+**Microsoft Elevate: A Large-Scale Employer-Led AI Education Program**
 
 Justin Spelhaug, President of Microsoft Elevate ([[spelhaug-microsoft-elevate]], June 2026), represents the most senior industry voice in the wiki to engage directly with AI education at scale. Microsoft Elevate's goal: credential approximately 20 million people for the AI economy over five years, with a $4B budget. In the past year alone, Microsoft credentialed 2 million teachers through its Elevate for Educators programme; in Spain, it has credentialed 14% of all teachers, with 100% as a stated goal (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md).
+
+For scale comparison, IBM's SkillsBuild had reached 22 million people by the end of 2025, toward a goal of 30 million by 2030 (source: Employers step in to fill the AI education gap.md; see [[berwick-employers-ai-education-gap]]). By people reached, IBM's program is the larger of the two; Elevate's $4B budget may make it larger by spending, but IBM's budget is not in the wiki.
 
 Spelhaug's governing principle cuts against the procurement reflex that has driven edtech cycles: **"Providing a tool to a student does nothing."** He invokes One Laptop Per Child — the early-2000s programme he was involved with — as the historical warning: many laptops "became doorstops within six months." AI is, in his words, "just another tool." The transformation starts with teachers, not platforms. The strongest outcomes appear when "an agent and a teacher work together" (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md).
 

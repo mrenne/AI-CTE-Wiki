@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -76,3 +76,4 @@ A companion resource, [[responsive-by-design-career-clusters]] (Advance CTE, Aug
 - [[cognitive-debt]]
 - [[labor-market-polarization]]
 - [[perkins-v-and-clna]]
+- [[ai-literacy]]

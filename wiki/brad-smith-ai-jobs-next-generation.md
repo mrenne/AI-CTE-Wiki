@@ -167,3 +167,4 @@ His principle: "When technology increases supply, human ambition often generates
 - [[stanford-ai-index-education-2026]]
 - [[stanford-del-ai-economic-indicators]]
 - [[jevons-paradox]]
+- [[entry-level-labor-market]]

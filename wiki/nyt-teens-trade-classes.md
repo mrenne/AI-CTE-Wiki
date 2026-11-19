@@ -4,7 +4,7 @@
 
 **Sources**: `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`
 
-**Last updated**: 2026-08-23
+**Last updated**: 2026-11-19
 
 ---
 
@@ -163,3 +163,4 @@ The two sources are methodologically complementary rather than duplicative: this
 - [[brad-smith-ai-jobs-next-generation]]
 - [[pew-young-adults-ai-anxiety]]
 - [[safest-college-degrees-forbes]]
+- [[ai-literacy]]

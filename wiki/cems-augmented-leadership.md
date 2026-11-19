@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -94,3 +94,4 @@ CEMS is a graduate business-education alliance, not a CTE or K-12 organization, 
 - [[work-based-learning]]
 - [[employment-at-anthropic]]
 - [[experience-debt-dayforce]]
+- [[entry-level-labor-market]]

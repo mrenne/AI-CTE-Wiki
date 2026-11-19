@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -128,3 +128,4 @@ A February 23, 2026 webinar ([[cte-futures-aci-webinar]]) presenting the report 
 - [[stanford-ai-index-education-2026]]
 - [[ai-occupational-exposure-index]]
 - [[perkins-v-and-clna]]
+- [[work-based-learning]]

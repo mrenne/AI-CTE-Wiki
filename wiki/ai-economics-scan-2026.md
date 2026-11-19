@@ -1,10 +1,10 @@
-﻿# AI Economics Scan 2026
+# AI Economics Scan 2026
 
 **Summary**: A horizon scan by futurist Bryan Alexander (April 2026) surveying AI's economic landscape across business models, the bubble question, and labor market signals — concluding that signals remain contradictory and it is still "early days" for definitive conclusions.
 
 **Sources**: `raw/blog/The economics of AI in spring 2026.md`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-11-19
 
 ---
 
@@ -101,3 +101,5 @@ The scan surfaces several dynamics relevant to [[ai-in-k12-education]] and [[cte
 - [[stanford-ai-index-education-2026]]
 - [[ai-economy-measurement-2026]]
 - [[ai-token-costs-throttling]]
+- [[ai-literacy]]
+- [[entry-level-labor-market]]

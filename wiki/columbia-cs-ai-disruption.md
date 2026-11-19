@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -138,3 +138,4 @@ This pattern connects to Klein's concern in [[ai-job-apocalypse-klein]] about th
 - [[stanford-ai-index-education-2026]]
 - [[graduating-into-disruption-census]]
 - [[ai-literacy]]
+- [[entry-level-labor-market]]

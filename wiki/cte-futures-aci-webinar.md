@@ -4,7 +4,7 @@
 
 **Sources**: `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Career pathways are growing but evidence isn’t.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -157,3 +157,4 @@ The webinar's fourth obstacle, no longitudinal evidence on CTE wage outcomes, ha
 - [[relational-economy]]
 - [[career-pathways-evidence-gap]]
 - [[ai-literacy]]
+- [[education-to-workforce-data-systems]]

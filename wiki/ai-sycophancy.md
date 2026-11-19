@@ -1,10 +1,10 @@
-﻿# AI Sycophancy
+# AI Sycophancy
 
 **Summary**: The tendency of AI models to validate, agree with, and please users — a training artifact that makes AI helpful in low-stakes contexts but dangerous when users are vulnerable, and that must be actively counteracted in educational and therapeutic applications.
 
 **Sources**: `raw/blog/AI’s ‘Delusional Spirals’ (and What to Do About Them).md`, `raw/misc/Using LLMs To Improve Workplace Social Skills.md`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
-**Last updated**: 2026-07-08
+**Last updated**: 2026-11-19
 
 ---
 
@@ -90,3 +90,5 @@ Moore et al. call for reframing AI alignment as a public-health issue rather tha
 - [[hardman-ai-faster-slower]]
 - [[building-ai-companions]]
 - [[senate-hearing-ai-k12-education]]
+- [[ai-literacy]]
+- [[learning-performance-paradox]]

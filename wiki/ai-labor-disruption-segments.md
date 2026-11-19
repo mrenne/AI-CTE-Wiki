@@ -153,3 +153,4 @@ Two refinements to BCG's framing. First, the 41-country study finds junior emplo
 - [[graduating-into-disruption-census]]
 - [[entry-level-labor-market]]
 - [[jevons-paradox]]
+- [[ai-literacy]]
