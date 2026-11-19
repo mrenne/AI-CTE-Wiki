@@ -39,11 +39,11 @@ Grouped by wiki-relevant CTE overlap:
 - **Data Science** — median $112,590; **34% growth, the fastest on the list overall** — framed as the degree most directly tied to the AI boom itself (students build and monitor the models reshaping other fields)
 - **Finance** — median $101,350; 6% growth; AI has automated junior-analyst spreadsheet work, but risk judgment and regulatory interpretation remain human
 - **Healthcare Administration** — median $117,960; 23% growth; the business/operations side of a growing healthcare sector
-- **Human Resources Management** — median $72,910; 6% growth
+- **Human Resources Management** — median $72,910; 6% growth (source: The College Degrees Considered Safest From AI Disruption.md)
 
 **Relational/mission-driven fields**:
 - **K-12 Education** — median $62,340 (elementary teachers); roughly flat overall employment but ~103,800 openings/year from retirements; explicitly "relationship-driven work" AI cannot replace
-- **Social Work** — median $61,330 (median $68,090 for healthcare social workers); 6% growth overall, **10% growth specifically for mental-health/substance-abuse social work**
+- **Social Work** — median $61,330 (median $68,090 for healthcare social workers); 6% growth overall, **10% growth specifically for mental-health/substance-abuse social work** (source: The College Degrees Considered Safest From AI Disruption.md)
 
 ## The skills list — near-identical convergence with the wiki's transferable-skills framework
 

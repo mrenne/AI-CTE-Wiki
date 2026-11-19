@@ -2,7 +2,7 @@
 
 **Summary**: A June 2026 New York Times video report documenting Bay Area high school seniors explicitly choosing trades as an AI hedge — the first primary journalistic source in the wiki showing student-level behavioral response to AI anxiety in the class of 2026.
 
-**Sources**: `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`
+**Sources**: `raw/video/These Teens Are Choosing Trade Classes to AI-Proof Their Futures.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/blog/AI, jobs, and the next generation.md`
 
 **Last updated**: 2026-11-19
 
@@ -128,7 +128,7 @@ This psychological framing is structurally consistent with the [[sinead-bovell-j
 
 ## Attitudinal Confirmation from a National Survey (August 2026)
 
-[[pew-young-adults-ai-anxiety]] (Pew Research Center, August 2026) provides the first systematic, multi-year, nationally representative confirmation that the anxiety this video documents in a handful of Bay Area students is a real and *growing* age-specific pattern, not a media-selected anecdote. Pew finds adults under 30 are the only age group whose AI-related concern is still climbing (31% in 2021 to 55% in 2026 saying they're more concerned than excited about AI), while every other age group's concern plateaued around 2023. Belief that AI will reduce the number of jobs rose from 61% to 73% among adults under 30 between 2024 and 2026 alone — a national number that validates, at scale, this video's ground-level "no path is safe" framing.
+[[pew-young-adults-ai-anxiety]] (Pew Research Center, August 2026) provides the first systematic, multi-year, nationally representative confirmation that the anxiety this video documents in a handful of Bay Area students is a real and *growing* age-specific pattern, not a media-selected anecdote. Pew finds adults under 30 are the only age group whose AI-related concern is still climbing (31% in 2021 to 55% in 2026 saying they're more concerned than excited about AI), while every other age group's concern plateaued around 2023. Belief that AI will reduce the number of jobs rose from 61% to 73% among adults under 30 between 2024 and 2026 alone — a national number that validates, at scale, this video's ground-level "no path is safe" framing. (source: Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md)
 
 The two sources are methodologically complementary rather than duplicative: this page's video captures *behavioral response* (what students are doing about their anxiety — enrolling in trades) while Pew captures *stated attitude* (what students say they feel). Both point the same direction, in the same population, measured independently — the kind of cross-methodology convergence the wiki treats as strong evidence.
 

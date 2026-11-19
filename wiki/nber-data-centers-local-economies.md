@@ -1,4 +1,4 @@
-﻿# Data Centers and Local Economies in the Age of AI
+# Data Centers and Local Economies in the Age of AI
 
 **Summary**: A May 2026 NBER working paper using shift-share instrumental variables to causally identify how data center construction affects local employment, income, house prices, and electricity prices across 3,100+ US counties from 1995–2020.
 
@@ -10,25 +10,25 @@
 
 ## Overview
 
-*Data Centers and Local Economies in the Age of AI: A Shift-Share Approach* (NBER Working Paper 35194, May 2026) was authored by Fernando E. Alvarez (University of Chicago/NBER), David Argente, Joyce Chow, and Diana Van Patten (Yale/NBER). It is a causal inference study — not a correlational analysis — using two independent instruments to isolate the effect of data center construction on local economic outcomes across more than 3,100 US counties over 25 years.
+*Data Centers and Local Economies in the Age of AI: A Shift-Share Approach* (NBER Working Paper 35194, May 2026) was authored by Fernando E. Alvarez (University of Chicago/NBER), David Argente, Joyce Chow, and Diana Van Patten (Yale/NBER). It is a causal inference study — not a correlational analysis — using two independent instruments to isolate the effect of data center construction on local economic outcomes across more than 3,100 US counties over 25 years. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-The paper directly addresses a question with high policy relevance for [[cte-and-ai]]: does the AI infrastructure buildout actually create local jobs, and for whom?
+The paper directly addresses a question with high policy relevance for [[cte-and-ai]]: does the AI infrastructure buildout actually create local jobs, and for whom? (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 ## Research Design
 
 ### Why IV Estimation Matters
 
-Data centers are not placed randomly. Companies build them in counties with cheap land, reliable power, proximity to fiber infrastructure, and favorable tax treatment. A naïve comparison of counties with and without data centers would conflate data center effects with pre-existing local advantages.
+Data centers are not placed randomly. Companies build them in counties with cheap land, reliable power, proximity to fiber infrastructure, and favorable tax treatment. A naïve comparison of counties with and without data centers would conflate data center effects with pre-existing local advantages. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 The authors solve this with **two independent shift-share instruments**:
 
-1. **Fiber proximity × Chinese demand growth**: The negative log distance from each US county to the nearest pre-1995 long-haul fiber node, interacted with the national revenue growth of Chinese data center operators. Counties near pre-existing fiber nodes (placed before the modern AI era) absorb disproportionate demand when global data center investment surges — but the fiber placement predates the AI boom and is independent of recent local conditions.
+1. **Fiber proximity × Chinese demand growth**: The negative log distance from each US county to the nearest pre-1995 long-haul fiber node, interacted with the national revenue growth of Chinese data center operators. Counties near pre-existing fiber nodes (placed before the modern AI era) absorb disproportionate demand when global data center investment surges — but the fiber placement predates the AI boom and is independent of recent local conditions. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-2. **College share × rest-of-world demand growth**: Each county's 1980 urban college population share, interacted with rest-of-world (ex-China) data center revenue growth. Counties with high 1980 college shares tend to attract data centers due to the educated local labor force — again, a characteristic that predates the AI era and is independent of recent local shocks.
+2. **College share × rest-of-world demand growth**: Each county's 1980 urban college population share, interacted with rest-of-world (ex-China) data center revenue growth. Counties with high 1980 college shares tend to attract data centers due to the educated local labor force — again, a characteristic that predates the AI era and is independent of recent local shocks. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-**First-stage F-statistics**: 786–907 across estimation horizons — well above the threshold for strong instruments.
+**First-stage F-statistics**: 786–907 across estimation horizons — well above the threshold for strong instruments. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-**Sample**: 3,143 US counties, long-difference estimation across 1995–2020 and sub-periods.
+**Sample**: 3,143 US counties, long-difference estimation across 1995–2020 and sub-periods. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 ## Key Finding 1: Data Centers Raise Local Employment — Construction Leads
 
@@ -41,11 +41,11 @@ Full 25-year IV estimates (Table 4):
 | Construction employment | **+7.1%** (p<0.01) |
 | Business establishments | **+6.2%** (p<0.01) |
 
-**The construction timing pattern** is the most important CTE finding: construction employment is front-loaded, showing the largest early-horizon effects in the years immediately following data center investment. This matches the known capital structure: critical facility infrastructure (power substations, cooling systems, structural shell) comprises roughly 53% of total construction costs. The construction spike is real, substantial, and concentrated in trades — electricians, HVAC technicians, plumbers, structural workers.
+**The construction timing pattern** is the most important CTE finding: construction employment is front-loaded, showing the largest early-horizon effects in the years immediately following data center investment. This matches the known capital structure: critical facility infrastructure (power substations, cooling systems, structural shell) comprises roughly 53% of total construction costs. The construction spike is real, substantial, and concentrated in trades — electricians, HVAC technicians, plumbers, structural workers. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-Data-processing employment growth (+29.4%) is persistent but modest in absolute terms — less than 1% of county total employment. Data centers are capital-intensive, not labor-intensive, in their permanent operations.
+Data-processing employment growth (+29.4%) is persistent but modest in absolute terms — less than 1% of county total employment. Data centers are capital-intensive, not labor-intensive, in their permanent operations. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-The employment gains are the result of **multiplier effects**, not just direct hiring: more income in the county → more local spending → more businesses → more employment across service and retail sectors.
+The employment gains are the result of **multiplier effects**, not just direct hiring: more income in the county → more local spending → more businesses → more employment across service and retail sectors. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 ## Key Finding 2: Income Rises — But Unevenly
 
@@ -58,17 +58,17 @@ Income results (Table 5, 1995–2020):
 | Tax returns filed | **+5.9%** (p<0.01) |
 | Annual payroll | Not significant at longer horizons |
 
-The wage and income gains confirm that data centers produce real household economic improvement at the county level — not merely gross output effects. The gap between wages (+5.9%) and payroll (insignificant) suggests the gains are distributed across a broader population rather than concentrated in a small number of high-salary hires.
+The wage and income gains confirm that data centers produce real household economic improvement at the county level — not merely gross output effects. The gap between wages (+5.9%) and payroll (insignificant) suggests the gains are distributed across a broader population rather than concentrated in a small number of high-salary hires. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 ## Key Finding 3: Two Equity Costs — Electricity and Housing
 
 The paper's most policy-relevant findings for equity are on the **cost side**:
 
-**Electricity prices rise +0.9%** (p<0.01) for all county residents. Data centers are among the most electricity-intensive facilities in the American economy. US data center electricity consumption jumped from 58 TWh (2014) to 176 TWh (2023) — 4.4% of national electricity consumption. At the county level, this demand increase translates into higher prices for everyone: households, small businesses, schools, and manufacturers. The cost is broadly shared while the income gains accrue primarily to workers with the skills data centers need.
+**Electricity prices rise +0.9%** (p<0.01) for all county residents. Data centers are among the most electricity-intensive facilities in the American economy. US data center electricity consumption jumped from 58 TWh (2014) to 176 TWh (2023) — 4.4% of national electricity consumption. At the county level, this demand increase translates into higher prices for everyone: households, small businesses, schools, and manufacturers. The cost is broadly shared while the income gains accrue primarily to workers with the skills data centers need. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-**House prices rise +17.7%** (p<0.01). Data center investment raises land values in host counties. Rising property values benefit homeowners and landowners — they are a loss for renters and prospective buyers. Low-income residents, who are disproportionately renters, absorb the displacement pressure while capturing little of the income gain.
+**House prices rise +17.7%** (p<0.01). Data center investment raises land values in host counties. Rising property values benefit homeowners and landowners — they are a loss for renters and prospective buyers. Low-income residents, who are disproportionately renters, absorb the displacement pressure while capturing little of the income gain. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-The equity concern is structural: the benefits (construction wages, multiplier income) flow to workers with CTE-aligned skills in the short run and to knowledge workers in the long run; the costs (electricity, housing) fall on all county residents regardless of skill level. This is not an argument against data centers — but it is a reason not to treat the local employment boom as a straightforward community benefit without attending to distributional effects.
+The equity concern is structural: the benefits (construction wages, multiplier income) flow to workers with CTE-aligned skills in the short run and to knowledge workers in the long run; the costs (electricity, housing) fall on all county residents regardless of skill level. This is not an argument against data centers — but it is a reason not to treat the local employment boom as a straightforward community benefit without attending to distributional effects. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 ## Key Finding 4: Geographic Concentration
 
@@ -76,17 +76,17 @@ Data centers are not evenly distributed across the United States:
 
 - Only **7.6% of US counties** had any data center presence by 2020
 - **Virginia** (Northern Virginia in particular — home to the world's largest data center cluster) and **Texas** dominate
-- The geographic concentration means that most counties will not directly receive construction employment booms; the AI infrastructure opportunity is geographically targeted
+- The geographic concentration means that most counties will not directly receive construction employment booms; the AI infrastructure opportunity is geographically targeted (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 This has implications for how [[cte-and-ai]] programs are designed. CTE programs in high-concentration states and regions can treat data center construction as a durable employment pipeline with strong causal evidence behind it. Programs outside those corridors face a different strategic calculation.
 
 ## Robustness and Limitations
 
-**What holds with state fixed effects**: Data-processing employment growth, business establishment growth, and house price increases are robust to adding state fixed effects — confirming these are local rather than regional phenomena.
+**What holds with state fixed effects**: Data-processing employment growth, business establishment growth, and house price increases are robust to adding state fixed effects — confirming these are local rather than regional phenomena. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-**What is not robust to state fixed effects**: Total employment, construction employment, and electricity prices — these effects may be more regional in character, or the state-level variation is absorbing identifying variation.
+**What is not robust to state fixed effects**: Total employment, construction employment, and electricity prices — these effects may be more regional in character, or the state-level variation is absorbing identifying variation. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
-**External validity note**: The 1995–2020 period precedes the most recent AI-driven data center acceleration (the post-2022 buildout following ChatGPT). The observed effects are likely lower bounds on what current expansion will produce, both in scale and in the construction intensity of the specific facilities being built.
+**External validity note**: The 1995–2020 period precedes the most recent AI-driven data center acceleration (the post-2022 buildout following ChatGPT). The observed effects are likely lower bounds on what current expansion will produce, both in scale and in the construction intensity of the specific facilities being built. (source: DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf)
 
 ## The Meta Texas Case: A Named 2026 Example
 

@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
-**Last updated**: 2026-09-26
+**Last updated**: 2026-11-19
 
 ---
 
@@ -12,15 +12,15 @@
 
 ## The Central Claim
 
-A growing post-ChatGPT literature attributes the sharp decline in early-career hiring since 2022 to generative AI — arguing that GenAI substitutes for the cognitive and analytical tasks firms historically delegated to junior workers. Lambert & Schindler argue this verdict is premature.
+A growing post-ChatGPT literature attributes the sharp decline in early-career hiring since 2022 to generative AI — arguing that GenAI substitutes for the cognitive and analytical tasks firms historically delegated to junior workers. Lambert & Schindler argue this verdict is premature. (source: The Broken Ladder.pdf)
 
-Their core methodological point: **GenAI and WFH exposure are correlated at 0.77 (Spearman rank) across O\*NET occupations.** Software developers, accountants, and management consultants sit at the top of *both* rankings; electricians, janitors, and construction laborers sit at the bottom of *both*. Single-treatment designs that include only GenAI exposure are therefore picking up WFH effects as well — and when both are estimated jointly, the WFH effect survives while GenAI attenuates to near-zero.
+Their core methodological point: **GenAI and WFH exposure are correlated at 0.77 (Spearman rank) across O\*NET occupations.** Software developers, accountants, and management consultants sit at the top of *both* rankings; electricians, janitors, and construction laborers sit at the bottom of *both*. Single-treatment designs that include only GenAI exposure are therefore picking up WFH effects as well — and when both are estimated jointly, the WFH effect survives while GenAI attenuates to near-zero. (source: The Broken Ladder.pdf)
 
 ---
 
 ## The Empirical Fact Being Explained
 
-Across the US, UK, Canada, and Australia, the junior share of new hires has fallen 8–11 percentage points below 2019 baselines by 2025. The series is stable through 2019, dips during COVID, recovers briefly in 2021–22, and then breaks sharply downward from late 2022. The synchronicity across four economies with different institutions, immigration regimes, and macro trajectories is the primary evidence of a common underlying shock.
+Across the US, UK, Canada, and Australia, the junior share of new hires has fallen 8–11 percentage points below 2019 baselines by 2025. The series is stable through 2019, dips during COVID, recovers briefly in 2021–22, and then breaks sharply downward from late 2022. The synchronicity across four economies with different institutions, immigration regimes, and macro trajectories is the primary evidence of a common underlying shock. (source: The Broken Ladder.pdf)
 
 Within countries: entry-level hires are down 14–29%; junior hires down 12–26%; senior hires are 5–21% *above* the pre-period average. Early-career jobs are the primary channel through which workers accumulate human capital; a persistent contraction in this pipeline hollows out the future senior workforce and imposes cohort-specific career scarring. (source: The Broken Ladder.pdf)
 
@@ -31,16 +31,16 @@ Within countries: entry-level hires are down 14–29%; junior hires down 12–26
 Two microdata sources covering the US, UK, Canada, and Australia over 2017–2025:
 
 - **Revelio Labs**: 243 million employer-employee records assembled from résumés. Seniority classified into seven levels based on job title and prior employment history. "Junior" = bottom two levels.
-- **Lightcast**: 407 million online job vacancy postings from thousands of job boards. Outcome: share of postings requiring ≤3 years of relevant experience.
+- **Lightcast**: 407 million online job vacancy postings from thousands of job boards. Outcome: share of postings requiring ≤3 years of relevant experience. (source: The Broken Ladder.pdf)
 
 **Exposure measures**:
 - GenAI: Eloundou et al. (2024) — fraction of an occupation's tasks completable ≥50% faster with generative AI
 - WFH: Hansen et al. (2023) — share of postings in 2021–22 offering remote/hybrid work in each occupation
-- Both z-score standardized
+- Both z-score standardized (source: The Broken Ladder.pdf)
 
 **Two-treatment difference-in-differences** designs at two levels:
 - State × 6-digit O\*NET occupation × month (47,003 units)
-- Firm × 2-digit occupation × year (603,650 units)
+- Firm × 2-digit occupation × year (603,650 units) (source: The Broken Ladder.pdf)
 
 Pre-period: 2017–2019 (before mass WFH and GenAI adoption). Post-period: 2023–2025. (source: The Broken Ladder.pdf)
 
@@ -48,7 +48,7 @@ Pre-period: 2017–2019 (before mass WFH and GenAI adoption). Post-period: 2023�
 
 ## Main Results
 
-**Single-treatment**: both WFH and GenAI exposure each predict a ~4–5pp fall in the junior share of new hires (per 2sd increase) by 2025, and ~3pp fall in the share of postings requiring ≤3 years experience. The two event-study paths are nearly indistinguishable from each other.
+**Single-treatment**: both WFH and GenAI exposure each predict a ~4–5pp fall in the junior share of new hires (per 2sd increase) by 2025, and ~3pp fall in the share of postings requiring ≤3 years experience. The two event-study paths are nearly indistinguishable from each other. (source: The Broken Ladder.pdf)
 
 **Joint-treatment**: the WFH coefficient is stable (−1.42 to −1.57pp); the GenAI coefficient attenuates heavily (−0.41 to −0.45pp) and is often statistically indistinguishable from zero. On the job postings outcome, the GenAI coefficient changes sign. (source: The Broken Ladder.pdf)
 
@@ -59,11 +59,11 @@ Pre-period: 2017–2019 (before mass WFH and GenAI adoption). Post-period: 2023�
 | Single-treatment, postings | −1.06 | −0.56 |
 | Joint-treatment, postings | −1.24 | +0.27 |
 
-*(State × occupation × month panel)*
+*(State × occupation × month panel)* (source: The Broken Ladder.pdf)
 
-The diagnostics rule out collinearity as an explanation: variance inflation factors stay below 2.4 and condition numbers below 2.7.
+The diagnostics rule out collinearity as an explanation: variance inflation factors stay below 2.4 and condition numbers below 2.7. (source: The Broken Ladder.pdf)
 
-**Actual WFH adoption** (not just occupational exposure): firms that explicitly offered remote/hybrid work in 2021–22 show subsequent declines in junior hiring share and junior-experience postings, matched on WFH and GenAI exposure quintiles. The effects are similar in magnitude to the exposure-based results.
+**Actual WFH adoption** (not just occupational exposure): firms that explicitly offered remote/hybrid work in 2021–22 show subsequent declines in junior hiring share and junior-experience postings, matched on WFH and GenAI exposure quintiles. The effects are similar in magnitude to the exposure-based results. (source: The Broken Ladder.pdf)
 
 ---
 
@@ -73,11 +73,11 @@ The paper builds a partial-equilibrium model with two-tiered employment, supervi
 
 **WFH reduces junior hiring through two channels:**
 
-1. **Higher supervision costs (φ)**: Each junior worker consumes a fraction of senior time for monitoring, feedback, and development. Remote work raises this fraction — communication is slower, mentoring is harder, output is harder to interpret. This reduces the net marginal product of hiring a junior.
+1. **Higher supervision costs (φ)**: Each junior worker consumes a fraction of senior time for monitoring, feedback, and development. Remote work raises this fraction — communication is slower, mentoring is harder, output is harder to interpret. This reduces the net marginal product of hiring a junior. (source: The Broken Ladder.pdf)
 
 2. **Lower promotion rate (λ)**: On-the-job learning slows when workers are remote. Proximity to coworkers increases feedback, especially for younger workers (Emanuel et al., 2026). A lower learning rate means the capital gain from eventually promoting a junior to senior is more heavily discounted — making the investment less attractive. (source: The Broken Ladder.pdf)
 
-Both channels predict the same direction: firms hire proportionally fewer juniors as WFH exposure increases. The model generates wage predictions consistent with empirical patterns: WFH raises the senior-to-junior wage premium and lowers the junior replacement rate — and both auxiliary margins move with WFH exposure but not GenAI exposure in the data.
+Both channels predict the same direction: firms hire proportionally fewer juniors as WFH exposure increases. The model generates wage predictions consistent with empirical patterns: WFH raises the senior-to-junior wage premium and lowers the junior replacement rate — and both auxiliary margins move with WFH exposure but not GenAI exposure in the data. (source: The Broken Ladder.pdf)
 
 ---
 
@@ -91,7 +91,7 @@ The WFH-dominant pattern survives an unusually comprehensive battery of robustne
 - **Alternative exposure measures**: WFH coefficient larger in magnitude than GenAI in 22 of 24 combinations of two WFH measures × three GenAI measures.
 - **Residualized single-treatment designs**: WFH residualized on GenAI remains a robust predictor; GenAI residualized on WFH is small, insignificant, or wrong-signed.
 - **Leave-one-out occupational robustness**: WFH-dominant pattern holds after dropping each of 18 2-digit O\*NET occupation groups individually.
-- **Country-by-country**: WFH negative and significant in all four countries on new hires; GenAI insignificant in 7 of 8 country×design cells.
+- **Country-by-country**: WFH negative and significant in all four countries on new hires; GenAI insignificant in 7 of 8 country×design cells. (source: The Broken Ladder.pdf)
 
 (source: The Broken Ladder.pdf)
 
@@ -104,7 +104,7 @@ The authors are careful about scope:
 - "We do not interpret this evidence as ruling out strong impacts of GenAI on labor markets — our findings bear only on the **relative hiring of junior and senior workers up to 2025**."
 - They acknowledge the analysis covers an early period (ChatGPT released November 2022; post-period is 2023–2025) when GenAI adoption was still accelerating.
 - They do not address mass unemployment or absolute job loss — only the relative seniority composition of new hires.
-- They explicitly call for firm-level GenAI adoption measures with independent variation from WFH, and a longer post-period, to track how effects evolve.
+- They explicitly call for firm-level GenAI adoption measures with independent variation from WFH, and a longer post-period, to track how effects evolve. (source: The Broken Ladder.pdf)
 
 ---
 
@@ -112,7 +112,7 @@ The authors are careful about scope:
 
 The authors frame the WFH-dominant finding as "cause for optimism" relative to the AI-doomer view:
 
-> "WFH delivers substantial benefits to workers and firms, and the organizational frictions it creates around supervising and developing early-career workers are surmountable through the diffusion of managerial practices better suited to remote-work environments. More dramatic policy remedies would be required if GenAI was the main driver of the junior-hiring decline."
+> "WFH delivers substantial benefits to workers and firms, and the organizational frictions it creates around supervising and developing early-career workers are surmountable through the diffusion of managerial practices better suited to remote-work environments. More dramatic policy remedies would be required if GenAI was the main driver of the junior-hiring decline." (source: The Broken Ladder.pdf)
 
 If WFH is the mechanism, the remedy is adapting management practice — hybrid policies, structured onboarding, remote mentoring protocols. If GenAI is the mechanism, remedies would require wage subsidies, differential tax treatment, or other structural interventions. The diagnosis determines the prescription. (source: The Broken Ladder.pdf)
 
@@ -137,7 +137,7 @@ This paper directly complicates several claims in this wiki:
 
 ## Student Behavioral Response: Gallup/Lumina 2026 (June 2026)
 
-A Gallup and Lumina Foundation survey of 3,801 US college students published in 2026, cited by Justin Spelhaug ([[spelhaug-microsoft-elevate]]), provides behavioral evidence that young people are registering the broken-ladder dynamic — and acting on it:
+A Gallup and Lumina Foundation survey of 3,801 US college students published in 2026, cited by Justin Spelhaug ([[spelhaug-microsoft-elevate]]), provides behavioral evidence that young people are registering the broken-ladder dynamic — and acting on it: (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md)
 
 - **47%** had seriously considered changing their major because of AI's potential impact on the job market
 - **16%** already had (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md)
@@ -148,9 +148,9 @@ The Broken Ladder's contribution to interpreting this data: the junior-hiring de
 
 The Bay Area class of 2026 ([[nyt-teens-trade-classes]]) represents the same phenomenon in a different population: high school seniors explicitly avoiding tech careers and pivoting to trades as an AI hedge. The Gallup/Lumina data shows this pattern is not just visible in the AI capital — it is widespread among enrolled college students nationwide.
 
-**A precise, federally sourced statistic for the empirical fact being explained**: [[safest-college-degrees-forbes]] (August 2026) cites the Federal Reserve Bank of New York's finding that recent-graduate unemployment reached **5.6% in Q2 2026**, surpassing the overall workforce rate of 4.2% — a reversal of the historical norm in which a college degree conferred more job security than the general labor market. This is a more specific, recently dated figure than the "8-11 percentage-point decline in junior-hire share" language this page already documents, and it corroborates the same underlying phenomenon this page is centrally about — regardless of whether WFH or AI proves to be the primary driver.
+**A precise, federally sourced statistic for the empirical fact being explained**: [[safest-college-degrees-forbes]] (August 2026) cites the Federal Reserve Bank of New York's finding that recent-graduate unemployment reached **5.6% in Q2 2026**, surpassing the overall workforce rate of 4.2% — a reversal of the historical norm in which a college degree conferred more job security than the general labor market. This is a more specific, recently dated figure than the "8-11 percentage-point decline in junior-hire share" language this page already documents, and it corroborates the same underlying phenomenon this page is centrally about — regardless of whether WFH or AI proves to be the primary driver. (source: The College Degrees Considered Safest From AI Disruption.md)
 
-**Attitudinal confirmation that the underlying anxiety is real, rising, and age-concentrated**: [[pew-young-adults-ai-anxiety]] (August 2026) finds that adults under 30 are the only age group whose AI-related concern is still climbing — from 31% (2021) to 55% (2026) saying they're more concerned than excited about AI — while other age groups' concern has plateaued since roughly 2023. Belief that AI will reduce the number of jobs has also risen sharply among young adults specifically (61% to 73% between 2024 and 2026). This is stated-attitude evidence, distinct from the revealed-behavior evidence (major-switching, trade enrollment) above, but pointing in the same direction from a different methodology — independent corroboration that the junior-hiring-decline environment this page investigates is something young people themselves perceive and are anxious about, whatever its ultimate cause.
+**Attitudinal confirmation that the underlying anxiety is real, rising, and age-concentrated**: [[pew-young-adults-ai-anxiety]] (August 2026) finds that adults under 30 are the only age group whose AI-related concern is still climbing — from 31% (2021) to 55% (2026) saying they're more concerned than excited about AI — while other age groups' concern has plateaued since roughly 2023. Belief that AI will reduce the number of jobs has also risen sharply among young adults specifically (61% to 73% between 2024 and 2026). This is stated-attitude evidence, distinct from the revealed-behavior evidence (major-switching, trade enrollment) above, but pointing in the same direction from a different methodology — independent corroboration that the junior-hiring-decline environment this page investigates is something young people themselves perceive and are anxious about, whatever its ultimate cause. (source: Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md)
 
 ## The Canaries Dashboard: A Subsequent Corroboration (June 2026)
 
@@ -172,7 +172,7 @@ The two papers use different designs (Lambert & Schindler: joint-treatment DiD o
 
 ## August 2026 Update: A Direct Replication of This Page's Own Specification
 
-The August 2026 update to [[canaries-coal-mine-brynjolfsson]] goes further than the non-teleworkable robustness check above: the authors **directly replicate this paper's own state-by-occupation joint-treatment event-study specification** inside the ADP payroll data — same AI-exposure measure (Eloundou et al.), the same Lambert & Schindler work-from-home measure, the same joint-treatment design (equation 8 of the L&S paper), applied to a different dataset.
+The August 2026 update to [[canaries-coal-mine-brynjolfsson]] goes further than the non-teleworkable robustness check above: the authors **directly replicate this paper's own state-by-occupation joint-treatment event-study specification** inside the ADP payroll data — same AI-exposure measure (Eloundou et al.), the same Lambert & Schindler work-from-home measure, the same joint-treatment design (equation 8 of the L&S paper), applied to a different dataset. (source: Canaries_August2026.pdf)
 
 The result reverses the pattern this page reports above. In the ADP replication, when AI exposure and WFH exposure are entered **jointly**, the **AI-exposure coefficient grows** over the sample period (from −0.64 percentage points per SD in 2022 to −1.52 by 2025) while the WFH coefficient shrinks toward zero and is mostly statistically insignificant — the opposite of the Table above's "WFH coefficient stable (−1.42 to −1.57pp); GenAI attenuates heavily" finding in the Revelio data.
 

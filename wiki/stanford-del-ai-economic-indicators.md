@@ -2,7 +2,7 @@
 
 **Summary**: Covers the series' June 2026 research note and its November 2026 monthly update (data through October 2026, below). Research Note #1 from Stanford Digital Economy Lab (Brynjolfsson et al., June 2026) — three components tracking AI's actual labor market and macroeconomic impact with live ADP data on 4.6 million workers across 730+ occupations. Key finding: automation-type AI usage predicts employment decline for early-career workers; augmentation-type usage does not.
 
-**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/AIEI_MU_Nov26.pdf`
+**Sources**: `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/AIEI_MU_Nov26.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
 
 **Last updated**: 2026-11-19
 
@@ -20,11 +20,11 @@ Brynjolfsson's framing: "We are flying blind into one of the most consequential 
 
 ### Design
 
-The Canaries Dashboard is the most novel and empirically powerful component. In partnership with ADP Research, Stanford DEL tracks employment outcomes for roughly **25,000 firms, 4.6 million workers, and 730+ occupations** — the largest longitudinal employment sample for this question in the wiki when this note was ingested (June 2026). Two later sources are larger: the Census graduate study's 6.7 million graduates linked to wage records ([[graduating-into-disruption-census]]) and the 41-country study's 154 million employment records ([[ai-labor-demand-41-countries]]). The "canaries" framing references the historical use of canaries in coal mines to detect invisible hazards: the goal is to identify which workers are showing early-stage employment effects before they appear in aggregate statistics.
+The Canaries Dashboard is the most novel and empirically powerful component. In partnership with ADP Research, Stanford DEL tracks employment outcomes for roughly **25,000 firms, 4.6 million workers, and 730+ occupations** — the largest longitudinal employment sample for this question in the wiki when this note was ingested (June 2026). Two later sources are larger: the Census graduate study's 6.7 million graduates linked to wage records ([[graduating-into-disruption-census]]) and the 41-country study's 154 million employment records ([[ai-labor-demand-41-countries]]). The "canaries" framing references the historical use of canaries in coal mines to detect invisible hazards: the goal is to identify which workers are showing early-stage employment effects before they appear in aggregate statistics. (source: Gradiating into Disruption.pdf; HowDoesAIChangeLaborDemand.pdf)
 
 The sample is a five-year balanced panel ending April 2026, using ADP payroll records — actual employment data, not surveys. (source: AIEI_RN01_Jun26.pdf)
 
-**A fresher data vintage now exists**: [[canaries-coal-mine-brynjolfsson]]'s August 2026 update extends the underlying academic paper's ADP panel through June 2026 (two months past this dashboard's April cutoff) and revises the headline early-career figure from a 16% relative decline to a **19% "kept-pace" shortfall**, explicitly noting the gap has widened every month since first documented. That page should be treated as the current authoritative vintage of this research program's headline numbers.
+**A fresher data vintage now exists**: [[canaries-coal-mine-brynjolfsson]]'s August 2026 update extends the underlying academic paper's ADP panel through June 2026 (two months past this dashboard's April cutoff) and revises the headline early-career figure from a 16% relative decline to a **19% "kept-pace" shortfall**, explicitly noting the gap has widened every month since first documented. That page should be treated as the current authoritative vintage of this research program's headline numbers. (source: Canaries_August2026.pdf)
 
 ### Finding 1: Aggregate Divergence Is Modest — But Early-Career Is Pronounced
 
@@ -58,7 +58,7 @@ The automation/augmentation distinction is relevant to the WFH confound debate (
 
 ### The Underlying Academic Paper
 
-[[canaries-coal-mine-brynjolfsson]] (November 2025) is the peer-reviewed-style working paper this research note's "Canaries Dashboard" is built on — same lead author (Brynjolfsson), same ADP dataset, earlier and more methodologically detailed. It reports the automation/augmentation finding above as one of six documented facts, adds a firm-time fixed-effects regression showing a 15 log-point relative employment decline for 22-25 year-olds in the most AI-exposed occupations (robust to firm-level confounders), and — critically — reports that the pattern **survives restricting the sample to non-teleworkable occupations**, directly complicating the WFH-attribution argument in [[broken-ladder]]. See [[canaries-coal-mine-brynjolfsson]] for the full six-fact breakdown and the codified-vs-tacit-knowledge theoretical mechanism.
+[[canaries-coal-mine-brynjolfsson]] (November 2025) is the peer-reviewed-style working paper this research note's "Canaries Dashboard" is built on — same lead author (Brynjolfsson), same ADP dataset, earlier and more methodologically detailed. It reports the automation/augmentation finding above as one of six documented facts, adds a firm-time fixed-effects regression showing a 15 log-point relative employment decline for 22-25 year-olds in the most AI-exposed occupations (robust to firm-level confounders), and — critically — reports that the pattern **survives restricting the sample to non-teleworkable occupations**, directly complicating the WFH-attribution argument in [[broken-ladder]]. See [[canaries-coal-mine-brynjolfsson]] for the full six-fact breakdown and the codified-vs-tacit-knowledge theoretical mechanism. (source: CanariesintheCoalMine_Nov25.pdf)
 
 ### Finding 3: Occupation-Level Examples
 

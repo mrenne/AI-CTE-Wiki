@@ -14,7 +14,7 @@
 **Institutions**: Hector Research Institute (Germany), UC Berkeley, Inria Bordeaux  
 **Published**: March 3, 2026 (arXiv:2505.01106v2)  
 **Population**: N=63 French middle-school students, ages 14–15  
-**Design**: Experimental. Students completed six open-ended science investigation tasks using ChatGPT. Prompts and AI responses were independently coded by domain experts. Students rated their own prompt quality and answer usefulness. Individual differences (AI attitudes, metacognitive regulation, domain knowledge) were measured and regressed against interaction quality.
+**Design**: Experimental. Students completed six open-ended science investigation tasks using ChatGPT. Prompts and AI responses were independently coded by domain experts. Students rated their own prompt quality and answer usefulness. Individual differences (AI attitudes, metacognitive regulation, domain knowledge) were measured and regressed against interaction quality. (source: The Illusion of Understanding.pdf)
 
 ---
 
@@ -22,39 +22,39 @@
 
 ### 1. Prompt Discrimination: Chance Level
 
-Students were unable to distinguish their own high-quality prompts from low-quality prompts.
+Students were unable to distinguish their own high-quality prompts from low-quality prompts. (source: The Illusion of Understanding.pdf)
 
 - Signal detection metric (d'): **0.19**, p = 0.08 — not significantly different from chance
 - Students used prompts they had themselves judged as "inefficient" **75.9% of the time**
-- The metacognitive loop required for deliberate prompt improvement was essentially absent
+- The metacognitive loop required for deliberate prompt improvement was essentially absent (source: The Illusion of Understanding.pdf)
 
-What this means: even when students held a belief that one prompt was better than another, that belief did not translate into behavior. Judgment and action were decoupled.
+What this means: even when students held a belief that one prompt was better than another, that belief did not translate into behavior. Judgment and action were decoupled. (source: The Illusion of Understanding.pdf)
 
 ### 2. Answer Evaluation: Chance Level
 
-Students were unable to distinguish high-quality AI answers from low-quality AI answers.
+Students were unable to distinguish high-quality AI answers from low-quality AI answers. (source: The Illusion of Understanding.pdf)
 
 - Signal detection metric (d'): **0.07**, p = 0.65 — at chance level
 - **71.4% of expert-rated LOW-level answers** were rated as "useful" by students
-- Students could not detect when they were receiving inadequate, incomplete, or misleading information
+- Students could not detect when they were receiving inadequate, incomplete, or misleading information (source: The Illusion of Understanding.pdf)
 
-What this means: AI fluency — the confident, well-formatted, plausible-sounding prose that LLMs generate — is indistinguishable from expertise to this population. Students are grading by surface features (coherence, length, confidence) rather than epistemic quality.
+What this means: AI fluency — the confident, well-formatted, plausible-sounding prose that LLMs generate — is indistinguishable from expertise to this population. Students are grading by surface features (coherence, length, confidence) rather than epistemic quality. (source: The Illusion of Understanding.pdf)
 
 ### 3. Regulatory Behavior: Near-Zero
 
-Students rarely took corrective action even when interactions were unsatisfactory.
+Students rarely took corrective action even when interactions were unsatisfactory. (source: The Illusion of Understanding.pdf)
 
 - Only **14 of 63 students** asked any follow-up question across all six tasks
 - Even when answers were rated as unsatisfactory, follow-up occurred only **31.8% of the time**
-- The dominant behavior was to accept whatever the first response contained
+- The dominant behavior was to accept whatever the first response contained (source: The Illusion of Understanding.pdf)
 
-This finding is especially significant because follow-up questioning is the primary mechanism through which productive AI interactions improve. Without it, the interaction is essentially a single-shot retrieval — no different in epistemic structure from a Google search.
+This finding is especially significant because follow-up questioning is the primary mechanism through which productive AI interactions improve. Without it, the interaction is essentially a single-shot retrieval — no different in epistemic structure from a Google search. (source: The Illusion of Understanding.pdf)
 
 ### 4. Task Outcomes
 
-Average task success rate: **M = 0.51** — effectively chance performance on the science investigation tasks.
+Average task success rate: **M = 0.51** — effectively chance performance on the science investigation tasks. (source: The Illusion of Understanding.pdf)
 
-Students were not learning from the AI interactions. The interactions were producing a confident feeling of task completion without the actual understanding that would demonstrate learning.
+Students were not learning from the AI interactions. The interactions were producing a confident feeling of task completion without the actual understanding that would demonstrate learning. (source: The Illusion of Understanding.pdf)
 
 ---
 
@@ -66,9 +66,9 @@ The study coins the term "illusion of understanding" to describe the specific co
 2. Students interpret fluency as quality — the output "feels right"
 3. No mismatch signal is generated that would trigger evaluation or follow-up
 4. Students experience task completion without task success
-5. The subjective feeling of understanding is present; objective understanding is absent
+5. The subjective feeling of understanding is present; objective understanding is absent (source: The Illusion of Understanding.pdf)
 
-This is distinct from ordinary misunderstanding (where the student knows something is wrong) or ordinary ignorance (where the student knows they don't know). The illusion of understanding is a third state: the student believes they understand when they do not, and the AI interaction actively suppresses the signals that would otherwise trigger self-correction.
+This is distinct from ordinary misunderstanding (where the student knows something is wrong) or ordinary ignorance (where the student knows they don't know). The illusion of understanding is a third state: the student believes they understand when they do not, and the AI interaction actively suppresses the signals that would otherwise trigger self-correction. (source: The Illusion of Understanding.pdf)
 
 This concept is closely related to but distinct from [[cognitive-debt]]. Cognitive debt (Kosmyna et al.) describes the neural atrophy that accumulates from habitual AI reliance over time. The illusion of understanding describes the immediate metacognitive failure that happens within a single AI interaction — the moment-to-moment inability to evaluate what one is receiving. Both operate together: the illusion prevents the student from recognizing the debt they are accumulating.
 
@@ -87,13 +87,13 @@ This finding directly challenges any assumption that positive attitudes toward A
 ### Metacognitive Regulation: Protective
 
 - **Metacognitive regulation positively predicts interaction quality**: r = 0.30, p = 0.022
-- Students who habitually monitored their own understanding and learning process performed better with AI
+- Students who habitually monitored their own understanding and learning process performed better with AI (source: The Illusion of Understanding.pdf)
 
 This is consistent with [[agentivism]]'s argument that epistemic monitoring (Principle 2) is the core mechanism through which AI use becomes learning rather than task completion. Students with existing metacognitive habits were partially protected against the illusion of understanding.
 
 ### Domain Knowledge: Not Protective
 
-Prior domain knowledge did NOT significantly predict protection against the illusion of understanding.
+Prior domain knowledge did NOT significantly predict protection against the illusion of understanding. (source: The Illusion of Understanding.pdf)
 
 This is a critical finding: it means subject matter expertise is insufficient as a safeguard. A student who knows a lot about biology is not thereby better equipped to evaluate whether a ChatGPT biology answer is good or bad. The failure is metacognitive and evaluative, not informational.
 
@@ -103,13 +103,13 @@ This is a critical finding: it means subject matter expertise is insufficient as
 
 ### Recommendation 1: Pedagogical Friction
 
-Train students to treat the *ease* of AI interactions with suspicion. Effortless responses should trigger scrutiny, not confidence. The goal is to make the metacognitive reflex ("is this actually right?") automatic rather than exceptional.
+Train students to treat the *ease* of AI interactions with suspicion. Effortless responses should trigger scrutiny, not confidence. The goal is to make the metacognitive reflex ("is this actually right?") automatic rather than exceptional. (source: The Illusion of Understanding.pdf)
 
-The authors use the term "pedagogical friction" — deliberately making AI use harder in ways that restore the evaluative engagement students would apply to other sources. This aligns with the [[agentivism]] argument that cognitive effort, not task completion, is the precondition for learning.
+The authors use the term "pedagogical friction" — deliberately making AI use harder in ways that restore the evaluative engagement students would apply to other sources. This aligns with the [[agentivism]] argument that cognitive effort, not task completion, is the precondition for learning. (source: The Illusion of Understanding.pdf)
 
 ### Recommendation 2: LLM Pedagogical Alignment by Design
 
-LLMs should be engineered to actively scaffold metacognitive regulation — asking clarifying questions, flagging uncertainty, prompting students to evaluate and reconsider — rather than optimizing for perceived helpfulness. The design that *feels most helpful* (confident, complete, fluent answers) is precisely the design that produces the illusion of understanding.
+LLMs should be engineered to actively scaffold metacognitive regulation — asking clarifying questions, flagging uncertainty, prompting students to evaluate and reconsider — rather than optimizing for perceived helpfulness. The design that *feels most helpful* (confident, complete, fluent answers) is precisely the design that produces the illusion of understanding. (source: The Illusion of Understanding.pdf)
 
 This connects to the "Socratic chatbot paradox" observed in [[evidence-base-ai-k12]]: students rate guided-questioning AI as less helpful despite better learning outcomes. Consumer preference drives toward the harmful design. Institutional deployment must override that preference by design.
 

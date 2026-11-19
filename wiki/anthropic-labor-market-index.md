@@ -4,22 +4,22 @@
 
 **Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/PDF/The Broken Ladder.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
 ## Overview
 
-*Labor market impacts of AI: A new measure and early evidence* is an Anthropic research report by Maxim Massenkoff and Peter McCrory (published March 2026, with a correction on March 8, 2026). It builds on the **Anthropic Economic Index** — Anthropic's ongoing series measuring how Claude is actually used in professional settings — to create a new occupational exposure metric and test it against early labor market data.
+*Labor market impacts of AI: A new measure and early evidence* is an Anthropic research report by Maxim Massenkoff and Peter McCrory (published March 2026, with a correction on March 8, 2026). It builds on the **Anthropic Economic Index** — Anthropic's ongoing series measuring how Claude is actually used in professional settings — to create a new occupational exposure metric and test it against early labor market data. (source: Labor market impacts of AI A new measure and early evidence.md)
 
-The report is positioned explicitly as a longitudinal monitoring project: the authors intend to update both the methodology and findings as new data emerges, rather than making definitive claims from an initial snapshot.
+The report is positioned explicitly as a longitudinal monitoring project: the authors intend to update both the methodology and findings as new data emerges, rather than making definitive claims from an initial snapshot. (source: Labor market impacts of AI A new measure and early evidence.md)
 
 ## The Core Innovation: Observed Exposure
 
 Prior approaches to measuring AI's labor market impact relied primarily on *theoretical capability* — most influentially, the β metric from **Eloundou et al. (2023)**, which scores each O\*NET task as:
 - **β = 1**: Task can be doubled in speed by an LLM alone
 - **β = 0.5**: Task can be doubled in speed by an LLM with additional tools
-- **β = 0**: Task cannot be sped up by 50%+
+- **β = 0**: Task cannot be sped up by 50%+ (source: Labor market impacts of AI A new measure and early evidence.md)
 
 The problem: theoretical feasibility doesn't tell you what's actually happening. The Massenkoff & McCrory paper combines three data sources to build *observed exposure*:
 
@@ -30,9 +30,9 @@ The problem: theoretical feasibility doesn't tell you what's actually happening.
 A task earns observed exposure if it is:
 - Theoretically feasible (β > 0 from Eloundou et al.)
 - Observed in work-related Claude usage at sufficient frequency
-- Weighted more heavily if the usage pattern is **automated** (API/agentic) rather than **augmentative** (user-directed)
+- Weighted more heavily if the usage pattern is **automated** (API/agentic) rather than **augmentative** (user-directed) (source: Labor market impacts of AI A new measure and early evidence.md)
 
-The result is a measure that captures where AI is *actually penetrating* professional work, not just where it theoretically could. Crucially: **97% of observed Claude tasks fall into theoretically feasible categories (β ≥ 0.5)**, confirming that usage and capability are highly correlated — but actual coverage is still a fraction of theoretical potential.
+The result is a measure that captures where AI is *actually penetrating* professional work, not just where it theoretically could. Crucially: **97% of observed Claude tasks fall into theoretically feasible categories (β ≥ 0.5)**, confirming that usage and capability are highly correlated — but actual coverage is still a fraction of theoretical potential. (source: Labor market impacts of AI A new measure and early evidence.md)
 
 ## Most Exposed Occupations
 
@@ -41,11 +41,11 @@ The top occupations by observed exposure:
 1. **Computer Programmers** — 75% task coverage (consistent with Claude's heavy coding use)
 2. **Customer Service Representatives** — high first-party API usage automating their core tasks
 3. **Data Entry Keyers** — 67% coverage; primary task of reading and entering source data sees significant automation
-4. **Financial Analysts** — extensive information processing and analytical tasks
+4. **Financial Analysts** — extensive information processing and analytical tasks (source: Labor market impacts of AI A new measure and early evidence.md)
 
-At the other end, **30% of workers have zero observed exposure** — their tasks appear too infrequently in Claude usage data to meet the minimum threshold. This group includes Cooks, Motorcycle Mechanics, Lifeguards, Bartenders, and Dishwashers. Physical, in-person, and dexterous tasks remain effectively unexposed.
+At the other end, **30% of workers have zero observed exposure** — their tasks appear too infrequently in Claude usage data to meet the minimum threshold. This group includes Cooks, Motorcycle Mechanics, Lifeguards, Bartenders, and Dishwashers. Physical, in-person, and dexterous tasks remain effectively unexposed. (source: Labor market impacts of AI A new measure and early evidence.md)
 
-The occupational category data shows that while Computer & Math occupations have theoretical feasibility for 94% of tasks, observed exposure (actual Claude usage) covers only **33% of those tasks** — illustrating the persistent gap between what AI can do and what it is currently doing.
+The occupational category data shows that while Computer & Math occupations have theoretical feasibility for 94% of tasks, observed exposure (actual Claude usage) covers only **33% of those tasks** — illustrating the persistent gap between what AI can do and what it is currently doing. (source: Labor market impacts of AI A new measure and early evidence.md)
 
 ## Validation: BLS Projections
 
@@ -63,25 +63,25 @@ One of the most counterintuitive findings concerns the demographics of highly ex
 | Average earnings | baseline | +47% higher |
 | Graduate degree | 4.5% | 17.4% (4× more likely) |
 
-The most AI-exposed workers are **older, better-educated, higher-paid, and disproportionately female and Asian** — precisely the opposite of the typical "AI threatens low-skill workers" narrative, and also the opposite of who bore the brunt of COVID-era displacement (lower-paid, in-person workers).
+The most AI-exposed workers are **older, better-educated, higher-paid, and disproportionately female and Asian** — precisely the opposite of the typical "AI threatens low-skill workers" narrative, and also the opposite of who bore the brunt of COVID-era displacement (lower-paid, in-person workers). (source: Labor market impacts of AI A new measure and early evidence.md)
 
 This pattern reflects which tasks currently appear in Claude's professional usage: cognitive, knowledge-intensive, information-processing work. AI is first reaching white-collar professional work, not manual or service work. See [[labor-market-polarization]] and [[cte-and-ai]] for the implications of this inversion.
 
 ## Employment Impact: No Signal Yet (With One Exception)
 
-The paper's main labor market analysis compares unemployment trends for workers in the top quartile of exposure versus zero-exposure workers, using the Current Population Survey (CPS) from 2016 to present.
+The paper's main labor market analysis compares unemployment trends for workers in the top quartile of exposure versus zero-exposure workers, using the Current Population Survey (CPS) from 2016 to present. (source: Labor market impacts of AI A new measure and early evidence.md)
 
-**Main finding: no detectable unemployment impact.** The difference-in-differences estimate for changes since ChatGPT's release is small and statistically insignificant. The authors note their framework could detect a differential increase of approximately 1 percentage point — so the absence of a signal rules out a "Great Recession for white-collar workers" scenario (which would require unemployment doubling from 3% to 6% in exposed occupations).
+**Main finding: no detectable unemployment impact.** The difference-in-differences estimate for changes since ChatGPT's release is small and statistically insignificant. The authors note their framework could detect a differential increase of approximately 1 percentage point — so the absence of a signal rules out a "Great Recession for white-collar workers" scenario (which would require unemployment doubling from 3% to 6% in exposed occupations). (source: Labor market impacts of AI A new measure and early evidence.md)
 
 **The one exception: young worker hiring slowdown.** The paper finds tentative evidence that the hiring rate of workers aged 22–25 *into exposed occupations* has declined:
 
-> "The averaged estimate in the post-ChatGPT era is a **14% drop in the job finding rate** compared to that in 2022 in the exposed occupations, although this is just barely statistically significant."
+> "The averaged estimate in the post-ChatGPT era is a **14% drop in the job finding rate** compared to that in 2022 in the exposed occupations, although this is just barely statistically significant." (source: Labor market impacts of AI A new measure and early evidence.md)
 
-This echoes a parallel finding from [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen), whose original November 2025 vintage found a 6–16% fall in employment in exposed occupations among workers aged 22–25; the August 2026 update revises this to a **19% "kept-pace" shortfall** as of June 2026, explicitly noting the gap has widened every month since first documented in August 2025. Both papers attribute the effect primarily to slowed hiring rather than layoffs. The mechanism: young workers who aren't hired may not appear in unemployment statistics if they remain in school, take different jobs, or exit the labor force — making the impact visible in hiring data but not CPS unemployment counts.
+This echoes a parallel finding from [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen), whose original November 2025 vintage found a 6–16% fall in employment in exposed occupations among workers aged 22–25; the August 2026 update revises this to a **19% "kept-pace" shortfall** as of June 2026, explicitly noting the gap has widened every month since first documented in August 2025. Both papers attribute the effect primarily to slowed hiring rather than layoffs. The mechanism: young workers who aren't hired may not appear in unemployment statistics if they remain in school, take different jobs, or exit the labor force — making the impact visible in hiring data but not CPS unemployment counts. (source: CanariesintheCoalMine_Nov25.pdf)
 
 [[goldman-sachs-ai-labor-squeeze]] (August 2026) adds a cross-country replication of this same entry-level concentration pattern: a 10% increase in occupational AI exposure drags entry-level headcount growth by 0.2 to 0.6+ percentage points across the US, Canada, France, and Australia — 2-6x the drag on the broader workforce — using Goldman's own occupational analysis rather than the ADP/Anthropic data underlying this page and [[canaries-coal-mine-brynjolfsson]].
 
-(There is no such decrease for workers older than 25.)
+(There is no such decrease for workers older than 25.) (source: Labor market impacts of AI A new measure and early evidence.md)
 
 ## Methodological Honesty
 
@@ -91,7 +91,7 @@ The paper is unusually candid about its limitations and the difficulty of causal
 - AI's effects "might be less like COVID and more like the internet or trade with China" — slow, diffuse, and confounded by other economic forces
 - The Eloundou et al. β scores reflect LLM capabilities as of early 2023 and may not capture current model capabilities
 - The young worker hiring finding is described as "just barely statistically significant" and may reflect alternative explanations (tariffs, immigration policy, general economic uncertainty)
-- The report covers only Claude usage; it does not capture ChatGPT, Gemini, or other AI system penetration
+- The report covers only Claude usage; it does not capture ChatGPT, Gemini, or other AI system penetration (source: Labor market impacts of AI A new measure and early evidence.md)
 
 ## Implications for Education and CTE
 
@@ -127,7 +127,7 @@ Stanford Digital Economy Lab's Canaries Dashboard (Brynjolfsson et al., June 202
 
 This finding also provides a partial response to the [[broken-ladder]] WFH confound concern: Lambert & Schindler's critique applies to total exposure measures that conflate automation and augmentation. The automation/augmentation decomposition is a different analytical handle that the WFH confound argument does not directly address. (source: AIEI_RN01_Jun26.pdf)
 
-**The underlying academic paper**: [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) is the working paper the Canaries Dashboard research note above is built on. It reports a directly comparable but distinct figure — a **16% relative employment decline** for 22-25 year-olds in the most AI-exposed occupations (revised to 19% in the paper's August 2026 update; see [[canaries-coal-mine-brynjolfsson]]) (versus this page's 14% hiring-rate slowdown) — using a firm-time fixed-effects design on ADP payroll data rather than this paper's Claude-usage-based observed-exposure measure. The two studies use different datasets, different outcome variables (hiring rate vs. headcount), and different methodologies, yet converge on the same early-career-specific pattern — a meaningful cross-validation from largely independent data sources.
+**The underlying academic paper**: [[canaries-coal-mine-brynjolfsson]] (Brynjolfsson, Chandar & Chen, November 2025) is the working paper the Canaries Dashboard research note above is built on. It reports a directly comparable but distinct figure — a **16% relative employment decline** for 22-25 year-olds in the most AI-exposed occupations (revised to 19% in the paper's August 2026 update; see [[canaries-coal-mine-brynjolfsson]]) (versus this page's 14% hiring-rate slowdown) — using a firm-time fixed-effects design on ADP payroll data rather than this paper's Claude-usage-based observed-exposure measure. The two studies use different datasets, different outcome variables (hiring rate vs. headcount), and different methodologies, yet converge on the same early-career-specific pattern — a meaningful cross-validation from largely independent data sources. (source: CanariesintheCoalMine_Nov25.pdf; Canaries_August2026.pdf)
 
 ## Same Authors, Inside Anthropic (October 2026)
 

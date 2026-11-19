@@ -2,9 +2,9 @@
 
 **Summary**: A July 2025 Burning Glass Institute report arguing that the bachelor's degree is failing to deliver access to professional work for young graduates, driven by four interlocking forces — AI's "Expertise Upheaval," post-pandemic lean staffing, employer risk aversion, and a growing "Graduate Glut." An early, descriptive framing piece that predates most of the wiki's causal labor-market evidence.
 
-**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`
+**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-11-19
 
 ---
 

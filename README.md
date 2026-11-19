@@ -14,7 +14,7 @@ The human curates sources and asks questions. Claude handles the work that cause
 
 ## What the research actually shows
 
-Sixty-three source documents ingested so far (62 distinct works, with the Canaries paper in two versions), producing 87 interlinked wiki pages. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
+Sixty-two source documents ingested so far (61 distinct works, with the Canaries paper in two versions), producing 87 interlinked wiki pages. One further file in `raw/` (a Department of Labor AI literacy framework) is an unreadable web-clipper capture and has not been ingested. The picture that emerges is more nuanced — and more actionable — than either the AI-will-take-all-jobs or AI-changes-nothing narratives.
 
 ### On learning and cognition
 

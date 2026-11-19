@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/One Click Away.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -83,9 +83,9 @@ QuantHub CEO Joshua Jones's account of the curriculum-refresh problem sharpens t
 
 ## Three Real-World Implementation Case Studies (August 2026)
 
-[[aci-three-cte-programs]] (CTE Futures blog, August 2026) documents the model's first directly-observed classroom implementations: Walters State Community College (agriculture/soil science — AI literacy gains without sacrificing subject-matter learning), TCAP Upper Cumberland (AI-enabled welding feedback producing unplanned cross-departmental collaboration), and Jackson State Community College (a three-pronged, institution-wide rollout culminating in a public AI Summit). These are the first ACI case studies with concrete classroom outcomes rather than proposed frameworks or aspirational implementation plans — though none uses a comparison-group design, so they document *what happened*, not causally validated effectiveness.
+[[aci-three-cte-programs]] (CTE Futures blog, August 2026) documents the model's first directly-observed classroom implementations: Walters State Community College (agriculture/soil science — AI literacy gains without sacrificing subject-matter learning), TCAP Upper Cumberland (AI-enabled welding feedback producing unplanned cross-departmental collaboration), and Jackson State Community College (a three-pronged, institution-wide rollout culminating in a public AI Summit). These are the first ACI case studies with concrete classroom outcomes rather than proposed frameworks or aspirational implementation plans — though none uses a comparison-group design, so they document *what happened*, not causally validated effectiveness. (source: Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md)
 
-A notable contrast: [[one-click-away-khanmigo-rct]] (NBER, August 2026), a rigorously randomized two-year trial, found that a generic AI tutor deployed *outside* occupational context produced no detectable incremental learning effect because students rarely engaged it substantively. The ACI case studies, by contrast, embed AI engagement directly into assessed occupational tasks (a soil-science scenario question; an automatic weld-quality feedback system) rather than relying on student-initiated help-seeking — consistent with, though not a rigorous test of, this model's central design claim that occupational grounding is what makes AI mastery, technical skill, and transferable skill development mutually reinforcing rather than competing for classroom time.
+A notable contrast: [[one-click-away-khanmigo-rct]] (NBER, August 2026), a rigorously randomized two-year trial, found that a generic AI tutor deployed *outside* occupational context produced no detectable incremental learning effect because students rarely engaged it substantively. The ACI case studies, by contrast, embed AI engagement directly into assessed occupational tasks (a soil-science scenario question; an automatic weld-quality feedback system) rather than relying on student-initiated help-seeking — consistent with, though not a rigorous test of, this model's central design claim that occupational grounding is what makes AI mastery, technical skill, and transferable skill development mutually reinforcing rather than competing for classroom time. (source: One Click Away.pdf)
 
 ## Related pages
 

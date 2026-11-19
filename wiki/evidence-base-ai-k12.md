@@ -10,7 +10,7 @@
 
 ## What This Is
 
-*The Evidence Base on AI in K–12 Education* was produced by Stanford University's SCALE (Stanford Center for Assessment, Learning and Equity) in spring 2026. It reviews 818 papers from the AI Hub for Education Research Repository and identifies 20 with sufficient methodological rigor to contribute to causal findings. Papers were assessed using the What Works Clearinghouse (WWC) Handbook standards.
+*The Evidence Base on AI in K–12 Education* was produced by Stanford University's SCALE (Stanford Center for Assessment, Learning and Equity) in spring 2026. It reviews 818 papers from the AI Hub for Education Research Repository and identifies 20 with sufficient methodological rigor to contribute to causal findings. Papers were assessed using the What Works Clearinghouse (WWC) Handbook standards. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 This report is the Stanford "overview paper" referenced in the [[sal-khan-khanmigo-limits]] Chalkbeat article, which described the evidence base as "extremely limited." The full report confirms and quantifies that characterization.
 
@@ -23,39 +23,39 @@ This report is the Stanford "overview paper" referenced in the [[sal-khan-khanmi
 - **64%** of causal research conducted in postsecondary settings
 - **35%** of causal papers focus on math; heavily skewed away from literacy, social studies, language learning
 - **8%** of papers are RCTs (randomized controlled trials)
-- **59%** of all papers study students; the rest study educators or mixed populations
+- **59%** of all papers study students; the rest study educators or mixed populations (source: The Evidence Base on AI in K-12 Report.pdf)
 
-The report's core conclusion: the field is data-poor, evidence is narrow in scope, most studies are short-duration, and findings from international or postsecondary contexts may not transfer to U.S. K–12 classrooms.
+The report's core conclusion: the field is data-poor, evidence is narrow in scope, most studies are short-duration, and findings from international or postsecondary contexts may not transfer to U.S. K–12 classrooms. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 ## Key Finding 1: General-Purpose AI Harms Learning
 
 The sharpest causal finding across student-facing studies is that general-purpose AI chatbots — tools that provide complete answers rather than guided hints — consistently undermine independent learning:
 
-**The Turkey study (Bastani et al., 2025)**: ~1,000 high school students given access to a general-purpose AI chatbot to study for an exam performed *worse* than peers who worked through a textbook. Students given a tutoring-specific AI chatbot that provided *hints without direct answers* performed the same as textbook students. The general-purpose AI group showed higher performance during practice but crashed on the unassisted exam.
+**The Turkey study (Bastani et al., 2025)**: ~1,000 high school students given access to a general-purpose AI chatbot to study for an exam performed *worse* than peers who worked through a textbook. Students given a tutoring-specific AI chatbot that provided *hints without direct answers* performed the same as textbook students. The general-purpose AI group showed higher performance during practice but crashed on the unassisted exam. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 **The essay recall study (Kosmyna et al., 2025)**: Writing essays with AI chatbot assistance reduced brain activity and weakened recall. In the first session, 83% (15 of 18) of AI essay writers could not quote from the essay they had just written; only 11% (2 of 18) of search-engine or no-tool users showed this failure (source: Your Brain on ChatGPT.pdf). Students *preferred* the AI experience while producing worse outcomes. The full study (see [[your-brain-on-chatgpt]]) adds an EEG neurological mechanism — LLM users showed up to 55% reduced directed neural connectivity in semantic and memory networks — and a longitudinal finding: after three sessions of AI-assisted writing, participants who then wrote without tools showed brain connectivity *below the baseline of peers who had never written essays at all*. Kosmyna et al. call this accumulation of long-term cognitive harm [[cognitive-debt]].
 
-**The crutch effect (Fischer et al., 2025)**: Unfettered AI access improved practice grades but caused a **17% performance drop** on unassisted exams. Adding pedagogical guardrails — an interface called "GPT Tutor" that required students to engage rather than simply receive answers — mitigated this crutch effect.
+**The crutch effect (Fischer et al., 2025)**: Unfettered AI access improved practice grades but caused a **17% performance drop** on unassisted exams. Adding pedagogical guardrails — an interface called "GPT Tutor" that required students to engage rather than simply receive answers — mitigated this crutch effect. (source: The Evidence Base on AI in K-12 Report.pdf)
 
-**The reasoning quality study (Stadler et al., 2024)**: Students using general-purpose AI chatbots to research scientific issues produced lower-quality reasoning and argumentation than students using traditional search engines.
+**The reasoning quality study (Stadler et al., 2024)**: Students using general-purpose AI chatbots to research scientific issues produced lower-quality reasoning and argumentation than students using traditional search engines. (source: The Evidence Base on AI in K-12 Report.pdf)
 
-**The widening gap study (Lehmann et al., 2025)**: Unrestricted AI chatbot access increased the volume of topics covered but *harmed* understanding and *widened achievement gaps* for students with low prior knowledge.
+**The widening gap study (Lehmann et al., 2025)**: Unrestricted AI chatbot access increased the volume of topics covered but *harmed* understanding and *widened achievement gaps* for students with low prior knowledge. (source: The Evidence Base on AI in K-12 Report.pdf)
 
-> "While AI can reduce perceived difficulty and increase fluency, this may come at the cost of reduced independent reasoning and weaker knowledge acquisition." — Dr. Matthias Stadler
+> "While AI can reduce perceived difficulty and increase fluency, this may come at the cost of reduced independent reasoning and weaker knowledge acquisition." — Dr. Matthias Stadler (source: The Evidence Base on AI in K-12 Report.pdf)
 
-> "Students keep bypassing heuristic guardrails — can we build a 'science of guardrails' to understand what works in education?" — Dr. Hamsa Bastani
+> "Students keep bypassing heuristic guardrails — can we build a 'science of guardrails' to understand what works in education?" — Dr. Hamsa Bastani (source: The Evidence Base on AI in K-12 Report.pdf)
 
 ## Key Finding 2: Tutoring-Specific Design Outperforms General-Purpose AI
 
-The Bastani et al. Turkey study directly compared tutoring-specific AI (hints, guided questions) to general-purpose AI (direct answers) and textbook control. The tutoring-specific AI matched the textbook condition on exam performance, while general-purpose AI underperformed it.
+The Bastani et al. Turkey study directly compared tutoring-specific AI (hints, guided questions) to general-purpose AI (direct answers) and textbook control. The tutoring-specific AI matched the textbook condition on exam performance, while general-purpose AI underperformed it. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 This validates a core design principle: AI that withholds direct answers and guides students toward reasoning — as [[khanmigo]] was designed to do — is more educationally sound than AI that provides complete solutions. The problem with Khanmigo was adoption, not design philosophy.
 
-**Socratic chatbots: students prefer what harms them.** Two studies examined Socratic AI chatbots (which ask guiding questions rather than providing answers). Students rated them as *less helpful* than direct-answer chatbots, despite evidence of better critical thinking outcomes. One study found students preferred Socratic chatbots to general-purpose chatbots for reflective thinking (Degen et al., 2025). The pattern: students' stated preferences diverge from their learning interests.
+**Socratic chatbots: students prefer what harms them.** Two studies examined Socratic AI chatbots (which ask guiding questions rather than providing answers). Students rated them as *less helpful* than direct-answer chatbots, despite evidence of better critical thinking outcomes. One study found students preferred Socratic chatbots to general-purpose chatbots for reflective thinking (Degen et al., 2025). The pattern: students' stated preferences diverge from their learning interests. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 **The illusion of understanding** (Abdelghani et al., 2026): In a study of 63 French middle-schoolers (ages 14–15) completing science tasks with ChatGPT, students demonstrated prompt quality discrimination and answer quality evaluation both at chance level — d' = 0.19 (p = 0.08) and d' = 0.07 (p = 0.65), respectively (source: The Illusion of Understanding.pdf). Students rated 71.4% of expert-assessed *low-quality* answers as "useful." Only 14 of 63 students asked any follow-up question. Average task success rate was M = 0.51, effectively at chance. The study coins the mechanism the "[[illusion-of-understanding]]": AI fluency is indistinguishable from expertise to this population, suppressing the mismatch signals that would otherwise trigger self-correction. Crucially: **positive AI attitudes negatively predicted interaction quality** (β = −0.39, p = 0.015), while metacognitive regulation was the key protective factor (r = 0.30, p = 0.022). This has direct implications for the Socratic chatbot paradox: the design that *feels most helpful* most reliably produces the illusion of understanding.
 
-**Reading comprehension**: High-school students found AI use more enjoyable than traditional methods but showed better retention when AI was *complemented* by traditional strategies like note-taking, not used alone (Kreijkes et al., 2026).
+**Reading comprehension**: High-school students found AI use more enjoyable than traditional methods but showed better retention when AI was *complemented* by traditional strategies like note-taking, not used alone (Kreijkes et al., 2026). (source: The Evidence Base on AI in K-12 Report.pdf)
 
 ## Key Finding 3: Educator-Facing AI Shows More Promise
 
@@ -72,27 +72,27 @@ Eight causal studies on educator-facing tools show more consistent positive find
 | Holstein et al. (2018) | Smart glasses with real-time student analytics | Teachers redirected attention to struggling students; narrowed learning gap |
 | Ferman et al. (2021) | AI automated writing evaluation | Essay scores improved; teachers reinvested saved time in individual conversations with students |
 
-**The expertise reversal finding**: AI pedagogical supports are *most beneficial* for less experienced and lower-rated educators. This inverts the usual pattern where well-resourced schools benefit most from new tools. If access is equitable, AI coaching could be an equalizer of teacher quality — particularly valuable given that under-resourced schools disproportionately employ novice teachers.
+**The expertise reversal finding**: AI pedagogical supports are *most beneficial* for less experienced and lower-rated educators. This inverts the usual pattern where well-resourced schools benefit most from new tools. If access is equitable, AI coaching could be an equalizer of teacher quality — particularly valuable given that under-resourced schools disproportionately employ novice teachers. (source: The Evidence Base on AI in K-12 Report.pdf)
 
-**Dr. Dora Demszky (Stanford) draws a critical distinction**: Tools that *automate* teacher tasks may create efficiency but risk skill degradation and do not guarantee instructional quality. Tools that *build* teacher capacity — by providing consistent, customized feedback — are the higher-value design goal, and a domain where AI's cost and availability advantages over human coaching are most meaningful.
+**Dr. Dora Demszky (Stanford) draws a critical distinction**: Tools that *automate* teacher tasks may create efficiency but risk skill degradation and do not guarantee instructional quality. Tools that *build* teacher capacity — by providing consistent, customized feedback — are the higher-value design goal, and a domain where AI's cost and availability advantages over human coaching are most meaningful. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 ## Key Finding 4: Equity Questions Are Largely Unanswered
 
 The evidence base provides limited insight into how AI affects educational equity:
 
-**Student access**: Digital literacy, infrastructure at home, and language accessibility all mediate AI's benefits. Many tools are optimized for English and may provide lower-quality or biased support for English language learners. Impacts on students with IEPs or 504 plans are essentially unstudied.
+**Student access**: Digital literacy, infrastructure at home, and language accessibility all mediate AI's benefits. Many tools are optimized for English and may provide lower-quality or biased support for English language learners. Impacts on students with IEPs or 504 plans are essentially unstudied. (source: The Evidence Base on AI in K-12 Report.pdf)
 
-**The widening gap risk**: Lehmann et al. (2025) found that AI chatbot access widened achievement gaps for students with low prior knowledge. AI may exacerbate rather than close existing inequities if deployed without deliberate design.
+**The widening gap risk**: Lehmann et al. (2025) found that AI chatbot access widened achievement gaps for students with low prior knowledge. AI may exacerbate rather than close existing inequities if deployed without deliberate design. (source: The Evidence Base on AI in K-12 Report.pdf)
 
-**The educator equity opportunity**: The Tutor CoPilot evidence (Wang et al., 2025) suggests AI pedagogical supports may help equalize access to high-quality instruction by upgrading novice teacher performance. But equitable access to these tools is not guaranteed — under-resourced districts may rely on free general-purpose tools that are less effective or raise privacy concerns.
+**The educator equity opportunity**: The Tutor CoPilot evidence (Wang et al., 2025) suggests AI pedagogical supports may help equalize access to high-quality instruction by upgrading novice teacher performance. But equitable access to these tools is not guaranteed — under-resourced districts may rely on free general-purpose tools that are less effective or raise privacy concerns. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 For structural analysis of access barriers, see [[ai-privacy-and-institutional-adoption]].
 
 ## Student Wellness: An Understudied Frontier
 
-Unlike earlier education technologies, AI blurs the boundary between purpose-built education tools and general-purpose social platforms. Survey data shows rapid growth in AI companion use by children and teens seeking emotional bonds with AI systems — a phenomenon that raises distinct developmental concerns beyond cheating and learning effects.
+Unlike earlier education technologies, AI blurs the boundary between purpose-built education tools and general-purpose social platforms. Survey data shows rapid growth in AI companion use by children and teens seeking emotional bonds with AI systems — a phenomenon that raises distinct developmental concerns beyond cheating and learning effects. (source: The Evidence Base on AI in K-12 Report.pdf)
 
-The SAFE AI Companions Task Force (EDSAFE AI Alliance, 2026) organized a research agenda around five topics: mandated reporting, student data privacy, prosocial design and use, learning sciences and pedagogy, and benchmarking.
+The SAFE AI Companions Task Force (EDSAFE AI Alliance, 2026) organized a research agenda around five topics: mandated reporting, student data privacy, prosocial design and use, learning sciences and pedagogy, and benchmarking. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 This connects directly to the [[ai-delusional-spirals]] findings: unguided, emotionally responsive AI can amplify distorted beliefs in vulnerable users — a risk category that includes adolescents.
 
@@ -112,9 +112,9 @@ The most concrete practitioner-level assessment scaffold in the wiki comes from 
 
 1. **Build**: Students produce work — essay, project, analysis — with whatever AI assistance they choose
 2. **Analyze**: Students critically interrogate the work — what did AI contribute? What's accurate? What's wrong? What's missing?
-3. **Defend**: Students present orally to peers or teacher — explaining choices, defending claims, accounting for gaps in real time
+3. **Defend**: Students present orally to peers or teacher — explaining choices, defending claims, accounting for gaps in real time (source: The Evidence Base on AI in K-12 Report.pdf)
 
-> "Build, analyze, defend is the scaffolding process that actually increases cognition. If you don't do that, then we're likely to see a reduction in cognitive capabilities."
+> "Build, analyze, defend is the scaffolding process that actually increases cognition. If you don't do that, then we're likely to see a reduction in cognitive capabilities." (source: The Evidence Base on AI in K-12 Report.pdf)
 
 This scaffold is structurally isomorphic to the [[agentivism]] framework: Build = delegated agency; Analyze = epistemic monitoring; Defend = reconstructive internalization and transfer under reduced support. It is also the mechanism that renders AI detection moot — oral defense requires the student to demonstrate independent understanding regardless of how the written artifact was produced.
 
@@ -128,9 +128,9 @@ The report is candid about its limits:
 - Most evidence covers short-term task performance, not engagement, metacognition, or long-term skill development
 - No studies on AI literacy development for students or teachers (a "timely topic" the report explicitly notes)
 - No research on collaborative or group AI use — almost all studies examine 1:1 chatbot interactions
-- Rapid AI tool evolution creates tension: long-term studies measure yesterday's tools
+- Rapid AI tool evolution creates tension: long-term studies measure yesterday's tools (source: The Evidence Base on AI in K-12 Report.pdf)
 
-The report closes with its central question: not just *whether* AI tools work on average, but *when, how, and for whom* they matter most.
+The report closes with its central question: not just *whether* AI tools work on average, but *when, how, and for whom* they matter most. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 ## A Broader Meta-Analytic View: Designed AI Interventions
 
@@ -139,7 +139,7 @@ The Stanford SCALE report focuses on high-quality causal evidence in U.S. K–12
 Liu et al. find a **moderate positive overall effect** (g = 0.404, p < 0.001) for AI agents vs. conventional instruction on student cognitive outcomes. The two bodies of evidence are compatible rather than contradictory, because they measure different things:
 
 - The Stanford report focuses on **general-purpose chatbots** (ChatGPT-style) used without scaffolding → harms learning
-- Liu et al. include **intentionally designed AI educational interventions** (ITS, adaptive systems, structured conversational agents) → moderate benefits on average
+- Liu et al. include **intentionally designed AI educational interventions** (ITS, adaptive systems, structured conversational agents) → moderate benefits on average (source: The Evidence Base on AI in K-12 Report.pdf)
 
 Design remains the decisive variable. What Liu et al. add that Stanford does not address:
 
@@ -158,7 +158,7 @@ Wang & Zhang (2026), 912 students across China/Europe/US, found a **U-shaped rel
 - **Zone 2** (scattered, half-hearted AI use — *most current AI use*): **Worst outcomes** — adds coordination overhead without freeing enough cognitive capacity; measurably *worse than no AI at all*
 - **Zone 3** (committed, strategic delegation of entire task categories): **Best outcomes** — genuine cognitive reallocation to higher-order work, producing deep assumption-questioning and perspective-shifting
 
-Critically: partnership orientation with AI simultaneously activated both **vigilance** (β=0.335) and **strategic offloading** (β=0.351), and both independently predicted transformative learning. Treating AI as an intellectual collaborator makes learners *more* critical, not less.
+Critically: partnership orientation with AI simultaneously activated both **vigilance** (β=0.335) and **strategic offloading** (β=0.351), and both independently predicted transformative learning. Treating AI as an intellectual collaborator makes learners *more* critical, not less. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 **How this maps onto Key Finding 1**: The Turkey study (Bastani), the crutch effect (Fischer), the cognitive debt study (Kosmyna), and the Gerlich critical-thinking findings all measured Zone 2 conditions — unstructured, habitual AI access without design for strategic delegation. Their negative findings are not wrong; they describe the modal deployment condition. Wang & Zhang show that Zone 3 design flips the outcome.
 
@@ -174,14 +174,14 @@ The key numbers from Demirer, Musolff & Yang (2026), 100,000+ GitHub developers 
 
 > **+740% code produced → +65% review requests → only ~20% more shipped releases**
 
-Every human-dependent stage between production and finished output absorbs the gain. The parallel to the crutch effect (Fischer et al., 2025) and the learning-performance paradox ([[building-ai-companions]]) is direct: AI dramatically increases the volume of output while the downstream human stages — review, consolidation, genuine understanding — attenuate the gain.
+Every human-dependent stage between production and finished output absorbs the gain. The parallel to the crutch effect (Fischer et al., 2025) and the learning-performance paradox ([[building-ai-companions]]) is direct: AI dramatically increases the volume of output while the downstream human stages — review, consolidation, genuine understanding — attenuate the gain. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 **Organizational failure rates at scale** (Hardman, drawing on independent sources):
 - MIT Project NANDA (2025): ~**95% of organizations** see no meaningful measurable return from GenAI — only ~5% generate real business impact
 - RAND (2025): AI project failure rate **above 80%** — twice the rate of comparable non-AI IT projects; the technology usually worked; downstream human conversion failed
 - Gartner (2025): **60%** of AI projects expected to be abandoned without AI-ready data foundations
 
-These numbers should temper predictions about how quickly AI tools will transform learning and work. The 95% no-return finding in organizations that have made deliberate AI investments with dedicated resources far exceeds the "extremely limited" evidence problem in K–12 — they reflect active deployment failures, not just a lack of research.
+These numbers should temper predictions about how quickly AI tools will transform learning and work. The 95% no-return finding in organizations that have made deliberate AI investments with dedicated resources far exceeds the "extremely limited" evidence problem in K–12 — they reflect active deployment failures, not just a lack of research. (source: The Evidence Base on AI in K-12 Report.pdf)
 
 **The "enter high in the chain" principle** (Demirer et al., drawn from Hardman) is the strategic implication this evidence base points toward: AI aimed at lower-value, upstream tasks (generating more content, producing first drafts) drains its gains through every human-review stage that remains. AI aimed at higher-value stages — where the consequential cognitive work lives — has fewer human stages left to drain the gain. In educational terms: AI for assessment feedback, metacognitive calibration, and teacher coaching (all of which show positive evidence above) enters higher in the chain than AI for content generation or practice-problem supply. (source: AI is making you faster AND slower, better AND worse at your job.md)
 

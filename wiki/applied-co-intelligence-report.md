@@ -16,15 +16,15 @@
 
 > CTE programs are uniquely positioned to help learners navigate the AI-driven economy, but they have significant work to do.
 
-AI will fundamentally change the composition of available jobs even if the total count is uncertain. CTE graduates face both distinctive risks and distinctive advantages relative to traditional academic graduates.
+AI will fundamentally change the composition of available jobs even if the total count is uncertain. CTE graduates face both distinctive risks and distinctive advantages relative to traditional academic graduates. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Chapter 1: The History and Future of AI
 
-The report traces AI from Turing's 1950 theoretical work through the 2022 ChatGPT inflection point. Key periods: symbolic/rule-based AI (1950s–70s), multiple AI winters, expert systems revival (1980s), machine learning growth (1990s–2000s), deep learning breakthroughs (2010s, including AlexNet and transformer models), generative AI boom (2020s).
+The report traces AI from Turing's 1950 theoretical work through the 2022 ChatGPT inflection point. Key periods: symbolic/rule-based AI (1950s–70s), multiple AI winters, expert systems revival (1980s), machine learning growth (1990s–2000s), deep learning breakthroughs (2010s, including AlexNet and transformer models), generative AI boom (2020s). (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-The 2022 release of ChatGPT was not a beginning but an inflection point — making already-mature technology publicly accessible. ChatGPT reached 100 million monthly users within three months, outpacing the internet and personal computers in adoption speed.
+The 2022 release of ChatGPT was not a beginning but an inflection point — making already-mature technology publicly accessible. ChatGPT reached 100 million monthly users within three months, outpacing the internet and personal computers in adoption speed. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-Emerging frontiers: agentic AI (systems that plan, reason, and act toward goals) and humanoid robotics integrating generative AI as a "brain" capable of natural language instruction and real-world navigation.
+Emerging frontiers: agentic AI (systems that plan, reason, and act toward goals) and humanoid robotics integrating generative AI as a "brain" capable of natural language instruction and real-world navigation. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Chapter 2: AI and the Future of Work
 
@@ -37,9 +37,9 @@ Drawing on David Autor's (2022) four-framework summary, the report maps the inte
 | Task-reinstatement | Tech creates new tasks even as it destroys others | Assumes balance; automation outpaced reinstatement 1987–2017 |
 | Era of AI uncertainty | GenAI blurs all prior categories | Future impact harder to predict; inequality risks intensify |
 
-Key historical data: Between 1940–1980, new work for non-college workers concentrated in middle-skill occupations (construction, production, clerical). Between 1980–2018, new work for non-college workers shifted to lower-paid personal services. Technological change drove [[labor-market-polarization]] with consistently shrinking middle-skill employment.
+Key historical data: Between 1940–1980, new work for non-college workers concentrated in middle-skill occupations (construction, production, clerical). Between 1980–2018, new work for non-college workers shifted to lower-paid personal services. Technological change drove [[labor-market-polarization]] with consistently shrinking middle-skill employment. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-AI is a **general-purpose technology** — comparable to electricity in scope, not a narrow tool like a calculator. Its uses and impacts will be shaped by human choices, not technological inevitability (citing Acemoglu & Johnson, *Power and Progress*, 2023).
+AI is a **general-purpose technology** — comparable to electricity in scope, not a narrow tool like a calculator. Its uses and impacts will be shaped by human choices, not technological inevitability (citing Acemoglu & Johnson, *Power and Progress*, 2023). (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Chapter 3: AI and CTE Learners
 
@@ -65,45 +65,45 @@ The [[applied-co-intelligence-model]] adapts Ethan Mollick's [[co-intelligence]]
 
 Three interlocking spheres:
 
-1. **Technical Skills** — occupation-specific, credential-bearing skills. The entry ticket to a profession; increasingly susceptible to automation but reframed as the context through which AI mastery is applied.
+1. **Technical Skills** — occupation-specific, credential-bearing skills. The entry ticket to a profession; increasingly susceptible to automation but reframed as the context through which AI mastery is applied. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-2. **Transferable Skills** — "human work" (Merisotis, 2020): critical thinking, ethical reasoning, empathy, problem-solving, collaboration. Durable, AI-resistant capabilities that enable workers to guide and audit AI.
+2. **Transferable Skills** — "human work" (Merisotis, 2020): critical thinking, ethical reasoning, empathy, problem-solving, collaboration. Durable, AI-resistant capabilities that enable workers to guide and audit AI. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 3. **AI Mastery Continuum** — a four-level developmental path: Literacy → Fluency → Agency → Mastery. See [[ai-mastery-continuum]].
 
-**Key pedagogical argument**: Stand-alone "AI 101" courses are insufficient. AI skills must be embedded within existing technical and capstone courses in an occupational context. Domain-specific expertise is what separates a novice AI user from an expert co-intelligent professional.
+**Key pedagogical argument**: Stand-alone "AI 101" courses are insufficient. AI skills must be embedded within existing technical and capstone courses in an occupational context. Domain-specific expertise is what separates a novice AI user from an expert co-intelligent professional. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-The report illustrates Applied Co-Intelligence through a CNA student named Maya, who progresses from using ChatGPT to summarize textbooks (Literacy) to critiquing a predictive algorithm and building a RAG-enabled LLM for her capstone (Mastery).
+The report illustrates Applied Co-Intelligence through a CNA student named Maya, who progresses from using ChatGPT to summarize textbooks (Literacy) to critiquing a predictive algorithm and building a RAG-enabled LLM for her capstone (Mastery). (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Chapter 5: Four Barriers
 
-**1. The Alignment Crisis**: A pre-existing "growing gulf" between CTE institutions and employers (Harvard Business School, 2022) has been amplified by AI uncertainty. Both educators and industry are waiting to understand where AI is going before committing to curriculum changes. A 2025 Tennessee survey found 85% of CTE coordinators believe AI will significantly change their fields; only 15% had clear guidance on how to prepare.
+**1. The Alignment Crisis**: A pre-existing "growing gulf" between CTE institutions and employers (Harvard Business School, 2022) has been amplified by AI uncertainty. Both educators and industry are waiting to understand where AI is going before committing to curriculum changes. A 2025 Tennessee survey found 85% of CTE coordinators believe AI will significantly change their fields; only 15% had clear guidance on how to prepare. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-**2. The Human Capital Gap**: Over 90% of Tennessee Perkins CTE coordinators reported needing support and training on AI; the #1 barrier identified was faculty knowledge and expertise. Educators are turning to AI ad-hoc and unsupported. Kristen DiCerbo (Khan Academy) emphasized that "a caring adult" is essential for meaningful learning — a role AI cannot fill.
+**2. The Human Capital Gap**: Over 90% of Tennessee Perkins CTE coordinators reported needing support and training on AI; the #1 barrier identified was faculty knowledge and expertise. Educators are turning to AI ad-hoc and unsupported. Kristen DiCerbo (Khan Academy) emphasized that "a caring adult" is essential for meaningful learning — a role AI cannot fill. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-**3. The Structural Barriers**: Policy patchworks (some systems ban AI; others have no policy); internal institutional divides over whether AI is a pedagogical tool or a cost-cutting mechanism; persistent digital divide (rural/low-income districts lack basic computing infrastructure).
+**3. The Structural Barriers**: Policy patchworks (some systems ban AI; others have no policy); internal institutional divides over whether AI is a pedagogical tool or a cost-cutting mechanism; persistent digital divide (rural/low-income districts lack basic computing infrastructure). (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-**4. The Evidence Gap**: No robust longitudinal studies on how AI impacts CTE retention, skill transfer, and wage growth. Existing AI exposure indices are often contradictory. Most CTE institutions lack institutional research capacity.
+**4. The Evidence Gap**: No robust longitudinal studies on how AI impacts CTE retention, skill transfer, and wage growth. Existing AI exposure indices are often contradictory. Most CTE institutions lack institutional research capacity. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Chapter 6: Recommendations
 
-**For Policymakers**: Move from policy patchworks to elastic frameworks; fund educator upskilling at scale (microcredentials + fellowship programs); invest in equitable AI infrastructure; launch a national research agenda for AI in CTE.
+**For Policymakers**: Move from policy patchworks to elastic frameworks; fund educator upskilling at scale (microcredentials + fellowship programs); invest in equitable AI infrastructure; launch a national research agenda for AI in CTE. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-**For Education Providers**: Adopt the ACI model as the guiding framework; appoint and fund AI champions; redesign curriculum to integrate (not isolate) AI skills; prioritize human expertise and oversight.
+**For Education Providers**: Adopt the ACI model as the guiding framework; appoint and fund AI champions; redesign curriculum to integrate (not isolate) AI skills; prioritize human expertise and oversight. (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-**For Industry & Employers**: Embrace the Partnership Imperative; co-design and co-create curriculum; fund AI-enabled work-based learning ("sim-ternships"); establish real-time feedback loops with colleges (e.g., quarterly AI use-case summits).
+**For Industry & Employers**: Embrace the Partnership Imperative; co-design and co-create curriculum; fund AI-enabled work-based learning ("sim-ternships"); establish real-time feedback loops with colleges (e.g., quarterly AI use-case summits). (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Key Quotes
 
 > "The goal of this work is not simply to train learners to use AI. It is to equip them with the uniquely human skills to critique, direct, and collaborate with AI, ensuring that as our tools get smarter, we get wiser." (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-> "The future does not belong to AI dabblers." — Lisa Gevelder, Grow with Google
+> "The future does not belong to AI dabblers." — Lisa Gevelder, Grow with Google (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
-> "Working with AI is not just making a prompt on ChatGPT, it's really more complex than that." — Daniel Doppler, Quicktext
+> "Working with AI is not just making a prompt on ChatGPT, it's really more complex than that." — Daniel Doppler, Quicktext (source: Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf)
 
 ## Webinar Companion
 
-A February 23, 2026 webinar ([[cte-futures-aci-webinar]]) presenting the report to practitioners added several dimensions not present in the written text:
+A February 23, 2026 webinar ([[cte-futures-aci-webinar]]) presenting the report to practitioners added several dimensions not present in the written text: (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md)
 
 - **"Skill economy, not job economy yet"** — Sublett's precise framing of where AI disruption stands as of early 2026: reorganizing which skills matter, not yet eliminating jobs at scale
 - **Acemoglu & Johnson as anchor**: ACI explicitly framed as a "countervailing force" in the *Power and Progress* sense — not reactive adaptation but deliberate institutional action to shape AI's trajectory

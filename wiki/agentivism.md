@@ -10,21 +10,21 @@
 
 ## Overview
 
-*Agentivism: A Learning Theory for the Age of Artificial Intelligence* (arXiv:2604.07813, April 9, 2026) was authored by Lixiang Yan (Tsinghua University) and Dragan Gašević (University of Hong Kong / Monash University). It proposes Agentivism as a mid-range learning theory specifically designed for the era of generative and agentic AI.
+*Agentivism: A Learning Theory for the Age of Artificial Intelligence* (arXiv:2604.07813, April 9, 2026) was authored by Lixiang Yan (Tsinghua University) and Dragan Gašević (University of Hong Kong / Monash University). It proposes Agentivism as a mid-range learning theory specifically designed for the era of generative and agentic AI. (source: Agentivism.pdf)
 
 ## The Core Problem
 
-Classical learning theories share an implicit assumption: successful task completion implies learning. Generative AI breaks this assumption. A learner can now produce a strong essay, solve a complex problem, or complete a scientific inquiry entirely with AI support, while developing no lasting understanding.
+Classical learning theories share an implicit assumption: successful task completion implies learning. Generative AI breaks this assumption. A learner can now produce a strong essay, solve a complex problem, or complete a scientific inquiry entirely with AI support, while developing no lasting understanding. (source: Agentivism.pdf)
 
 Empirical evidence cited in the paper (source: Agentivism.pdf):
 
 - Students using AI produce stronger essays with less independent revision and no knowledge gain ("metacognitive laziness")
 - Students using ChatGPT for scientific inquiry report lower cognitive load while producing less sophisticated reasoning
-- General pattern: improved measurable task performance without proportionate gains in metacognitive processing or independent understanding
+- General pattern: improved measurable task performance without proportionate gains in metacognitive processing or independent understanding (source: Agentivism.pdf)
 
 The paper distinguishes:
 - **Assisted performance**: task completion with AI support, without evidence of durable learning
-- **Durable human capability**: capability that persists beyond the interaction, is explainable, and transfers with less AI support
+- **Durable human capability**: capability that persists beyond the interaction, is explainable, and transfers with less AI support (source: Agentivism.pdf)
 
 ## Definition of Learning
 
@@ -33,23 +33,23 @@ Agentivism defines learning as **durable growth in human capability** through fo
 1. Selective delegation to AI
 2. Epistemic monitoring and verification of AI contributions
 3. Reconstructive internalization of AI-assisted outputs
-4. Transfer under reduced support
+4. Transfer under reduced support (source: Agentivism.pdf)
 
 ## The Four Core Mechanisms
 
 ### 1. Delegated Agency
-Learning depends on how responsibility for task execution is distributed between learner and AI. Delegation preserves learning when the learner retains responsibility for problem framing, criteria-setting, and judging acceptable reasoning. Delegation undermines learning when those functions migrate to the AI and the learner becomes mainly a selector of fluent outputs.
+Learning depends on how responsibility for task execution is distributed between learner and AI. Delegation preserves learning when the learner retains responsibility for problem framing, criteria-setting, and judging acceptable reasoning. Delegation undermines learning when those functions migrate to the AI and the learner becomes mainly a selector of fluent outputs. (source: Agentivism.pdf)
 
 ### 2. Epistemic Monitoring and Verification
-Because AI outputs are probabilistic, rhetorically fluent, and persuasive, learners must evaluate them for truthfulness, relevance, adequacy, and fit to task demands. This is not optional responsible-use behavior — it is part of the learning mechanism itself. Research shows requiring learners to justify their acceptance of AI outputs reduces over-reliance even when it feels less convenient.
+Because AI outputs are probabilistic, rhetorically fluent, and persuasive, learners must evaluate them for truthfulness, relevance, adequacy, and fit to task demands. This is not optional responsible-use behavior — it is part of the learning mechanism itself. Research shows requiring learners to justify their acceptance of AI outputs reduces over-reliance even when it feels less convenient. (source: Agentivism.pdf)
 
 ### 3. Reconstructive Internalization
-Learning occurs only when AI-assisted outputs are reworked into the learner's own explainable and usable capability. Task success with AI support is insufficient. A learner must be able to reconstruct why the accepted response is appropriate, identify when it would fail, and adapt it to new situations.
+Learning occurs only when AI-assisted outputs are reworked into the learner's own explainable and usable capability. Task success with AI support is insufficient. A learner must be able to reconstruct why the accepted response is appropriate, identify when it would fail, and adapt it to new situations. (source: Agentivism.pdf)
 
 Stanford GSB research on [[satisficing-and-tolerance-principle|satisficing and the Tolerance Principle]] (Guilbeault et al., 2026) suggests a possible cognitive-science account of why this mechanism matters: human understanding appears to form through intuitive leaps from deliberately partial data, not through absorbing a complete, fully-worked answer. If accurate, reconstructive internalization may be this same intuitive-leap process applied to AI-assisted work — which would help explain why passively accepting an AI's complete output bypasses the mechanism that produces durable learning. (source: The secret to human ‘brilliance’ that AI just can’t match.md — treat as a plausible theoretical bridge, not an established finding.)
 
 ### 4. Transfer Under Reduced Support
-The decisive test of learning: can the learner demonstrate capability with less or no AI support? Immediate assisted performance is no longer sufficient evidence. The question is whether capabilities persist when support changes.
+The decisive test of learning: can the learner demonstrate capability with less or no AI support? Immediate assisted performance is no longer sufficient evidence. The question is whether capabilities persist when support changes. (source: Agentivism.pdf)
 
 ## Why Classical Theories Fall Short
 
@@ -67,19 +67,19 @@ The paper identifies four structural changes:
 1. **Knowledge has become mobilizable** — AI can instantly convert external knowledge into usable plans, drafts, and solutions, potentially bypassing internalization
 2. **Agency is more dynamically allocated** — learners can now delegate planning, drafting, and problem-solving to AI, making regulation of delegation a first-order concern
 3. **Performance and learning are more sharply separable** — empirically confirmed that AI-assisted performance can be stronger than unassisted performance with no corresponding knowledge gain
-4. **Epistemic trust and diversity are at center stage** — AI outputs are trained on unevenly distributed data and are fluent enough to invite overconfidence
+4. **Epistemic trust and diversity are at center stage** — AI outputs are trained on unevenly distributed data and are fluent enough to invite overconfidence (source: Agentivism.pdf)
 
 ## Six Testable Propositions
 
-**P1**: Learning should be stronger when AI support preserves learner responsibility for problem framing and justification than when AI delivers direct answers.
+**P1**: Learning should be stronger when AI support preserves learner responsibility for problem framing and justification than when AI delivers direct answers. (source: Agentivism.pdf)
 
 **P2**: Designs requiring verification, source comparison, or justification of AI uptake should improve delayed transfer even when reducing convenience. *Empirical support*: The CARE RCT ([[llms-workplace-social-skills]]) found that practice-with-AI-mentor-feedback produced measurable skill gains (empathy, client-centeredness) while practice-only produced confidence gains only — directly validating P2 in a social skills context. Additional evidence from the contrary direction: Abdelghani et al. (2026) found that middle-school students asked to complete science tasks with ChatGPT showed prompt discrimination and answer evaluation both at chance level (d'=0.19 and d'=0.07 respectively) — demonstrating that P2 (epistemic monitoring) is essentially absent in typical unscaffolded AI use by adolescents. Only 14 of 63 students asked any follow-up question; even after unsatisfactory answers, follow-up occurred only 31.8% of the time. The study coins this systematic failure the "[[illusion-of-understanding]]." (source: The Illusion of Understanding.pdf)
 
-**P3**: Learners who substantially re-explain, revise, or transform AI-generated material should show stronger retained understanding than those who lightly edit outputs. *Empirical support*: Kosmyna et al. (2025) found that 83% (15 of 18) of students who wrote essays with AI assistance could not quote from their own essays in the first session — minimal reconstruction produced minimal retention. Kreijkes et al. (2026) found that AI-assisted reading improved when combined with note-taking (active reconstruction), not as a substitute for it ([[evidence-base-ai-k12]]).
+**P3**: Learners who substantially re-explain, revise, or transform AI-generated material should show stronger retained understanding than those who lightly edit outputs. *Empirical support*: Kosmyna et al. (2025) found that 83% (15 of 18) of students who wrote essays with AI assistance could not quote from their own essays in the first session — minimal reconstruction produced minimal retention. Kreijkes et al. (2026) found that AI-assisted reading improved when combined with note-taking (active reconstruction), not as a substitute for it ([[evidence-base-ai-k12]]). (source: The Evidence Base on AI in K-12 Report.pdf)
 
-**P4**: Immediate AI-assisted performance should correlate only weakly with later independent performance when monitoring and reconstruction are minimal. *Empirical support*: Bastani et al. (2025) and Fischer et al. (2025) both demonstrate this directly — students with general-purpose AI access showed higher practice performance and lower unassisted exam scores (a 17% performance drop in Fischer et al.). The correlation between assisted and unassisted performance was negative, not merely weak ([[evidence-base-ai-k12]]).
+**P4**: Immediate AI-assisted performance should correlate only weakly with later independent performance when monitoring and reconstruction are minimal. *Empirical support*: Bastani et al. (2025) and Fischer et al. (2025) both demonstrate this directly — students with general-purpose AI access showed higher practice performance and lower unassisted exam scores (a 17% performance drop in Fischer et al.). The correlation between assisted and unassisted performance was negative, not merely weak ([[evidence-base-ai-k12]]). (source: The Evidence Base on AI in K-12 Report.pdf)
 
-**P5**: Process measures during interaction (prompt trajectories, revision sequences, evidence-checking) should predict later learning better than final product quality alone.
+**P5**: Process measures during interaction (prompt trajectories, revision sequences, evidence-checking) should predict later learning better than final product quality alone. (source: Agentivism.pdf)
 
 **P6**: Repeated low-friction delegation without reconstruction should be associated over time with weaker self-competence calibration and greater AI dependence. *Empirical support*: Kosmyna et al. (2025) provide the first neurological confirmation of this prediction. After three sessions of ChatGPT-assisted essay writing, participants asked to write without tools showed brain connectivity *below the Session 1 baseline* of peers who had never practiced essay writing at all — and 78% (7 of 9) failed to quote anything from their own essays (source: Your Brain on ChatGPT.pdf). The cognitive foundations that should have developed through practice had not formed ([[cognitive-debt]], [[your-brain-on-chatgpt]]).
 
@@ -126,9 +126,9 @@ The six design principles Hardman derives from Wang & Zhang (offload substantial
 
 The [[khanmigo]] failure documented in [[sal-khan-khanmigo-limits]] is a real-world illustration: students using AI as a passive lookup tool engage in no epistemic monitoring or reconstructive internalization and achieve no transfer. The [[applied-co-intelligence-model]]'s [[ai-mastery-continuum]] maps closely onto Agentivism's mechanisms — progression from passive use (Literacy) through active verification (Fluency/Agency) to independent critique (Mastery).
 
-[[one-click-away-khanmigo-rct]] (NBER, August 2026) — a two-year, 18-school randomized trial — supplies the field-scale, quantified version of that Khanmigo illustration. Message-level records show that only about 1 in 7 student messages to the AI tutor contained a mathematical question or reasoning step; the rest were bare answers or button-clicks requiring no epistemic engagement at all. The achievement gains the program produced track the *structured practice* it delivered, not conversational engagement with the tutor — a direct empirical confirmation, at a scale no lab study in this wiki approaches, that AI presence without student-initiated epistemic monitoring does not convert into an additional learning increment.
+[[one-click-away-khanmigo-rct]] (NBER, August 2026) — a two-year, 18-school randomized trial — supplies the field-scale, quantified version of that Khanmigo illustration. Message-level records show that only about 1 in 7 student messages to the AI tutor contained a mathematical question or reasoning step; the rest were bare answers or button-clicks requiring no epistemic engagement at all. The achievement gains the program produced track the *structured practice* it delivered, not conversational engagement with the tutor — a direct empirical confirmation, at a scale no lab study in this wiki approaches, that AI presence without student-initiated epistemic monitoring does not convert into an additional learning increment. (source: One Click Away.pdf)
 
-Murgatroyd's [[ai-unplugged-murgatroyd]] (2026) offers a second classroom operationalization at the assessment level: the **Build → Analyze → Defend** scaffold. Students build work with AI assistance, analyze it critically (what did AI contribute? what's wrong?), then defend it orally to peers. "Build, analyze, defend is the scaffolding process that actually increases cognition." The three stages map directly: Build = delegated agency; Analyze = epistemic monitoring; Defend = reconstructive internalization and transfer under reduced support. Crucially, oral defense renders AI detection moot — independent understanding must be demonstrated in real time regardless of how the artifact was produced.
+Murgatroyd's [[ai-unplugged-murgatroyd]] (2026) offers a second classroom operationalization at the assessment level: the **Build → Analyze → Defend** scaffold. Students build work with AI assistance, analyze it critically (what did AI contribute? what's wrong?), then defend it orally to peers. "Build, analyze, defend is the scaffolding process that actually increases cognition." The three stages map directly: Build = delegated agency; Analyze = epistemic monitoring; Defend = reconstructive internalization and transfer under reduced support. Crucially, oral defense renders AI detection moot — independent understanding must be demonstrated in real time regardless of how the artifact was produced. (source: New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md)
 
 Nurenberg's [[middle-path-ai-literacy-nurenberg]] classroom account provides a concrete pedagogical operationalization of Agentivism's mechanisms. His **AI audit** — requiring students to demonstrate for every tool they used: how it operates, what was gained and lost, how accuracy was verified, how they did not relinquish their own thinking — is a classroom-ready implementation of selective delegation, epistemic monitoring, and reconstructive internalization. Crucially, one student ran an unprompted probe: "purposely said dumb things just to see how GPT would still find a way to say 'great idea.'" This is P2 (epistemic monitoring) happening organically — the student designed a test, observed the result, and generalized a conclusion about AI's trained deference. The source also introduces the *cognitive surrender vs. cognitive offloading* distinction (from a cited preprint): surrender is passive trust without evaluation; offloading is strategic delegation during deliberation. This is among the clearest student-facing language available for teaching Agentivism's core distinction between assisted performance and durable capability growth. (source: Why the Middle Path of AI Literacy May Be the Future of English Class.md)
 

@@ -1159,3 +1159,16 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 3. Related links added from 20 pages that discuss a topic with its own concept page but did not link it: ai-literacy (11 pages), entry-level-labor-market (5), work-based-learning (4), learning-performance-paradox (2), perkins-v-and-clna (1), education-to-workforce-data-systems (1). Related-pages links only; inline text unchanged
 
 **Total pages updated**: 22
+
+---
+
+## 2026-11-19 — Lint fixes: source count, citation format, citation coverage (items 1-5 of the fourth 2026-11-19 lint)
+
+1. **Source count corrected.** `raw/misc/Dept of Labor AI Literacy Framework.md` (286 bytes, image link only) was logged as skipped on 2026-05-18 but had been counted as ingested. README now reads 62 source documents ingested (61 distinct works), plus one unreadable file not ingested. **Counting rule, revised**: sources ingested = files in `raw/` minus files logged as skipped; distinct works = that number minus one (Canaries in two versions)
+2. `wiki/jevons-paradox.md` — malformed citation "(source: …; also Apocalypse No.md)" fixed. The lint's citation parser has also been fixed: it previously stopped at the first ")" and so never checked filenames containing parentheses
+3. Sources-header gaps: `wiki/no-country-young-grads-burning-glass.md` (Census paper added); `wiki/nyt-teens-trade-classes.md` (Brad Smith post added)
+4. **Citation pass on single-source summary pages.** Inline citations added to uncited paragraphs on 13 summary pages (agentivism, ai-economy-measurement-2026, anthropic-labor-market-index, applied-co-intelligence-report, broken-ladder, evidence-base-ai-k12, both Fostering pages, goldman-sachs-ai-labor-squeeze, illusion-of-understanding, middle-path-ai-literacy-nurenberg, nber-data-centers-local-economies, safest-college-degrees-forbes), attributing each paragraph to the page's own source. Skipped: Implications/Connections/Relationship sections, later cross-reference sections, paragraphs naming another source, and wiki-commentary paragraphs. `wiki/ai-occupational-exposure-index.md` cited by hand (1 → 11 citations). The six thinnest pages went from 1–3 citations each to 10–20 (now 86–129 words per citation; wiki median 154)
+5. **Listed-but-uncited sources resolved on 19 pages.** ~40 citations added by hand where a listed source is discussed; sources never used on a page removed from its header (ai-in-k12-education: Apocalypse No; ai-privacy-and-institutional-adoption: Can Small Language Models; ai-tutoring and khanmigo: ACI report; broken-ladder: Goldman August; cte-and-ai: Canaries Nov 2025 and Klein; labor-market-polarization: Zuckerberg/Meta; transferable-skills and relational-economy: Canaries Nov 2025). Headers updated where new citations added sources. Every listed source is now cited inline on its page
+
+**Total pages updated**: 31
+

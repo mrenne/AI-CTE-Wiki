@@ -2,7 +2,7 @@
 
 **Summary**: An overview of how generative AI is — and isn't — reshaping K-12 schools, with a focus on tutoring, academic integrity, teacher roles, and the early evidence base.
 
-**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/One Click Away.pdf`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/One Click Away.pdf`
 
 **Last updated**: 2026-11-19
 
@@ -38,7 +38,7 @@ The National Science Foundation, Spencer Foundation, and US Department of Educat
 
 ## Three Theories of AI's Impact
 
-A 2025 Chalkbeat analysis (cited in [[sal-khan-khanmigo-limits]]) identified three distinct theories of how AI will reshape schools:
+A 2025 Chalkbeat analysis (cited in [[sal-khan-khanmigo-limits]]) identified three distinct theories of how AI will reshape schools: (source: The education of Sal Khan and the limits of his chatbot.md)
 
 1. **Cheating theory**: AI primarily makes academic dishonesty easier, degrading the signal quality of traditional assessments
 2. **Teacher theory**: AI reshapes how teachers approach their work — potentially freeing time from routine tasks, potentially displacing roles

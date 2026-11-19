@@ -2,7 +2,7 @@
 
 **Summary**: The cluster of cost, data privacy, infrastructure, and policy barriers that prevent schools and colleges from adopting AI — and the emerging strategies (local SLM deployment, elastic policies, fellowship programs) for overcoming them equitably.
 
-**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/blog/Can Small Language Models Help K–12 Schools.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
+**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
 
 **Last updated**: 2026-11-19
 
