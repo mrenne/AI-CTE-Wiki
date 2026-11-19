@@ -343,3 +343,4 @@ It is Anthropic studying itself, so it is an illustrative, interested source.
 - [[education-to-workforce-data-systems]]
 - [[ai-literacy]]
 - [[ai-rebounding-boomerang-employees]]
+- [[jevons-paradox]]

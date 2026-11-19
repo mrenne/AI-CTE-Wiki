@@ -4,7 +4,7 @@
 
 **Sources**: `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -58,3 +58,4 @@ This is the wiki's **first cross-country corroboration of its (previously US-onl
 - [[entry-level-labor-market]]
 - [[ai-labor-demand-41-countries]]
 - [[goldman-ai-displacement-cyclical]]
+- [[jevons-paradox]]

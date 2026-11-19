@@ -107,3 +107,4 @@ Current readings (source: AI could displace one in 11 workers, Goldman says, but
 - [[bcg-ai-reshapes-jobs]]
 - [[cte-and-ai]]
 - [[ai-rebounding-boomerang-employees]]
+- [[jevons-paradox]]

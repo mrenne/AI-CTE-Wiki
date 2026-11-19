@@ -4,7 +4,7 @@
 
 **Sources**: `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -145,3 +145,4 @@ The authors highlight three Anthropic practices (source: How employment is chang
 - [[cte-and-ai]]
 - [[experience-debt-dayforce]]
 - [[goldman-ai-displacement-cyclical]]
+- [[jevons-paradox]]

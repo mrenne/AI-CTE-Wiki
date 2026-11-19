@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -63,7 +63,7 @@ The international picture reveals significant variation in AI education policy c
 - **India** leads all countries in LinkedIn AI skill penetration — approximately 3x the global average
 - **United States** is at approximately 2x the global average — behind India but above most countries
 
-China's mandate is particularly notable: a national curriculum requirement for AI education represents a categorically different policy instrument than the voluntary, decentralized, standard-setting approach the US uses. The competitive implications for workforce preparation are significant but long-term. (source: ai_index_report_2026_chapter_7_education.pdf)
+China's mandate is particularly notable: a government requirement for AI education (described in the report's highlights as national, though the chapter body describes it beginning in Beijing, Guangdong, and Hangzhou) represents a categorically different policy instrument than the voluntary, decentralized, standard-setting approach the US uses. The competitive implications for workforce preparation are significant but long-term. (source: ai_index_report_2026_chapter_7_education.pdf)
 
 ## AI Skill Diffusion in the Workforce
 

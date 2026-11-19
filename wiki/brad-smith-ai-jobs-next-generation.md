@@ -2,9 +2,9 @@
 
 **Summary**: A June 2026 Microsoft blog post by Brad Smith (President) responding to 2026 college graduates booing AI at commencement speeches — the first tech-industry-insider voice in the wiki. Provides Microsoft's own AI diffusion data, argues the pace of disruption is constrained by institutional change not technology, and names the dignity of work as a first-order value the tech sector must protect.
 
-**Sources**: `raw/blog/AI, jobs, and the next generation.md`
+**Sources**: `raw/blog/AI, jobs, and the next generation.md`, `raw/PDF/AIEI_MU_Nov26.pdf`
 
-**Last updated**: 2026-06-10
+**Last updated**: 2026-11-19
 
 ---
 
@@ -36,10 +36,12 @@ This complements the [[nyt-teens-trade-classes]] behavioral evidence: both docum
 Smith cites Microsoft's own AI Diffusion Report (US, Q1 2026) for the current state of AI adoption:
 
 - **17.8%** of the world's working-age population currently uses generative AI
-- **31.3%** in the United States — higher than the global average but still less than one in three workers
+- **31.3%** in the United States — higher than the global average, but less than one in three working-age Americans (the report counts the working-age population using generative AI, not only workers or only work use) (source: AI, jobs, and the next generation.md)
 - Counties with large college towns and ages 18–24 have the highest US adoption rates
 
-These are the most current large-scale adoption estimates available in the wiki. The numbers contextualize the "AI is already everywhere" claim: at 31.3%, the US is well short of majority adoption even among the most technology-saturated workforce in the world.
+When ingested (June 2026), these were the most current large-scale adoption estimates in the wiki. The numbers contextualize the "AI is already everywhere" claim: at 31.3%, the US is well short of majority adoption even among the most technology-saturated workforce in the world.
+
+**⚠ A later, higher figure (November 2026).** Stanford's Adoption Monitor reports that **45%** of *employed* US adults use generative AI *for their job* (May 2026 survey) (source: AIEI_MU_Nov26.pdf; see [[stanford-del-ai-economic-indicators]]). That is hard to reconcile with Microsoft's 31.3%: workers using AI for work are a subset of working-age adults using it for anything, so the Microsoft figure would be expected to be the higher one. The gap probably reflects different survey methods and question wording, but neither source explains it. Not resolved.
 
 **The diffusion pace argument** (Narayanan & Kapoor, Knight Columbia, cited by Smith):
 > "Diffusion is limited by the speed of human, organizational, and institutional change."
@@ -163,3 +165,5 @@ His principle: "When technology increases supply, human ambition often generates
 - [[applied-co-intelligence-model]]
 - [[bcg-ai-reshapes-jobs]]
 - [[stanford-ai-index-education-2026]]
+- [[stanford-del-ai-economic-indicators]]
+- [[jevons-paradox]]

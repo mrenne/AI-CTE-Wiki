@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -48,7 +48,7 @@ The key question for any role is: *is there unmet demand that lower costs can un
 - At AI-adopting firms across 41 countries, computer and math occupations grew overall while their junior share fell 3.3 points (source: HowDoesAIChangeLaborDemand.pdf; see [[ai-labor-demand-41-countries]]).
 - At Anthropic, the junior share of technical hires fell from 27% to 9% (source: How employment is changing at Anthropic.md; see [[employment-at-anthropic]]).
 
-These findings do not contradict BCG's headcount claim, but they qualify it: an "Amplified" occupation can expand while its entry point narrows. In BCG's own terms, software engineering may behave as Amplified for experienced workers and Divergent for new entrants (wiki inference, not BCG's claim). See [[entry-level-labor-market]].
+These findings do not contradict BCG's headcount claim, but they qualify it: an "Amplified" occupation can expand while its entry point narrows. In BCG's own terms, software engineering may behave as Amplified for experienced workers and Divergent for new entrants (wiki inference, not BCG's claim). See [[entry-level-labor-market]]. Goldman also finds software *publishing* industry employment below trend across developed markets; see the contested-example note on [[jevons-paradox]].
 
 This is the mechanism Jevons identified for coal in the 1860s and is the analytical basis for the optimistic scenarios in [[apocalypse-no-galloway]] and [[ai-job-apocalypse-klein]].
 
@@ -110,3 +110,4 @@ BCG explicitly notes what this analysis does *not* do:
 - [[graduating-into-disruption-census]]
 - [[ai-labor-demand-41-countries]]
 - [[employment-at-anthropic]]
+- [[jevons-paradox]]

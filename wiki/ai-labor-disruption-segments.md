@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/PDF/Gradiating into Disruption.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-19
 
 ---
 
@@ -152,3 +152,4 @@ Two refinements to BCG's framing. First, the 41-country study finds junior emplo
 - [[employment-at-anthropic]]
 - [[graduating-into-disruption-census]]
 - [[entry-level-labor-market]]
+- [[jevons-paradox]]

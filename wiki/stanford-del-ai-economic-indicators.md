@@ -146,6 +146,8 @@ The November update is a one-page dashboard rather than a research note (source:
 
 **A new measure of value outside GDP.** The GDP-B Surplus Observer estimates consumer value from free and low-cost AI tools, which "add little to GDP even when people value them highly" (source: AIEI_MU_Nov26.pdf). It offers one answer to why the productivity statistics look ordinary while use keeps growing ([[ai-economy-measurement-2026]]).
 
+**A change from the June note.** The June note described "some recent reversals in *workplace* AI adoption" (source: AIEI_RN01_Jun26.pdf). The November update shows steady growth in work use: 35% a year earlier, 43% three months earlier, 45% in May 2026 (source: AIEI_MU_Nov26.pdf). The two may describe different series; neither note reconciles them.
+
 **The authors' caveats.** The pattern "alone does not show AI caused these declines"; exposure "may differ from actual AI adoption"; and ADP data "is not a measure of economy-wide employment, but it is an early-warning signal" (source: AIEI_MU_Nov26.pdf).
 
 ### ⚠ Figures that do not line up
@@ -155,12 +157,12 @@ The November update is a one-page dashboard rather than a research note (source:
 
 ### Adoption figures in the wiki measure different things
 
-The 45% figure is the highest adoption estimate in the wiki. It is not a contradiction of the others, which measure different populations:
+The 45% figure is the highest adoption estimate in the wiki. Most of the others measure different units (firms, establishments, a multi-survey estimate), so they are not contradictions. The exception is Microsoft's 31.3%: it counts a broader group (working-age adults using AI for anything), so it would be expected to be *higher* than 45%, not lower. ⚠ That gap is not explained by either source and is flagged, not resolved (see [[brad-smith-ai-jobs-next-generation]]).
 
 | Figure | What it counts | Source |
 |---|---|---|
 | 45% (May 2026) | Employed US adults who use generative AI for their job (Bick, Blandin & Deming survey) | AIEI_MU_Nov26.pdf |
-| 31.3% (Q1 2026) | US AI usage in Microsoft's AI Diffusion Report | [[brad-smith-ai-jobs-next-generation]] |
+| 31.3% (Q1 2026) | Share of the US working-age population using generative AI, for any purpose (Microsoft AI Diffusion Report) | [[brad-smith-ai-jobs-next-generation]] |
 | 15–20% | Developed-market AI adoption, Goldman's combination of 11 surveys | [[goldman-sachs-ai-labor-squeeze]] |
 | 23% | US establishments with AI built into regular workflows | [[goldman-ai-displacement-cyclical]] |
 

@@ -1132,3 +1132,20 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 **Correction to an earlier lint report**: the 2026-10-28 lint listed a "Census BTOS 19.8% of firms" adoption figure. No such figure exists in the wiki; it was an error in the report and is not used in the new comparison table.
 
 **Total pages created**: 1 | **Total pages updated**: 10
+
+---
+
+## 2026-11-19 — Lint fixes and new concept page: Jevons paradox
+
+**Lint fixes applied** (items 1-4 of the 2026-11-19 lint):
+1. Microsoft adoption metric misstated as a share of workers. Checked against `raw/blog/AI, jobs, and the next generation.md`: the 31.3% is the share of the US *working-age population* using generative AI. Corrected on `wiki/brad-smith-ai-jobs-next-generation.md`, `wiki/labor-market-polarization.md` (same error found while fixing), `README.md`, and the adoption table on `wiki/stanford-del-ai-economic-indicators.md`
+2. ⚠ Flagged (not resolved) on the Brad Smith and Stanford pages: Stanford's 45% (employed adults, work use) exceeds Microsoft's 31.3% (working-age adults, any use), the reverse of what the definitions imply. README headline changed from "well below half" to "far from universal"; Brad Smith page's "most current estimates" claim dated to June 2026
+3. `wiki/stanford-del-ai-economic-indicators.md` — Contrast noted between the June note's "reversals in workplace AI adoption" and the November update's steady growth (35% → 43% → 45%)
+4. `wiki/stanford-ai-index-education-2026.md` — "national curriculum requirement" reworded to reflect the report's internal inconsistency (highlights say national; body describes three regions)
+
+**Pages created**:
+- `wiki/jevons-paradox.md` — Historical cases (coal, VisiCalc, computers, Smith's examples, Amodei); BCG's demand-expandability test; evidence table for and against; ⚠ contested software example (BCG: software engineer headcount rose; Goldman: software publishing industry employment below trend; occupation vs. industry, flagged not resolved); what the paradox doesn't say (who gets jobs, timing, bounded demand, distribution); source caveat (opinion pieces and AI-company executives); CTE implications (wiki inference)
+
+**Pages updated**: related link to the new page on bcg-ai-reshapes-jobs (also a pointer to the contested-example note), ai-labor-disruption-segments, ai-job-apocalypse-klein, apocalypse-no-galloway, brad-smith-ai-jobs-next-generation, goldman-ai-displacement-cyclical, goldman-sachs-ai-labor-squeeze, relational-economy, labor-market-polarization, employment-at-anthropic, cte-and-ai, entry-level-labor-market; `wiki/index.md` (concept row); `README.md` (page count 86 → 87)
+
+**Total pages created**: 1 | **Total pages updated**: 16

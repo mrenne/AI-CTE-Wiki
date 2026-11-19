@@ -1,10 +1,10 @@
-﻿# Relational Economy
+# Relational Economy
 
 **Summary**: The economic theory that AI-driven automation will not eliminate work but relocate scarcity — shifting employment and expenditure from commodity production into a "relational sector" where human involvement is inseparable from the value of the good or service.
 
 **Sources**: `raw/blog/What will be scarce_.md`, `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/PDF/DATA CENTERS AND LOCAL ECONOMIES IN THE AGE OF AI.pdf`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`
 
-**Last updated**: 2026-08-12
+**Last updated**: 2026-11-19
 
 ---
 
@@ -171,3 +171,4 @@ This reinforces the relational economy framework from a different angle: the rel
 - [[ai-occupational-exposure-index]]
 - [[fostering-ai-ready-creating-experiencing]]
 - [[canaries-coal-mine-brynjolfsson]]
+- [[jevons-paradox]]

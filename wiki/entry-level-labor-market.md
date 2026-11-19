@@ -170,3 +170,4 @@ The Census paper finds most exposed graduates recover within two years, but the 
 - [[experience-debt-dayforce]]
 - [[education-to-workforce-data-systems]]
 - [[ai-rebounding-boomerang-employees]]
+- [[jevons-paradox]]

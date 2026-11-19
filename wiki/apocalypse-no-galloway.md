@@ -1,10 +1,10 @@
-﻿# Apocalypse No (Galloway)
+# Apocalypse No (Galloway)
 
 **Summary**: Scott Galloway argues that AI job apocalypse narratives are primarily a marketing strategy benefiting those who profit from fear, presents data showing US tech employment has grown and stabilized rather than collapsed, and offers three structural scenarios for how AI will actually reshape the economy.
 
 **Sources**: `raw/blog/Apocalypse No.md`, `raw/misc/Labor market impacts of AI A new measure and early evidence.md`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-11-19
 
 ---
 
@@ -87,3 +87,4 @@ Galloway's three-scenario structure is useful for CTE program design under uncer
 - [[ai-economics-scan-2026]]
 - [[cte-and-ai]]
 - [[applied-co-intelligence-model]]
+- [[jevons-paradox]]
