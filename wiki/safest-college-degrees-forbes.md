@@ -2,7 +2,7 @@
 
 **Summary**: A Forbes contributor piece (August 2026) naming 15 college majors considered relatively AI-resistant — nursing, computer science, accounting, civil/mechanical/electrical engineering, physical therapy, cybersecurity, data science, K-12 education, finance, healthcare administration, HR management, construction management, and social work — built on BLS growth projections and an "AI-Resistant Careers Index," alongside a durable-skills list nearly identical to the wiki's existing transferable-skills framework.
 
-**Sources**: `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
+**Sources**: `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`, `raw/misc/College-labor-data.xlsx`
 
 **Last updated**: 2026-11-23
 
@@ -66,6 +66,8 @@ Two sources put this article's recent-grad unemployment figure in context. [[no-
 ## Update: The NY Fed Series Directly (November 2026)
 
 The wiki now holds the NY Fed source this article cites ([[ny-fed-recent-grads-labor-market]]). Its 2026:Q3 update shows recent-graduate unemployment down to 5.2% from Q2's 5.6%, while underemployment rose to 42.5% (source: The Labor Market for Recent College Graduates.md). The series covers ages 22–27 with a bachelor's degree or higher.
+
+The NY Fed's data file puts all-worker unemployment at 4.07% in June 2026, not the 4.2% this article pairs with the 5.6% figure, so the article's "overall" rate likely comes from a different headline series (source: College-labor-data.xlsx). The age-matched comparison is the fairer one: recent graduates' advantage over young workers generally is at its smallest since 1990, but still an advantage ([[ny-fed-recent-grads-labor-market]]).
 
 ## Related pages
 

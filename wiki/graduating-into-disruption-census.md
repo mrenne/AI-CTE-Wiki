@@ -2,7 +2,7 @@
 
 **Summary**: A September 2026 U.S. Census Bureau working paper (Orr, Tucker & Warren, CES 26-56) linking 6.7 million bachelor's graduates to administrative earnings records. Graduates in the most AI-exposed decile of majors saw a 5-percentage-point drop in initial employment and a 13% drop in initial earnings after ChatGPT — recession-scale — with about half the earnings loss coming from displacement into lower-paying sectors like retail and food service. The result is robust to the work-from-home confound and to graduate-supply explanations.
 
-**Sources**: `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
+**Sources**: `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`, `raw/misc/College-labor-data.xlsx`
 
 **Last updated**: 2026-11-23
 
@@ -133,6 +133,8 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 ## Rising Underemployment in the National Data (November 2026)
 
 The NY Fed's national tracker shows the pattern this paper identifies: in 2026:Q3, recent-graduate unemployment fell to 5.2% while underemployment rose to 42.5% (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]). The NY Fed series does not separate graduates by major's AI exposure, so it cannot test this paper's exposure-specific findings, but it is consistent with graduates staying employed in jobs that don't need their degree.
+
+**A contrast by major.** The NY Fed's one-year table shows computer science and computer engineering with high unemployment (7.0% and 7.8%) but low underemployment (19.1% and 15.8%) (source: College-labor-data.xlsx). That differs from this paper's finding that the most-exposed graduates increasingly start in retail and food service. The two are not directly comparable: the NY Fed table is a cross-section of levels among 22- to 27-year-olds, while this paper measures changes in first jobs after ChatGPT. Noted, not resolved.
 
 ---
 

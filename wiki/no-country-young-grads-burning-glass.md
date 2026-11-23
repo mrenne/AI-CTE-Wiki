@@ -2,7 +2,7 @@
 
 **Summary**: A July 2025 Burning Glass Institute report arguing that the bachelor's degree is failing to deliver access to professional work for young graduates, driven by four interlocking forces — AI's "Expertise Upheaval," post-pandemic lean staffing, employer risk aversion, and a growing "Graduate Glut." An early, descriptive framing piece that predates most of the wiki's causal labor-market evidence.
 
-**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
+**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`, `raw/misc/College-labor-data.xlsx`
 
 **Last updated**: 2026-11-23
 
@@ -87,6 +87,8 @@ The two claims differ in scope — Burning Glass describes all young graduates o
 ## Two Underemployment Figures (November 2026)
 
 This report's 52% underemployment figure (Class of 2023, one year after graduation) is higher than the NY Fed's 42.5% for 2026:Q3 (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]). They measure different groups: one graduating class shortly after college, against all 22- to 27-year-olds with a bachelor's degree or higher, including graduate-degree holders. The NY Fed defines underemployment as working in a job that typically does not require a degree, judged from O\*NET data (source: The Labor Market for Recent College Graduates.md). Different cohorts and definitions, so not a contradiction. The NY Fed figure rose in Q3, consistent with this report's call to treat underemployment as the outcome to watch.
+
+**The 30-year-low finding, confirmed.** The NY Fed's data file shows recent graduates' unemployment advantage over young workers generally at 1.75 points in 2026, the smallest annual gap since its series begins in 1990 (4.3 points in 1990, 2.6 in 2019) (source: College-labor-data.xlsx; see [[ny-fed-recent-grads-labor-market]]). Its underemployment series also gives long-run context: today's 42.5% is up sharply since late 2024 but below the 2005–2015 level of about 45% (source: College-labor-data.xlsx).
 
 ---
 

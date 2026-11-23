@@ -1193,3 +1193,22 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 - `wiki/index.md` — Source and concept rows, entry-level count, Key Theme; `README.md` — counts (63 files ingested, 62 distinct; one unreadable file not ingested) and new paragraph
 
 **Total pages created**: 1 | **Total pages updated**: 8
+
+---
+
+## 2026-11-23 — Ingestion (1 source: NY Fed data file)
+
+**Source added and ingested**: `raw/misc/College-labor-data.xlsx` — the Federal Reserve Bank of New York's downloadable data for "The Labor Market for Recent College Graduates" (companion to the article ingested earlier today). Copied into `raw/misc/` from the user's Downloads folder at the user's request. Sheets: unemployment and underemployment (monthly, Jan 1990–Sep 2026, updated Nov 2, 2026); wages (annual 1990–2025, CPI listed as source); outcomes by major (73 majors, updated Feb 4, 2026). Read with a standard-library XML parser (no spreadsheet library installed). Annual averages, gaps, and ranks are the wiki's own calculations
+
+**Key findings recorded**: same-age unemployment advantage over young workers 1.75 points in 2026, smallest since 1990 (confirms Burning Glass's 30-year low); recent graduates above all-ages workers every month since Jan 2021; underemployment 38.6% (Dec 2024) → 42.5% (Sep 2026), highest since Oct 2020 but below 2005–2015 levels; real median pay ~$58k (1990) vs. ~$60k (2025), ratio to high-school median ~1.5; computing paradox (computer engineering 2nd and CS 4th highest unemployment of 73 majors, but among the lowest underemployment and highest pay)
+
+**Discrepancies noted (not resolved)**: Columbia page's NY Fed citation (CS 5th of 74) vs. data file (4th of 73), likely different data years; Forbes's 4.2% "overall" vs. the file's 4.07% all-workers rate for June 2026; NY Fed by-major cross-section (CS low underemployment) vs. Census finding of exposed graduates sorting into retail/food service (different measures)
+
+**Pages updated**:
+- `wiki/ny-fed-recent-grads-labor-market.md` — New "What the data file shows" section (four findings with tables; discrepancies), summary and source description revised, relationship-table row, two CTE implications
+- `wiki/entry-level-labor-market.md` — NY Fed data section; advising point updated with the record-narrow advantage
+- `wiki/index.md` — Key Theme ("narrowed, not inverted") updated with NY Fed figures; source row updated
+- `wiki/columbia-cs-ai-disruption.md`, `wiki/safest-college-degrees-forbes.md`, `wiki/graduating-into-disruption-census.md`, `wiki/no-country-young-grads-burning-glass.md`, `wiki/cte-and-ai.md`, `wiki/jevons-paradox.md` — dated additions
+- `README.md` — counts (64 ingested, 63 distinct; one unreadable file not ingested) and paragraph extended
+
+**Total pages created**: 0 | **Total pages updated**: 9

@@ -2,9 +2,9 @@
 
 **Summary**: Concept page for the idea that when technology makes something cheaper, total demand for it can rise rather than fall. It is the main argument in the wiki for why AI may expand rather than shrink employment in exposed occupations; this page sets out the argument, the evidence for and against it, and why demand expansion does not guarantee jobs for new entrants.
 
-**Sources**: `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/AIEI_MU_Nov26.pdf`
+**Sources**: `raw/blog/Why the A.I. Job Apocalypse (Probably) Won’t Happen.md`, `raw/blog/Apocalypse No.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/AIEI_MU_Nov26.pdf`, `raw/misc/College-labor-data.xlsx`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -49,7 +49,7 @@ These measure different things. BCG counts an occupation, whose workers are spre
 
 ## What the paradox does not say
 
-1. **It says nothing about who gets the new jobs.** Demand expansion can go entirely to experienced workers. The 41-country study finds AI "labor saving for junior workers and labor expanding for senior workers" (source: HowDoesAIChangeLaborDemand.pdf). Total headcount can rise while the entry point narrows; see [[entry-level-labor-market]].
+1. **It says nothing about who gets the new jobs.** Demand expansion can go entirely to experienced workers. The 41-country study finds AI "labor saving for junior workers and labor expanding for senior workers" (source: HowDoesAIChangeLaborDemand.pdf). Total headcount can rise while the entry point narrows; see [[entry-level-labor-market]]. NY Fed data show the same split for computing majors: computer engineering and computer science have some of the highest recent-graduate unemployment of 73 majors (7.8% and 7.0%) alongside the highest starting pay (source: College-labor-data.xlsx; see [[ny-fed-recent-grads-labor-market]]).
 2. **It says nothing about timing.** Accountants quadrupled over 40 years. Goldman finds that technology-driven job losses concentrate in recessions and that routine jobs lost in past shifts did not come back (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md). Amodei himself warns AI is moving faster than earlier technologies.
 3. **It depends on demand being expandable.** Where demand is bounded, as in call centers, cheaper production means fewer jobs.
 4. **It says nothing about how gains are shared.** Galloway's "permanent underclass" scenario needs no mass unemployment, only gains flowing mainly to capital owners and high-skill workers (source: Apocalypse No.md; see [[apocalypse-no-galloway]]). Stanford's dashboard finds capital's share of income among the few macro indicators clearly above trend (source: AIEI_MU_Nov26.pdf; see [[stanford-del-ai-economic-indicators]]).
@@ -89,3 +89,4 @@ These are the wiki's inferences, not claims made by the sources.
 - [[stanford-del-ai-economic-indicators]]
 - [[work-based-learning]]
 - [[cte-and-ai]]
+- [[ny-fed-recent-grads-labor-market]]

@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 Columbia Spectator investigation into how AI is reshaping computer science education at Columbia — enrollment patterns, teaching restructuring, equity concerns, and student experience — offering ground-level evidence of AI's impact on a flagship CS program.
 
-**Sources**: `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/College-labor-data.xlsx`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -25,7 +25,7 @@ But a shift is appearing (source: ‘The reality, for better or worse’_ Columb
 - Faculty report that students are still taking CS classes but "majoring in other things" — treating technical skills as a baseline rather than a major field of study
 - The surge in CS popularity was driven by its "apparent promise of a secure, well-paid career path"; generative AI has "compromised the sense of stability that once defined the field"
 
-**The unemployment data**: According to the Federal Reserve Bank of New York (2024), out of 74 majors tracked, computer science had the **5th highest unemployment rate at 7%**, while computer engineering had the **2nd highest at 7.8%**. This is a striking inversion for a field once synonymous with guaranteed employment.
+**The unemployment data**: According to the Federal Reserve Bank of New York (2024), out of 74 majors tracked, computer science had the **5th highest unemployment rate at 7%**, while computer engineering had the **2nd highest at 7.8%**. This is a striking inversion for a field once synonymous with guaranteed employment. *Update (November 2026)*: the NY Fed's current data file (updated February 2026) ranks computer science 4th of 73 majors at 7.0% and computer engineering 2nd at 7.8%; both have some of the lowest underemployment (19.1% and 15.8%) and highest starting pay ($87,000 and $90,000) of any major (source: College-labor-data.xlsx; see [[ny-fed-recent-grads-labor-market]]).
 
 ## The "Code Monkey" Problem
 
@@ -139,3 +139,4 @@ This pattern connects to Klein's concern in [[ai-job-apocalypse-klein]] about th
 - [[graduating-into-disruption-census]]
 - [[ai-literacy]]
 - [[entry-level-labor-market]]
+- [[ny-fed-recent-grads-labor-market]]
