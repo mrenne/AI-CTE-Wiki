@@ -2,9 +2,9 @@
 
 **Summary**: A September 2026 U.S. Census Bureau working paper (Orr, Tucker & Warren, CES 26-56) linking 6.7 million bachelor's graduates to administrative earnings records. Graduates in the most AI-exposed decile of majors saw a 5-percentage-point drop in initial employment and a 13% drop in initial earnings after ChatGPT — recession-scale — with about half the earnings loss coming from displacement into lower-paying sectors like retail and food service. The result is robust to the work-from-home confound and to graduate-supply explanations.
 
-**Sources**: `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -130,6 +130,10 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 
 [[ai-labor-demand-41-countries]] finds the junior share falling *within* computer and mathematical occupations at AI-adopting firms (−3.3 points), consistent with CS-adjacent majors being hit hardest here (source: HowDoesAIChangeLaborDemand.pdf).
 
+## Rising Underemployment in the National Data (November 2026)
+
+The NY Fed's national tracker shows the pattern this paper identifies: in 2026:Q3, recent-graduate unemployment fell to 5.2% while underemployment rose to 42.5% (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]). The NY Fed series does not separate graduates by major's AI exposure, so it cannot test this paper's exposure-specific findings, but it is consistent with graduates staying employed in jobs that don't need their degree.
+
 ---
 
 ## Related pages
@@ -156,3 +160,4 @@ The third mechanism is the first time a labor-economics source in the wiki direc
 - [[learning-performance-paradox]]
 - [[education-to-workforce-data-systems]]
 - [[work-based-learning]]
+- [[ny-fed-recent-grads-labor-market]]

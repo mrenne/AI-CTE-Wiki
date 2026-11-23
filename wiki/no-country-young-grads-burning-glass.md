@@ -2,9 +2,9 @@
 
 **Summary**: A July 2025 Burning Glass Institute report arguing that the bachelor's degree is failing to deliver access to professional work for young graduates, driven by four interlocking forces — AI's "Expertise Upheaval," post-pandemic lean staffing, employer risk aversion, and a growing "Graduate Glut." An early, descriptive framing piece that predates most of the wiki's causal labor-market evidence.
 
-**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/Gradiating into Disruption.pdf`
+**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -84,6 +84,10 @@ The two claims differ in scope — Burning Glass describes all young graduates o
 2. **Mastery Roles may be a CTE opportunity.** If AI lowers the expertise barrier to baseline competency in some roles, CTE programs that pair AI fluency with occupational judgment ([[applied-co-intelligence-model]]) are well placed to prepare students for those entry points.
 3. **If firms stop training juniors, someone else has to.** The Flipped Pyramid shifts the burden of early skill development away from employers. Work-based learning, apprenticeships, and employer-embedded CTE ([[meta-workforce-academy]], [[berwick-employers-ai-education-gap]]) become more important as a replacement for the disappearing junior rung.
 
+## Two Underemployment Figures (November 2026)
+
+This report's 52% underemployment figure (Class of 2023, one year after graduation) is higher than the NY Fed's 42.5% for 2026:Q3 (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]). They measure different groups: one graduating class shortly after college, against all 22- to 27-year-olds with a bachelor's degree or higher, including graduate-degree holders. The NY Fed defines underemployment as working in a job that typically does not require a degree, judged from O\*NET data (source: The Labor Market for Recent College Graduates.md). Different cohorts and definitions, so not a contradiction. The NY Fed figure rose in Q3, consistent with this report's call to treat underemployment as the outcome to watch.
+
 ---
 
 ## Related pages
@@ -102,3 +106,4 @@ The two claims differ in scope — Burning Glass describes all young graduates o
 - [[goldman-sachs-ai-labor-squeeze]]
 - [[entry-level-labor-market]]
 - [[work-based-learning]]
+- [[ny-fed-recent-grads-labor-market]]

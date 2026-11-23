@@ -1,10 +1,10 @@
 # Entry-Level Labor Market Disruption
 
-**Summary**: Synthesis page for the wiki's densest evidence thread: the decline in early-career hiring and job quality in AI-exposed fields since late 2022. It brings together fourteen labor-market sources, sets out what is settled and what is contested (especially the AI-versus-work-from-home attribution debate), and draws out the implications for CTE.
+**Summary**: Synthesis page for the wiki's densest evidence thread: the decline in early-career hiring and job quality in AI-exposed fields since late 2022. It brings together fifteen labor-market sources, sets out what is settled and what is contested (especially the AI-versus-work-from-home attribution debate), and draws out the implications for CTE.
 
-**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`, `raw/PDF/AIEI_MU_Nov26.pdf`, `raw/misc/AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md`
+**Sources**: `raw/misc/Labor market impacts of AI A new measure and early evidence.md`, `raw/PDF/ai-will-reshape-more-jobs-than-it-replaces.pdf`, `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`, `raw/PDF/AIEI_MU_Nov26.pdf`, `raw/misc/AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md`, `raw/misc/The Labor Market for Recent College Graduates.md`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -32,6 +32,7 @@ Since late 2022, workers at the start of their careers in AI-exposed fields have
 | [[employment-at-anthropic]] (Oct 2026) | Anthropic internal data, one AI-native firm (interested source) | Junior share of technical hires 27% → 9%; agent hours 6x employee hours; hiring shifts to autonomy and judgment (source: How employment is changing at Anthropic.md) |
 | [[goldman-ai-displacement-cyclical]] (Oct 2026) | Goldman Sachs note via Fortune; historical occupation data | Forecast: up to 9% of workers displaced over the AI transition, concentrated in recessions; current headwind modest (AI-exposed industries ~10,000 below trend) (source: AI could displace one in 11 workers, Goldman says, but the layoffs ar….md) |
 | [[stanford-del-ai-economic-indicators]] (Nov 2026 update) | ADP payroll, data through Oct 2026 | 22–25-year-olds in most AI-exposed jobs −4.2% year over year (from −3.3% six months earlier), below year-earlier levels every month since Oct 2023; under-35s −2.2%, 35+ +0.4% (source: AIEI_MU_Nov26.pdf) |
+| [[ny-fed-recent-grads-labor-market]] (Q3 2026) | NY Fed tracker, ages 22–27, bachelor's or higher | Unemployment 5.2% (lowest in over a year, down from 5.6% in Q2); underemployment up to 42.5% (source: The Labor Market for Recent College Graduates.md) |
 
 ---
 
@@ -135,6 +136,10 @@ The Census paper finds most exposed graduates recover within two years, but the 
 - **Still getting worse.** Stanford's November update puts employment of 22- to 25-year-olds in the most AI-exposed jobs 4.2% below a year earlier in October 2026, worse than six months before (−3.3%). Employment fell for every age group under 35 and rose slightly for those 35 and older (source: AIEI_MU_Nov26.pdf; see [[stanford-del-ai-economic-indicators]]). The June note reported a different April figure; see the flag on that page.
 - **Rebounding helps the experienced, not entrants.** A CNBC report on "AI rebounding" describes firms rehiring workers they cut for AI because they "pulled the plug too quickly" (source: AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'.md; see [[ai-rebounding-boomerang-employees]]). Rehiring restores experienced staff; it does nothing for new entrants who were never hired.
 
+## November 2026: Fewer Jobless Graduates, More Underemployed
+
+The NY Fed's 2026:Q3 update shows recent-graduate unemployment falling to 5.2%, its lowest in more than a year, while underemployment rose to 42.5% (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]). The two headline measures are moving in opposite directions. That fits this page's job-quality theme: the Census paper finds exposed graduates staying employed but starting in lower-paying sectors ([[graduating-into-disruption-census]]), and CESifo finds unemployment within its normal range ([[cesifo-recent-grads-unemployment]]). The NY Fed series is not broken down by AI exposure, so it neither confirms nor contradicts the exposure-specific declines in Stanford's dashboard.
+
 ---
 
 ## Related pages
@@ -171,3 +176,4 @@ The Census paper finds most exposed graduates recover within two years, but the 
 - [[education-to-workforce-data-systems]]
 - [[ai-rebounding-boomerang-employees]]
 - [[jevons-paradox]]
+- [[ny-fed-recent-grads-labor-market]]

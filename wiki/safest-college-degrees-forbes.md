@@ -2,9 +2,9 @@
 
 **Summary**: A Forbes contributor piece (August 2026) naming 15 college majors considered relatively AI-resistant — nursing, computer science, accounting, civil/mechanical/electrical engineering, physical therapy, cybersecurity, data science, K-12 education, finance, healthcare administration, HR management, construction management, and social work — built on BLS growth projections and an "AI-Resistant Careers Index," alongside a durable-skills list nearly identical to the wiki's existing transferable-skills framework.
 
-**Sources**: `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`
+**Sources**: `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
 
-**Last updated**: 2026-09-23
+**Last updated**: 2026-11-23
 
 ---
 
@@ -63,6 +63,10 @@ The article's nine "skills that increase job safety" — AI/data literacy, criti
 
 Two sources put this article's recent-grad unemployment figure in context. [[no-country-young-grads-burning-glass]] (July 2025) had earlier documented young-graduate unemployment rising to 6.2% and 52% underemployment one year after graduation (source: No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf). [[graduating-into-disruption-census]] (September 2026) shows the damage is concentrated by major: the most AI-exposed decile lost about 13% of initial earnings, while majors in the least-exposed decile saw above-average earnings growth (source: Gradiating into Disruption.pdf). The Census paper also adds a refinement relevant to "safe degree" lists: what predicts harm is the **share of a major's jobs in the most-exposed occupations**, not its average exposure.
 
+## Update: The NY Fed Series Directly (November 2026)
+
+The wiki now holds the NY Fed source this article cites ([[ny-fed-recent-grads-labor-market]]). Its 2026:Q3 update shows recent-graduate unemployment down to 5.2% from Q2's 5.6%, while underemployment rose to 42.5% (source: The Labor Market for Recent College Graduates.md). The series covers ages 22–27 with a bachelor's degree or higher.
+
 ## Related pages
 
 - [[transferable-skills]]
@@ -79,3 +83,4 @@ Two sources put this article's recent-grad unemployment figure in context. [[no-
 - [[graduating-into-disruption-census]]
 - [[no-country-young-grads-burning-glass]]
 - [[entry-level-labor-market]]
+- [[ny-fed-recent-grads-labor-market]]

@@ -2,9 +2,9 @@
 
 **Summary**: A July 2026 New York Times piece by Ben Casselman surveying why economists cannot yet agree on AI's real effect on jobs, wages, or productivity — government statistics are outdated and underfunded, private data sources conflict with each other, and non-AI shocks (COVID, interest rates, immigration policy) make attribution nearly impossible.
 
-**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/PDF/AIEI_MU_Nov26.pdf`
+**Sources**: `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/Goldman studied where AI is squeezing labor markets. Here's what it found.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/PDF/AIEI_MU_Nov26.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -62,6 +62,10 @@ Two September 2026 sources sharpen this page's theme. [[cesifo-recent-grads-unem
 
 Stanford's November dashboard shows the measurement gap this page describes. Worker use of generative AI reached 45% (May 2026), up from 35% a year earlier, yet GDP and productivity "are growing at their usual pace," and only 3 of 12 macro indicators sit clearly above pre-2020 trends (source: AIEI_MU_Nov26.pdf). Its new GDP-B Surplus Observer estimates that US users would need $183B a year to give up generative AI, value that free and low-cost tools add to people's lives without adding much to GDP (source: AIEI_MU_Nov26.pdf). The adoption figures in the wiki now range from 15% to 45% depending on what is counted; see the comparison table on [[stanford-del-ai-economic-indicators]].
 
+## Another Divergence: Unemployment Down, Underemployment Up (November 2026)
+
+The NY Fed's Q3 2026 recent-graduate figures add a further case where headline joblessness and job quality point different ways: unemployment fell to 5.2% while underemployment rose to 42.5% (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]).
+
 ## Related pages
 
 - [[ai-economics-scan-2026]]
@@ -77,3 +81,4 @@ Stanford's November dashboard shows the measurement gap this page describes. Wor
 - [[cesifo-recent-grads-unemployment]]
 - [[goldman-ai-displacement-cyclical]]
 - [[education-to-workforce-data-systems]]
+- [[ny-fed-recent-grads-labor-market]]

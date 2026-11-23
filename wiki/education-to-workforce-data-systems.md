@@ -2,9 +2,9 @@
 
 **Summary**: Concept page for data systems that link students' education records to their later employment and earnings records. The wiki's sources show what such linkage makes possible (the Census study of 6.7 million graduates), what its absence costs (Nebraska's CTE evaluation could not measure earnings), and why the wider data used to measure AI's labor-market effects is fragmented and often contradictory.
 
-**Sources**: `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`
+**Sources**: `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/A.I. Is Reshaping the Economy. Good Luck Measuring How.md`, `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/misc/The Labor Market for Recent College Graduates.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -49,6 +49,7 @@ Much of the wiki's disagreement about AI and entry-level work traces to which da
 |---|---|---|---|
 | Linked education–wage records (PSEO/LEHD) | [[graduating-into-disruption-census]] | Employment, earnings, and industry by major for graduates | Non-participating states and institutions; high-school pathways |
 | Payroll records (ADP) | [[canaries-coal-mine-brynjolfsson]], [[stanford-del-ai-economic-indicators]] | Employment by age and occupation, monthly, for 4.6 million workers (source: AIEI_RN01_Jun26.pdf) | Firms outside ADP; education history |
+| NY Fed recent-graduate tracker (ACS for outcomes by major) | [[ny-fed-recent-grads-labor-market]] | Unemployment and underemployment, ages 22–27, quarterly since 1990 (source: The Labor Market for Recent College Graduates.md) | Anyone without a bachelor's degree; AI exposure |
 | Household survey (CPS) | [[cesifo-recent-grads-unemployment]] | Unemployment of recent graduates | Job quality and earnings by major |
 | Job postings and profiles (Revelio) | [[ai-labor-demand-41-countries]] | Firm-level AI adoption and workforce seniority across 41 countries (source: HowDoesAIChangeLaborDemand.pdf) | Workers and firms with little online presence (wiki inference) |
 
@@ -75,6 +76,10 @@ These are the wiki's inferences, not claims made by the sources.
 3. **Common definitions come first.** Work-based learning, the wiki's main proposed answer to the disappearing junior rung, cannot be evaluated across states while 10 states define it 10 ways.
 4. **Programs can use national data now.** While state systems are built, occupation-level sources such as the [[stanford-del-ai-economic-indicators]] Canaries dashboard and the [[anthropic-labor-market-index]] can inform program planning, with the representativeness caveats above.
 
+## The Benchmark Excludes CTE Completers (November 2026)
+
+The NY Fed's tracker, the most widely cited public measure of how new graduates are doing, covers only people with a bachelor's degree or higher: "this analysis only pertains to those with at least a bachelor's degree" (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]). Associate-degree and certificate completers, the group most CTE programs produce, have no equivalent national, quarterly series in the wiki's sources.
+
 ## Related pages
 
 - [[career-pathways-evidence-gap]]
@@ -91,3 +96,4 @@ These are the wiki's inferences, not claims made by the sources.
 - [[fostering-ai-ready-cultivating-resources]]
 - [[anthropic-labor-market-index]]
 - [[cte-and-ai]]
+- [[ny-fed-recent-grads-labor-market]]

@@ -1172,3 +1172,24 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 
 **Total pages updated**: 31
 
+---
+
+## 2026-11-23 — Ingestion (1 source)
+
+**Sources ingested**:
+1. `raw/misc/The Labor Market for Recent College Graduates.md` — Federal Reserve Bank of New York, "The Labor Market for Recent College Graduates" web feature, clipped November 23, 2026. 2026:Q3 highlights (unemployment 5.2%, lowest in over a year; underemployment up to 42.5%) and methodology FAQ (ages 22–27, bachelor's or higher incl. graduate degrees, national, 1990–present, O*NET-based underemployment definition, ACS outcomes by major, no associate/certificate data, underemployed-job-types series discontinued 2023:Q3). Chart data did not survive the clipping (empty SVG); by-major, wage and historical figures not available. Ingested as-is per user
+
+**Pages created**:
+- `wiki/ny-fed-recent-grads-labor-market.md` — Q3 figures, methods table, relationship table, CTE implications
+
+**Pages updated**:
+- `wiki/entry-level-labor-market.md` — Evidence-table row (now fifteen sources); "November 2026" section
+- `wiki/cesifo-recent-grads-unemployment.md` — Q3 figure added to the "two figures to reconcile" note
+- `wiki/safest-college-degrees-forbes.md` — Update: the NY Fed series directly (5.6% → 5.2%)
+- `wiki/no-country-young-grads-burning-glass.md` — Two underemployment figures (52% vs. 42.5%): different cohorts and definitions, not a contradiction
+- `wiki/graduating-into-disruption-census.md` — Rising national underemployment consistent with the paper's job-quality finding
+- `wiki/education-to-workforce-data-systems.md` — Dataset-table row; benchmark excludes CTE completers
+- `wiki/cte-and-ai.md`, `wiki/ai-economy-measurement-2026.md` — Short November 2026 sections
+- `wiki/index.md` — Source and concept rows, entry-level count, Key Theme; `README.md` — counts (63 files ingested, 62 distinct; one unreadable file not ingested) and new paragraph
+
+**Total pages created**: 1 | **Total pages updated**: 8

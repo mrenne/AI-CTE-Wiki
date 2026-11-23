@@ -2,9 +2,9 @@
 
 **Summary**: An Ars Technica report (September 2026) on a CESifo working paper (Fairlie & Wu) finding that summer 2026 unemployment among recent US college graduates, 7.3%, was within the normal 2022–2024 range and not significantly different from non-college peers, older graduates, or less AI-exposed groups. It is the wiki's clearest counter-signal to the entry-level disruption thesis, though it measures unemployment, a different outcome from the studies it appears to contradict.
 
-**Sources**: `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`
+**Sources**: `raw/misc/AI was supposed to hit new grads hard. So far, unemployment data says otherwise..md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/AI could displace one in 11 workers, Goldman says, but the layoffs ar….md`, `raw/misc/The Labor Market for Recent College Graduates.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -47,7 +47,7 @@ On its face this conflicts with [[canaries-coal-mine-brynjolfsson]] (19% employm
 
 **What remains a genuine disagreement.** CESifo reports that recent graduates in more AI-exposed groups did *not* fare significantly worse on unemployment. That is a direct test, and it did not find the pattern. This page records the conflict rather than resolving it.
 
-**Two figures to reconcile.** The NY Fed's 5.6% recent-graduate unemployment ([[safest-college-degrees-forbes]], Q2 2026) and CESifo's 7.3% (summer 2026) differ because of season and definition: summer rates spike as new graduates enter, and the age ranges and data sources differ. They are not in conflict.
+**Two figures to reconcile.** The NY Fed's 5.6% recent-graduate unemployment ([[safest-college-degrees-forbes]], Q2 2026) and CESifo's 7.3% (summer 2026) differ because of season and definition: summer rates spike as new graduates enter, and the age ranges and data sources differ. They are not in conflict. The NY Fed's Q3 2026 figure fell further, to 5.2%, with underemployment rising to 42.5% (source: The Labor Market for Recent College Graduates.md; see [[ny-fed-recent-grads-labor-market]]).
 
 ---
 
@@ -76,3 +76,4 @@ On its face this conflicts with [[canaries-coal-mine-brynjolfsson]] (19% employm
 - [[cte-and-ai]]
 - [[goldman-ai-displacement-cyclical]]
 - [[education-to-workforce-data-systems]]
+- [[ny-fed-recent-grads-labor-market]]
