@@ -2,9 +2,9 @@
 
 **Summary**: A four-level developmental framework from the Applied Co-Intelligence report for tracking a CTE learner's progression from basic AI awareness to the ability to critique, adapt, and innovate with AI tools within an occupational context.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/Employers step in to fill the AI education gap.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/blog/How employment is changing at Anthropic.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -82,6 +82,10 @@ Employer sources point the same way from the other end. IBM's global chief impac
 
 *Caveat*: Anthropic is an unusual, AI-native company studying itself, and its work is mostly software and knowledge work rather than the physical and relational occupations most CTE programs serve. The parallel to the continuum is the wiki's inference. See also [[ai-literacy]].
 
+## The Department of Labor's Levels (February 2026)
+
+The Department of Labor's AI Literacy Framework uses two levels: "AI literacy," a baseline for every worker, and "AI proficiency," which includes "more directly managing complex AI systems" (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). Mapped onto this continuum, DOL's literacy covers roughly the Literacy level plus the evaluative core of Fluency (its fourth content area is "evaluate AI outputs"), while its proficiency resembles Agency and Mastery (wiki inference). DOL's framework details only the baseline; this continuum is more specific about the upper levels, and about developing them inside an occupation.
+
 ## Related pages
 
 - [[applied-co-intelligence-report]]
@@ -92,3 +96,4 @@ Employer sources point the same way from the other end. IBM's global chief impac
 - [[employment-at-anthropic]]
 - [[berwick-employers-ai-education-gap]]
 - [[ai-literacy]]
+- [[dol-ai-literacy-framework]]

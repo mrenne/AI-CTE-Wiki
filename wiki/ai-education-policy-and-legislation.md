@@ -2,9 +2,9 @@
 
 **Summary**: A concept page tracking concrete governmental and legislative instruments — state-level guidance frameworks, procurement standards, and proposed federal/state legislation — addressing AI in K-12 education, as distinct from the wiki's research findings and practitioner accounts.
 
-**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/How employment is changing at Anthropic.md`
+**Sources**: `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/How employment is changing at Anthropic.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -46,6 +46,17 @@ Erin Mote proposed frameworks that are not law but represent a policy-advocacy p
 - **"Waterfall" regulatory approach**: heaviest safety controls on highest-risk consumer/companion AI platforms; lighter burden on purpose-built, lower-risk educational tools — an explicit alternative to blanket bans or uniform screen-time limits.
 - **"Return on Instruction"** as a replacement outcome metric for simple engagement/usage tracking.
 
+### Federal Executive Actions (2025–2026)
+
+Alongside the legislative proposals above, the executive branch has acted through orders and agency guidance (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]):
+
+- **Executive Order 14277** (April 23, 2025), *Advancing Artificial Intelligence Education for American Youth*.
+- **Department of Education** (July 2025): a Dear Colleague Letter on using federal grant funds for AI to improve education outcomes, and a proposed supplemental grantmaking priority on advancing AI in education.
+- **TEGL 03-25** (August 26, 2025): DOL guidance encouraging use of WIOA funding for AI skills training.
+- **TEN 07-25** (February 13, 2026): DOL's AI Literacy Framework, voluntary guidance with five content areas and seven delivery principles, addressed to workforce agencies, community colleges, apprenticeship agencies, and state CTE directors.
+
+These are guidance and grant priorities, not statutes.
+
 ## A Consistent Cross-Witness Theme: State Authority, Federal Support
 
 Despite differing institutional vantage points (a state secretary of education, an education-technology entrepreneur, and a nonprofit/advocacy CEO), all three witnesses converged on the same federalism position: states and districts should retain decision-making authority over specific AI tool adoption and classroom implementation, while the federal government's role is to fund research, build shared evidence infrastructure, support professional development, and set baseline safety/privacy floors — not to mandate specific tools or curricula. This is a notable point of consensus in an otherwise polarized policy hearing (the hearing opened with a sharp partisan exchange over the Department of Education's restructuring).
@@ -79,3 +90,5 @@ These are advocacy proposals, not enacted policy. Nebraska's first dedicated CTE
 - [[employment-at-anthropic]]
 - [[perkins-v-and-clna]]
 - [[education-to-workforce-data-systems]]
+- [[dol-ai-literacy-framework]]
+- [[ai-literacy]]

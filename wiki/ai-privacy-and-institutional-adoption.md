@@ -2,9 +2,9 @@
 
 **Summary**: The cluster of cost, data privacy, infrastructure, and policy barriers that prevent schools and colleges from adopting AI — and the emerging strategies (local SLM deployment, elastic policies, fellowship programs) for overcoming them equitably.
 
-**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`
+**Sources**: `raw/PDF/SmallLLMs.pdf`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/AI, jobs, and the next generation.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -103,6 +103,10 @@ The June 2026 [[senate-hearing-ai-k12-education]] provided concrete, large-scale
 
 Mote proposed a concrete evidence-based purchasing standard in response: **Five Tech Quality Indicators** (safe, interoperable, usable, inclusive, evidence-based), with her claim that fewer than half of purpose-built education tools currently meet this bar, and only 2% of consumer-grade tools do. She also proposed a **"waterfall" regulatory approach** — heaviest safety controls on the highest-risk consumer/companion AI platforms, lighter burden on purpose-built, lower-risk educational tools — as an explicit alternative to blanket bans or uniform screen-time limits, which she argues disproportionately harm students with disabilities who rely on digital tools for mandated accommodations. See [[ai-education-policy-and-legislation]] for the full policy-instrument tracking page.
 
+## Prerequisites in Federal Guidance (February 2026)
+
+The Department of Labor's AI Literacy Framework treats access barriers as part of program design: "Address prerequisites to AI literacy" is one of its seven delivery principles, covering digital literacy, devices, broadband, and low-bandwidth or mobile-first materials (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). It also tells workers to protect sensitive information when using AI tools.
+
 ## Related pages
 
 - [[small-language-models]]
@@ -116,3 +120,5 @@ Mote proposed a concrete evidence-based purchasing standard in response: **Five 
 - [[senate-hearing-ai-k12-education]]
 - [[ai-education-policy-and-legislation]]
 - [[perkins-v-and-clna]]
+- [[dol-ai-literacy-framework]]
+- [[ai-literacy]]

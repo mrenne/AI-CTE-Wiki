@@ -2,7 +2,7 @@
 
 **Summary**: Concept page for the idea that AI tools reliably raise short-term, measurable performance while weakening the processes that build durable learning. It traces how the idea, named by Khosravi, Gašević, Yan et al. (2026), connects classroom evidence, workplace productivity data, and labor-market signals, and what it implies for CTE.
 
-**Sources**: `raw/PDF/Building AI Companions.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/Agentivism.pdf`, `raw/PDF/One Click Away.pdf`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
+**Sources**: `raw/PDF/Building AI Companions.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/Agentivism.pdf`, `raw/PDF/One Click Away.pdf`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
 **Last updated**: 2026-11-23
 
@@ -57,6 +57,10 @@ The same short-term-gain, deferred-cost structure appears in the wiki's workplac
 - **[[illusion-of-understanding]]**: why learners do not notice. AI fluency feels like accuracy, so the signals that would prompt self-correction never fire.
 - **[[ai-sycophancy]]**: agreeable AI output further lowers the scrutiny that could catch the problem.
 
+## Federal Guidance and the Paradox (February 2026)
+
+The Department of Labor's AI Literacy Framework warns against "overreliance" and asks workers to treat AI as "a support tool, but not a final authority" (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). It does not address the learning-performance paradox directly: its guidance is about using AI well at work, not about protecting skill development while learning. For CTE, which does both, the gap matters (wiki inference).
+
 ## Implications for CTE
 
 These are the wiki's inferences from the sources above, not claims made by them.
@@ -87,3 +91,4 @@ These are the wiki's inferences from the sources above, not claims made by them.
 - [[ai-mastery-continuum]]
 - [[cte-and-ai]]
 - [[ai-literacy]]
+- [[dol-ai-literacy-framework]]

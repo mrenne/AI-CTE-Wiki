@@ -1,10 +1,10 @@
 # AI Literacy
 
-**Summary**: Concept page for "AI literacy," the most widely used and least consistently defined term in the wiki. It compares the definitions the sources use, sets out what they agree and disagree on, and notes that almost no evidence shows how to teach it or whether teaching it works.
+**Summary**: Concept page for "AI literacy," the most widely used and least consistently defined term in the wiki. It compares the seven definitions the sources use, including the Department of Labor's official framework, sets out what they agree and disagree on, and notes that almost no evidence shows how to teach it or whether teaching it works.
 
-**Sources**: `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/blog/How employment is changing at Anthropic.md`, `raw/blog/Preparing Students for AI & Data Careers.md`
+**Sources**: `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/video/The Job Market Is Going Away (Here’s What’s Replacing It).md`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/blog/Applied Co-Intelligence_ How Three CTE Programs Keep Humans at the Center of AI.md`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/blog/How employment is changing at Anthropic.md`, `raw/blog/Preparing Students for AI & Data Careers.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -18,7 +18,7 @@ At least 26 wiki pages use the term "AI literacy," and they do not mean the same
 
 A school that lets students write essays with ChatGPT is doing AI in education. It may be doing nothing about AI literacy.
 
-## Six definitions in the wiki
+## Seven definitions in the wiki
 
 | Source | What "AI literacy" means | Where it sits |
 |---|---|---|
@@ -27,19 +27,21 @@ A school that lets students write essays with ChatGPT is doing AI in education. 
 | Senate witnesses ([[senate-hearing-ai-k12-education]]) | Ethics (when to use AI), tool selection, critical evaluation of output, discernment | A set of durable habits; all three witnesses rejected teaching prompting tactics (source: Senate Hearing on Artificial Intelligence and K-12 Education.md) |
 | Employers ([[berwick-employers-ai-education-gap]]) | Prompt engineering is "very basic"; employers want more | A hiring baseline: an AI certificate is "a hygiene factor," not a differentiator (source: Employers step in to fill the AI education gap.md) |
 | Sinead Bovell ([[sinead-bovell-job-market]]) | Managing AI "like an intern": frame the problem, evaluate the work, give feedback, know its limits | A management skill (source: The Job Market Is Going Away (Here’s What’s Replacing It).md) |
+| U.S. Department of Labor ([[dol-ai-literacy-framework]], Feb 2026) | "A foundational set of competencies that enable individuals to use and evaluate AI technologies responsibly, with a primary focus on generative AI": five content areas (understand principles, explore uses, direct AI, evaluate outputs, use responsibly) | The baseline every worker needs; "AI proficiency," including managing and building AI systems, sits above it. The only government definition in the wiki (source: DOL AI Litreacy Framework.pdf) |
 | David Nurenberg ([[middle-path-ai-literacy-nurenberg]]) | Studying AI critically as an object, comparing its output with one's own, and auditing every use | A classroom discipline for offloading without "cognitive surrender" (source: Why the Middle Path of AI Literacy May Be the Future of English Class.md) |
 
 ## Where the sources agree
 
 1. **Critical evaluation of AI output is the core.** Every definition beyond simple awareness centers on judging whether AI output is right. Delaware Secretary Cindy Marten put it as students being able to "evaluate critically the information the tool is producing" (source: Senate Hearing on Artificial Intelligence and K-12 Education.md).
-2. **Prompting tactics are not the goal.** QuantHub's Joshua Jones told senators that prompt tactics change so fast that they are out of date "almost by the time you publish it" (source: Senate Hearing on Artificial Intelligence and K-12 Education.md). IBM's Justina Nixon-Saintil: "It is not enough to understand prompt engineering" (source: Employers step in to fill the AI education gap.md).
+2. **Prompting tactics are not the goal.** QuantHub's Joshua Jones told senators that prompt tactics change so fast that they are out of date "almost by the time you publish it" (source: Senate Hearing on Artificial Intelligence and K-12 Education.md). IBM's Justina Nixon-Saintil: "It is not enough to understand prompt engineering" (source: Employers step in to fill the AI education gap.md). The Department of Labor is the exception: see disagreement 4 below.
 3. **Knowing where AI fails matters as much as knowing how to use it.** CTE practitioners stress that AI struggles in context-rich, physical, variable work, which is where CTE graduates will be (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md; see [[cte-futures-aci-webinar]]).
 
 ## Where they disagree
 
 1. **Floor or goal?** For the ACI model and employers, literacy is the bottom rung, and the valuable skills (fluency, agency, mastery) come after it. For the Senate witnesses and Nurenberg, "AI literacy" already includes the judgment and discernment the ACI model places higher up. The same words name different targets, which matters when a policy or program says it "teaches AI literacy."
-2. **Stand-alone or embedded?** Tom Pigg argues that stand-alone AI courses teach prompting but cannot build the contextual judgment needed in a specific occupation (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md). QuantHub's Data Scholars program uses a middle route: a shared two-week AI foundations course, then occupation-specific tracks (source: Preparing Students for AI & Data Careers.md; see [[quanthub-data-scholars-2026-update]]).
-3. **Understanding AI or using it well?** Stanford's definition stresses how AI works; the employer and workplace definitions stress what a person does with it. The wiki has no source testing whether technical understanding improves use.
+2. **Stand-alone or embedded?** Tom Pigg argues that stand-alone AI courses teach prompting but cannot build the contextual judgment needed in a specific occupation (source: Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md). The Department of Labor accepts either a stand-alone module or embedded content but leans toward embedding in occupational context, naming CTE curricula and Registered Apprenticeships (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). QuantHub's Data Scholars program uses a middle route: a shared two-week AI foundations course, then occupation-specific tracks (source: Preparing Students for AI & Data Careers.md; see [[quanthub-data-scholars-2026-update]]).
+3. **Understanding AI or using it well?** Stanford's definition stresses how AI works; the employer and workplace definitions stress what a person does with it. The wiki has no source testing whether technical understanding improves use. The Department of Labor's framework includes both: "understand AI principles" is its first content area, the rest are about use (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]).
+4. **⚠ Is prompting a core skill?** The Department of Labor makes "prompting techniques" part of a foundational content area, "Direct AI effectively" (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). The Senate witnesses and IBM treated prompt tactics as too short-lived to be the goal. DOL's "design for agility" principle (modular, regularly updated content) partly answers the obsolescence concern, but the emphasis differs. Noted, not resolved.
 
 ## What the evidence shows
 
@@ -54,6 +56,7 @@ Meanwhile, the one skill every definition puts at the center is the one an exper
 
 - **Schools, unevenly.** Only half of US middle and high schools have any AI policy, and only 6% of teachers say their school's policy is clear. AP Computer Science does not include AI-specific content. There are no state-level standards for AI teacher training. By contrast, China and the UAE mandated AI education starting in the 2025–26 school year; in China the report describes the requirement beginning in Beijing, Guangdong, and Hangzhou (source: ai_index_report_2026_chapter_7_education.pdf).
 - **Employers, at scale but shallowly measured.** IBM had reached 22 million people toward a goal of 30 million by 2030 (source: Employers step in to fill the AI education gap.md); Microsoft Elevate credentialed 2 million teachers in a year (source: Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md; see [[spelhaug-microsoft-elevate]]). These counts say nothing about depth.
+- **Government, as guidance.** The Department of Labor issued its framework to state workforce agencies, community colleges, apprenticeship agencies, and state CTE directors as voluntary guidance, and TEGL 03-25 encourages using WIOA workforce funds for AI skills training (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]).
 - **The equity problem.** Columbia faculty describe K-12 AI literacy as a new prior advantage for incoming students: "To be born where you were is influencing your ability to get access to these spaces" (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md; see [[columbia-cs-ai-disruption]]). Employer-led programs concentrate near large employers ([[ai-in-k12-education]]).
 
 ## Why literacy may not be enough
@@ -95,3 +98,4 @@ These are the wiki's inferences, not claims made by the sources.
 - [[ai-unplugged-murgatroyd]]
 - [[ai-in-k12-education]]
 - [[cte-and-ai]]
+- [[dol-ai-literacy-framework]]

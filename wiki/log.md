@@ -1223,3 +1223,25 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 4. Citation format: standard "(source: …)" citations added where six pages cited a listed source only in a table column, a "see" pointer, or a nonstandard inline form (agentivism, transferable-skills, ai-agents-k12-meta-analysis, jevons-paradox, labor-market-polarization, learning-performance-paradox)
 
 **Total pages updated**: 10
+
+---
+
+## 2026-11-23 — Ingestion (1 source: DOL AI Literacy Framework)
+
+**Source added and ingested**: `raw/PDF/DOL AI Litreacy Framework.pdf` — U.S. Department of Labor, Employment and Training Administration, Training and Employment Notice 07-25, February 13, 2026 (Mack, Stockton), 15 pages. Copied into `raw/PDF/` from the user's Downloads folder at the user's request; filename kept as supplied. Definition, audience considerations, five foundational content areas, seven delivery principles, policy lineage (EO 14277, AI Action Plan, ED guidance, America's Talent Strategy, TEGL 03-25). Voluntary guidance; no evidence citations. Supersedes the unreadable `raw/misc/Dept of Labor AI Literacy Framework.md` (left untouched, still not ingested)
+
+**Pages created**:
+- `wiki/dol-ai-literacy-framework.md` — Source caveats, policy-lineage table, definition, content-area and delivery-principle tables, relationship table (⚠ prompting disagreement), CTE implications
+
+**Pages updated**:
+- `wiki/ai-literacy.md` — Seventh definition (DOL) in the comparison table; prompting exception noted under "agree"; new disagreement 4 (is prompting a core skill?, flagged not resolved); DOL on stand-alone vs. embedded and understanding vs. use; government as provider
+- `wiki/ai-mastery-continuum.md` — DOL literacy/proficiency levels mapped to the continuum (wiki inference)
+- `wiki/perkins-v-and-clna.md` — WIOA (TEGL 03-25) as a further federal lever
+- `wiki/ai-education-policy-and-legislation.md` — Federal executive actions 2025–2026
+- `wiki/cte-and-ai.md` — Executive order identified as EO 14277 (April 23, 2025)
+- `wiki/work-based-learning.md`, `wiki/transferable-skills.md`, `wiki/illusion-of-understanding.md`, `wiki/learning-performance-paradox.md`, `wiki/ai-privacy-and-institutional-adoption.md` — Short dated sections
+- `wiki/index.md` — Source and concept rows, ai-literacy row (seven definitions), Key Theme; `README.md` — counts and new paragraph
+
+**Tension flagged**: DOL makes prompting techniques a foundational content area; Senate witnesses and IBM treated prompt tactics as not the goal (noted on `dol-ai-literacy-framework` and `ai-literacy`, not resolved)
+
+**Total pages created**: 1 | **Total pages updated**: 10

@@ -2,9 +2,9 @@
 
 **Summary**: Concept page for Perkins V, the main federal CTE funding law, and its Comprehensive Local Needs Assessment (CLNA) requirement. The CTE-sector sources in the wiki treat the CLNA as an existing, already-funded vehicle for keeping programs aligned with AI-driven labor-market change; this page sets out what the sources say the law requires, how they propose to use it, and how thin the evidence that it works is.
 
-**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`
+**Sources**: `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/video/Preparing CTE Learners for an AI-Driven Workforce_ Introducing An Applied Co-Intelligence Model.md`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Creating-and-Experiencing-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -51,6 +51,8 @@ Perkins funds are already being used for AI readiness in Tennessee:
 
 At the June 2026 Senate hearing, witnesses named **Title II and Title IV** (ESSA funding streams) as the levers for educator AI training. Erin Mote called fully funding them "critical," and Cindy Marten said "funding streams like Title IV" matter (source: Senate Hearing on Artificial Intelligence and K-12 Education.md; see [[senate-hearing-ai-k12-education]]). Perkins itself was not named in the transcript. Together these are the existing federal channels the sources point to: Perkins for CTE program alignment, Titles II and IV for K-12 educator training ([[ai-education-policy-and-legislation]]).
 
+**WIOA.** The Department of Labor's TEGL 03-25 (August 26, 2025) encourages using Workforce Innovation and Opportunity Act funding to help youth and adults develop AI skills, and its February 2026 AI Literacy Framework, sent to state CTE directors among others, is meant to guide that training (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). WIOA is a fourth federal route, mainly for adult, out-of-school youth, and incumbent-worker training.
+
 ## Caveats
 
 1. **No outcome evidence.** None of the wiki's sources evaluates whether CLNAs actually improve labor-market alignment or student outcomes. The recommendation rests on what the CLNA is designed to do. [[career-pathways-evidence-gap]] makes the wider point that states are building career pathways without the data systems to know whether they work (source: Career pathways are growing but evidence isn’t.md).
@@ -86,3 +88,5 @@ These are the wiki's inferences, not claims made by the sources.
 - [[anthropic-labor-market-index]]
 - [[cte-and-ai]]
 - [[education-to-workforce-data-systems]]
+- [[dol-ai-literacy-framework]]
+- [[ai-literacy]]

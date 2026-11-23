@@ -2,9 +2,9 @@
 
 **Summary**: A source summary and concept page for a 2026 experimental study finding that middle-school students cannot discriminate good from bad AI prompts, cannot evaluate AI answer quality, and rarely engage in any follow-up behavior — suggesting that AI access creates a systematic illusion of understanding that students are unable to detect or correct.
 
-**Sources**: `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`
+**Sources**: `raw/PDF/The Illusion of Understanding.pdf`, `raw/blog/Why the Middle Path of AI Literacy May Be the Future of English Class.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -150,6 +150,10 @@ The illusion of understanding has specific implications for CTE practice:
 
 4. **Metacognition as core CTE competency**: The finding that metacognitive regulation is the key protective factor suggests that teaching "how to learn" and "how to evaluate your own understanding" should be positioned as a primary CTE AI competency — more important than technical AI skill.
 
+## The Skill Federal Guidance Assumes (February 2026)
+
+The Department of Labor's AI Literacy Framework makes "evaluate AI outputs" a foundational content area: verifying accuracy, spotting gaps or logical errors, and applying human judgment (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). This study found middle-schoolers judged AI answer quality at chance (source: The Illusion of Understanding.pdf). The framework names the skill but does not say how to build it in learners who cannot yet tell good answers from bad; its suggestion of side-by-side comparison with human work is one candidate method.
+
 ---
 
 ## Related pages
@@ -168,3 +172,4 @@ The illusion of understanding has specific implications for CTE practice:
 - [[cems-augmented-leadership]]
 - [[learning-performance-paradox]]
 - [[ai-literacy]]
+- [[dol-ai-literacy-framework]]

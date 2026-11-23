@@ -2,9 +2,9 @@
 
 **Summary**: Concept page for work-based learning (WBL): internships, apprenticeships, co-ops, and employer-embedded training. Across the wiki's labor-market evidence it has become the most frequently proposed answer to AI eroding the entry-level "training ground." This page gathers what the wiki's sources say about why WBL matters more in the AI era, the models in the evidence base, the design problem AI creates *inside* WBL, and how thin the evidence on WBL's effectiveness still is.
 
-**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/Preparing Students for AI & Data Careers.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/How employment is changing at Anthropic.md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
+**Sources**: `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/PDF/CEMS AI Report_ Augmented leadership_2026.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/misc/Career pathways are growing but evidence isn’t.md`, `raw/blog/Preparing Students for AI & Data Careers.md`, `raw/misc/Senate Hearing on Artificial Intelligence and K-12 Education.md`, `raw/misc/Mark Zuckerberg Says America Needs 'Hundreds Of Thousands' Of Skilled Tradespeople As Meta Launches Workforce Academy To Provide 'Free Training'.md`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/Responsive_By_Design_August_26_FINAL.pdf`, `raw/PDF/Fostering-AI-Ready-Building-and-Moving-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Cultivating-Resources-CTE-Pipelines.pdf`, `raw/PDF/Fostering-AI-Ready-Caring-for-Communities-CTE-Pipelines.pdf`, `raw/video/New Book Podcast_ AI Unplugged_ The Hype and Hope in Education Futures.md`, `raw/blog/How employment is changing at Anthropic.md`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`, `raw/PDF/DOL AI Litreacy Framework.pdf`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -79,6 +79,10 @@ The case for WBL in the AI era therefore rests on a strong *mechanism*: entry-le
 
 A Dayforce survey of nearly 7,000 respondents in six countries ([[experience-debt-dayforce]]) names the training-ground problem "experience debt": "the future capability cost created when people lose opportunities to learn by doing." 65% say their people are losing the ability to do tasks AI now does for them, and only 27% have enough work time to develop skills (source: Is your organisation at risk of 'experience debt' from AI_.md). If workplaces are losing learning-by-doing, structured WBL with protected development time becomes more important. The figures are self-reported perceptions from an HR software vendor.
 
+## Federal Guidance on AI Literacy in Apprenticeships (February 2026)
+
+The Department of Labor's AI Literacy Framework recommends delivering AI literacy inside existing Registered Apprenticeships, CTE curricula, and short-term credentialing programs, and asks for input on industry-specific guidance for apprenticeships and incumbent worker training (source: DOL AI Litreacy Framework.pdf; see [[dol-ai-literacy-framework]]). It treats hands-on use in real job tasks as the most effective delivery method, which fits the work-based model.
+
 ---
 
 ## Related pages
@@ -108,3 +112,5 @@ A Dayforce survey of nearly 7,000 respondents in six countries ([[experience-deb
 - [[experience-debt-dayforce]]
 - [[learning-performance-paradox]]
 - [[education-to-workforce-data-systems]]
+- [[dol-ai-literacy-framework]]
+- [[ai-literacy]]
