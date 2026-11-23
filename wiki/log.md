@@ -1212,3 +1212,14 @@ Added inline `(source: filename)` citations to the 13 pages that relied only on 
 - `README.md` — counts (64 ingested, 63 distinct; one unreadable file not ingested) and paragraph extended
 
 **Total pages created**: 0 | **Total pages updated**: 9
+
+---
+
+## 2026-11-23 — Lint fixes (items 1-4)
+
+1. **"Inverted" claims corrected.** `wiki/broken-ladder.md` and `wiki/cte-and-ai.md` described the Forbes 5.6% vs. 4.2% comparison as a reversal/inversion of the degree's job-security advantage, contradicting the index Key Theme. Both now distinguish the all-ages comparison (recent graduates above all workers since Jan 2021) from the same-age comparison (still 1.75 points below young workers, the smallest gap since 1990), and note the wage premium (~1.5x) has not inverted. Cited to `raw/misc/College-labor-data.xlsx`
+2. `wiki/ai-in-k12-education.md` — NY Fed 2024 CS ranking given the same dated update as the Columbia page (4th of 73 at 7.0% in the current file)
+3. `wiki/no-country-young-grads-burning-glass.md` — "over half of recent graduates are underemployed" qualified as Burning Glass's Class of 2023 measure (52%), with the NY Fed's 42.5%
+4. Citation format: standard "(source: …)" citations added where six pages cited a listed source only in a table column, a "see" pointer, or a nonstandard inline form (agentivism, transferable-skills, ai-agents-k12-meta-analysis, jevons-paradox, labor-market-polarization, learning-performance-paradox)
+
+**Total pages updated**: 10

@@ -2,9 +2,9 @@
 
 **Summary**: A May 2026 working paper (Lambert & Schindler, Warwick/LSE and Ellison Institute Oxford) arguing that the widely cited decline in early-career hiring has been misattributed to generative AI — and that work-from-home adoption is the more robust predictor once both shocks are estimated jointly.
 
-**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`
+**Sources**: `raw/PDF/The Broken Ladder.pdf`, `raw/PDF/AIEI_RN01_Jun26.pdf`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/CanariesintheCoalMine_Nov25.pdf`, `raw/PDF/Canaries_August2026.pdf`, `raw/misc/The College Degrees Considered Safest From AI Disruption.md`, `raw/misc/Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/PDF/No+Country+for+Young+Grads+V_Final7.29.25+(1).pdf`, `raw/PDF/HowDoesAIChangeLaborDemand.pdf`, `raw/misc/College-labor-data.xlsx`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -148,7 +148,7 @@ The Broken Ladder's contribution to interpreting this data: the junior-hiring de
 
 The Bay Area class of 2026 ([[nyt-teens-trade-classes]]) represents the same phenomenon in a different population: high school seniors explicitly avoiding tech careers and pivoting to trades as an AI hedge. The Gallup/Lumina data shows this pattern is not just visible in the AI capital — it is widespread among enrolled college students nationwide.
 
-**A precise, federally sourced statistic for the empirical fact being explained**: [[safest-college-degrees-forbes]] (August 2026) cites the Federal Reserve Bank of New York's finding that recent-graduate unemployment reached **5.6% in Q2 2026**, surpassing the overall workforce rate of 4.2% — a reversal of the historical norm in which a college degree conferred more job security than the general labor market. This is a more specific, recently dated figure than the "8-11 percentage-point decline in junior-hire share" language this page already documents, and it corroborates the same underlying phenomenon this page is centrally about — regardless of whether WFH or AI proves to be the primary driver. (source: The College Degrees Considered Safest From AI Disruption.md)
+**A precise, federally sourced statistic for the empirical fact being explained**: [[safest-college-degrees-forbes]] (August 2026) cites the Federal Reserve Bank of New York's finding that recent-graduate unemployment reached **5.6% in Q2 2026**, surpassing the overall workforce rate of 4.2%. Against workers of all ages, recent graduates have had higher unemployment every month since January 2021, reversing the 1990s–2010s norm; against young workers generally, the same-age comparison, they still have lower unemployment, but the 1.75-point advantage in 2026 is the smallest since 1990 (source: College-labor-data.xlsx; see [[ny-fed-recent-grads-labor-market]]). The degree's job-security advantage has narrowed to a record low rather than inverted. This is a more specific, recently dated figure than the "8-11 percentage-point decline in junior-hire share" language this page already documents, and it corroborates the same underlying phenomenon this page is centrally about — regardless of whether WFH or AI proves to be the primary driver. (source: The College Degrees Considered Safest From AI Disruption.md)
 
 **Attitudinal confirmation that the underlying anxiety is real, rising, and age-concentrated**: [[pew-young-adults-ai-anxiety]] (August 2026) finds that adults under 30 are the only age group whose AI-related concern is still climbing — from 31% (2021) to 55% (2026) saying they're more concerned than excited about AI — while other age groups' concern has plateaued since roughly 2023. Belief that AI will reduce the number of jobs has also risen sharply among young adults specifically (61% to 73% between 2024 and 2026). This is stated-attitude evidence, distinct from the revealed-behavior evidence (major-switching, trade enrollment) above, but pointing in the same direction from a different methodology — independent corroboration that the junior-hiring-decline environment this page investigates is something young people themselves perceive and are anxious about, whatever its ultimate cause. (source: Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs.md)
 
@@ -210,3 +210,4 @@ This makes Census LEHD data the **second independent dataset**, after ADP, in wh
 - [[no-country-young-grads-burning-glass]]
 - [[entry-level-labor-market]]
 - [[ai-labor-demand-41-countries]]
+- [[ny-fed-recent-grads-labor-market]]

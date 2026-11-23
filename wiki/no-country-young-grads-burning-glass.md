@@ -80,7 +80,7 @@ The two claims differ in scope — Burning Glass describes all young graduates o
 
 ## Implications for CTE
 
-1. **The college-for-all default is losing its labor-market guarantee.** When over half of recent graduates are underemployed and the degree premium in unemployment is at a 30-year low, CTE pathways — including occupational associate degrees and credentials leading directly to skilled work — deserve reconsideration as primary routes, not fallbacks.
+1. **The college-for-all default is losing its labor-market guarantee.** When about half of recent graduates are underemployed (52% on this report's Class of 2023 measure; the NY Fed puts all 22- to 27-year-old graduates at 42.5%) and the degree premium in unemployment is at a 30-year low, CTE pathways — including occupational associate degrees and credentials leading directly to skilled work — deserve reconsideration as primary routes, not fallbacks.
 2. **Mastery Roles may be a CTE opportunity.** If AI lowers the expertise barrier to baseline competency in some roles, CTE programs that pair AI fluency with occupational judgment ([[applied-co-intelligence-model]]) are well placed to prepare students for those entry points.
 3. **If firms stop training juniors, someone else has to.** The Flipped Pyramid shifts the burden of early skill development away from employers. Work-based learning, apprenticeships, and employer-embedded CTE ([[meta-workforce-academy]], [[berwick-employers-ai-education-gap]]) become more important as a replacement for the disappearing junior rung.
 

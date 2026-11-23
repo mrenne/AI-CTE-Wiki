@@ -4,7 +4,7 @@
 
 **Sources**: `raw/PDF/Building AI Companions.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/PDF/Your Brain on ChatGPT.pdf`, `raw/PDF/Agentivism.pdf`, `raw/PDF/One Click Away.pdf`, `raw/blog/AI is making you faster AND slower, better AND worse at your job.md`, `raw/PDF/Gradiating into Disruption.pdf`, `raw/blog/Is your organisation at risk of 'experience debt' from AI_.md`
 
-**Last updated**: 2026-10-28
+**Last updated**: 2026-11-23
 
 ---
 
@@ -61,7 +61,7 @@ The same short-term-gain, deferred-cost structure appears in the wiki's workplac
 
 These are the wiki's inferences from the sources above, not claims made by them.
 
-1. **Assess without the tool.** The paradox is only visible when assisted and unassisted performance are measured separately. CTE's performance assessments, practical exams, and industry credentials already do this, and the Census paper's signal-erosion argument suggests employers will value such hard-to-fake evidence more (source: Gradiating into Disruption.pdf).
+1. **Assess without the tool.** The paradox is only visible when assisted and unassisted performance are measured separately; Kosmyna et al.'s recall failures, for example, appeared only when writers were asked to quote their own essays (source: Your Brain on ChatGPT.pdf). CTE's performance assessments, practical exams, and industry credentials already do this, and the Census paper's signal-erosion argument suggests employers will value such hard-to-fake evidence more (source: Gradiating into Disruption.pdf).
 2. **Match the tool to the purpose.** Using AI in the workflow it will be used in on the job is training for work; learning a skill for the first time calls for learning-oriented tools or no AI at all. The [[applied-co-intelligence-model]] continuum and the [[ai-mastery-continuum]] both stage AI use by competence level.
 3. **Protect the struggle in work-based learning.** Apprenticeships and internships that hand juniors AI-supervision duties before they have done the underlying work risk reproducing the paradox on the job ([[work-based-learning]]).
 4. **Do not rely on prompt-level fixes.** Telling a general-purpose chatbot to act as a tutor shows near-null effects on learning (source: Building AI Companions.pdf); program-level design choices matter more.

@@ -2,9 +2,9 @@
 
 **Summary**: An overview of how generative AI is — and isn't — reshaping K-12 schools, with a focus on tutoring, academic integrity, teacher roles, and the early evidence base.
 
-**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/One Click Away.pdf`
+**Sources**: `raw/blog/The education of Sal Khan and the limits of his chatbot.md`, `raw/PDF/Applied-Co-Intelligence–Preparing-Career-and-Technical-Education-Learners-for-an-AI-Driven-Workforce-FINAL.pdf`, `raw/PDF/The Evidence Base on AI in K-12 Report.pdf`, `raw/blog/‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md`, `raw/PDF/The Illusion of Understanding.pdf`, `raw/PDF/ai_index_report_2026_chapter_7_education.pdf`, `raw/misc/Employers step in to fill the AI education gap.md`, `raw/blog/Microsoft's AI Education Lead Says Job Fear Is Real. Here's The Fix.md`, `raw/PDF/One Click Away.pdf`, `raw/misc/College-labor-data.xlsx`
 
-**Last updated**: 2026-11-19
+**Last updated**: 2026-11-23
 
 ---
 
@@ -66,7 +66,7 @@ This is significant for addressing [[ai-privacy-and-institutional-adoption]] bar
 
 The [[columbia-cs-ai-disruption]] investigation (Columbia Spectator, May 2026) provides on-the-ground evidence of what AI disruption looks like inside a competitive CS program — and signals dynamics likely to cascade into K-12:
 
-**Enrollment**: Total CS majors at Columbia fell 4.5% in 2024-25 even as some schools grew. Faculty report students still taking CS classes but majoring in other fields, treating technical skills as a cross-disciplinary baseline rather than a major. CS had the 5th highest unemployment rate among majors (7%) per the NY Fed in 2024. (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md)
+**Enrollment**: Total CS majors at Columbia fell 4.5% in 2024-25 even as some schools grew. Faculty report students still taking CS classes but majoring in other fields, treating technical skills as a cross-disciplinary baseline rather than a major. CS had the 5th highest unemployment rate among majors (7%) per the NY Fed in 2024. (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md) The NY Fed's current data (updated February 2026) rank CS 4th of 73 majors at 7.0%, with among the lowest underemployment and highest starting pay of any major (source: College-labor-data.xlsx; see [[ny-fed-recent-grads-labor-market]]).
 
 **Assessment restructuring**: Homework once accounted for 60-70% of CS grades; that balance has flipped, with exams and quizzes now the majority. Faculty are exploring computerized testing facilities to authenticate work. Students push back: exam-heavy grading doesn't reflect how CS is actually practiced. (source: ‘The reality, for better or worse’_ Columbia computer science students and faculty grapple with AI’s disruption of the field.md)
 
@@ -146,3 +146,4 @@ The [[applied-co-intelligence-report]] argues that AI's potential for positive i
 - [[one-click-away-khanmigo-rct]]
 - [[learning-performance-paradox]]
 - [[ai-literacy]]
+- [[ny-fed-recent-grads-labor-market]]
